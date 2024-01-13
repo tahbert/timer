@@ -57,15 +57,19 @@ textarea, input, button {
   box-sizing: border-box;
   scrollbar-width: thin;
 }
-* *::before, * *::after {
+
+*::before, *::after {
   box-sizing: border-box;
 }
+
 *::-webkit-scrollbar {
   width: 2px;
 }
-* *::-webkit-scrollbar-track {
+
+*::-webkit-scrollbar-track {
   background: transparent;
 }
-* *::-webkit-scrollbar-thumb {
-  background-color: var(--gray);
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
 }

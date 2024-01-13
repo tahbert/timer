@@ -1,4 +1,4 @@
-import homeView from "./views/home-view.vue"
-import aboutView from "./views/about-view.vue"
+import engHomeView from "./views/eng-home-view.vue"
+import engLayout from "./components/eng-layout.vue"
 
-export { homeView, aboutView }
+export { engHomeView, engLayout }

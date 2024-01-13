@@ -1,18 +1,32 @@
 import { createRouter, createWebHistory } from "vue-router"
-import { homeView, aboutView } from "@/lib"
+
+import { engHomeView, engLayout } from "@/lib"
+import { appRouteDefinitions } from "@/lib-utils"
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
         {
-            path: "/",
-            name: "home",
-            component: homeView,
+            path: "",
+            redirect: { name: appRouteDefinitions.home.name },
         },
         {
-            path: "/about",
-            name: "about",
-            component: aboutView,
+            path: "/admin",
+            component: engLayout,
+            children: [
+                {
+                    path: appRouteDefinitions.home.path,
+                    name: appRouteDefinitions.home.name,
+                    components: {
+                        default: engHomeView,
+                    },
+                    meta: {
+                        title: appRouteDefinitions.home.title,
+                        guards: [],
+                        redirectParams: appRouteDefinitions.home.redirectParams,
+                    },
+                },
+            ],
         },
     ],
 })

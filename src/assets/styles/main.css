@@ -57,17 +57,21 @@ textarea, input, button {
   box-sizing: border-box;
   scrollbar-width: thin;
 }
-* *::before, * *::after {
+
+*::before, *::after {
   box-sizing: border-box;
 }
+
 *::-webkit-scrollbar {
   width: 2px;
 }
-* *::-webkit-scrollbar-track {
+
+*::-webkit-scrollbar-track {
   background: transparent;
 }
-* *::-webkit-scrollbar-thumb {
-  background-color: var(--gray);
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
 }
 
 html {
@@ -86,7 +90,7 @@ html {
   --blue-background: #2196F3;
   --disabled-text: #A5ACB4;
   --disabled-background: #E1E3E5;
-  --border-color: rgba(0, 0, 0, 0.24);
+  --border-color: rgba(0, 0, 0, 0.12);
   --border-radius: 4px;
   --transition: all 0.3s ease-in-out;
   --q-primary: var(--red-text) !important;

@@ -4,12 +4,6 @@
             :nodes="data.treeData"
             node-key="label"
         />
-        <q-input
-            label="Name"
-            v-model="data.input"
-            dense
-            outlined
-        ></q-input>
     </div>
 </template>
 
