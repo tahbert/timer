@@ -1,0 +1,101 @@
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+button:focus,
+a:focus, a:active,
+button::-moz-focus-inner,
+input[type=reset]::-moz-focus-inner,
+input[type=button]::-moz-focus-inner,
+input[type=submit]::-moz-focus-inner,
+select::-moz-focus-inner,
+input[type=file] > input[type=button]::-moz-focus-inner {
+  outline: none !important;
+}
+
+select:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+}
+
+textarea, input, button {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-width: thin;
+}
+* *::before, * *::after {
+  box-sizing: border-box;
+}
+*::-webkit-scrollbar {
+  width: 2px;
+}
+* *::-webkit-scrollbar-track {
+  background: transparent;
+}
+* *::-webkit-scrollbar-thumb {
+  background-color: var(--gray);
+}
+
+html {
+  --text-color: #272727;
+  --background-color: #FAFAFA;
+  --black: #272727;
+  --white: #ffffff;
+  --gray: #6D7885;
+  --red-text: #cc0000;
+  --red-background: #CC9999;
+  --green-text: #5CCF72;
+  --green-background: #5CCF72;
+  --yellow-text: #FF6F4D;
+  --yellow-background: #FDC51B;
+  --blue-text: #2196F3;
+  --blue-background: #2196F3;
+  --disabled-text: #A5ACB4;
+  --disabled-background: #E1E3E5;
+  --border-color: rgba(0, 0, 0, 0.24);
+  --border-radius: 4px;
+  --transition: all 0.3s ease-in-out;
+  --q-primary: var(--red-text) !important;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: var(--text-color);
+  background: var(--background-color);
+}
