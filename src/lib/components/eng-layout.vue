@@ -3,44 +3,26 @@
         view="hHh lpR fFf"
         class="eng-layout"
     >
-        <div
-            class="resize"
-            v-touch-pan.prevent.mouse="moveFab"
-            :style="{ left: `${data.fabPos[0]}px` }"
-        >
-            <q-btn
-                icon="drag_indicator"
-                dense
-                flat
-                :disable="data.draggingFab"
-                v-touch-pan.prevent.mouse="moveFab"
-            />
-        </div>
-
         <q-header
             class="eng-layout__header bg-grey-2 text-dark"
             bordered
         >
-            <q-toolbar>
-                <q-btn
-                    dense
-                    flat
-                    round
-                    icon="menu"
-                    @click="toggleLeftDrawer"
-                />
-                <q-toolbar-title>
-                    <q-avatar rounded>
-                        <img src="/favicon.svg" />
-                    </q-avatar>
-                    Engmindmap
-                </q-toolbar-title>
+            <q-toolbar class="row items-center q-gutter-x-xs">
+                <q-avatar
+                    rounded
+                    size="sm"
+                >
+                    <img src="/favicon.svg" />
+                </q-avatar>
+                <span class="text-h6">Engmindmap</span>
+
                 <q-input
                     class="eng-layout__search"
                     placeholder="Search words, phrases, collocations, sentences"
                     v-model="data.searchText"
                     dense
                     outlined
+                    color="dark"
                 >
                     <template v-slot:prepend>
                         <q-icon name="search" />
@@ -52,10 +34,10 @@
         <q-drawer
             class="eng-layout__left-drawer"
             show-if-above
-            v-model="data.leftDrawer"
+            v-model="data.isDrawerOpen"
             side="left"
             bordered
-            :width="data.leftDrawerWidth"
+            :width="data.fabPos[0]"
         >
             <li
                 v-for="index in 100"
@@ -68,6 +50,21 @@
         <q-page-container>
             <router-view />
         </q-page-container>
+
+        <div
+            class="resize"
+            v-touch-pan.prevent.mouse="dragDrawer"
+            :style="{ left: `${data.fabPos[0]}px` }"
+        >
+            <q-btn
+                icon="drag_indicator"
+                dense
+                flat
+                :disable="data.isDrawerDraging"
+                v-touch-pan.prevent.mouse="dragDrawer"
+                @click="toggleDrawer"
+            />
+        </div>
     </q-layout>
 </template>
 
@@ -75,21 +72,31 @@
 import { reactive } from "vue"
 
 const data = reactive({
-    leftDrawer: false,
-    leftDrawerWidth: 300,
+    isDrawerOpen: false,
+    isDrawerDraging: false,
     searchText: "",
-    draggingFab: false,
     fabPos: [300, 0],
 })
 
-const toggleLeftDrawer = () => {
-    data.leftDrawer = !data.leftDrawer
+const toggleDrawer = () => {
+    data.isDrawerOpen = !data.isDrawerOpen
+
+    if (!data.isDrawerOpen) {
+        data.fabPos[0] = 0
+    } else {
+        data.fabPos[0] = 300
+    }
 }
 
-const moveFab = (ev: any) => {
-    data.draggingFab = ev.isFirst !== true && ev.isFinal !== true
+const dragDrawer = (ev: any) => {
+    data.isDrawerOpen = true
+    data.isDrawerDraging = ev.isFirst !== true && ev.isFinal !== true
     data.fabPos = [data.fabPos[0] + ev.delta.x, 0]
-    data.leftDrawerWidth = data.fabPos[0]
+
+    // prevent moving beyond the screen edges
+    if (data.fabPos[0] < 0) {
+        data.fabPos[0] = 0
+    }
 }
 </script>
 
@@ -109,5 +116,5 @@ const moveFab = (ev: any) => {
     height: 100vh
     display: flex
     align-items: center
-    // cursor: e-resize
+    margin-left: -10px
 </style>
