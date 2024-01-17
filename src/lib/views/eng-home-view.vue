@@ -8,7 +8,9 @@
 </template>
 
 <script setup lang="ts">
-import { reactive } from "vue"
+import { reactive, onMounted } from "vue"
+import { collection, getDocs } from "firebase/firestore"
+import db from "@/firebase"
 
 const data = reactive({
     input: "",
@@ -44,6 +46,19 @@ const data = reactive({
         },
     ],
 })
+
+// load
+// -----------------------------------------------------------------------------
+// const getTopics = async () => {
+//     const querySnapshot = await getDocs(collection(db, "topics"))
+//     querySnapshot.forEach((doc) => {
+//         console.log(doc.id, " => ", doc.data())
+//     })
+// }
+
+// onMounted(() => {
+//     getTopics()
+// })
 </script>
 
 <style lang="sass"></style>

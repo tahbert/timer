@@ -7,3 +7,6 @@ export { RouteDefinitionModel } from "./src/routes/route-definition-model"
 // tree
 export { TreeTableModel } from "./src/tree/tree-table-model"
 export { TreeDataBuilderModel } from "./src/tree/tree-data-builder-model"
+
+// topic
+export { EngTopicModel } from "./src/topic/eng-topic-model"

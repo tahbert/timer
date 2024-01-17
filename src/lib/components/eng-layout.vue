@@ -32,19 +32,24 @@
         </q-header>
 
         <q-drawer
-            class="eng-layout__left-drawer"
+            class="eng-layout__drawer"
             show-if-above
             v-model="data.isDrawerOpen"
             side="left"
             bordered
-            :width="data.fabPos[0]"
+            :width="data.dragIndicator[0]"
         >
-            <li
-                v-for="index in 100"
-                :key="index"
-            >
-                Item {{ index }}
-            </li>
+            <q-tree
+                :nodes="data.topics"
+                node-key="id"
+                label-key="name"
+                accordion
+                icon="chevron_right"
+                v-model:selected="data.selectedTopic"
+                :duration="100"
+                color="primary"
+                @update:selected="onTreeSelect"
+            />
         </q-drawer>
 
         <q-page-container>
@@ -52,9 +57,9 @@
         </q-page-container>
 
         <div
-            class="resize"
+            class="eng-layout__drag-indicator"
             v-touch-pan.prevent.mouse="dragDrawer"
-            :style="{ left: `${data.fabPos[0]}px` }"
+            :style="{ left: `${data.dragIndicator[0]}px` }"
         >
             <q-btn
                 icon="drag_indicator"
@@ -69,38 +74,112 @@
 </template>
 
 <script setup lang="ts">
-import { reactive } from "vue"
+import { reactive, onMounted } from "vue"
+import { v4 as uuidv4 } from "uuid"
+
+import { EngTopicModel } from "@/lib-utils"
+import topics from "@/assets/json/topics.json"
 
 const data = reactive({
     isDrawerOpen: false,
     isDrawerDraging: false,
+    dragIndicator: [500, 0],
+
     searchText: "",
-    fabPos: [300, 0],
+
+    topics: [] as Array<EngTopicModel>,
+    selectedTopic: "",
 })
 
+// drawer
+// -----------------------------------------------------------------------------
 const toggleDrawer = () => {
     data.isDrawerOpen = !data.isDrawerOpen
 
     if (!data.isDrawerOpen) {
-        data.fabPos[0] = 0
+        data.dragIndicator[0] = 0
     } else {
-        data.fabPos[0] = 300
+        data.dragIndicator[0] = 500
     }
 }
 
 const dragDrawer = (ev: any) => {
     data.isDrawerOpen = true
     data.isDrawerDraging = ev.isFirst !== true && ev.isFinal !== true
-    data.fabPos = [data.fabPos[0] + ev.delta.x, 0]
+    data.dragIndicator = [data.dragIndicator[0] + ev.delta.x, 0]
 
     // prevent moving beyond the screen edges
-    if (data.fabPos[0] < 0) {
-        data.fabPos[0] = 0
+    if (data.dragIndicator[0] < 0) {
+        data.dragIndicator[0] = 0
     }
 }
+
+// tree
+// -----------------------------------------------------------------------------
+const onTreeSelect = (value: string) => {
+    console.log(value)
+}
+
+// load
+// -----------------------------------------------------------------------------
+const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
+    return items.map((item) => {
+        const newItem = {
+            ...item,
+            id: uuidv4(),
+        }
+
+        if (newItem.children && newItem.children.length > 0) {
+            newItem.children = generateIds(newItem.children)
+        }
+
+        return EngTopicModel.fromJson(newItem)
+    })
+}
+
+onMounted(() => {
+    data.topics = generateIds(topics)
+})
 </script>
 
 <style lang="sass">
+.eng-layout
+    .q-drawer
+        background: transparent !important
+
+.eng-layout__drawer
+    .q-icon.q-tree__arrow
+        height: 1.2em
+        width: 1.2em
+        font-size: 20px
+        background: rgba(0, 0, 0, 0.03)
+        border-radius: 4px
+
+        &:hover
+            background: rgba(0, 0, 0, 0.1)
+
+    .q-tree__node-header
+        margin-top: 0 !important
+
+    .q-tree__node-header.q-tree__node--selected
+        background: rgba(0, 0, 0, 0.04)
+
+    .q-tree__node-header:before
+        width: 39px
+        left: -43px
+
+    .q-tree__node
+        padding-bottom: 0px
+
+    .q-tree__node.q-tree__node--child
+        padding: 0 0 0 30px
+
+    .q-tree__node-header-content.text-primary
+        font-weight: 500
+
+
+
+
 .eng-layout__search
     position: absolute
     left: 50%
@@ -110,7 +189,7 @@ const dragDrawer = (ev: any) => {
     .q-icon
         font-size: 20px
 
-.resize
+.eng-layout__drag-indicator
     position: fixed
     top: 0
     height: 100vh
