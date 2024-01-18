@@ -25,7 +25,10 @@
                     color="dark"
                 >
                     <template v-slot:prepend>
-                        <q-icon name="search" />
+                        <q-icon
+                            name="fal fa-search"
+                            size="xs"
+                        />
                     </template>
                 </q-input>
             </q-toolbar>
@@ -36,7 +39,6 @@
             show-if-above
             v-model="data.isDrawerOpen"
             side="left"
-            bordered
             :width="data.dragIndicator[0]"
         >
             <q-tree
@@ -62,14 +64,16 @@
             class="eng-layout__drag-indicator"
             v-touch-pan.prevent.mouse="dragDrawer"
             :style="{ left: `${data.dragIndicator[0]}px` }"
+            @click="toggleDrawer"
         >
             <q-btn
-                icon="drag_indicator"
+                icon="fal fa-grip-lines-vertical"
                 dense
                 flat
+                size="md"
+                padding="xs"
                 :disable="data.isDrawerDraging"
                 v-touch-pan.prevent.mouse="dragDrawer"
-                @click="toggleDrawer"
             />
         </div>
     </q-layout>
@@ -166,31 +170,17 @@ onMounted(() => {
         background: transparent !important
 
 .eng-layout__drawer
-    .q-icon.q-tree__arrow
-        height: 1.2em
-        width: 1.2em
-        font-size: 20px
-        background: rgba(0, 0, 0, 0.03)
-        border-radius: 4px
-
-        &:hover
-            background: rgba(0, 0, 0, 0.1)
-
     .q-tree__node-header
         margin-top: 0 !important
 
     .q-tree__node-header.q-tree__node--selected
-        background: rgba(0, 0, 0, 0.04)
-
-    .q-tree__node-header:before
-        width: 39px
-        left: -43px
+        background: rgba(0, 0, 0, 0.048)
 
     .q-tree__node
         padding-bottom: 0px
 
     .q-tree__node.q-tree__node--child
-        padding: 0 0 0 30px
+        padding: 0 0 0 22px
 
     .q-tree__node-header-content.text-primary
         font-weight: 500
@@ -199,19 +189,28 @@ onMounted(() => {
     position: absolute
     left: 50%
     transform: translateX(-50%)
-    width: 30%
+    width: 50%
 
     .q-field__inner
-        background: rgba(0, 0, 0, 0.024)
+        background: rgba(0, 0, 0, 0.05)
 
     .q-icon
         font-size: 20px
 
 .eng-layout__drag-indicator
     position: fixed
-    top: 0
-    height: 100vh
+    top: 51px
+    height: 100%
+    width: 4px
     display: flex
     align-items: center
-    margin-left: -10px
+    margin-left: -2px
+    background: $grey-3
+    z-index: 9999
+
+    .q-btn
+        cursor: grab
+
+    &:hover
+        cursor: grab
 </style>
