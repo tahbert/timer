@@ -1,5 +1,5 @@
 <template>
-    <div class="q-pa-lg q-gutter-sm">
+    <div class="eng-home-view q-pa-lg q-gutter-sm">
         <q-tree
             :nodes="data.treeData"
             node-key="label"
@@ -18,14 +18,16 @@
             </template>
 
             <template v-slot:header-group="item">
-                <div class="row items-center text-subtitle1">
-                    <div class="text-weight-bold text-primary">{{ item.node.label }}</div>
+                <div class="text-weight-bold text-subtitle1 text-primary">
+                    {{ item.node.label }}
                 </div>
             </template>
 
             <template v-slot:header-branch="item">
-                <div class="row items-center text-subtitle1">
-                    <div class="text-weight-bold text-primary">{{ item.node.label }}</div>
+                <div class="row items-center">
+                    <div class="text-weight-bold text-subtitle1 text-primary">
+                        {{ item.node.label }}
+                    </div>
                     <q-chip
                         :label="item.node.frequency"
                         color="green-5"
@@ -56,12 +58,17 @@
                 >
                     {{ item.node.definition }}
                 </div>
-                <div
-                    v-for="i in item.node.example"
+                <ul
+                    class="eng-home-view__examples"
                     v-if="item.node.example.length > 0"
                 >
-                    <div class="text-dark text-italic">- {{ i }}</div>
-                </div>
+                    <li
+                        class="text-dark text-italic"
+                        v-for="i in item.node.example"
+                    >
+                        {{ i }}
+                    </li>
+                </ul>
             </template>
         </q-tree>
     </div>
@@ -140,4 +147,20 @@ const data = reactive({
 const onPronunciation = () => {}
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.eng-home-view__examples
+    li
+        position: relative
+        padding-left: 12px
+
+    li::before
+        content: ""
+        position: absolute
+        left: 0px
+        top: 50%
+        transform: translateY(-50%)
+        width: 4px
+        height: 4px
+        border-radius: 50%
+        background: $grey-8
+</style>
