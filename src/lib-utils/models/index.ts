@@ -10,3 +10,6 @@ export { TreeDataBuilderModel } from "./src/tree/tree-data-builder-model"
 
 // topic
 export { EngTopicModel } from "./src/topic/eng-topic-model"
+
+// content
+export { EngContentModel } from "./src/content/eng-content-model"
