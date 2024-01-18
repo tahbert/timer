@@ -1,45 +1,133 @@
 <template>
-    <div class="q-pa-md q-gutter-sm">
+    <div class="q-pa-lg q-gutter-sm">
         <q-tree
             :nodes="data.treeData"
             node-key="label"
-        />
+            default-expand-all
+            icon="chevron_right"
+        >
+            <template v-slot:header-root="item">
+                <div class="row items-center">
+                    <img
+                        class="q-mr-sm"
+                        src="@/assets/icons/studying-and-learning.svg"
+                        style="width: 36px; height: 36px; user-select: none"
+                    />
+                    <div class="text-h6 text-grey-8">{{ item.node.label }}</div>
+                </div>
+            </template>
+
+            <template v-slot:header-group="item">
+                <div class="row items-center text-subtitle1">
+                    <div class="text-weight-bold text-primary">{{ item.node.label }}</div>
+                </div>
+            </template>
+
+            <template v-slot:header-branch="item">
+                <div class="row items-center text-subtitle1">
+                    <div class="text-weight-bold text-primary">{{ item.node.label }}</div>
+                    <q-chip
+                        :label="item.node.frequency"
+                        color="green-5"
+                        size="sm"
+                        square
+                    />
+                    <q-btn
+                        icon="volume_up"
+                        flat
+                        padding="xs"
+                        color="grey-8"
+                        size="xs"
+                        @click.stop="onPronunciation"
+                    />
+                </div>
+            </template>
+
+            <template v-slot:header-collocation="item">
+                <div class="row items-center">
+                    <div class="text-weight-bold text-primary">{{ item.node.label }}</div>
+                </div>
+            </template>
+
+            <template v-slot:body-branch="item">
+                <div
+                    class="text-dark q-mb-sm"
+                    v-if="item.node.definition"
+                >
+                    {{ item.node.definition }}
+                </div>
+                <div
+                    v-for="i in item.node.example"
+                    v-if="item.node.example.length > 0"
+                >
+                    <div class="text-dark text-italic">- {{ i }}</div>
+                </div>
+            </template>
+        </q-tree>
     </div>
 </template>
 
 <script setup lang="ts">
-import { reactive, onMounted } from "vue"
-import { collection, getDocs } from "firebase/firestore"
-import db from "@/firebase"
+import { reactive } from "vue"
 
 const data = reactive({
-    input: "",
     treeData: [
         {
-            label: "Satisfied customers (with avatar)",
-            avatar: "https://cdn.quasar.dev/img/boy-avatar.png",
+            label: "Studying and Learning",
+            header: "root",
             children: [
                 {
-                    label: "Good food (with icon)",
-                    icon: "restaurant_menu",
-                    children: [{ label: "Quality ingredients" }, { label: "Good recipe" }],
-                },
-                {
-                    label: "Good service (disabled node with icon)",
-                    icon: "room_service",
-                    disabled: true,
-                    children: [{ label: "Prompt attention" }, { label: "Professional waiter" }],
-                },
-                {
-                    label: "Pleasant surroundings (with icon)",
-                    icon: "photo",
+                    label: "To study sth at school, university etc",
+                    icon: "verified",
+                    header: "group",
                     children: [
                         {
-                            label: "Happy atmosphere (with image)",
-                            img: "https://cdn.quasar.dev/img/logo_calendar_128px.png",
+                            label: "study",
+                            header: "branch",
+                            body: "branch",
+                            frequency: "A1",
+                            definition:
+                                "[I or T] to learn about a subject by reading books, going to classes etc",
+                            example: ["It’s difficult to study when the weather’s so hot."],
+                            children: [
+                                {
+                                    label: "study English/Biology/Music etc",
+                                    header: "collocation",
+                                    body: "branch",
+                                    frequency: "A1",
+                                    example: [
+                                        "She’s studying Music at Berkeley College in Boston.",
+                                        "Less than 10% of girls choose to study Science at school.",
+                                        "My parents first met when dad was studying in England.",
+                                    ],
+                                },
+                                {
+                                    label: "study to be a doctor/lawyer/accountant etc",
+                                    header: "collocation",
+                                    body: "branch",
+                                    frequency: "A1",
+                                    example: ["What classes are you taking next semester?"],
+                                },
+                            ],
                         },
-                        { label: "Good table presentation" },
-                        { label: "Pleasing decor" },
+                        {
+                            label: "take",
+                            header: "branch",
+                            body: "branch",
+                            frequency: "A1",
+                            definition:
+                                "[T] to study a subject - use this to talk about subjects that you choose to study at school, college, university etc:",
+                            example: ["What classes are you taking next semester?"],
+                        },
+                        {
+                            label: "have a place",
+                            header: "branch",
+                            body: "branch",
+                            frequency: "B1",
+                            definition:
+                                "[T] to study a subject - use this to talk about subjects that you choose to study at school, college, university etc:",
+                            example: ["Jenny has a place to study law at Exeter this year."],
+                        },
                     ],
                 },
             ],
@@ -47,18 +135,9 @@ const data = reactive({
     ],
 })
 
-// load
+// events
 // -----------------------------------------------------------------------------
-// const getTopics = async () => {
-//     const querySnapshot = await getDocs(collection(db, "topics"))
-//     querySnapshot.forEach((doc) => {
-//         console.log(doc.id, " => ", doc.data())
-//     })
-// }
-
-// onMounted(() => {
-//     getTopics()
-// })
+const onPronunciation = () => {}
 </script>
 
 <style lang="sass"></style>

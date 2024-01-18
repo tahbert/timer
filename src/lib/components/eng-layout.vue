@@ -40,15 +40,17 @@
             :width="data.dragIndicator[0]"
         >
             <q-tree
+                ref="treeRef"
                 :nodes="data.topics"
                 node-key="id"
                 label-key="name"
                 accordion
                 icon="chevron_right"
-                v-model:selected="data.selectedTopic"
                 :duration="100"
                 color="primary"
-                @update:selected="onTreeSelect"
+                v-model:selected="data.selectedKey"
+                v-model:expanded="data.expandedKeys"
+                @update:selected="onSelectedUpdate"
             />
         </q-drawer>
 
@@ -74,11 +76,14 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, onMounted } from "vue"
+import { reactive, onMounted, ref } from "vue"
 import { v4 as uuidv4 } from "uuid"
+import type { QTree } from "quasar"
 
 import { EngTopicModel } from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
+
+const treeRef = ref<InstanceType<typeof QTree>>()
 
 const data = reactive({
     isDrawerOpen: false,
@@ -88,7 +93,9 @@ const data = reactive({
     searchText: "",
 
     topics: [] as Array<EngTopicModel>,
-    selectedTopic: "",
+    tempSelectedKey: "",
+    selectedKey: "",
+    expandedKeys: [] as Array<string>,
 })
 
 // drawer
@@ -116,8 +123,19 @@ const dragDrawer = (ev: any) => {
 
 // tree
 // -----------------------------------------------------------------------------
-const onTreeSelect = (value: string) => {
-    console.log(value)
+const onSelectedUpdate = (value: string) => {
+    // no-selection-unset alternative
+    if (value) {
+        data.tempSelectedKey = value
+    } else {
+        data.selectedKey = data.tempSelectedKey
+    }
+
+    if (treeRef.value?.isExpanded(data.selectedKey)) {
+        data.expandedKeys = data.expandedKeys.filter((el) => el !== data.selectedKey)
+    } else {
+        treeRef.value?.setExpanded(data.selectedKey, true)
+    }
 }
 
 // load
@@ -177,14 +195,14 @@ onMounted(() => {
     .q-tree__node-header-content.text-primary
         font-weight: 500
 
-
-
-
 .eng-layout__search
     position: absolute
     left: 50%
     transform: translateX(-50%)
     width: 30%
+
+    .q-field__inner
+        background: rgba(0, 0, 0, 0.024)
 
     .q-icon
         font-size: 20px
