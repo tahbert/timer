@@ -6,7 +6,7 @@
         >
             <q-tree
                 ref="treeRef"
-                :nodes="data.content"
+                :nodes="services.content.list"
                 node-key="id"
                 node-label="name"
                 icon="chevron_right"
@@ -96,7 +96,7 @@ import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
 import { engExample } from "@/lib"
-import { EngContentModel } from "@/lib-utils"
+import { EngContentModel, EngContentService } from "@/lib-utils"
 import contentData from "@/assets/json/content.json"
 
 const treeRef = ref<InstanceType<typeof QTree>>()
@@ -105,17 +105,17 @@ const data = reactive({
     loading: false,
     isAllExpanded: true,
     expandedKeys: [] as Array<string>,
-    content: [] as Array<EngContentModel>,
+})
 
-    longman: "https://www.ldoceonline.com/dictionary",
-    cambridge: "https://dictionary.cambridge.org/us/dictionary/english",
+const services = reactive({
+    content: EngContentService.getInstance(),
 })
 
 // events
 // -----------------------------------------------------------------------------
 const toggleExpandAll = () => {
     if (data.isAllExpanded) {
-        const rootNode = data.content.find((el) => el.isRoot)
+        const rootNode = services.content.list.find((el) => el.isRoot)
         if (rootNode) {
             data.expandedKeys = [rootNode.id]
         }
@@ -147,7 +147,7 @@ onMounted(() => {
     data.loading = true
 
     setTimeout(() => {
-        data.content = generateIds(contentData as Array<EngContentModel>)
+        services.content.list = generateIds(contentData as Array<EngContentModel>)
 
         data.loading = false
     }, 500)

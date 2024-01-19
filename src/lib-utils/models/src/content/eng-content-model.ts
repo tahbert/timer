@@ -54,6 +54,14 @@ export class EngContentModel {
         return this.header === "root"
     }
 
+    public get isGroup() {
+        return this.header === "group"
+    }
+
+    public get isBranch() {
+        return this.header === "branch"
+    }
+
     public get hasExamples() {
         if (this.examples) {
             return this.examples?.length > 0

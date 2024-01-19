@@ -41,9 +41,7 @@
                     unelevated
                     padding="xs"
                     style="padding: 0"
-                    :href="`${data.cambridge}/${item.name}`"
-                    target="_blank"
-                    @click.stop
+                    @click.stop="onDic('cambridge')"
                 />
                 or
                 <q-btn
@@ -55,9 +53,7 @@
                     unelevated
                     padding="xs"
                     style="padding: 0"
-                    :href="`${data.longman}/${item.name}`"
-                    target="_blank"
-                    @click.stop
+                    @click.stop="onDic('longman')"
                 />
                 dictionary
             </div>
@@ -68,7 +64,7 @@
 <script setup lang="ts">
 import { reactive } from "vue"
 
-import { EngContentModel } from "@/lib-utils"
+import { EngContentModel, EngContentService } from "@/lib-utils"
 
 const props = defineProps({
     item: {
@@ -81,6 +77,29 @@ const data = reactive({
     longman: "https://www.ldoceonline.com/dictionary",
     cambridge: "https://dictionary.cambridge.org/us/dictionary/english",
 })
+
+const services = reactive({
+    content: EngContentService.getInstance(),
+})
+
+const onDic = (dic: string) => {
+    const baseUrl = dic === "longman" ? data.longman : data.cambridge
+
+    if (props.item.isBranch) {
+        window.open(`${baseUrl}/${props.item.name}`, "_blank")
+        return
+    } else {
+        services.content.list[0].children?.forEach((group) => {
+            group.children?.forEach((branch) => {
+                const col = branch.children?.find((col) => col.id === props.item.id)
+                if (col) {
+                    window.open(`${baseUrl}/${branch.name}`, "_blank")
+                    return
+                }
+            })
+        })
+    }
+}
 </script>
 
 <style lang="sass">
