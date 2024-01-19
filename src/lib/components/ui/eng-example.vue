@@ -7,56 +7,66 @@
         flat
         @click.stop
     >
-        <q-menu
-            class="text-dark text-body2 bg-grey-3 q-pa-sm"
-            style="white-space: nowrap"
-        >
-            <div class="q-mb-xs">Examples:</div>
-            <ul
-                class="eng-home-view__examples text-italic"
-                v-if="item.hasExamples"
-                style="white-space: nowrap"
+        <q-menu class="eng-example__menu">
+            <q-card
+                class="bg-grey-2"
+                flat
+                bordered
             >
-                <li v-for="i in item.examples">
-                    {{ i }}
-                </li>
-            </ul>
-            <div
-                class="text-italic"
-                v-else
-            >
-                <q-icon
-                    name="fal fa-exclamation-circle"
-                    color="primary"
-                    size="xs"
-                />
-                We are working with orther dictionaries...<br />
-                For now, please refer to the
-                <q-btn
-                    label="Cambridge"
-                    size="sm"
-                    color="blue-2"
-                    text-color="dark"
-                    square
-                    unelevated
-                    padding="xs"
-                    style="padding: 0"
-                    @click.stop="onDic('cambridge')"
-                />
-                or
-                <q-btn
-                    label="Longman"
-                    size="sm"
-                    color="orange-2"
-                    text-color="dark"
-                    square
-                    unelevated
-                    padding="xs"
-                    style="padding: 0"
-                    @click.stop="onDic('longman')"
-                />
-                dictionary
-            </div>
+                <q-card-section>
+                    <div class="text-weight-medium">Examples</div>
+                </q-card-section>
+
+                <q-separator />
+
+                <q-card-section>
+                    <ul
+                        class="eng-home-view__examples text-italic"
+                        v-if="item.hasExamples"
+                        style="white-space: nowrap"
+                    >
+                        <li v-for="i in item.examples">
+                            {{ i }}
+                        </li>
+                    </ul>
+                    <div
+                        class="text-italic"
+                        v-else
+                    >
+                        <q-icon
+                            name="fal fa-exclamation-circle"
+                            color="primary"
+                            size="xs"
+                        />
+                        We are working with orther dictionaries...<br />
+                        For now, please refer to the
+                        <q-btn
+                            label="Cambridge"
+                            size="sm"
+                            color="blue-2"
+                            text-color="dark"
+                            square
+                            unelevated
+                            padding="xs"
+                            style="padding: 0"
+                            @click.stop="onDic('cambridge')"
+                        />
+                        or
+                        <q-btn
+                            label="Longman"
+                            size="sm"
+                            color="orange-2"
+                            text-color="dark"
+                            square
+                            unelevated
+                            padding="xs"
+                            style="padding: 0"
+                            @click.stop="onDic('longman')"
+                        />
+                        dictionary
+                    </div>
+                </q-card-section>
+            </q-card>
         </q-menu>
     </q-btn>
 </template>
@@ -86,14 +96,14 @@ const onDic = (dic: string) => {
     const baseUrl = dic === "longman" ? data.longman : data.cambridge
 
     if (props.item.isBranch) {
-        window.open(`${baseUrl}/${props.item.name}`, "_blank")
+        window.open(`${baseUrl}/${props.item.name.replace(" ", "-")}`, "_blank")
         return
     } else {
         services.content.list[0].children?.forEach((group) => {
             group.children?.forEach((branch) => {
                 const col = branch.children?.find((col) => col.id === props.item.id)
                 if (col) {
-                    window.open(`${baseUrl}/${branch.name}`, "_blank")
+                    window.open(`${baseUrl}/${branch.name.replace(" ", "-")}`, "_blank")
                     return
                 }
             })
@@ -103,6 +113,13 @@ const onDic = (dic: string) => {
 </script>
 
 <style lang="sass">
+.eng-example__menu
+    box-shadow: unset !important
+    border: none
+
+    .q-card__section
+        padding: 8px 16px
+
 .eng-home-view__examples
     li
         position: relative

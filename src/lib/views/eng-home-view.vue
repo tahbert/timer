@@ -168,20 +168,4 @@ onMounted(() => {
 .eng-home-view__branch
     .q-btn .q-icon
         font-size: 16px
-
-.eng-home-view__examples
-    li
-        position: relative
-        padding-left: 12px
-
-    li::before
-        content: ""
-        position: absolute
-        left: 0px
-        top: 50%
-        transform: translateY(-50%)
-        width: 4px
-        height: 4px
-        border-radius: 50%
-        background: $grey-8
 </style>
