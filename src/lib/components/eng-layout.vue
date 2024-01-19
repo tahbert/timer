@@ -14,7 +14,11 @@
                 >
                     <img src="/favicon.svg" />
                 </q-avatar>
-                <span class="text-h6">Engmindmap</span>
+                <span
+                    class="text-h6"
+                    style="margin-right: auto"
+                    >Engmindmap</span
+                >
 
                 <q-input
                     class="eng-layout__search"
@@ -31,6 +35,44 @@
                         />
                     </template>
                 </q-input>
+
+                <div class="q-mr-sm row q-gutter-x-xs">
+                    <q-btn
+                        label="ALL"
+                        color="grey-5"
+                        text-color="dark"
+                        size="sm"
+                        :flat="!isAllFrequency"
+                        :unelevated="isAllFrequency"
+                        style="padding: 4px 8px"
+                        @click="toggleAllFrequency"
+                    />
+                    <q-btn
+                        v-for="item in data.frequency"
+                        :key="item.name"
+                        :label="item.name"
+                        :color="item.color"
+                        text-color="dark"
+                        size="sm"
+                        :flat="!item.isActive"
+                        :unelevated="item.isActive"
+                        style="padding: 4px 8px"
+                        @click="onFrequencyUpdate(item)"
+                    />
+                </div>
+
+                <q-avatar
+                    rounded
+                    size="sm"
+                >
+                    <img src="@/assets/images/cambridge-thumb.png" />
+                </q-avatar>
+                <q-avatar
+                    rounded
+                    size="sm"
+                >
+                    <img src="@/assets/images/longman-thumb.png" />
+                </q-avatar>
             </q-toolbar>
         </q-header>
 
@@ -70,8 +112,6 @@
                 icon="fal fa-grip-lines-vertical"
                 dense
                 flat
-                size="md"
-                padding="xs"
                 :disable="data.isDrawerDraging"
                 v-touch-pan.prevent.mouse="dragDrawer"
             />
@@ -80,12 +120,13 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, onMounted, ref } from "vue"
+import { reactive, onMounted, computed, ref } from "vue"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel } from "@/lib-utils"
+import { EngTopicModel, EngFrequencyModel } from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
+import frequency from "@/assets/json/frequency.json"
 
 const treeRef = ref<InstanceType<typeof QTree>>()
 
@@ -100,6 +141,8 @@ const data = reactive({
     tempSelectedKey: "",
     selectedKey: "",
     expandedKeys: [] as Array<string>,
+
+    frequency: [] as Array<EngFrequencyModel>,
 })
 
 // drawer
@@ -142,6 +185,26 @@ const onSelectedUpdate = (value: string) => {
     }
 }
 
+// frequency
+// -----------------------------------------------------------------------------
+const isAllFrequency = computed(() => data.frequency.every((el) => el.isActive === true))
+
+const onFrequencyUpdate = (item: EngFrequencyModel) => {
+    data.frequency.forEach((el) => {
+        if (el.name === item.name) {
+            el.isActive = !el.isActive
+        }
+    })
+}
+
+const toggleAllFrequency = () => {
+    if (!isAllFrequency.value) {
+        data.frequency.forEach((el) => {
+            el.isActive = true
+        })
+    }
+}
+
 // load
 // -----------------------------------------------------------------------------
 const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
@@ -161,6 +224,7 @@ const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
 
 onMounted(() => {
     data.topics = generateIds(topics)
+    data.frequency = frequency
 })
 </script>
 
@@ -203,14 +267,17 @@ onMounted(() => {
     height: 100%
     width: 4px
     display: flex
+    flex-direction: column
+    justify-content: center
     align-items: center
     margin-left: -2px
-    background: $grey-3
     z-index: 9999
+    background: $grey-3
 
     .q-btn
         cursor: grab
 
     &:hover
+        background: $grey-4
         cursor: grab
 </style>

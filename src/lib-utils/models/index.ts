@@ -13,3 +13,6 @@ export { EngTopicModel } from "./src/topic/eng-topic-model"
 
 // content
 export { EngContentModel } from "./src/content/eng-content-model"
+
+// others
+export { EngFrequencyModel } from "./src/frequency/eng-frequency-model"

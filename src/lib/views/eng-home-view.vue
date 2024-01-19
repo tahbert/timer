@@ -51,7 +51,7 @@
 
                 <template v-slot:header-branch="item">
                     <div class="row items-center">
-                        <div class="text-weight-bold text-subtitle1 text-primary">
+                        <div class="text-weight-bold text-blue-9">
                             {{ item.node.name }}
                         </div>
                         <q-chip
@@ -68,23 +68,18 @@
                             size="xs"
                             @click.stop="onPronunciation"
                         />
+                        <div>{{ item.node.definition }}</div>
                     </div>
                 </template>
 
                 <template v-slot:header-collocation="item">
                     <div class="row items-center">
-                        <div class="text-weight-bold text-primary">{{ item.node.name }}</div>
+                        <div class="text-weight-bold text-blue-7">{{ item.node.name }}</div>
                     </div>
                 </template>
 
                 <template v-slot:body-branch="item">
                     <div class="eng-home-view__body">
-                        <div
-                            class="text-dark q-mb-sm"
-                            v-if="item.node.definition"
-                        >
-                            {{ item.node.definition }}
-                        </div>
                         <ul
                             class="eng-home-view__examples"
                             v-if="item.node.examples.length > 0"
