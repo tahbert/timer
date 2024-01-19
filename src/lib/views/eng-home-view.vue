@@ -16,6 +16,7 @@
                 <template v-slot:header-root="item">
                     <div class="row items-center q-gutter-x-sm">
                         <img
+                            class="q-pa-xs"
                             src="@/assets/icons/study.svg"
                             style="width: 36px; height: 36px; user-select: none"
                         />
@@ -50,47 +51,34 @@
                 </template>
 
                 <template v-slot:header-branch="item">
-                    <div class="row items-center">
+                    <div class="eng-home-view__branch row items-center q-gutter-x-xs">
                         <div class="text-weight-bold text-blue-9">
                             {{ item.node.name }}
                         </div>
                         <q-chip
                             :label="item.node.frequency"
-                            color="green-5"
+                            :color="item.node.frequencyColor"
                             size="sm"
+                            dense
                             square
                         />
                         <q-btn
-                            icon="volume_up"
-                            flat
+                            icon="fal fa-volume-up"
                             padding="xs"
                             color="grey-8"
                             size="xs"
-                            @click.stop="onPronunciation"
+                            flat
+                            @click.stop
                         />
                         <div>{{ item.node.definition }}</div>
+                        <eng-example :item="item.node" />
                     </div>
                 </template>
 
                 <template v-slot:header-collocation="item">
                     <div class="row items-center">
                         <div class="text-weight-bold text-blue-7">{{ item.node.name }}</div>
-                    </div>
-                </template>
-
-                <template v-slot:body-branch="item">
-                    <div class="eng-home-view__body">
-                        <ul
-                            class="eng-home-view__examples"
-                            v-if="item.node.examples.length > 0"
-                        >
-                            <li
-                                class="text-dark text-italic"
-                                v-for="i in item.node.examples"
-                            >
-                                {{ i }}
-                            </li>
-                        </ul>
+                        <eng-example :item="item.node" />
                     </div>
                 </template>
             </q-tree>
@@ -107,6 +95,7 @@ import { reactive, ref, onMounted } from "vue"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
+import { engExample } from "@/lib"
 import { EngContentModel } from "@/lib-utils"
 import contentData from "@/assets/json/content.json"
 
@@ -117,12 +106,13 @@ const data = reactive({
     isAllExpanded: true,
     expandedKeys: [] as Array<string>,
     content: [] as Array<EngContentModel>,
+
+    longman: "https://www.ldoceonline.com/dictionary",
+    cambridge: "https://dictionary.cambridge.org/us/dictionary/english",
 })
 
 // events
 // -----------------------------------------------------------------------------
-const onPronunciation = () => {}
-
 const toggleExpandAll = () => {
     if (data.isAllExpanded) {
         const rootNode = data.content.find((el) => el.isRoot)
@@ -172,10 +162,12 @@ onMounted(() => {
     .q-tree > .q-tree__node--parent > .q-tree__node-header
         background: rgba(0, 0, 0, 0.048)
 
-.eng-home-view__body
-    padding: 4px
-    border-radius: 4px
-    background: rgba(0, 0, 0, 0.024)
+    .q-tree__node-header
+        padding: 0 4px
+
+.eng-home-view__branch
+    .q-btn .q-icon
+        font-size: 16px
 
 .eng-home-view__examples
     li

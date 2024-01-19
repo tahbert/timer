@@ -73,6 +73,14 @@
                 >
                     <img src="@/assets/images/longman-thumb.png" />
                 </q-avatar>
+
+                <q-btn
+                    icon="fal fa-cog"
+                    size="sm"
+                    flat
+                    padding="sm"
+                    @click.stop
+                />
             </q-toolbar>
         </q-header>
 

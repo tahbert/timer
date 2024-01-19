@@ -1,4 +1,5 @@
 // import { DataheaderValidator } from "@linkse/fe-utils"
+import frequency from "@/assets/json/frequency.json"
 
 interface Params {
     id: string
@@ -51,5 +52,16 @@ export class EngContentModel {
 
     public get isRoot() {
         return this.header === "root"
+    }
+
+    public get hasExamples() {
+        if (this.examples) {
+            return this.examples?.length > 0
+        }
+        return false
+    }
+
+    public get frequencyColor() {
+        return frequency.find((el) => el.name === this.frequency)?.color
     }
 }
