@@ -1,1 +1,154 @@
-engmindmap
+# Business
+
+-   research
+    -   communities
+    -   teachers
+    -   students
+    -   users
+
+# Frontend
+
+-   sidebar
+    -   number of words
+    -   verified
+-   mindmap
+    -   view
+        -   mindmap
+        -   simple
+    -   center
+    -   collection
+        -   truncated
+    -   branch
+        -   order [stage-1]
+            -   based on popularity rate <!-- very common to very rare -->
+        -   content [stage-1]
+            -   word
+            -   phrase of words
+            -   sentence
+        -   popularity rate [stage-1] <!-- by cambridge -->
+            -   A1 - Beginner - very common
+            -   A2 - Elementary - very common
+            -   B1 - Pre-Intermediate - common
+            -   B2 - Intermediate - common
+            -   C1 - Advanced - rare
+            -   C2 - Proficiency - rare
+            -   D - very rare
+        -   pronunciation [stage-1]
+            -   US <!-- default -->
+            -   UK
+        -   details
+            -   linked to cambridge or longman [stage-1]
+            -   integrated [stage-2]
+                -   part of speech
+                -   definition
+                -   colocations
+                -   examples
+                    -   text
+            -   integrated and developed [stage-3]
+                -   part of speech
+                -   definition
+                -   colocations
+                -   examples
+                    -   text
+                    -   picture
+                    -   video
+                -   common errors
+-   tree of topics
+    -   number of words <!-- based on popularity rate -->
+-   breadcrumbs
+-   funtionarities
+    -   search
+        -   suggestion
+        -   result
+    -   bookmark
+    -   view
+        -   zoom
+        -   grab
+    -   settings
+        -   pronunciation
+        -   popularity rate
+-   admin
+    -   create, edit, delete, move folder, file
+    -   create, edit, delete, move root, group, branch, collocation
+
+# Backend
+
+-   User management
+-   Security
+
+# English
+
+-   Part of speech
+    -   Noun
+        -   [C noun] [Danh từ đếm được]
+        -   [U noun] [Danh từ không đếm được]
+        -   [S noun] [Danh từ số ít]
+        -   [P noun] [Danh từ số nhiều]
+        -   [C noun usually S] [Danh từ thường ở dạng số ít]
+        -   [C noun usually P] [Danh từ thường ở dạng số nhiều]
+        -   [C noun + S or P verb] [Danh từ đếm được + động từ số ít/nhiều]
+        -   [Noun phrase] [Cụm danh từ]
+    -   Adj
+        -   [Adj] [Tính từ]
+        -   [Adj only before noun] [Tính từ chỉ đứng trước danh từ]
+        -   [Adj only after noun] [Tính từ chỉ đứng sau danh từ]
+        -   [Adj only after verb] [Tính từ chỉ đứng sau động từ]
+        -   [Adj usually before noun] [Tính từ thường đứng trước danh từ]
+        -   [Adj usually after noun] [Tính từ thường đứng sau danh từ]
+        -   [Adj usually afer verb] [Tính từ thường đứng sau động từ]
+        -   [Adj not before noun] [Tính từ không đứng trước danh từ]
+        -   [Adj not after noun] [Tính từ không đứng sau danh từ]
+        -   [Adj not after verb] [Tính từ không đứng sau động từ]
+        -   [Adj not usually before noun] [Tính từ thường không đứng trước danh từ]
+        -   [Adj not usually after noun] [Tính từ thường không đứng sau danh từ]
+        -   [Adj not usually after verb] [Tính từ thường không đứng sau động từ]
+    -   Verb
+        -   [T verb] [Ngoại động từ]
+        -   [I verb] [Nộ động từ]
+        -   [I or T verb] [Nội hoặc ngoại động từ]
+        -   [L verb] [Động từ nối]
+        -   [Verb phrase] [Cụm động từ]
+        -   [T phrasal verb] [Ngoại động giới từ]
+        -   [I phrasal verb] [Nội động giới từ]
+        -   [Auxiliary verb] [Trợ động từ]
+        -   [Modal verb] [Động từ khuyết thiếu]
+    -   Grammar
+        -   [ussually passive] [thường ở dạng bị động]
+        -   [not in passive] [không ở dạng bị động]
+        -   [not in progressive] [không ở dạng tiếp diễn]
+    -   Adv
+        -   [Adv] [Trạng từ]
+        -   [Sentence adv] [Trạng từ bổ nghĩa cả câu]
+        -   [Adv usually in questions or negative sentences] [Trạng từ thường trong câu hỏi hoặc phủ định]
+        -   [Adv always + adj / adv / preposition] [Trạng từ luôn đi với tính từ / trạng từ khác/ giới từ]
+    -   Others
+        -   [Pronoun] [Đại từ]
+        -   [Preposition] [Giới từ]
+        -   [Conjunction] [Liên từ]
+        -   [Determiner] [Từ hạn định]
+        -   [Predeterminer] [Từ chỉ định]
+        -   [Interjection] [Thán từ]
+        -   [Prefix] [Tiền tố]
+        -   [Suffix] [Hậu tố]
+        -   [Phrase]
+        -   [Sentence]
+-   Usage
+    -   [Formal] or [Informal] [Trang trọng] hay [Thân mật] ( chọn 1 trọng 2 )
+    -   [Spoken] or [Written] [Văn nói] hay [Văn viết] ( chọn 1 trọng 2 )
+    -   [Polite] or [Not Polite] [Lịch sự] hay [Không lịch sự] ( chọn 1 trọng 2 )
+    -   [Approving] or [Disapproving] [tán thành] hay [không tán thành] (chọn 1 trọng 2 )
+    -   [Slang] or [Saying] [Từ lóng] hay [Tục ngữ] (chọn 1 trong 2 )
+    -   [Specialized] [Từ chuyên ngành]
+    -   [Legal] [Từ pháp lý]
+    -   [Literary] [Văn vẻ]
+    -   [Figurative] [Từ có nghĩa bóng]
+    -   [Humorous] [Hài hước]
+    -   [Child's word] [Được dùng bởi con nít]
+    -   [Old-fashioned] [Từ lạc hậu]
+    -   [Old-use] [Từ cổ]
+    -   [Not-standard] [Không chuẩn]
+-   Region
+    -   [UK]
+    -   [US]
+    -   [mainly UK]
+    -   [mainly US]
