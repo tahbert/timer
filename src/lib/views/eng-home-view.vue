@@ -34,10 +34,7 @@
                             size="xs"
                             @click.stop="toggleExpandAll"
                         >
-                            <q-tooltip
-                                anchor="top middle"
-                                self="bottom middle"
-                            >
+                            <q-tooltip class="text-white bg-dark">
                                 {{ data.isAllExpanded ? "Collapse All" : "Expand All" }}
                             </q-tooltip>
                         </q-btn>
