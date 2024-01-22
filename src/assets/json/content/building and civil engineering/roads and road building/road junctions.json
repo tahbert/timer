@@ -1,0 +1,450 @@
+[
+    {
+        "id": "",
+        "name": "road junction",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "a junction",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "circus x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c usually s]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "circusuka round open area where several streets join together, often used in place names :",
+                        "examples": [
+                            "piccadilly circus",
+                            "oxford circus",
+                            ""
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "junction x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "junction/ intersectionmainly us the place where two or more roads join or cross each other together : nơi giao nhau, bùng binh",
+                        "examples": [
+                            "a busy intersection.",
+                            "you should slow down as you approach the junction.",
+                            "ukthere's a service station at the nextmotorwayjunction (= point from which you can leave the motorway).",
+                            "turn right at the next intersection."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "interchange x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "interchange a road junction designed on several levels so that traffic streams do not intersect :giao điểm(không cắt nhau)",
+                        "examples": [
+                            "turn left at the next interchange."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "corner a2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c usually s]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "corner the point where two roads meet : ngã rẽ, góc đường, góc phố",
+                        "examples": [
+                            "corner of",
+                            "ruth walked with her as far as the corner of the road.",
+                            "on the corner",
+                            "the hotel is on the corner of 5th and maine.",
+                            "at the corner",
+                            "several women were standing at the corner, talking to two police officers.",
+                            "---------------------------------------------------------------------------------------------------------------------",
+                            "a street cornerthere’s a newspaper shop on the street corner.",
+                            "kids hanging around onstreet corners",
+                            "---------------------------------------------------------------------------------------------------------------------",
+                            "cut a corner(= not go all around the edge of a corner)i crashed into a motorcyclist who had cut the corner.",
+                            "stand on a cornershe stood on the corner saying goodnight to michael."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "turning b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "turninguk/ turnb2 a place where you can turn and go into another road:ngã rẽ",
+                        "examples": [
+                            "take a turning",
+                            "take the first turning after the traffic lights.",
+                            "he must have taken a wrong turning in the dark.",
+                            "take the first turning on the left.",
+                            "we were supposed to take highway 12, but i think we missed the turn."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "circle",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "roundabout a2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "roundaboutuktraffic circleus  a place where three or more roads join and traffic must go around a circular area in the middle, rather than straight across : vòng xoay, bùng binh",
+                        "examples": [
+                            "turn left at the first roundabout."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "three",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "t-junction x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "t-junctionuka place where one road meets another without crossing it, forming the shape of a letter t : nút giao chữ t",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "fork x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "fork a place where a road, river, or tree divides into two parts, or one of the parts it divides into : ngã ba",
+                        "examples": [
+                            "when you reach a forkin the roadtake the right-hand path.",
+                            "the north fork of the sacramento river",
+                            "take the left fork then go straight on."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "four",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "crossroads b2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "crossroads a place where two roads meet and cross each other : ngã tư",
+                        "examples": [
+                            "at the crossroads",
+                            "turn left at the next crossroads.",
+                            "the car was approaching the crossroads."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "crossing b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "crossing a place where two lines, roads, tracks etc cross : ngã tư",
+                        "examples": [
+                            "turn left at the first crossing."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

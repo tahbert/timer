@@ -1,0 +1,137 @@
+[
+    {
+        "id": "",
+        "name": "administrative church areas",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "diocese x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[ c ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "diocese in the roman catholic church and the anglican (= church of england) church, an area controlled by a bishop :giáo phận",
+                        "examples": [
+                            "diocesan[adj]",
+                            "bishopric[c] an area of a country for which a bishop is responsible :giáo phận"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "archdiocese x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "archdiocese the area of which an archbishop in some christian churches is in charge : tổng giáo phận",
+                        "examples": [
+                            "archbishopric[c] the area of which an archbishop is in charge"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "parish x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[ c ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "parish the area that a priest in some christian churches is responsible for:xứ đạo, giáo xứ",
+                        "examples": [
+                            "the parish church/magazine/priest/register",
+                            "father doyle moved to a new parish.",
+                            "parochial[adj]connected with a parish (= an area which has its own church or priest)",
+                            "parochial boundaries"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

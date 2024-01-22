@@ -1,0 +1,132 @@
+[
+    {
+        "id": "",
+        "name": "cocktails",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "shaker x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "shaker/cocktail shakera container in which drinks are mixed:bình trộn",
+                        "examples": [
+                            "a cocktail shaker."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "cocktail x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "cocktailan alcoholic drink made from a mixture of different drinks",
+                        "examples": [
+                            "we were all in the barsippingcocktails.",
+                            "a champagne cocktail"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "punch x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c or u]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "punch a cold or hot drink made by mixing fruit juices, pieces of fruit and often wine or other alcoholic drinks :rượu pân",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

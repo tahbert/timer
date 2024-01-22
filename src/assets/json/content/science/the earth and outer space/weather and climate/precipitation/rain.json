@@ -1,0 +1,574 @@
+[
+    {
+        "id": "",
+        "name": "rain",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "rain",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "shower b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "shower a short period of rain, especiallylightrain:trận mưa, cơn mưa",
+                        "examples": [
+                            "it was just a shower, so we didn’t get too wet",
+                            "heavy showerswhen a lot of rain falls for short periods",
+                            "heavy showers are forecast for the weekend.",
+                            "light showerswhen a small amount of rain falls during short periods : những cơn mưa nhẹ",
+                            "the weather will be cloudy with light showers in places."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "the wet x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[np]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the wetspokenmainly uk wet weather outdoors:trời mưa",
+                        "examples": [
+                            "come on in out of the wet.",
+                            "don't leave it out there in the wet."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "rain a1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[u]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "rain water that falls from the sky in small drops:mưa",
+                        "examples": [
+                            "the rain",
+                            "the rain was beating against the window.",
+                            "in the rain",
+                            "i like walking in the rain.",
+                            "heavy/ torrential raina lot of rain : mưa nặng hạt",
+                            "the roads are flooded after a period of exceptionally heavy rain.",
+                            "the coast has been battered by torrential rain all week.",
+                            "light raina little rain : mưa nhẹ",
+                            "some light rain is likely in the boston area.",
+                            "rain fallscomes down from the sky",
+                            "four inches of rain have fallen in four days.",
+                            "acid rainrain that contains harmful chemicals from industry : mưa acid",
+                            "when acid rain falls, it affects the ph balance of the soil."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "drizzle x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[ u ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "drizzle rain in very small light drops: mưa phùn; mưa bụi",
+                        "examples": [
+                            "tomorrow will be cloudy with outbreaks of rain and drizzle."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "genearl",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "precipitation x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[u]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "precipitation  water which falls from the clouds towards the ground, especially as rain or snow: mưa",
+                        "examples": [
+                            "hail and sleet are types of precipitation.",
+                            "the forecast is for dry, cloudy weather with no precipitation expected."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "rainbow b2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "rainbow an arch (= curved shape) of different colours seen in the sky when rain is falling and the sun is shining : cầu vồng",
+                        "examples": [
+                            "the tropical butterfly's wings were shimmering withall the colours of therainbow."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "rainfall x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[u]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "rainfall the amount of rain that falls on an area in a particular period of time : lượng mưa",
+                        "examples": [
+                            "heavyrainfall ruined the match.",
+                            "theaverageannual rainfall in this region: 750 mm.",
+                            "we’ve had a long period of low rainfall.",
+                            "the city has received only half its average rainfall of four inches."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "rain",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "rain a1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[i]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "rain if it rains, water falls from the sky in the form of small drops:mưa",
+                        "examples": [
+                            "it rains",
+                            "it rained all night, and half the day after.",
+                            "take an umbrella in case it rains."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "it’s raining a1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[spoken]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "it’s raining use this to say that rain is falling now:trời mưa",
+                        "examples": [
+                            "look, it’s raining again.",
+                            "is it still raining?",
+                            "it’s raining hard/heavily raining a lot:trời mưa nặng hạt",
+                            "it had been raining heavily and the ground was very soft."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "it’s pouring b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[spoken]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "it’s pouring use this to say that it is raining very hard:mưa như trút, mưa rào",
+                        "examples": [
+                            "as soon as i got outside it started pouring.",
+                            "it’s pouring with rain[uk]",
+                            "it was pouring with rain and she had forgotten her umbrella."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "it’s drizzling x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[spoken]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "it’s drizzling  use this to say that it is raining a little, with very small drops of rain:mưa phùn",
+                        "examples": [
+                            "i think i’ll walk to work - it’s only drizzling."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "it’s sprinkling x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[usspoken]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "it’s sprinklinguse this to say that it is raining a little, usually when it will not last long:mưa lất phất",
+                        "examples": [
+                            "‘is it raining out?’ ‘it’s just sprinkling.’",
+                            "sprinkle[c] a short light rain :",
+                            "there were a few sprinkles this afternoon, but the sun was shining through it all."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "a drop of rain",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "raindrop x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[ c ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "raindrop a single drop of rain : giọt mưa",
+                        "examples": [
+                            "the first thunderclap brought down raindrops and hailstones as big as marbles."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "drop of rain b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[np]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "drop of rain",
+                        "examples": [
+                            "as the first drops of rain began to fall, michael started to run."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

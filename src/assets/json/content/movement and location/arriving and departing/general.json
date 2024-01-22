@@ -1,0 +1,108 @@
+[
+    {
+        "id": "",
+        "name": "arriving and departing in general",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "incoming x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "incoming arriving somewhere rather than leaving",
+                        "examples": [
+                            "incoming plane/flight/train etc",
+                            "incoming flights",
+                            "incoming calls were monitored.",
+                            "the incoming tide",
+                            "all incoming flights are being delayed by fog.",
+                            "the crash occurred when a freight train collided with an incoming passenger train."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "outgoing c2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "outgoing going out or leaving a placeopp incoming:",
+                        "examples": [
+                            "the tray for outgoing mail",
+                            "outgoing phone calls",
+                            "outgoing flights are booked until january 15th.",
+                            ""
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
