@@ -132,7 +132,6 @@ const fetchData = async (url: string) => {
     try {
         const response = await fetch(url)
         const data: Array<EngContentModel> = await response.json()
-        console.log(data)
         services.content.list = generateIds(data)
     } catch (error) {
         console.log(error)
