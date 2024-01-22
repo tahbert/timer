@@ -1,11 +1,10 @@
 <template>
     <q-page>
         <div
-            class="eng-home-view col-row q-pa-lg"
+            class="eng-details-view col-row q-pa-lg"
             v-if="!data.loading"
         >
-            This is a home view
-            <!-- <q-tree
+            <q-tree
                 ref="treeRef"
                 :nodes="services.content.list"
                 node-key="id"
@@ -49,7 +48,7 @@
                 </template>
 
                 <template v-slot:header-branch="item">
-                    <div class="eng-home-view__branch row items-center q-gutter-x-xs">
+                    <div class="eng-details-view__branch row items-center q-gutter-x-xs">
                         <div class="text-weight-bold text-blue-9">
                             {{ item.node.name }}
                         </div>
@@ -79,7 +78,7 @@
                         <eng-example :item="item.node" />
                     </div>
                 </template>
-            </q-tree> -->
+            </q-tree>
         </div>
         <q-inner-loading
             :showing="data.loading"
@@ -89,13 +88,15 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, ref, onMounted } from "vue"
+import { reactive, ref, onMounted, watch } from "vue"
+import { useRoute } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
 import { engExample } from "@/lib"
 import { EngContentModel, EngContentService } from "@/lib-utils"
-import contentData from "@/assets/json/content/education/teaching_and_studying/studying_and_learning.json"
+
+const route = useRoute()
 
 const treeRef = ref<InstanceType<typeof QTree>>()
 
@@ -126,33 +127,51 @@ const toggleExpandAll = () => {
 
 // load
 // -----------------------------------------------------------------------------
-// const generateIds = (items: Array<EngContentModel>): Array<EngContentModel> => {
-//     return items.map((item) => {
-//         const newItem = {
-//             ...item,
-//             id: uuidv4(),
-//         }
+const fetchData = async (url: string) => {
+    data.loading = true
+    try {
+        const response = await fetch(url)
+        const data: Array<EngContentModel> = await response.json()
+        console.log(data)
+        services.content.list = generateIds(data)
+    } catch (error) {
+        console.log(error)
+    } finally {
+        data.loading = false
+    }
+}
 
-//         if (newItem.children && newItem.children.length > 0) {
-//             newItem.children = generateIds(newItem.children)
-//         }
+const generateIds = (items: Array<EngContentModel>): Array<EngContentModel> => {
+    return items.map((item) => {
+        const newItem = {
+            ...item,
+            id: uuidv4(),
+        }
 
-//         return EngContentModel.fromJson(newItem)
-//     })
-// }
+        if (newItem.children && newItem.children.length > 0) {
+            newItem.children = generateIds(newItem.children)
+        }
+
+        return EngContentModel.fromJson(newItem)
+    })
+}
+
+watch(
+    () => route.params.id,
+    (id) => {
+        if (id) {
+            fetchData(`/assets/content/${route.params.id}`)
+        }
+    }
+)
 
 onMounted(() => {
-    // data.loading = true
-    // setTimeout(() => {
-    //     const content = contentData.map((el) => EngContentModel.fromJson(el))
-    //     services.content.list = generateIds(content)
-    //     data.loading = false
-    // }, 500)
+    fetchData(`/assets/content/${route.params.id}`)
 })
 </script>
 
 <style lang="sass">
-.eng-home-view
+.eng-details-view
     height: calc(100vh - 50px)
     overflow: auto
     // root node
@@ -162,7 +181,7 @@ onMounted(() => {
     .q-tree__node-header
         padding: 0 4px
 
-.eng-home-view__branch
+.eng-details-view__branch
     .q-btn .q-icon
         font-size: 16px
 </style>

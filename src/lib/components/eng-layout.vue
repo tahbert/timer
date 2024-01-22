@@ -129,13 +129,15 @@
 
 <script setup lang="ts">
 import { reactive, onMounted, computed, ref } from "vue"
+import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel, EngFrequencyModel } from "@/lib-utils"
+import { EngTopicModel, EngFrequencyModel, appRouteDefinitions } from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
+const router = useRouter()
 const treeRef = ref<InstanceType<typeof QTree>>()
 
 const data = reactive({
@@ -191,6 +193,40 @@ const onSelectedUpdate = (value: string) => {
     } else {
         treeRef.value?.setExpanded(data.selectedKey, true)
     }
+
+    // route
+    const findCurrentFile = (
+        nodes: EngTopicModel[],
+        id: string
+    ): { node: EngTopicModel | undefined; names: string[] } => {
+        let result: EngTopicModel | undefined
+        const names: string[] = []
+
+        const search = (currentNodes: EngTopicModel[], currentNames: string[]) => {
+            currentNodes.forEach((node) => {
+                const updatedNames = [...currentNames, node.name]
+
+                if (node.type === "folder" && !result) {
+                    search(node.children || [], updatedNames)
+                } else if (node.id === id) {
+                    result = node
+                    names.push(...updatedNames)
+                }
+            })
+        }
+
+        search(nodes, [])
+
+        return { node: result, names }
+    }
+
+    const { node: currentFile, names } = findCurrentFile(data.topics, value)
+
+    if (currentFile?.type === "file") {
+        router.push({ name: appRouteDefinitions.details.name, params: { id: names.join("/") } })
+    } else {
+        router.push({ name: appRouteDefinitions.home.name })
+    }
 }
 
 // frequency
@@ -215,15 +251,19 @@ const toggleAllFrequency = () => {
 
 // load
 // -----------------------------------------------------------------------------
-const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
+const generateIds = (
+    items: Array<EngTopicModel>,
+    parentId: string | null = null
+): Array<EngTopicModel> => {
     return items.map((item) => {
         const newItem = {
             ...item,
             id: uuidv4(),
+            parentId: parentId,
         }
 
         if (newItem.children && newItem.children.length > 0) {
-            newItem.children = generateIds(newItem.children)
+            newItem.children = generateIds(newItem.children, newItem.id)
         }
 
         return EngTopicModel.fromJson(newItem)

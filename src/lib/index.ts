@@ -1,7 +1,9 @@
+// view
 import engHomeView from "./views/eng-home-view.vue"
-import engLayout from "./components/eng-layout.vue"
+import engDetailsView from "./views/eng-details-view.vue"
 
-// ui
+// components
+import engLayout from "./components/eng-layout.vue"
 import engExample from "./components/ui/eng-example.vue"
 
-export { engHomeView, engLayout, engExample }
+export { engHomeView, engDetailsView, engLayout, engExample }

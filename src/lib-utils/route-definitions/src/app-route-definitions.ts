@@ -10,4 +10,13 @@ export const appRouteDefinitions = {
             next: "engmindmap-home-view",
         },
     }),
+    details: RouteDefinitionModel.createInstance({
+        name: "engmindmap-details-view",
+        path: "engmindmap/:id?",
+        title: "Engmidnmap Details",
+        permissions: [],
+        redirectParams: {
+            next: "engmindmap-details-view",
+        },
+    }),
 }

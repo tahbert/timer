@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router"
 
-import { engHomeView, engLayout } from "@/lib"
+import { engDetailsView, engHomeView, engLayout } from "@/lib"
 import { appRouteDefinitions } from "@/lib-utils"
 
 const router = createRouter({
@@ -11,7 +11,7 @@ const router = createRouter({
             redirect: { name: appRouteDefinitions.home.name },
         },
         {
-            path: "/admin",
+            path: "",
             component: engLayout,
             children: [
                 {
@@ -24,6 +24,18 @@ const router = createRouter({
                         title: appRouteDefinitions.home.title,
                         guards: [],
                         redirectParams: appRouteDefinitions.home.redirectParams,
+                    },
+                },
+                {
+                    path: appRouteDefinitions.details.path,
+                    name: appRouteDefinitions.details.name,
+                    components: {
+                        default: engDetailsView,
+                    },
+                    meta: {
+                        title: appRouteDefinitions.details.title,
+                        guards: [],
+                        redirectParams: appRouteDefinitions.details.redirectParams,
                     },
                 },
             ],
