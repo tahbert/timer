@@ -1,200 +1,251 @@
 [
     {
         "id": "",
-        "name": "Studying and Learning",
+        "name": "studying and learning",
+        "order": 1,
+        "icon": "",
         "header": "root",
-        "icon": "study",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
         "children": [
             {
                 "id": "",
-                "name": "to study sth at school, university etc",
-                "header": "group",
-                "children": [
-                    {
-                        "id": "",
-                        "name": "study",
-                        "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn about a subject by reading books, going to classes etc",
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "study English/Biology/Music etc",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "She’s studying Music at Berkeley College in Boston.",
-                                    "Less than 10% of girls choose to study Science at school.",
-                                    "My parents first met when dad was studying in England."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "study to be a doctor/lawyer/accountant etc",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1"
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "take",
-                        "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[T] to study a subject - use this to talk about subjects that you choose to study at school, college, university etc:",
-                        "examples": ["What classes are you taking next semester?"]
-                    },
-                    {
-                        "id": "",
-                        "name": "have a place",
-                        "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "[T] to study a subject - use this to talk about subjects that you choose to study at school, college, university etc:",
-                        "examples": ["Jenny has a place to study law at Exeter this year."]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to learn how to do sth, or to learn about sth",
+                "order": 1,
+                "icon": "",
                 "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
                 "children": [
                     {
                         "id": "",
-                        "name": "learn",
+                        "name": "learn a1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn how to do sth, or to learn about a subject, especially by being taught or trained: học",
-                        "examples": ["How long have you been learning German?"],
+                        "frequency": "",
+                        "partOfSpeech": "[i or t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "learn to learn how to do sth, or to learn about a subject, especially by being taught or trained:học",
+                        "examples": [
+                            "how long have you been learning german?",
+                            "learn to do sth",
+                            "his daughter’s learning to drive.",
+                            "william learned to read when he was four.",
+                            "learn how to do sthlearn a method or skill",
+                            "on this course, you will learn how to deal with communication problems.",
+                            "how long did it take you to learn how to do this?",
+                            "learn about",
+                            "before you sail, you need to learn about basic boat controls.",
+                            "our children attend the group twice a week to learn about sikhism."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "train",
+                        "name": "train b1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "to learn the skills and get the experience that you need in order to do a job",
-                        "examples": ["Chris trained at an airbase in Honduras."],
+                        "frequency": "",
+                        "partOfSpeech": "[i]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "train to learn the skills and get the experience that you need in order to do a job:rèn luyện, học tập",
+                        "examples": [
+                            "chris trained at an airbase in honduras.",
+                            "train to be a hairdresser/teacher/pilot/nurse etc",
+                            "julie is training to be a nurse.",
+                            "her husband trained to be an auto mechanic, but he can’t find a job.",
+                            "train for a job/career/occupation",
+                            "melanie trained for a career in music, but switched to photography in her early thirties.",
+                            "we want to encourage people who left school early to train for better jobs."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "pick up",
+                        "name": "pick up b2",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B2",
-                        "definition": "[T phrasal verb] informal to learn sth easily, without making much effort or having lessons",
+                        "frequency": "",
+                        "partOfSpeech": "[t phrasal verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "pick upinformalto learn sth easily, without making much effort or having lessons:học mót, học vô thức",
+                        "examples": [
+                            "pick up sth/ pick sth up",
+                            "i picked up a few words of turkish when i was in istanbul.",
+                            "the rules are really easy - you’ll pick them up.",
+                            "roy’s a bright little boy, and he picks things up really quickly."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "get the hang of sth c2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[vp]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "get the hang of informalspokento learn how to do sth that is fairlycomplicated:quen với việc gì, học cách",
+                        "examples": [
+                            "using the software isn’t difficult once you get the hang of it.",
+                            "it took me ages to get the hang of using chopsticks.",
+                            "that’s it. you’re getting the hang of it now.",
+                            "\"i've never used a word processor before.\" \"don't worry - you'll soon get the hang ofit.\""
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "master x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "master to learn a skill or a language completely so that you have no difficulty with it:tinh thông; nắm vững",
+                        "examples": [
+                            "it takes years to master the art of weaving.",
+                            "she soon got to know the local customs and eventually mastered the language.",
+                            "children have usually mastered the concepts of weight and length by the age of 8."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "name": "learn about",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "familiarize yourself with c2",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[vp]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "familiarize yourself withalsofamiliariseuk  to learn about a subject, or how to do sth, especially by reading books, notices, instructions etc, because you know you are going to need this knowledge in the future:làm quen với",
+                        "examples": [
+                            "she prepared for the interview by familiarizing herself with all aspects of the company’s work.",
+                            "you must familiarize yourself with the evacuation procedure in case of a fire."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     }
@@ -202,281 +253,302 @@
             },
             {
                 "id": "",
-                "name": "to learn sth so that you can remember it exactly",
+                "name": "to study sth at school, university etc",
+                "order": 1,
+                "icon": "",
                 "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
                 "children": [
                     {
                         "id": "",
-                        "name": "learn",
+                        "name": "study a1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn how to do sth, or to learn about a subject, especially by being taught or trained: học",
-                        "examples": ["How long have you been learning German?"],
+                        "frequency": "",
+                        "partOfSpeech": "[i or t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "study to learn about a subject by reading books, going to classes etc:học tập, nghiên cứu",
+                        "examples": [
+                            "it’s difficult to study when the weather’s so hot.",
+                            "study underreceive lessons from a famous teacher:học từ ai",
+                            "nicoll was himself a noted psychologist and studied under jung in zurich.",
+                            "study english/biology/music etc",
+                            "less than 10% of girls choose to study science at school.",
+                            "she’s studying music at berkeley college in boston.",
+                            "my parents first met when dad was studying in england.",
+                            "study to be a doctor/lawyer/accountant etc",
+                            "he’s studying to be a lawyer.",
+                            "dad thinks i should study to be a doctor, but i’m not interested in medicine."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "train",
+                        "name": "take a1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "to learn the skills and get the experience that you need in order to do a job",
-                        "examples": ["Chris trained at an airbase in Honduras."],
+                        "frequency": "",
+                        "partOfSpeech": "[t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "take to study a subject - use this to talk about subjects that you choose to study at school, college, university etc:học môn gì",
+                        "examples": [
+                            "what classes are you taking next semester?",
+                            "in my final year, i decided to take english, french, and economics.",
+                            "all freshmen have to take at least one composition course.",
+                            ""
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "pick up",
+                        "name": "do a1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B2",
-                        "definition": "[T phrasal verb] informal to learn sth easily, without making much effort or having lessons",
+                        "frequency": "",
+                        "partOfSpeech": "[t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "do uk informal to study a particular subject at school or university:học môn gì",
+                        "examples": [
+                            "i can’t decide whether to do german or spanish next year.",
+                            "did you do computing at school?",
+                            "do a course: học một khóa học",
+                            "why not do a language course at your local college?"
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to study to prepare for an examination",
-                "header": "group",
-                "children": [
-                    {
-                        "id": "",
-                        "name": "learn",
-                        "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn how to do sth, or to learn about a subject, especially by being taught or trained: học",
-                        "examples": ["How long have you been learning German?"],
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "learn to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "train",
+                        "name": "minor in x",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "to learn the skills and get the experience that you need in order to do a job",
-                        "examples": ["Chris trained at an airbase in Honduras."],
+                        "frequency": "",
+                        "partOfSpeech": "[vp]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "minor in us if you minor in a subject, it is the second most important subject you study at a college or university:",
+                        "examples": [
+                            "i’m planning to study computer science, but i still might minor in english."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "pick up",
+                        "name": "major in x",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B2",
-                        "definition": "[T phrasal verb] informal to learn sth easily, without making much effort or having lessons",
+                        "frequency": "",
+                        "partOfSpeech": "[t phrasal verb not in passive]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "major in us to study something as your main subject at a college or university:học chuyên nghành gì",
+                        "examples": [
+                            "▪ what are you majoring in?",
+                            "▪ diane majored in psychology at the university of washington."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "take lessons a1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[vp]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "take lessons/ have lessonsbritish  to pay for lessons from a teacher in order to study a subject or skill in yourfreetime:học thêm ( trong thời gian rảnh )",
+                        "examples": [
+                            "my mother wants me to take violin lessons.",
+                            "i’m having spanish lessons after work.",
+                            "take lessons in :",
+                            "students at the school can even take lessons in golf."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "read x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[t not in passive]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "read uk formal to study asubjectat university:đọc hiểu, học tập",
+                        "examples": [
+                            "oliver is reading philosophy at oxford.",
+                            "she went on to read medicine at edinburgh."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "name": "learn about",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "have a place b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[c]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "place uk an offer or opportunity to study as a student at a particular school, college, or university:",
+                        "examples": [
+                            "studies show that students from wealthier backgrounds are more likely to be offered places athigh-achieving schools.",
+                            "have/ get a place (at):",
+                            "jenny has a place to study law at exeter this year.",
+                            "if i get a place at manchester, i’ll take it."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     }
@@ -485,139 +557,415 @@
             {
                 "id": "",
                 "name": "to learn about things by experiencing them in your life",
+                "order": 1,
+                "icon": "",
                 "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
                 "children": [
                     {
                         "id": "",
-                        "name": "learn",
+                        "name": "learn b2",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn how to do sth, or to learn about a subject, especially by being taught or trained: học",
-                        "examples": ["How long have you been learning German?"],
+                        "frequency": "",
+                        "partOfSpeech": "[i or t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "learn to learn how you should behave or how to deal with situations, because of experiences you have had in your life:",
+                        "examples": [
+                            "learn (that)",
+                            "i soon learned that it was best to keep quiet.",
+                            "by sharing their problems, sufferers of the disease learn to cope with the symptoms.c",
+                            "have you learned anything from the experience?",
+                            "learn from your mistakesremember mistakes you have made, and be careful not to make them againrút kn từ những sai lầm",
+                            "what is important is to learn from our mistakes, so that we don’t repeat them.",
+                            "learn your lessonto learn from a bad experience not to do the same thing again :rút kinh nghiệm",
+                            "she’d been stupid, but she’d learned her lesson.",
+                            "there are important lessons to be learned from this election defeat.",
+                            "learn sth the hard waylearn sth by having an unpleasant experience",
+                            "never lend money to your friends - that’s something i learnt the hard way.",
+                            "there are no shortcuts in this industry. i learned that the hard way this week."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "to study to prepare for an examination",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "do revision b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[u]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "revision uk when you read books, notes etc in order to prepare for an examination that you are going to do:ôn tập",
+                        "examples": [
+                            "how is your history revision going?",
+                            "do revision",
+                            "i can’t come out tonight - i’ve got a lot of revision to do.",
+                            "shedidno revision, but she still got a very high mark."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "train",
+                        "name": "study a1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "to learn the skills and get the experience that you need in order to do a job",
-                        "examples": ["Chris trained at an airbase in Honduras."],
+                        "frequency": "",
+                        "partOfSpeech": "[i or t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "study to learn the information you need to prepare yourself for a test or examination:học tập",
+                        "examples": [
+                            "i’m going to spend the afternoon studying my notes.",
+                            "the test is supposed to be hard - aren’t you going to study at all?",
+                            "study for",
+                            "he studied for the bar exam all year, and he still didn’t pass.",
+                            "i can’t go to the movie tonight - i have a big test to study for.",
+                            "‘is ian coming with us?’ ‘he can’t - he’s studying for his exams.’",
+                            "alan hardly studied for the test, but he still passed."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "pick up",
+                        "name": "revise b1",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B2",
-                        "definition": "[T phrasal verb] informal to learn sth easily, without making much effort or having lessons",
+                        "frequency": "",
+                        "partOfSpeech": "[i or t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "revise uk to read books, notes etc in order to prepare for an examination that you are going to take:ôn tập",
+                        "examples": [
+                            "ahmed’s upstairs, revising.",
+                            "what are you revising tonight?",
+                            "revise for",
+                            "the library was full of students revising for the final exams.",
+                            "we're revising (algebra)forthe test tomorrow."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "cram x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[i]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "cram informal to study very hard just before an examination, especially because you do not know enough:học tập chăm chỉ",
+                        "examples": [
+                            "you’ll really have to cram if you want to pass the test.",
+                            "cram for",
+                            "everyone’s cramming for their final exams."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "swot x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[i]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "swot uk informal to study for an examination:học để kiểm tra",
+                        "examples": [
+                            "he’s sure to pass - he’s been swotting away for months.",
+                            "swot for",
+                            "i was too busy swotting for my exams to be much interested in girls."
+                        ],
+                        "isEnabled": true,
+                        "children": [
                             {
                                 "id": "",
-                                "name": "learn about",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "bone up on x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[t phrasal verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "bone up on informal to study a particular subject to prepare for a test or examination:ôn tập một môn cụ thể cho bài kiểm tra",
+                        "examples": ["i’ve been boning up on my latin for the entrance exam."],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "to learn sth so that you can remember it exactly",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "memorize x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "memorize/memoriseuk  to learn numbers or words so well that you can remember them exactly:ghi nhớ",
+                        "examples": [
+                            "don’t write your password down, memorize it.",
+                            "he was only four when he memorized martin luther king’s ‘i have a dream’ speech.",
+                            "i recited the poem she had asked me to memorize."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "learn b1",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[t]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "learn to learn facts, words, or numbers, especially at school, so that you can remember them exactly:học thuộc",
+                        "examples": [
+                            "what songs have you learnt at school, then?",
+                            "i’m going to try to learn 12 new words each week.",
+                            "do you think you can learn this tune for friday’s performance?",
+                            "learn sth (off) by heart b2learn sth so that you can repeat it exactly without reading ithọc thuộc lòng",
+                            "we had to learn a lot of poetry by heart when we were children.",
+                            "dad taught us a sanskrit prayer, and we had to learn it off by heart and say it every day.",
+                            "learn your lineslearn the words that you have to say in a play :học vai diễn",
+                            "i’ve been trying to learn my lines, but i haven’t gotten very far.",
+                            "learn sth by roteto learn sth by repeating it without having to understand it, especially in a class: học vẹt",
+                            "the guide sounded as if he had learnt his speech by rote.",
+                            "if you have a good memory you can learn things by rote, but can you apply it in practice?"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "commit sth to memory x",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "",
+                        "partOfSpeech": "[vp]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "commit sth to memory formal to learn sth, especially sth long, so that you remember every word or detail of it:cố ghi nhớ một cái gì đó",
+                        "examples": [
+                            "some really dedicated fans have committed entire passages of the movie to memory.",
+                            "sometimes, conductors have to commit complete scores to memory."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     }
@@ -626,139 +974,79 @@
             {
                 "id": "",
                 "name": "the work that you do when you study sth",
+                "order": 1,
+                "icon": "",
                 "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
                 "children": [
                     {
                         "id": "",
-                        "name": "learn",
+                        "name": "study b2",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "A1",
-                        "definition": "[I or T] to learn how to do sth, or to learn about a subject, especially by being taught or trained: học",
-                        "examples": ["How long have you been learning German?"],
+                        "frequency": "",
+                        "partOfSpeech": "[ u ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "studywhenyou learn about a subject, usually at school or university : học tập",
+                        "examples": ["the study of english literature"],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     },
                     {
                         "id": "",
-                        "name": "train",
+                        "name": "learning b2",
+                        "order": 1,
+                        "icon": "",
                         "header": "branch",
-                        "body": "branch",
-                        "frequency": "B1",
-                        "definition": "to learn the skills and get the experience that you need in order to do a job",
-                        "examples": ["Chris trained at an airbase in Honduras."],
+                        "frequency": "",
+                        "partOfSpeech": "[ u ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "learningthe activity ofobtaining knowledge",
+                        "examples": [
+                            "this technique makes learning fun.",
+                            "for the first month in her new job she was on a steep learningcurve(= she learnt a lot quickly)."
+                        ],
+                        "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "learn to do sth",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
                                 "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "pick up",
-                        "header": "branch",
-                        "body": "branch",
-                        "frequency": "B2",
-                        "definition": "[T phrasal verb] informal to learn sth easily, without making much effort or having lessons",
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "learn to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "His daughter’s learning to drive. ",
-                                    "William learned to read when he was four."
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "definition": "learn a method or skill",
-                                "name": "learn how to do sth",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "On this course, you will learn how to deal with communication problems.",
-                                    "How long did it take you to learn how to do this? "
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "name": "learn about",
-                                "header": "collocation",
-                                "body": "branch",
-                                "frequency": "A1",
-                                "examples": [
-                                    "Before you sail, you need to learn about basic boat controls.",
-                                    "Our children attend the group twice a week to learn about Sikhism."
-                                ]
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
                             }
                         ]
                     }

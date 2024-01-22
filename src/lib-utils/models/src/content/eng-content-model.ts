@@ -4,34 +4,46 @@ import frequency from "@/assets/json/frequency.json"
 interface Params {
     id: string
     name: string
-    icon?: string
+    order: number
+    icon: string
     header: string
-    body?: string
-    frequency?: string
-    definition?: string
-    examples?: Array<string>
-    children?: Array<EngContentModel>
+    frequency: string
+    partOfSpeech: string
+    usage: string
+    region: string
+    definition: string
+    isEnabled: boolean
+    examples: Array<string>
+    children: Array<EngContentModel>
 }
 
 export class EngContentModel {
     id: string
     name: string
-    icon?: string
+    order: number
+    icon: string
     header: string
-    body?: string
-    frequency?: string
-    definition?: string
-    examples?: Array<string>
-    children?: Array<EngContentModel>
+    frequency: string
+    partOfSpeech: string
+    usage: string
+    region: string
+    definition: string
+    isEnabled: boolean
+    examples: Array<string>
+    children: Array<EngContentModel>
 
     protected constructor(params: Params) {
         this.id = params.id
         this.name = params.name
+        this.order = params.order
         this.icon = params.icon
         this.header = params.header
-        this.body = params.body
         this.frequency = params.frequency
+        this.partOfSpeech = params.partOfSpeech
+        this.usage = params.usage
+        this.region = params.region
         this.definition = params.definition
+        this.isEnabled = params.isEnabled
         this.examples = params.examples
         this.children = params.children
     }
@@ -40,16 +52,21 @@ export class EngContentModel {
         return new EngContentModel({
             id: json?.id || "",
             name: json?.name || "",
+            order: json?.order || 1,
             icon: json?.icon || "",
             header: json?.header || "",
-            body: json?.body || "",
             frequency: json?.frequency || "",
+            partOfSpeech: json?.partOfSpeech || "",
+            usage: json?.usage || "",
+            region: json?.region || "",
             definition: json?.definition || "",
+            isEnabled: json?.isEnabled || true,
             examples: json?.examples || ([] as Array<string>),
             children: json?.children || ([] as Array<EngContentModel>),
         })
     }
 
+    // level
     public get isRoot() {
         return this.header === "root"
     }
@@ -69,6 +86,7 @@ export class EngContentModel {
         return false
     }
 
+    // frequency
     public get frequencyColor() {
         return frequency.find((el) => el.name === this.frequency)?.color
     }
