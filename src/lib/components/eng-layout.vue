@@ -20,21 +20,58 @@
                     >Engmindmap</span
                 >
 
-                <q-input
-                    class="eng-layout__search"
-                    placeholder="Search words, phrases, collocations, sentences"
-                    v-model="data.searchText"
-                    dense
-                    outlined
-                    color="dark"
-                >
-                    <template v-slot:prepend>
-                        <q-icon
-                            name="fal fa-search"
-                            size="xs"
-                        />
-                    </template>
-                </q-input>
+                <divc class="eng-layout__search">
+                    <q-input
+                        class="eng-layout__search-box"
+                        placeholder="Search words, phrases, collocations, sentences"
+                        v-model="data.filterText"
+                        dense
+                        outlined
+                        color="dark"
+                        debounce="300"
+                        clearable
+                        @update:model-value="onSearchUpdate"
+                        @focus="onSearchFocus"
+                        @blur="onSearchBlur"
+                    >
+                        <template v-slot:prepend>
+                            <q-icon
+                                name="fal fa-search"
+                                size="xs"
+                            />
+                        </template>
+                    </q-input>
+                    <q-card
+                        class="eng-layout__search-card bg-black text-white"
+                        v-if="data.filterState"
+                        fit
+                    >
+                        <q-list>
+                            <q-item
+                                v-for="(item, index) in filters"
+                                :key="index"
+                                dense
+                                clickable
+                                :to="{
+                                    name: appRouteDefinitions.details.name,
+                                    params: { id: item.path },
+                                }"
+                                @click="data.filterState = false"
+                            >
+                                <q-item-section class="text-grey-4">{{ item.name }}</q-item-section>
+                                <q-item-section side>{{ item.topic }}</q-item-section>
+                                <q-item-section side>
+                                    <q-chip
+                                        :label="item.frequency"
+                                        :color="item.frequencyColor"
+                                        size="sm"
+                                        dense
+                                        square
+                                /></q-item-section>
+                            </q-item>
+                        </q-list>
+                    </q-card>
+                </divc>
 
                 <div class="q-mr-sm row q-gutter-x-xs">
                     <q-btn
@@ -133,7 +170,7 @@ import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel, EngFrequencyModel, appRouteDefinitions, EngContentModel } from "@/lib-utils"
+import { EngTopicModel, EngFrequencyModel, appRouteDefinitions, EngSearchModel } from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
@@ -145,7 +182,8 @@ const data = reactive({
     isDrawerDraging: false,
     dragIndicator: [500, 0],
 
-    searchText: "",
+    filterText: "",
+    filterState: false,
 
     topics: [] as Array<EngTopicModel>,
     tempSelectedKey: "",
@@ -153,6 +191,56 @@ const data = reactive({
     expandedKeys: [] as Array<string>,
 
     frequency: [] as Array<EngFrequencyModel>,
+})
+
+// filter
+// -----------------------------------------------------------------------------
+const onSearchFocus = (event: Event) => {
+    onSearchUpdate(data.filterText)
+}
+
+const onSearchBlur = (event: Event) => {
+    setTimeout(() => {
+        data.filterState = false
+    }, 0)
+}
+
+const onSearchUpdate = (value: string | number | null) => {
+    if (value) {
+        data.filterState = true
+    } else {
+        data.filterState = false
+    }
+}
+
+const filters = computed(() => {
+    const results = [] as Array<EngSearchModel>
+
+    const findFiles = (nodes: Array<EngTopicModel>) => {
+        nodes.map((node) => {
+            if (node.type === "folder") {
+                findFiles(node.children)
+            } else {
+                const search = node.search?.find((el) =>
+                    el.name.toLowerCase().includes(data.filterText)
+                )
+                if (search) {
+                    results.push(
+                        EngSearchModel.fromJson({
+                            name: search.name,
+                            topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+                            path: node.path,
+                            frequency: search.frequency,
+                        })
+                    )
+                }
+            }
+        })
+    }
+
+    findFiles(data.topics)
+
+    return results
 })
 
 // drawer
@@ -198,34 +286,30 @@ const onSelectedUpdate = (value: string) => {
     const findCurrentFile = (
         nodes: EngTopicModel[],
         id: string
-    ): { node: EngTopicModel | undefined; names: string[] } => {
+    ): { node: EngTopicModel | undefined } => {
         let result: EngTopicModel | undefined
-        const names: string[] = []
 
-        const search = (currentNodes: EngTopicModel[], currentNames: string[]) => {
+        const search = (currentNodes: EngTopicModel[]) => {
             currentNodes.forEach((node) => {
-                const updatedNames = [...currentNames, node.name]
-
                 if (node.type === "folder" && !result) {
-                    search(node.children || [], updatedNames)
+                    search(node.children || [])
                 } else if (node.id === id) {
                     result = node
-                    names.push(...updatedNames)
                 }
             })
         }
 
-        search(nodes, [])
+        search(nodes)
 
-        return { node: result, names }
+        return { node: result }
     }
 
-    const { node: currentFile, names } = findCurrentFile(data.topics, data.selectedKey)
+    const { node: currentFile } = findCurrentFile(data.topics, data.selectedKey)
 
     if (currentFile?.type === "file") {
         router.push({
             name: appRouteDefinitions.details.name,
-            params: { id: names.join("/").replace(".json", "") },
+            params: { id: currentFile.path },
         })
     } else {
         router.push({ name: appRouteDefinitions.home.name })
@@ -262,10 +346,7 @@ const buildTopics = (
         const newItem = {
             ...item,
             id: uuidv4(),
-            displayName: item.name
-                .replace(/\[.*?\]/g, "")
-                .replace(".json", "")
-                .replace(/_/g, " "),
+            displayName: item.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
             parentId: parentId,
         }
 
@@ -320,15 +401,23 @@ onMounted(() => {
 
 .eng-layout__search
     position: absolute
+    top: 4px
     left: 50%
     transform: translateX(-50%)
     width: 50%
 
+.eng-layout__search-box
     .q-field__inner
         background: rgba(0, 0, 0, 0.05)
 
     .q-icon
         font-size: 20px
+
+.eng-layout__search-card
+    position: absolute
+    width: 100%
+    top: 0
+    left: 0
 
 .eng-layout__drag-indicator
     position: fixed
@@ -340,7 +429,7 @@ onMounted(() => {
     justify-content: center
     align-items: center
     margin-left: -2px
-    z-index: 9999
+    z-index: 999
     background: $grey-3
 
     .q-btn
