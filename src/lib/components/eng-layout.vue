@@ -254,7 +254,7 @@ const toggleAllFrequency = () => {
 
 // load
 // -----------------------------------------------------------------------------
-const generateIds = (
+const buildTopics = (
     items: Array<EngTopicModel>,
     parentId: string | null = null
 ): Array<EngTopicModel> => {
@@ -270,7 +270,7 @@ const generateIds = (
         }
 
         if (newItem.children && newItem.children.length > 0) {
-            newItem.children = generateIds(newItem.children, newItem.id)
+            newItem.children = buildTopics(newItem.children, newItem.id)
         }
 
         return EngTopicModel.fromJson(newItem)
@@ -278,7 +278,7 @@ const generateIds = (
 }
 
 onMounted(() => {
-    data.topics = generateIds(topics)
+    data.topics = buildTopics(topics)
     data.frequency = frequency
 })
 </script>
