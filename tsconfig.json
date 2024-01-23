@@ -1,5 +1,9 @@
 {
     "files": [],
+    "compilerOptions": {
+        "target": "es2021",
+        "lib": ["ES2021.String"]
+    },
     "references": [
         {
             "path": "./tsconfig.node.json"

@@ -95,7 +95,7 @@
                 ref="treeRef"
                 :nodes="data.topics"
                 node-key="id"
-                label-key="name"
+                label-key="displayName"
                 accordion
                 icon="chevron_right"
                 :duration="100"
@@ -220,10 +220,13 @@ const onSelectedUpdate = (value: string) => {
         return { node: result, names }
     }
 
-    const { node: currentFile, names } = findCurrentFile(data.topics, value)
+    const { node: currentFile, names } = findCurrentFile(data.topics, data.selectedKey)
 
     if (currentFile?.type === "file") {
-        router.push({ name: appRouteDefinitions.details.name, params: { id: names.join("/") } })
+        router.push({
+            name: appRouteDefinitions.details.name,
+            params: { id: names.join("/").replace(".json", "") },
+        })
     } else {
         router.push({ name: appRouteDefinitions.home.name })
     }
@@ -259,6 +262,10 @@ const generateIds = (
         const newItem = {
             ...item,
             id: uuidv4(),
+            displayName: item.name
+                .replace(/\[.*?\]/g, "")
+                .replace(".json", "")
+                .replace(/_/g, " "),
             parentId: parentId,
         }
 

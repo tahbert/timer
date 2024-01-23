@@ -4,6 +4,7 @@ interface Params {
     id: string
     parentId: string
     name: string
+    displayName?: string
     type: string
     order: number
     isDone: boolean
@@ -14,6 +15,7 @@ export class EngTopicModel {
     id: string
     parentId: string
     name: string
+    displayName?: string
     type: string
     order: number
     isDone: boolean
@@ -23,6 +25,7 @@ export class EngTopicModel {
         this.id = params.id
         this.parentId = params.parentId
         this.name = params.name
+        this.displayName = params.displayName
         this.type = params.type
         this.order = params.order
         this.isDone = params.isDone
@@ -33,7 +36,8 @@ export class EngTopicModel {
         return new EngTopicModel({
             id: json?.id || "",
             parentId: json?.parentId || "",
-            name: json?.name || "unknown",
+            name: json?.name || "",
+            displayName: json?.displayName || "",
             type: json?.type || "file",
             order: json?.order || 1,
             isDone: json?.isDone || true,

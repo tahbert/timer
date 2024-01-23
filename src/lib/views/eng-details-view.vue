@@ -159,7 +159,7 @@ watch(
     () => route.params.id,
     (id) => {
         if (id) {
-            fetchData(`/assets/content/${route.params.id}`)
+            fetchData(`/assets/content/${route.params.id}.json`)
         }
     }
 )
