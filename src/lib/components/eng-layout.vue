@@ -20,7 +20,7 @@
                     >Engmindmap</span
                 >
 
-                <divc class="eng-layout__search">
+                <div class="eng-layout__search">
                     <q-input
                         class="eng-layout__search-box"
                         placeholder="Search words, phrases, collocations, sentences"
@@ -56,7 +56,6 @@
                                     name: appRouteDefinitions.details.name,
                                     params: { id: item.path },
                                 }"
-                                @click="data.filterState = false"
                             >
                                 <q-item-section>{{ item.name }}</q-item-section>
                                 <q-item-section side>{{ item.topic }}</q-item-section>
@@ -71,7 +70,7 @@
                             </q-item>
                         </q-list>
                     </q-card>
-                </divc>
+                </div>
 
                 <div class="q-mr-sm row q-gutter-x-xs">
                     <q-btn
@@ -195,14 +194,14 @@ const data = reactive({
 
 // filter
 // -----------------------------------------------------------------------------
-const onSearchFocus = (event: Event) => {
+const onSearchFocus = () => {
     onSearchUpdate(data.filterText)
 }
 
-const onSearchBlur = (event: Event) => {
+const onSearchBlur = () => {
     setTimeout(() => {
         data.filterState = false
-    }, 0)
+    }, 100)
 }
 
 const onSearchUpdate = (value: string | number | null) => {
