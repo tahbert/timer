@@ -42,7 +42,7 @@
                         </template>
                     </q-input>
                     <q-card
-                        class="eng-layout__search-card bg-black text-white"
+                        class="eng-layout__search-card"
                         v-if="data.filterState"
                         fit
                     >
@@ -58,7 +58,7 @@
                                 }"
                                 @click="data.filterState = false"
                             >
-                                <q-item-section class="text-grey-4">{{ item.name }}</q-item-section>
+                                <q-item-section>{{ item.name }}</q-item-section>
                                 <q-item-section side>{{ item.topic }}</q-item-section>
                                 <q-item-section side>
                                     <q-chip
@@ -414,10 +414,11 @@ onMounted(() => {
         font-size: 20px
 
 .eng-layout__search-card
-    position: absolute
     width: 100%
     top: 0
     left: 0
+    max-height: 70vh
+    overflow: scroll
 
 .eng-layout__drag-indicator
     position: fixed
