@@ -3,14 +3,14 @@
         <div class="eng-home-view col-row q-pa-lg">
             <div>
                 <div class="text-h6 text-center text-grey-8">
-                    Choose a specific topic on the sidebar
+                    Try searching or choosing a specific topic on the sidebar
                 </div>
-                <div class="text-subtitle1 text-center text-grey-8">
+                <div class="text-subtitle1 text-center text-red-8">
                     A topic with content is a topic without an arrow icon
                 </div>
             </div>
             <q-img
-                src="/assets/images/boy.png"
+                src="/assets/images/dic.png"
                 spinner-color="white"
                 fit="scale-down"
                 style="max-height: 500px"

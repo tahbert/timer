@@ -36,7 +36,6 @@
                         clearable
                         @update:model-value="onSearchUpdate"
                         @focus="onSearchFocus"
-                        @blur="onSearchBlur"
                         @clear="data.filterText = ''"
                     >
                         <template v-slot:prepend>
@@ -72,7 +71,7 @@
                                     name: appRouteDefinitions.details.name,
                                     params: { id: item.path },
                                 }"
-                                @click="data.filterState = false"
+                                @click="onSearchItemClick(item)"
                             >
                                 <q-item-section>{{ item.name }}</q-item-section>
                                 <q-item-section side>{{ item.topic }}</q-item-section>
@@ -121,19 +120,6 @@
                         @click="onFrequencyUpdate(item)"
                     />
                 </div>
-
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="@/assets/images/cambridge-thumb.png" />
-                </q-avatar>
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="@/assets/images/longman-thumb.png" />
-                </q-avatar>
 
                 <q-btn
                     icon="fal fa-cog"
@@ -194,7 +180,13 @@ import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel, EngFrequencyModel, appRouteDefinitions, EngSearchModel } from "@/lib-utils"
+import {
+    EngTopicModel,
+    EngFrequencyModel,
+    appRouteDefinitions,
+    EngSearchModel,
+    EngContentService,
+} from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
@@ -218,16 +210,18 @@ const data = reactive({
     frequency: [] as Array<EngFrequencyModel>,
 })
 
+const services = reactive({
+    content: EngContentService.getInstance(),
+})
+
 // filter
 // -----------------------------------------------------------------------------
 const onSearchFocus = () => {
     onSearchUpdate(data.filterText)
 }
 
-const onSearchBlur = () => {
-    // setTimeout(() => {
-    //     data.filterState = false
-    // }, 100)
+const onSearchItemClick = (item: EngSearchModel) => {
+    data.filterState = false
 }
 
 const onSearchUpdate = (value: string | number | null) => {

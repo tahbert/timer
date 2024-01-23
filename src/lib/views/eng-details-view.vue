@@ -102,7 +102,7 @@ const treeRef = ref<InstanceType<typeof QTree>>()
 
 const data = reactive({
     loading: false,
-    isAllExpanded: true,
+    isAllExpanded: false,
     expandedKeys: [] as Array<string>,
 })
 
@@ -131,8 +131,15 @@ const fetchData = async (url: string) => {
     data.loading = true
     try {
         const response = await fetch(url)
-        const data: Array<EngContentModel> = await response.json()
-        services.content.list = buildContent(data)
+        const jsonData: Array<EngContentModel> = await response.json()
+        services.content.list = buildContent(jsonData)
+
+        // try expand
+        const root = services.content.list.find((el) => el.isRoot)
+        if (root) {
+            data.expandedKeys.push(root.id)
+            data.expandedKeys.push(root.children?.[0].id)
+        }
     } catch (error) {
         console.log(error)
     } finally {
