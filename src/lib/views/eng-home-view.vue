@@ -3,7 +3,7 @@
         <div class="eng-home-view col-row q-pa-lg">
             <div>
                 <div class="text-h6 text-center text-grey-8">
-                    Select a specific topic on the sidebar
+                    Choose a specific topic on the sidebar
                 </div>
                 <div class="text-subtitle1 text-center text-grey-8">
                     A topic with content is a topic without an arrow icon

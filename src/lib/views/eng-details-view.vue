@@ -132,7 +132,7 @@ const fetchData = async (url: string) => {
     try {
         const response = await fetch(url)
         const data: Array<EngContentModel> = await response.json()
-        services.content.list = generateIds(data)
+        services.content.list = buildContent(data)
     } catch (error) {
         console.log(error)
     } finally {
@@ -140,7 +140,7 @@ const fetchData = async (url: string) => {
     }
 }
 
-const generateIds = (items: Array<EngContentModel>): Array<EngContentModel> => {
+const buildContent = (items: Array<EngContentModel>): Array<EngContentModel> => {
     return items.map((item) => {
         const newItem = {
             ...item,
@@ -148,7 +148,7 @@ const generateIds = (items: Array<EngContentModel>): Array<EngContentModel> => {
         }
 
         if (newItem.children && newItem.children.length > 0) {
-            newItem.children = generateIds(newItem.children)
+            newItem.children = buildContent(newItem.children)
         }
 
         return EngContentModel.fromJson(newItem)
@@ -165,7 +165,7 @@ watch(
 )
 
 onMounted(() => {
-    fetchData(`/assets/content/${route.params.id}`)
+    fetchData(`/assets/content/${route.params.id}.json`)
 })
 </script>
 

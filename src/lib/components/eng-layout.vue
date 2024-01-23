@@ -133,7 +133,7 @@ import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel, EngFrequencyModel, appRouteDefinitions } from "@/lib-utils"
+import { EngTopicModel, EngFrequencyModel, appRouteDefinitions, EngContentModel } from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
@@ -277,9 +277,23 @@ const buildTopics = (
     })
 }
 
+// load
+// -----------------------------------------------------------------------------
+// const fetchData = async (url: string) => {
+//     try {
+//         const response = await fetch(url)
+//         const data: Array<Array<EngContentModel>> = await response.json()
+//         console.log(data)
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
+
 onMounted(() => {
     data.topics = buildTopics(topics)
     data.frequency = frequency
+
+    // fetchData(`/assets/content/json-merger.json`)
 })
 </script>
 
