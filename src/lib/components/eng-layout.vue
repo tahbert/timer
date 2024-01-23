@@ -20,19 +20,24 @@
                     >Engmindmap</span
                 >
 
-                <div class="eng-layout__search">
+                <div
+                    class="eng-layout__search"
+                    ref="search"
+                    @click="handleClickOutside"
+                >
                     <q-input
                         class="eng-layout__search-box"
                         placeholder="Search words, phrases, collocations, sentences"
                         v-model="data.filterText"
                         dense
-                        outlined
-                        color="dark"
+                        filled
+                        color="black"
                         debounce="300"
                         clearable
                         @update:model-value="onSearchUpdate"
                         @focus="onSearchFocus"
                         @blur="onSearchBlur"
+                        @clear="data.filterText = ''"
                     >
                         <template v-slot:prepend>
                             <q-icon
@@ -40,13 +45,24 @@
                                 size="xs"
                             />
                         </template>
+                        <template
+                            v-slot:append
+                            v-if="filters.length !== 0 && filters.length < 1000"
+                        >
+                            <q-chip
+                                :label="filters.length"
+                                color="orange-4"
+                                size="sm"
+                                square
+                            />
+                        </template>
                     </q-input>
                     <q-card
-                        class="eng-layout__search-card"
+                        class="eng-layout__search-card bg-black text-grey-5"
                         v-if="data.filterState"
                         fit
                     >
-                        <q-list>
+                        <q-list v-if="filters.length > 0">
                             <q-item
                                 v-for="(item, index) in filters"
                                 :key="index"
@@ -56,6 +72,7 @@
                                     name: appRouteDefinitions.details.name,
                                     params: { id: item.path },
                                 }"
+                                @click="data.filterState = false"
                             >
                                 <q-item-section>{{ item.name }}</q-item-section>
                                 <q-item-section side>{{ item.topic }}</q-item-section>
@@ -67,6 +84,14 @@
                                         dense
                                         square
                                 /></q-item-section>
+                            </q-item>
+                        </q-list>
+                        <q-list v-else>
+                            <q-item
+                                dense
+                                clickable
+                            >
+                                <q-item-section>No item found!</q-item-section>
                             </q-item>
                         </q-list>
                     </q-card>
@@ -164,7 +189,7 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, onMounted, computed, ref } from "vue"
+import { reactive, onMounted, onBeforeUnmount, computed, ref } from "vue"
 import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
@@ -175,6 +200,7 @@ import frequency from "@/assets/json/frequency.json"
 
 const router = useRouter()
 const treeRef = ref<InstanceType<typeof QTree>>()
+const search = ref<HTMLElement | null>(null)
 
 const data = reactive({
     isDrawerOpen: false,
@@ -199,15 +225,21 @@ const onSearchFocus = () => {
 }
 
 const onSearchBlur = () => {
-    setTimeout(() => {
-        data.filterState = false
-    }, 100)
+    // setTimeout(() => {
+    //     data.filterState = false
+    // }, 100)
 }
 
 const onSearchUpdate = (value: string | number | null) => {
     if (value) {
         data.filterState = true
     } else {
+        data.filterState = false
+    }
+}
+
+const handleClickOutside = (event: Event) => {
+    if (search.value && !search.value.contains(event.target as Node)) {
         data.filterState = false
     }
 }
@@ -372,8 +404,12 @@ const buildTopics = (
 onMounted(() => {
     data.topics = buildTopics(topics)
     data.frequency = frequency
-
+    document.addEventListener("click", handleClickOutside)
     // fetchData(`/assets/content/json-merger.json`)
+})
+
+onBeforeUnmount(() => {
+    document.removeEventListener("click", handleClickOutside)
 })
 </script>
 
@@ -400,24 +436,35 @@ onMounted(() => {
 
 .eng-layout__search
     position: absolute
-    top: 4px
+    top: 5px // later
     left: 50%
     transform: translateX(-50%)
     width: 50%
 
-.eng-layout__search-box
-    .q-field__inner
-        background: rgba(0, 0, 0, 0.05)
+    .q-field__control
+        background: rgba(0, 0, 0, 0.08)
 
-    .q-icon
-        font-size: 20px
-
-.eng-layout__search-card
+.eng-layout__search-card.q-card
     width: 100%
     top: 0
     left: 0
     max-height: 70vh
-    overflow: scroll
+    overflow: auto
+    box-shadow: unset
+    border-radius: 0 0 4px 4px
+
+    &::-webkit-scrollbar
+        width: 8px
+    &::-webkit-scrollbar-track
+        background: black
+    &::-webkit-scrollbar-thumb
+        background: rgba(255, 255, 255, 0.2)
+        border-radius: 4px
+    &::-webkit-scrollbar-thumb:hover
+        background: rgba(255, 255, 255, 0.5)
+
+    .q-item.q-router-link--active, .q-item--active
+        color: $green-5
 
 .eng-layout__drag-indicator
     position: fixed
