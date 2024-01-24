@@ -8,22 +8,25 @@
             bordered
         >
             <q-toolbar class="row items-center q-gutter-x-xs">
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="/favicon.svg" />
-                </q-avatar>
-                <span
-                    class="text-h6"
+                <div
+                    class="row items-center cursor-pointer"
                     style="margin-right: auto"
-                    >Engmindmap</span
+                    @click="router.push({ name: appRouteDefinitions.home.name })"
                 >
+                    <q-avatar
+                        class="q-mr-xs"
+                        rounded
+                        size="sm"
+                    >
+                        <img src="/favicon.svg" />
+                    </q-avatar>
+                    <span class="text-h6">Engmindmap</span>
+                </div>
 
                 <div
                     class="eng-layout__search"
                     ref="search"
-                    @click="handleClickOutside"
+                    @click="onSearchOutsideClick"
                 >
                     <q-input
                         class="eng-layout__search-box"
@@ -31,7 +34,6 @@
                         v-model="data.filterText"
                         dense
                         filled
-                        color="black"
                         debounce="300"
                         clearable
                         @update:model-value="onSearchUpdate"
@@ -57,7 +59,7 @@
                         </template>
                     </q-input>
                     <q-card
-                        class="eng-layout__search-card bg-black text-grey-5"
+                        class="eng-layout__search-card bg-grey-10 text-grey-5"
                         v-if="data.filterState"
                         fit
                     >
@@ -67,11 +69,7 @@
                                 :key="index"
                                 dense
                                 clickable
-                                :to="{
-                                    name: appRouteDefinitions.details.name,
-                                    params: { id: item.path },
-                                }"
-                                @click="onSearchItemClick(item)"
+                                @click="onSearchAction(item)"
                             >
                                 <q-item-section>{{ item.name }}</q-item-section>
                                 <q-item-section side>{{ item.topic }}</q-item-section>
@@ -220,8 +218,13 @@ const onSearchFocus = () => {
     onSearchUpdate(data.filterText)
 }
 
-const onSearchItemClick = (item: EngSearchModel) => {
+const onSearchAction = (item: EngSearchModel) => {
     data.filterState = false
+    services.content.searchItem = item
+    router.push({
+        name: appRouteDefinitions.details.name,
+        params: { id: item.path },
+    })
 }
 
 const onSearchUpdate = (value: string | number | null) => {
@@ -232,7 +235,7 @@ const onSearchUpdate = (value: string | number | null) => {
     }
 }
 
-const handleClickOutside = (event: Event) => {
+const onSearchOutsideClick = (event: Event) => {
     if (search.value && !search.value.contains(event.target as Node)) {
         data.filterState = false
     }
@@ -398,12 +401,12 @@ const buildTopics = (
 onMounted(() => {
     data.topics = buildTopics(topics)
     data.frequency = frequency
-    document.addEventListener("click", handleClickOutside)
+    document.addEventListener("click", onSearchOutsideClick)
     // fetchData(`/assets/content/json-merger.json`)
 })
 
 onBeforeUnmount(() => {
-    document.removeEventListener("click", handleClickOutside)
+    document.removeEventListener("click", onSearchOutsideClick)
 })
 </script>
 
@@ -411,6 +414,9 @@ onBeforeUnmount(() => {
 .eng-layout
     .q-drawer
         background: transparent !important
+
+.eng-layout__header
+    z-index: 999999
 
 .eng-layout__drawer
     .q-tree__node-header
@@ -462,15 +468,13 @@ onBeforeUnmount(() => {
 
 .eng-layout__drag-indicator
     position: fixed
-    top: 51px
+    top: 0
     height: 100%
     width: 4px
     display: flex
     flex-direction: column
     justify-content: center
     align-items: center
-    margin-left: -2px
-    z-index: 999
     background: $grey-3
 
     .q-btn

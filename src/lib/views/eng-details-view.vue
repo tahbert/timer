@@ -131,19 +131,31 @@ const fetchData = async (url: string) => {
     data.loading = true
     try {
         const response = await fetch(url)
-        const jsonData: Array<EngContentModel> = await response.json()
-        services.content.list = buildContent(jsonData)
-
-        // try expand
-        const root = services.content.list.find((el) => el.isRoot)
-        if (root) {
-            data.expandedKeys.push(root.id)
-            data.expandedKeys.push(root.children?.[0].id)
-        }
+        const json: Array<EngContentModel> = await response.json()
+        services.content.list = buildContent(json)
+        expandTree()
     } catch (error) {
         console.log(error)
     } finally {
         data.loading = false
+    }
+}
+
+const expandTree = () => {
+    const searchTerm = services.content.searchItem.name
+
+    const root = services.content.list.find((el) => el.isRoot)
+    if (root) {
+        data.expandedKeys.push(root.id)
+
+        root.children.forEach((group) => {
+            const branch = group.children.find((branch) => branch.name === searchTerm)
+            if (branch) {
+                data.expandedKeys.push(group.id)
+                data.expandedKeys.push(branch.id)
+                return
+            }
+        })
     }
 }
 
