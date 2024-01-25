@@ -221,6 +221,12 @@ const onSearchFocus = () => {
 const onSearchAction = (item: EngSearchModel) => {
     data.filterState = false
     services.content.searchItem = item
+
+    // tree expandation
+    data.selectedKey = item.id
+    data.expandedKeys = item.keys
+
+    // router
     router.push({
         name: appRouteDefinitions.details.name,
         params: { id: item.path },
@@ -244,21 +250,26 @@ const onSearchOutsideClick = (event: Event) => {
 const filters = computed(() => {
     const results = [] as Array<EngSearchModel>
 
-    const findFiles = (nodes: Array<EngTopicModel>) => {
+    const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
         nodes.map((node) => {
+            const currentKeys = [...parentKeys, node.id] // Add current node's id to the keys
+
             if (node.type === "folder") {
-                findFiles(node.children)
+                findFiles(node.children, currentKeys)
             } else {
                 const search = node.search?.find((el) =>
                     el.name.toLowerCase().includes(data.filterText)
                 )
+
                 if (search) {
                     results.push(
                         EngSearchModel.fromJson({
+                            id: node.id,
                             name: search.name,
                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
                             path: node.path,
                             frequency: search.frequency,
+                            keys: currentKeys, // Add keys property
                         })
                     )
                 }
@@ -270,6 +281,37 @@ const filters = computed(() => {
 
     return results
 })
+
+// const filters = computed(() => {
+//     const results = [] as Array<EngSearchModel>
+
+//     const findFiles = (nodes: Array<EngTopicModel>) => {
+//         nodes.map((node) => {
+//             if (node.type === "folder") {
+//                 findFiles(node.children)
+//             } else {
+//                 const search = node.search?.find((el) =>
+//                     el.name.toLowerCase().includes(data.filterText)
+//                 )
+//                 if (search) {
+//                     results.push(
+//                         EngSearchModel.fromJson({
+//                             id: node.id,
+//                             name: search.name,
+//                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+//                             path: node.path,
+//                             frequency: search.frequency,
+//                         })
+//                     )
+//                 }
+//             }
+//         })
+//     }
+
+//     findFiles(data.topics)
+
+//     return results
+// })
 
 // drawer
 // -----------------------------------------------------------------------------
@@ -386,23 +428,10 @@ const buildTopics = (
     })
 }
 
-// load
-// -----------------------------------------------------------------------------
-// const fetchData = async (url: string) => {
-//     try {
-//         const response = await fetch(url)
-//         const data: Array<Array<EngContentModel>> = await response.json()
-//         console.log(data)
-//     } catch (error) {
-//         console.log(error)
-//     }
-// }
-
 onMounted(() => {
     data.topics = buildTopics(topics)
     data.frequency = frequency
     document.addEventListener("click", onSearchOutsideClick)
-    // fetchData(`/assets/content/json-merger.json`)
 })
 
 onBeforeUnmount(() => {
@@ -414,9 +443,6 @@ onBeforeUnmount(() => {
 .eng-layout
     .q-drawer
         background: transparent !important
-
-.eng-layout__header
-    z-index: 999999
 
 .eng-layout__drawer
     .q-tree__node-header
