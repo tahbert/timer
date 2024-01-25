@@ -12,6 +12,8 @@
                 icon="chevron_right"
                 :default-expand-all="data.isAllExpanded"
                 v-model:expanded="data.expandedKeys"
+                v-model:selected="data.selectedKey"
+                @update:selected="onSelectedUpdate"
             >
                 <template v-slot:header-root="item">
                     <div class="row items-center q-gutter-x-sm">
@@ -67,7 +69,7 @@
                             flat
                             @click.stop
                         />
-                        <div>{{ item.node.definition }}</div>
+                        <div class="text-dark">{{ item.node.definition }}</div>
                         <eng-example :item="item.node" />
                     </div>
                 </template>
@@ -103,6 +105,8 @@ const treeRef = ref<InstanceType<typeof QTree>>()
 const data = reactive({
     loading: false,
     isAllExpanded: false,
+    selectedKey: "",
+    tempSelectedKey: "",
     expandedKeys: [] as Array<string>,
 })
 
@@ -125,6 +129,21 @@ const toggleExpandAll = () => {
     }
 }
 
+const onSelectedUpdate = (value: string) => {
+    // no-selection-unset alternative
+    if (value) {
+        data.tempSelectedKey = value
+    } else {
+        data.selectedKey = data.tempSelectedKey
+    }
+
+    if (treeRef.value?.isExpanded(data.selectedKey)) {
+        data.expandedKeys = data.expandedKeys.filter((el) => el !== data.selectedKey)
+    } else {
+        treeRef.value?.setExpanded(data.selectedKey, true)
+    }
+}
+
 // load
 // -----------------------------------------------------------------------------
 const fetchData = async (url: string) => {
@@ -133,7 +152,7 @@ const fetchData = async (url: string) => {
         const response = await fetch(url)
         const json: Array<EngContentModel> = await response.json()
         services.content.list = buildContent(json)
-        expandTree()
+        initTree()
     } catch (error) {
         console.log(error)
     } finally {
@@ -141,7 +160,9 @@ const fetchData = async (url: string) => {
     }
 }
 
-const expandTree = () => {
+const initTree = () => {
+    // LATER: expand, highlight correct node,
+    // LATER: search collocation also
     const searchTerm = services.content.searchItem.name
 
     const root = services.content.list.find((el) => el.isRoot)
@@ -153,6 +174,7 @@ const expandTree = () => {
             if (branch) {
                 data.expandedKeys.push(group.id)
                 data.expandedKeys.push(branch.id)
+                data.selectedKey = branch.id
                 return
             }
         })
@@ -192,9 +214,12 @@ onMounted(() => {
 .eng-details-view
     height: calc(100vh - 50px)
     overflow: auto
-    // root node
-    .q-tree > .q-tree__node--parent > .q-tree__node-header
+
+    .q-tree > .q-tree__node--parent > .q-tree__node-header // root node
         background: rgba(0, 0, 0, 0.048)
+
+    .q-tree__node-header.q-tree__node--selected // selected node
+        background: var(--red-background)
 
     .q-tree__node-header
         padding: 0 4px
