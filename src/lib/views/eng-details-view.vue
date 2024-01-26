@@ -69,14 +69,35 @@
                             flat
                             @click.stop
                         />
+                        <div class="text-grey-8">{{ item.node.partOfSpeech }}</div>
                         <div class="text-dark">{{ item.node.definition }}</div>
                         <eng-example :item="item.node" />
                     </div>
                 </template>
 
                 <template v-slot:header-collocation="item">
-                    <div class="row items-center">
+                    <div class="row items-center q-gutter-x-xs">
                         <div class="text-weight-bold text-blue-7">{{ item.node.name }}</div>
+                        <q-chip
+                            v-if="item.node.frequency"
+                            :label="item.node.frequency"
+                            :color="item.node.frequencyColor"
+                            size="sm"
+                            dense
+                            square
+                        />
+                        <div
+                            class="text-grey-8"
+                            v-if="item.node.partOfSpeech"
+                        >
+                            {{ item.node.partOfSpeech }}
+                        </div>
+                        <div
+                            class="text-dark"
+                            v-if="item.node.definition"
+                        >
+                            {{ item.node.definition }}
+                        </div>
                         <eng-example :item="item.node" />
                     </div>
                 </template>

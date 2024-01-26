@@ -1,5 +1,6 @@
 <template>
     <q-btn
+        class="text-dark"
         label="e.g."
         size="xs"
         padding="xs"
@@ -9,7 +10,7 @@
     >
         <q-menu class="eng-example__menu">
             <q-card
-                class="bg-grey-2"
+                class="bg-green-1"
                 flat
                 bordered
             >

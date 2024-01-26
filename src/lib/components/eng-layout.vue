@@ -503,9 +503,6 @@ onBeforeUnmount(() => {
     align-items: center
     background: $grey-3
 
-    .q-btn
-        cursor: grab
-
     &:hover
         background: $grey-4
         cursor: grab
