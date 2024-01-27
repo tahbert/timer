@@ -80,16 +80,16 @@
 
 -   Part of speech
     -   Noun
-        -   [C noun] [Danh từ đếm được]
-        -   [U noun] [Danh từ không đếm được]
-        -   [S noun] [Danh từ số ít]
-        -   [P noun] [Danh từ số nhiều]
-        -   [C noun usually S] [Danh từ thường ở dạng số ít]
-        -   [C noun usually P] [Danh từ thường ở dạng số nhiều]
-        -   [C noun + S or P verb] [Danh từ đếm được + động từ số ít/nhiều]
-        -   [Noun phrase] [Cụm danh từ]
+        -   [C noun]
+        -   [U noun]
+        -   [S noun]
+        -   [P noun]
+        -   [C noun usually S] <!-- Danh từ thường ở dạng số ít -->
+        -   [C noun usually P] <!-- Danh từ thường ở dạng số nhiều -->
+        -   [C noun + S or P verb] <!--  Danh từ đếm được + động từ số ít/nhiều -->
+        -   [Noun phrase] <!-- Cụm danh từ -->
     -   Adj
-        -   [Adj] [Tính từ]
+        -   [Adj]
         -   [Adj only before noun] [Tính từ chỉ đứng trước danh từ]
         -   [Adj only after noun] [Tính từ chỉ đứng sau danh từ]
         -   [Adj only after verb] [Tính từ chỉ đứng sau động từ]
@@ -103,15 +103,15 @@
         -   [Adj not usually after noun] [Tính từ thường không đứng sau danh từ]
         -   [Adj not usually after verb] [Tính từ thường không đứng sau động từ]
     -   Verb
-        -   [T verb] [Ngoại động từ]
-        -   [I verb] [Nộ động từ]
-        -   [I or T verb] [Nội hoặc ngoại động từ]
-        -   [L verb] [Động từ nối]
-        -   [Verb phrase] [Cụm động từ]
-        -   [T phrasal verb] [Ngoại động giới từ]
-        -   [I phrasal verb] [Nội động giới từ]
-        -   [Auxiliary verb] [Trợ động từ]
-        -   [Modal verb] [Động từ khuyết thiếu]
+        -   [T]
+        -   [I]
+        -   [I or T]
+        -   [L] <!-- linking verb -->
+        -   [Verb phrase]
+        -   [T phrasal verb]
+        -   [I phrasal verb]
+        -   [Auxiliary verb] <!-- Trợ động từ -->
+        -   [Modal verb] <!-- Động từ khuyết thiếu -->
     -   Grammar
         -   [ussually passive] [thường ở dạng bị động]
         -   [not in passive] [không ở dạng bị động]
@@ -122,19 +122,21 @@
         -   [Adv usually in questions or negative sentences] [Trạng từ thường trong câu hỏi hoặc phủ định]
         -   [Adv always + adj / adv / preposition] [Trạng từ luôn đi với tính từ / trạng từ khác/ giới từ]
     -   Others
-        -   [Pronoun] [Đại từ]
+        -   [Pronoun]
         -   [Preposition] [Giới từ]
         -   [Conjunction] [Liên từ]
         -   [Determiner] [Từ hạn định]
-        -   [Predeterminer] [Từ chỉ định]
+        -   [Predeterminer] <!-- Từ chỉ định -->
         -   [Interjection] [Thán từ]
         -   [Prefix] [Tiền tố]
         -   [Suffix] [Hậu tố]
         -   [Phrase]
         -   [Sentence]
 -   Usage
-    -   [Formal] or [Informal] [Trang trọng] hay [Thân mật] ( chọn 1 trọng 2 )
-    -   [Spoken] or [Written] [Văn nói] hay [Văn viết] ( chọn 1 trọng 2 )
+    -   [Formal]
+    -   [Informal]
+    -   [Spoken]
+    -   [Written]
     -   [Polite] or [Not Polite] [Lịch sự] hay [Không lịch sự] ( chọn 1 trọng 2 )
     -   [Approving] or [Disapproving] [tán thành] hay [không tán thành] (chọn 1 trọng 2 )
     -   [Slang] or [Saying] [Từ lóng] hay [Tục ngữ] (chọn 1 trong 2 )

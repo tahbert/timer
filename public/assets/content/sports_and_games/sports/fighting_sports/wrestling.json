@@ -1,0 +1,121 @@
+[
+    {
+        "id": "",
+        "name": "wrestling",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "people",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "wrestler",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a person who wrestles as a sport : đô vật",
+                        "examples": [
+                            "a professional wrestler",
+                            "sumo wrestler[C] đô vật xu-mô"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "activities",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "wrestle",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[I or T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to fight with someone (especially as a sport) by holding them and trying to throw them to the ground",
+                        "examples": [
+                            "He has wrestled professionally for five years.",
+                            "The police officer tackled the man and wrestled himto the ground.",
+                            "wrestle with",
+                            "The two men wrestled with each other.",
+                            "Police officerswrestledhimto the ground."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

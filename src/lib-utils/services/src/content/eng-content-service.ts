@@ -1,4 +1,4 @@
-import type { EngContentModel } from "@/lib-utils"
+import { EngSearchModel, type EngContentModel } from "@/lib-utils"
 
 export class EngContentService {
     private static instance?: EngContentService
@@ -15,4 +15,5 @@ export class EngContentService {
     }
 
     list: Array<EngContentModel> = []
+    searchItem = EngSearchModel.fromJson()
 }

@@ -1,0 +1,216 @@
+[
+    {
+        "id": "",
+        "name": "fortifications",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "castle",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a very large strong building, built in the past as a safe place that could be easily defended against attack : lâu đài",
+                        "examples": [
+                            "Edinburgh Castle",
+                            "a ruined castle"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "fortification",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "strong walls, towers, etc. that are built to protect a place : công sự",
+                        "examples": [
+                            "Some of the old fortifications still exist.",
+                            "The fortifications of the castle were massive and impenetrable.",
+                            "a site of ancient fortifications dating from about 500 B.C."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "stronghold",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an area that is strongly defended by a military group : pháp đài",
+                        "examples": [
+                            "The fighters moved south to their mountain stronghold."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "fort",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a strong building or group of buildings used by soldiers or an army for defending an important place :pháo đài",
+                        "examples": [
+                            "The remains of the Roman fort are well preserved."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "bridges",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "drawbridge",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a bridge that can be raised or brought down in order to protect a castle from attack :cầu rút",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -8,33 +8,91 @@
             bordered
         >
             <q-toolbar class="row items-center q-gutter-x-xs">
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="/favicon.svg" />
-                </q-avatar>
-                <span
-                    class="text-h6"
+                <div
+                    class="row items-center cursor-pointer"
                     style="margin-right: auto"
-                    >Engmindmap</span
+                    @click="router.push({ name: appRouteDefinitions.home.name })"
                 >
+                    <q-avatar
+                        class="q-mr-xs"
+                        rounded
+                        size="sm"
+                    >
+                        <img src="/favicon.svg" />
+                    </q-avatar>
+                    <span class="text-h6">Engmindmap</span>
+                </div>
 
-                <q-input
+                <div
                     class="eng-layout__search"
-                    placeholder="Search words, phrases, collocations, sentences"
-                    v-model="data.searchText"
-                    dense
-                    outlined
-                    color="dark"
+                    ref="search"
+                    @click="onSearchOutsideClick"
                 >
-                    <template v-slot:prepend>
-                        <q-icon
-                            name="fal fa-search"
-                            size="xs"
-                        />
-                    </template>
-                </q-input>
+                    <q-input
+                        class="eng-layout__search-box"
+                        placeholder="Search words, phrases, collocations, sentences"
+                        v-model="data.filterText"
+                        dense
+                        filled
+                        debounce="300"
+                        clearable
+                        @update:model-value="onSearchUpdate"
+                        @focus="onSearchFocus"
+                        @clear="data.filterText = ''"
+                    >
+                        <template v-slot:prepend>
+                            <q-icon
+                                name="fal fa-search"
+                                size="xs"
+                            />
+                        </template>
+                        <template
+                            v-slot:append
+                            v-if="filters.length !== 0 && filters.length < 1000"
+                        >
+                            <q-chip
+                                :label="filters.length"
+                                color="orange-4"
+                                size="sm"
+                                square
+                            />
+                        </template>
+                    </q-input>
+                    <q-card
+                        class="eng-layout__search-card bg-grey-10 text-grey-5"
+                        v-if="data.filterState"
+                        fit
+                    >
+                        <q-list v-if="filters.length > 0">
+                            <q-item
+                                v-for="(item, index) in filters"
+                                :key="index"
+                                dense
+                                clickable
+                                @click="onSearchAction(item)"
+                            >
+                                <q-item-section>{{ item.name }}</q-item-section>
+                                <q-item-section side>{{ item.topic }}</q-item-section>
+                                <q-item-section side>
+                                    <q-chip
+                                        :label="item.frequency"
+                                        :color="item.frequencyColor"
+                                        size="sm"
+                                        dense
+                                        square
+                                /></q-item-section>
+                            </q-item>
+                        </q-list>
+                        <q-list v-else>
+                            <q-item
+                                dense
+                                clickable
+                            >
+                                <q-item-section>No item found!</q-item-section>
+                            </q-item>
+                        </q-list>
+                    </q-card>
+                </div>
 
                 <div class="q-mr-sm row q-gutter-x-xs">
                     <q-btn
@@ -61,19 +119,6 @@
                     />
                 </div>
 
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="@/assets/images/cambridge-thumb.png" />
-                </q-avatar>
-                <q-avatar
-                    rounded
-                    size="sm"
-                >
-                    <img src="@/assets/images/longman-thumb.png" />
-                </q-avatar>
-
                 <q-btn
                     icon="fal fa-cog"
                     size="sm"
@@ -95,7 +140,7 @@
                 ref="treeRef"
                 :nodes="data.topics"
                 node-key="id"
-                label-key="name"
+                label-key="displayName"
                 accordion
                 icon="chevron_right"
                 :duration="100"
@@ -128,22 +173,32 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, onMounted, computed, ref } from "vue"
+import { reactive, onMounted, onBeforeUnmount, computed, ref } from "vue"
+import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
 
-import { EngTopicModel, EngFrequencyModel } from "@/lib-utils"
+import {
+    EngTopicModel,
+    EngFrequencyModel,
+    appRouteDefinitions,
+    EngSearchModel,
+    EngContentService,
+} from "@/lib-utils"
 import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
+const router = useRouter()
 const treeRef = ref<InstanceType<typeof QTree>>()
+const search = ref<HTMLElement | null>(null)
 
 const data = reactive({
     isDrawerOpen: false,
     isDrawerDraging: false,
     dragIndicator: [500, 0],
 
-    searchText: "",
+    filterText: "",
+    filterState: false,
 
     topics: [] as Array<EngTopicModel>,
     tempSelectedKey: "",
@@ -152,6 +207,111 @@ const data = reactive({
 
     frequency: [] as Array<EngFrequencyModel>,
 })
+
+const services = reactive({
+    content: EngContentService.getInstance(),
+})
+
+// filter
+// -----------------------------------------------------------------------------
+const onSearchFocus = () => {
+    onSearchUpdate(data.filterText)
+}
+
+const onSearchAction = (item: EngSearchModel) => {
+    data.filterState = false
+    services.content.searchItem = item
+
+    // tree expandation
+    data.selectedKey = item.id
+    data.expandedKeys = item.keys
+
+    // router
+    router.push({
+        name: appRouteDefinitions.details.name,
+        params: { id: item.path },
+    })
+}
+
+const onSearchUpdate = (value: string | number | null) => {
+    if (value) {
+        data.filterState = true
+    } else {
+        data.filterState = false
+    }
+}
+
+const onSearchOutsideClick = (event: Event) => {
+    if (search.value && !search.value.contains(event.target as Node)) {
+        data.filterState = false
+    }
+}
+
+const filters = computed(() => {
+    const results = [] as Array<EngSearchModel>
+
+    const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
+        nodes.map((node) => {
+            const currentKeys = [...parentKeys, node.id] // Add current node's id to the keys
+
+            if (node.type === "folder") {
+                findFiles(node.children, currentKeys)
+            } else {
+                const search = node.search?.find((el) =>
+                    el.name.toLowerCase().includes(data.filterText)
+                )
+
+                if (search) {
+                    results.push(
+                        EngSearchModel.fromJson({
+                            id: node.id,
+                            name: search.name,
+                            topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+                            path: node.path,
+                            frequency: search.frequency,
+                            keys: currentKeys, // Add keys property
+                        })
+                    )
+                }
+            }
+        })
+    }
+
+    findFiles(data.topics)
+
+    return results
+})
+
+// const filters = computed(() => {
+//     const results = [] as Array<EngSearchModel>
+
+//     const findFiles = (nodes: Array<EngTopicModel>) => {
+//         nodes.map((node) => {
+//             if (node.type === "folder") {
+//                 findFiles(node.children)
+//             } else {
+//                 const search = node.search?.find((el) =>
+//                     el.name.toLowerCase().includes(data.filterText)
+//                 )
+//                 if (search) {
+//                     results.push(
+//                         EngSearchModel.fromJson({
+//                             id: node.id,
+//                             name: search.name,
+//                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+//                             path: node.path,
+//                             frequency: search.frequency,
+//                         })
+//                     )
+//                 }
+//             }
+//         })
+//     }
+
+//     findFiles(data.topics)
+
+//     return results
+// })
 
 // drawer
 // -----------------------------------------------------------------------------
@@ -191,6 +351,39 @@ const onSelectedUpdate = (value: string) => {
     } else {
         treeRef.value?.setExpanded(data.selectedKey, true)
     }
+
+    // route
+    const findCurrentFile = (
+        nodes: EngTopicModel[],
+        id: string
+    ): { node: EngTopicModel | undefined } => {
+        let result: EngTopicModel | undefined
+
+        const search = (currentNodes: EngTopicModel[]) => {
+            currentNodes.forEach((node) => {
+                if (node.type === "folder" && !result) {
+                    search(node.children || [])
+                } else if (node.id === id) {
+                    result = node
+                }
+            })
+        }
+
+        search(nodes)
+
+        return { node: result }
+    }
+
+    const { node: currentFile } = findCurrentFile(data.topics, data.selectedKey)
+
+    if (currentFile?.type === "file") {
+        router.push({
+            name: appRouteDefinitions.details.name,
+            params: { id: currentFile.path },
+        })
+    } else {
+        router.push({ name: appRouteDefinitions.home.name })
+    }
 }
 
 // frequency
@@ -215,15 +408,20 @@ const toggleAllFrequency = () => {
 
 // load
 // -----------------------------------------------------------------------------
-const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
+const buildTopics = (
+    items: Array<EngTopicModel>,
+    parentId: string | null = null
+): Array<EngTopicModel> => {
     return items.map((item) => {
         const newItem = {
             ...item,
             id: uuidv4(),
+            displayName: item.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+            parentId: parentId,
         }
 
         if (newItem.children && newItem.children.length > 0) {
-            newItem.children = generateIds(newItem.children)
+            newItem.children = buildTopics(newItem.children, newItem.id)
         }
 
         return EngTopicModel.fromJson(newItem)
@@ -231,8 +429,13 @@ const generateIds = (items: Array<EngTopicModel>): Array<EngTopicModel> => {
 }
 
 onMounted(() => {
-    data.topics = generateIds(topics)
+    data.topics = buildTopics(topics)
     data.frequency = frequency
+    document.addEventListener("click", onSearchOutsideClick)
+})
+
+onBeforeUnmount(() => {
+    document.removeEventListener("click", onSearchOutsideClick)
 })
 </script>
 
@@ -259,31 +462,46 @@ onMounted(() => {
 
 .eng-layout__search
     position: absolute
+    top: 5px // later
     left: 50%
     transform: translateX(-50%)
     width: 50%
 
-    .q-field__inner
-        background: rgba(0, 0, 0, 0.05)
+    .q-field__control
+        background: rgba(0, 0, 0, 0.08)
 
-    .q-icon
-        font-size: 20px
+.eng-layout__search-card.q-card
+    width: 100%
+    top: 0
+    left: 0
+    max-height: 70vh
+    overflow: auto
+    box-shadow: unset
+    border-radius: 0 0 4px 4px
+
+    &::-webkit-scrollbar
+        width: 8px
+    &::-webkit-scrollbar-track
+        background: black
+    &::-webkit-scrollbar-thumb
+        background: rgba(255, 255, 255, 0.2)
+        border-radius: 4px
+    &::-webkit-scrollbar-thumb:hover
+        background: rgba(255, 255, 255, 0.5)
+
+    .q-item.q-router-link--active, .q-item--active
+        color: $green-5
 
 .eng-layout__drag-indicator
     position: fixed
-    top: 51px
+    top: 0
     height: 100%
     width: 4px
     display: flex
     flex-direction: column
     justify-content: center
     align-items: center
-    margin-left: -2px
-    z-index: 9999
     background: $grey-3
-
-    .q-btn
-        cursor: grab
 
     &:hover
         background: $grey-4
