@@ -39,28 +39,43 @@
                         "region": "",
                         "definition": "when there is no light, especially in aroom orbecause the sun has gone down:bóng tối",
                         "examples": [
-                            "Children who are afraid of the dark need to be reassured.",
-                            "in the dark",
-                            "Why are you sitting there in the dark? Put the light on.",
-                            "Cats can see in the dark.",
-                            "I've always been afraid of the dark.",
-                            "my childish fear of the dark",
-                            "We stood outside in thepitch dark(= when there is no light at all )."
+                            "Children who are afraid of the dark need to be reassured."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in the dark",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Why are you sitting there in the dark? Put the light on.",
+                                    "Cats can see in the dark.",
+                                    "I've always been afraid of the dark."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "my childish fear of the dark",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We stood outside in thepitch dark(= when there is no light at all )."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -80,34 +95,160 @@
                         "examples": [
                             "the long hours of darkness during winter",
                             "in darkness",
-                            "The lamp suddenly went out, leaving us in darkness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "complete/total darknessIt was late and all the houses in the village were in total darkness.",
-                            "pitch darkness(= complete darkness )We ended up coming down the mountain in pitch darkness.",
-                            "deep/thick darknessliterary: All around her was the deep darkness of a winter night.",
-                            "gathering/growing darknessliterary(= night that is slowly coming )The garden was almost invisible now in the gathering darkness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "darkness falls/comes(alsodarkness descendsliterary)As darkness fell, rescue workers had to give up the search.",
-                            "darkness closes inliterary(= it becomes darker outside )The rain turned to snow and darkness closed in.",
-                            "be plunged into darkness(= be suddenly in darkness because the lights go out )Suddenly the electricity went off and we were plunged into darkness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "the hours of darkness(= the night )Desert animals come out during the hours of darkness when its cool.",
-                            "under cover of darkness(= when darkness makes you less likely to be seen )The attack was planned to take place under cover of darkness."
+                            "The lamp suddenly went out, leaving us in darkness."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "complete/total darkness",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It was late and all the houses in the village were in total darkness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pitch darkness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "complete darkness",
+                                "examples": [
+                                    "We ended up coming down the mountain in pitch darkness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "deep/thick darknessliterary:",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All around her was the deep darkness of a winter night."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gathering/growing darknessliterary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "night that is slowly coming",
+                                "examples": [
+                                    "The garden was almost invisible now in the gathering darkness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "darkness falls/comes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsodarkness descendsliterary",
+                                "examples": [
+                                    "As darkness fell, rescue workers had to give up the search."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "darkness closes inliterary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it becomes darker outside",
+                                "examples": [
+                                    "The rain turned to snow and darkness closed in."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be plunged into darkness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be suddenly in darkness because the lights go out",
+                                "examples": [
+                                    "Suddenly the electricity went off and we were plunged into darkness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the hours of darkness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the night",
+                                "examples": [
+                                    "Desert animals come out during the hours of darkness when its cool."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "under cover of darkness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when darkness makes you less likely to be seen",
+                                "examples": [
+                                    "The attack was planned to take place under cover of darkness."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -130,23 +271,7 @@
                             "Someone jumped out of the shadows and grabbed my handbag."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -160,25 +285,24 @@
                         "region": "",
                         "definition": "dull, grey light like the light of the early morning or early evening - use this especially instoriesandwrittendescriptions:ánh sáng mờ",
                         "examples": [
-                            "He urged the mule forward through the half-light of the forest.",
-                            "in the half-light",
-                            "It was difficult to see who was standing there in the dim half-light of the hall.",
-                            ""
+                            "He urged the mule forward through the half-light of the forest."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in the half-light",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It was difficult to see who was standing there in the dim half-light of the hall."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -201,23 +325,7 @@
                             "He peered into the gathering(= increasing )gloom."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -252,36 +360,17 @@
                             "She was sitting in the shade of a large oak tree.",
                             "The temperature was over 90 degrees in the shade.",
                             "The children playedin/under theshadeofa large beach umbrella.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "shade[T] to prevent direct light from shining on something",
                             "I shaded myeyesfrom the glare of the sun.",
                             "The broad avenues are shaded by splendid trees.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "shaded[adj]",
                             "Nothing will grow in the shaded part of the garden.",
                             "The shaded areas of the plans show where the houses will be built.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "shady[adj]sheltered from direct light from the sun",
                             "We sat on the shady grass for our picnic."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -298,30 +387,109 @@
                             "the long dark shadow of an old oak tree",
                             "in the shadow of sth",
                             "It was hot, and we decided to walk in the shadow of the wall(= along the wall, where its shadow would fall ).",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "cast/throw a shadow(= make it appear )The building cast a shadow across the narrow street.",
-                            "a shadow falls somewhere(= appears on something )The footsteps came closer, and a shadow fell across the table.",
-                            "the shadows lengthen(= get longer, as it gets later in the day )Already the shadows were lengthening.",
-                            "adjectives",
-                            "a dark/black shadowShe saw the dark shadow of a man in the doorway.",
-                            "a long shadowLong shadows stretched across the grass from the apple trees.",
-                            "flickering shadows(= shadows that move about quickly )Candles cast strange flickering shadows on the walls.",
-                            ""
+                            "adjectives"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cast/throw a shadow",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make it appear",
+                                "examples": [
+                                    "The building cast a shadow across the narrow street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shadow falls somewhere",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "appears on something",
+                                "examples": [
+                                    "The footsteps came closer, and a shadow fell across the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the shadows lengthen",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get longer, as it gets later in the day",
+                                "examples": [
+                                    "Already the shadows were lengthening."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dark/black shadow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She saw the dark shadow of a man in the doorway."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a long shadow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Long shadows stretched across the grass from the apple trees."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "flickering shadows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "shadows that move about quickly",
+                                "examples": [
+                                    "Candles cast strange flickering shadows on the walls."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -359,23 +527,7 @@
                             "I want to be home before dark."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

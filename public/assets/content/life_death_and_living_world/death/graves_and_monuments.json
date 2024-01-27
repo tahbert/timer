@@ -42,23 +42,7 @@
                             "the family tomb"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,34 +56,160 @@
                         "region": "",
                         "definition": "the place in the ground where a dead body is buried: mồ; mả; phần mộ",
                         "examples": [
-                            "At the head of the grave there was a small wooden cross.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "dig a graveIn the churchyard, a man was digging a grave.",
-                            "mark a graveThe stone marked the grave of their young daughter.",
-                            "bury somebody in a grave(= put someone in a grave )She was buried in a grave next to her older sister.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a shallow grave(= a hole that is not very deep in the ground )They found the woman’s remains in a shallow grave in the woods.",
-                            "a mass grave(= one that is filled with many people, especially people killed in a war or people who died of a disease at a similar time )Plague victims were buried in a mass grave.",
-                            "an unmarked grave(= one that does not have anything to show where it is or who is in it )Until 1855, poor people here were buried in unmarked graves.",
-                            "a family grave(= one where members of a family are buried together )Walter died in 1922 and was buried in the family grave in Finchley cemetery.",
-                            "an open grave(= one that has not yet been covered in earth )He wept by her open grave.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a grave site(= the place where a grave is )The President visited the grave sites of 12 youths killed in recent bombings."
+                            "At the head of the grave there was a small wooden cross."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dig a grave",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "In the churchyard, a man was digging a grave."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mark a grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The stone marked the grave of their young daughter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bury somebody in a grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put someone in a grave",
+                                "examples": [
+                                    "She was buried in a grave next to her older sister."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shallow grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a hole that is not very deep in the ground",
+                                "examples": [
+                                    "They found the woman’s remains in a shallow grave in the woods."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mass grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is filled with many people, especially people killed in a war or people who died of a disease at a similar time",
+                                "examples": [
+                                    "Plague victims were buried in a mass grave."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an unmarked grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that does not have anything to show where it is or who is in it",
+                                "examples": [
+                                    "Until 1855, poor people here were buried in unmarked graves."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a family grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one where members of a family are buried together",
+                                "examples": [
+                                    "Walter died in 1922 and was buried in the family grave in Finchley cemetery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an open grave",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that has not yet been covered in earth",
+                                "examples": [
+                                    "He wept by her open grave."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a grave site",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the place where a grave is",
+                                "examples": [
+                                    "The President visited the grave sites of 12 youths killed in recent bombings."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -136,23 +246,7 @@
                             "Hislast/finalresting place was in the village where he was born."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -169,23 +263,7 @@
                             "a military cemetery"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -200,23 +278,7 @@
                         "definition": "a place, often next to a church where dead people are buried :nghĩa địa; bãi tha ma",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -249,23 +311,7 @@
                             "DO you know what your partner wants to have inscribed on their gravestone?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -282,23 +328,7 @@
                             "his grin exposed his yellowed teeth like a row of tombstones"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -334,23 +364,7 @@
                             "a fitting monument to the men who died in the battle"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -373,23 +387,7 @@
                             "awarmemorial"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -420,23 +418,7 @@
                         "definition": "/ crematoryUS  a building where dead people's bodies are burnt, usually as part of a funeral ceremony : nơi hoả táng, lò hoả thiêu",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -453,23 +435,7 @@
                             "Cemeteries, tombs, and mausoleums are described from the point of view of art history and archaeology."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -500,23 +466,7 @@
                         "definition": "a short piece of writing or a poem about a dead person, especially one written on their gravestone : văn bia",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -524,30 +474,14 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
                         "definition": "(written abbRIP) often written on a gravestone",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

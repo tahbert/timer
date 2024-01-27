@@ -47,23 +47,7 @@
                             "Ann was bornand brought upin Ealing."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -81,39 +65,209 @@
                             "There have been three births in our family this year.",
                             "birth of :",
                             "It’s quite common now for fathers to be present at the birth of their babies.",
-                            "Congratulations on the birth of your daughter!",
-                            "at birthat the time when sb is born : khi sinh",
-                            "Most birds cannot identify their parents at birth and simply follow the first moving object they see.",
-                            "from birth",
-                            "Henry has been blindfrom birth.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "sb’s date of birthespecially British English,sb’s birth dateespecially American English(= the day, month and year you were born )Please give your name, address, and date of birth.",
-                            "sb’s place/country of birthI wanted to find out my father’s place of birth.",
-                            "sb’s time of birthThey believe that the position of the planets at thetime of birthdetermines the fate of the individual.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "birth weight(= a baby’s weight when it is born )Many factors may affect a baby’s birth weight.",
-                            "a birth certificate(= an official document showing when and where you were born )",
-                            "the birth rate[usually S](= the number of babies born somewhere )The country’s birth rate has decreased dramatically.",
-                            "a birth defect(= sth wrong with a baby when it is born) dị tật bẩm sinhAbout 11% of babies have birth defects.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a premature birth(= when a baby is born before the normal time )Many babies survive premature births.",
-                            "a multiple birth(= when a woman has two or more babies at the same time )The chance of a multiple birth is about 1 in 100 for the average woman.",
-                            "a home birth(= when a woman gives birth at home, not in a hospital )I decided I wanted a home birth for my second child."
+                            "Congratulations on the birth of your daughter!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sb’s date of birthespecially British English,sb’s birth dateespecially American English",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the day, month and year you were born",
+                                "examples": [
+                                    "Please give your name, address, and date of birth."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s place/country of birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "I wanted to find out my father’s place of birth."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s time of birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They believe that the position of the planets at thetime of birthdetermines the fate of the individual."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "birth weight",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a baby’s weight when it is born",
+                                "examples": [
+                                    "Many factors may affect a baby’s birth weight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a birth certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an official document showing when and where you were born",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the birth rate[usually S]",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the number of babies born somewhere",
+                                "examples": [
+                                    "The country’s birth rate has decreased dramatically."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a birth defect",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sth wrong with a baby when it is born",
+                                "examples": [
+                                    "dị tật bẩm sinhAbout 11% of babies have birth defects."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a premature birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when a baby is born before the normal time",
+                                "examples": [
+                                    "Many babies survive premature births."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a multiple birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when a woman has two or more babies at the same time",
+                                "examples": [
+                                    "The chance of a multiple birth is about 1 in 100 for the average woman."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a home birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when a woman gives birth at home, not in a hospital",
+                                "examples": [
+                                    "I decided I wanted a home birth for my second child."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "at birthat the time when sb is born : khi sinh",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most birds cannot identify their parents at birth and simply follow the first moving object they see."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "from birth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Henry has been blindfrom birth."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -132,28 +286,10 @@
                         "definition": "to be born - use this especially to talk aboutthetimea baby is born:chào đời (thời gian)",
                         "examples": [
                             "The baby arrived at five minutes past midnight.",
-                            "Has your sister’s baby arrived yet?",
-                            "arrival[U]",
-                            "The arrival of our first child brought new joy into our lives."
+                            "Has your sister’s baby arrived yet?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -171,23 +307,7 @@
                             "By the time her third child came along, Mrs Jones had strong ideas on how children should be brought up."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -220,23 +340,7 @@
                             "After the operation will I still be able to have children?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -250,28 +354,10 @@
                         "region": "",
                         "definition": "able to have a baby or be the father of a baby:vẫn còn khả năng sinh đẻ",
                         "examples": [
-                            "While most men remain fertile into old age, women do not.",
-                            "fertility[U]",
-                            "Certain drugs have been found to put women’s fertility at risk make them less fertile."
+                            "While most men remain fertile into old age, women do not."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -304,23 +390,7 @@
                             "The doctor told the couple that they were unable to have children."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -334,28 +404,10 @@
                         "region": "",
                         "definition": "unable to have babies - used especiallyaboutwomen: “cằn cỗi”vô sinh (phụ nữ)",
                         "examples": [
-                            "New medical techniques provide hope for infertile couples.",
-                            "infertility[U]",
-                            "It took Helen a long time to come to terms with her infertility."
+                            "New medical techniques provide hope for infertile couples."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -369,28 +421,10 @@
                         "region": "",
                         "definition": "unable to have babies or to be the father of a baby, especially when this is apermanentcondition:vô sinh“cằn cỗi”",
                         "examples": [
-                            "Susan thought that her illness had made her sterile.",
-                            "sterility[U]sự vô sinh",
-                            "Sterility in men seems to be on the increase."
+                            "Susan thought that her illness had made her sterile."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -423,23 +457,7 @@
                             "She washavingregular strong contractions every four minutes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -454,23 +472,7 @@
                         "definition": "the material, including the placenta , which is pushed out of a woman's or female animal's body soon after she has given birth : nhau",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -487,23 +489,7 @@
                             "He asked the nurse if he could cut his son's umbilical cord."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -520,23 +506,7 @@
                             "At 3 a.m. her waters broke, and the baby was born soon after."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -571,23 +541,7 @@
                             "Our dog had six puppies while we were away on vacation."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -607,28 +561,11 @@
                             "bear sb a child/son/daughter",
                             "She bore him three sons.",
                             "When his wife bore hima childhe could not hide his delight.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "childbearing[U] the process of being pregnant and giving birth to children : sinh đẻ",
                             "the trend towards later marriage and childbearing"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -642,24 +579,24 @@
                         "region": "",
                         "definition": "to have a baby for the first time:làm mẹ (sinh con lần đâu tiên)",
                         "examples": [
-                            "Rachel was looking forward to becoming a mother.",
-                            "become the mother of a son/twins etc: sinh con trai/ sinh đôi",
-                            "Nine months later she became the mother of a son, who was named George."
+                            "Rachel was looking forward to becoming a mother."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "become the mother of a son/twins etc: sinh con trai/ sinh đôi",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Nine months later she became the mother of a son, who was named George."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -698,23 +635,7 @@
                             "Julia’s third child had to be delivered by caesarean section."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -727,28 +648,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "a person, usually a woman, who is trained to help women when they are giving birth : bà đỡ; nữ hộ sinh",
-                        "examples": [
-                            "midwifery[U] thuật đỡ đẻ",
-                            "At nursing college, she specialized in midwifery."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -778,26 +679,26 @@
                         "region": "",
                         "definition": "the process of giving birth:quá trình sinh đẻ",
                         "examples": [
-                            "Most women have some kind of pain relief during childbirth.",
-                            "die in childbirthdie while giving birth:chết khi sinh con",
-                            "Samuel’s mother died in childbirth, and he was brought up by his aunt.",
-                            "natural childbirthwithout drugs, medical operations etc:",
-                            "Natural childbirth has become more popular over the last 20 years."
+                            "Most women have some kind of pain relief during childbirth."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "die in childbirthdie while giving birth:chết khi sinh con",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Samuel’s mother died in childbirth, and he was brought up by his aunt.",
+                                    "natural childbirthwithout drugs, medical operations etc:",
+                                    "Natural childbirth has become more popular over the last 20 years."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -819,23 +720,7 @@
                             "Meg was recovering from a particularly complicated delivery."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -849,24 +734,24 @@
                         "region": "",
                         "definition": "to have a baby- use this especially to talk about the actual process of doing this: sinh con (quá trình)",
                         "examples": [
-                            "Zelda was admitted to the hospital at one o'clock, and gave birth two hours later.",
-                            "give birth to a child/daughter etc",
-                            "When Pablo was three, his mother gave birth to a daughter."
+                            "Zelda was admitted to the hospital at one o'clock, and gave birth two hours later."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give birth to a child/daughter etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "When Pablo was three, his mother gave birth to a daughter."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -884,26 +769,41 @@
                         "region": "",
                         "definition": "labourUK /US  thewholeprocessof giving birth, from the time when the baby starts to be pushed out of its mother’s body:đau đẻ, lâm bồn",
                         "examples": [
-                            "When Connie realized that her labor was starting, she quickly phoned both her husband and doctor.",
-                            "in labour đang đau đẻ, đang lâm bồn",
-                            "Sara was in labor for sixteen hours with our first child.",
-                            "go into labourbegin the process of giving birth : bắt đầu đẻ, lâm bồn",
-                            "One of the horses had gone into labour while the farmer was away."
+                            "When Connie realized that her labor was starting, she quickly phoned both her husband and doctor."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in labour đang đau đẻ, đang lâm bồn",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Sara was in labor for sixteen hours with our first child."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go into labourbegin the process of giving birth : bắt đầu đẻ, lâm bồn",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "One of the horses had gone into labour while the farmer was away."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

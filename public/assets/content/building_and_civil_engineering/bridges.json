@@ -40,23 +40,7 @@
                         "definition": "a bridge that can be pulled up to stop people from entering a castle, or to let ships pass : cầu rút",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -70,37 +54,210 @@
                         "region": "",
                         "definition": "a structure built over a river, road etc that allows people or vehicles to cross from one side to the other: cây cầu",
                         "examples": [
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "build a bridge(alsoerect a bridgeformal)Finally a new bridge was erected over the road.",
-                            "cross a bridgeAn estimated 150,000 cars cross the bridge each day.",
-                            "a bridge crosses sthA pretty stone bridge crosses the little river.",
-                            "a bridge spans sth(= crosses a wide area )By 1875 a railroad bridge spanned the Missouri.",
-                            "a bridge links sth to/with sthThere's a road bridge linking the site with Stockton town centre.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "types of bridge",
-                            "a stone/wooden/iron bridgeThe iron bridge was built in 1811.",
-                            "a railway bridgeBritish English,a railroad bridgeAmerican English(= for trains )Go under the railway bridge and turn right.",
-                            "a road bridge(= for cars )The government plans to construct a new road bridge to the island.",
-                            "a suspension bridge(= one that hangs from strong steel ropes) cầu treoA famous suspension bridge spans the estuary.",
-                            "a swing bridgeBritish English(= one that can be pulled up for ships to go under) cầu quay",
-                            "a toll bridge(= one that you pay to go across)",
-                            "a rope bridge[ C ] a bridge made of long pieces of rope tied together with knots, and wooden boards for people to walk on, used especially in the past or for children's games : cầu dây",
-                            "a humpback bridgeBritish English(= a short bridge with a steep slope at each side) cầu vòm"
+                            "a rope bridge[ C ] a bridge made of long pieces of rope tied together with knots, and wooden boards for people to walk on, used especially in the past or for children's games : cầu dây"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "build a bridge",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoerect a bridgeformal",
+                                "examples": [
+                                    "Finally a new bridge was erected over the road."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cross a bridge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "An estimated 150,000 cars cross the bridge each day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bridge crosses sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A pretty stone bridge crosses the little river."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bridge spans sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "crosses a wide area",
+                                "examples": [
+                                    "By 1875 a railroad bridge spanned the Missouri."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bridge links sth to/with sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There's a road bridge linking the site with Stockton town centre."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a stone/wooden/iron bridge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The iron bridge was built in 1811."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a railway bridgeBritish English,a railroad bridgeAmerican English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for trains",
+                                "examples": [
+                                    "Go under the railway bridge and turn right."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a road bridge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for cars",
+                                "examples": [
+                                    "The government plans to construct a new road bridge to the island."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a suspension bridge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that hangs from strong steel ropes",
+                                "examples": [
+                                    "cầu treoA famous suspension bridge spans the estuary."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a swing bridgeBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that can be pulled up for ships to go under",
+                                "examples": [
+                                    "cầu quay"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a toll bridge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that you pay to go across",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a humpback bridgeBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a short bridge with a steep slope at each side",
+                                "examples": [
+                                    "cầu vòm"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -119,23 +276,7 @@
                         "definition": "a narrow bridge used by people who are walking : cầu bộ hành",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -153,23 +294,7 @@
                             "Mivan spent most of the 1980s in Iraq building flyovers, apartments, power stations and an airport."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -186,23 +311,7 @@
                             "a railway viaduct"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -236,23 +345,7 @@
                             "a fallen tree bridging the stream."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

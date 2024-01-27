@@ -48,23 +48,7 @@
                             "▪ We started the meeting by agreeing on a set of objectives."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,27 +61,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "/gruːp/  a number of separate things that are thought of as a group because they are close together or are all similar in some way: nhóm",
-                        "examples": [
-                            "group of nhóm các",
-                            "▪ The house was hidden behind a tall group of trees.",
-                            "▪ News International is a group of companies that produce newspapers and TV programmes.",
-                            "▪ A group of new houses is to be built on the old playing-field.",
-                            "▪ Today you will learn a new group of verbs."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "group of nhóm các",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The house was hidden behind a tall group of trees.",
+                                    "▪ News International is a group of companies that produce newspapers and TV programmes.",
+                                    "▪ A group of new houses is to be built on the old playing-field.",
+                                    "▪ Today you will learn a new group of verbs."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -118,40 +101,263 @@
                             "a stamp collection",
                             "collection of",
                             "a collection of Japanese vases",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "an art collectionthe National Gallery’s art collection",
-                            "a stamp/coin/book/glass etc collectionan impressive Roman coin collection",
-                            "a CD/record/music collectionHave you seen his CD collection?",
-                            "a photographic collectionThe museum’s photographic collection dates from the nineteenth century.",
-                            "a museum collectionThe specimens are now part of a fine museum collection in London.",
-                            "a library collectionMost lecturers are keen to build up library collections in their subjects.",
-                            "a private collection(= belonging to a person rather than a museum, gallery etc )Many of the paintings are now in private collections.",
-                            "a national collectionFrance has many national art collections.",
-                            "a permanent collectionThe art gallery hosts exhibitions and a permanent collection.",
-                            "a large collection(alsoan extensive collectionformal)The museum has an extensive collection of Greek statues.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a collectionShe has an extensive collection of Chinese vases.",
-                            "start a collectionI think I might start a stamp collection.",
-                            "build up a collectionHe gradually built up a collection of plants from all over the world.",
-                            "acquire/assemble/amass a collectionformal The two men amassed a remarkable collection of medieval manuscripts.",
-                            "sth holds/houses a collectionformal The museum holds a comprehensive collection of photographs from that period.",
-                            "a collection consists of/contains somethingThe collection consists of some 500 items.",
-                            "a collection includes somethingThe collection includes paintings both in oils and in watercolours."
+                            "a stamp/coin/book/glass etc collectionan impressive Roman coin collection"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "CD/record/music collectionHave you seen his CD collection?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a photographic collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The museum’s photographic collection dates from the nineteenth century."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a museum collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The specimens are now part of a fine museum collection in London."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a library collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most lecturers are keen to build up library collections in their subjects."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a private collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "belonging to a person rather than a museum, gallery etc",
+                                "examples": [
+                                    "Many of the paintings are now in private collections."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a national collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "France has many national art collections."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a permanent collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The art gallery hosts exhibitions and a permanent collection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a large collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoan extensive collectionformal",
+                                "examples": [
+                                    "The museum has an extensive collection of Greek statues."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She has an extensive collection of Chinese vases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "start a collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think I might start a stamp collection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "build up a collection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He gradually built up a collection of plants from all over the world."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acquire/assemble/amass a collectionformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The two men amassed a remarkable collection of medieval manuscripts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sth holds/houses a collectionformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The museum holds a comprehensive collection of photographs from that period."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a collection consists of/contains something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The collection consists of some 500 items."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a collection includes something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The collection includes paintings both in oils and in watercolours."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -175,23 +381,7 @@
                             "▪ Bring that lot over here, will you?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -204,21 +394,34 @@
                         "usage": "",
                         "region": "",
                         "definition": "a mixture of different things or of various kinds of the same thing:các loại",
-                        "examples": [
-                            "assortment of",
-                            "On the floor was an assortment of boxes and packages.",
-                            "The soldier received a parcel containing an assortment of shirts, biscuits, and canned food.",
-                            "anodd assortmentof knives and forks"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "assortment of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "On the floor was an assortment of boxes and packages.",
+                                    "The soldier received a parcel containing an assortment of shirts, biscuits, and canned food."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "anodd assortmentof knives and forks",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -240,28 +443,42 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈklʌstəʳ/  a small group of things of the same type that are close to each other: cụm",
-                        "examples": [
-                            "cluster of",
-                            "▪ From the airplane we could already see little clusters of houses.",
-                            "▪ It’s an attractive shrub with dark shiny leaves, that has clusters of white flowers in early June.",
-                            "▪ The adult female lays large clusters of eggs.",
-                            "in clusters",
-                            "▪ Most galaxies are found in clusters rather than in isolation."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cluster of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ From the airplane we could already see little clusters of houses.",
+                                    "▪ It’s an attractive shrub with dark shiny leaves, that has clusters of white flowers in early June.",
+                                    "▪ The adult female lays large clusters of eggs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in clusters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Most galaxies are found in clusters rather than in isolation."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -279,25 +496,25 @@
                         "region": "",
                         "definition": "a group of things of the same type that are made or dealt with at the same time: lô",
                         "examples": [
-                            "▪ Sort the files into batches and give one batch to each secretary.",
-                            "batch of lô",
-                            "▪ The baker took a batch of freshly baked rolls out of the oven.",
-                            "▪ Mr Green, I have a batch of letters here for you to sign."
+                            "▪ Sort the files into batches and give one batch to each secretary."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "batch of lô",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The baker took a batch of freshly baked rolls out of the oven.",
+                                    "▪ Mr Green, I have a batch of letters here for you to sign."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -325,7 +542,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[countable noun]",
                         "usage": "",
                         "region": "",
@@ -342,23 +559,7 @@
                             "Bảo tàng có một trong những bộ sưu tập tranh Ấn tượng đẹp nhất thế giới."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -366,7 +567,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[countable noun]",
                         "usage": "",
                         "region": "",
@@ -383,23 +584,7 @@
                             "một bộ đồng tiền vàng kỷ niệm"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -437,23 +622,7 @@
                             "▪ They sell furniture, toys, cards - all sorts of things."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -478,27 +647,10 @@
                             "I’ve got so much stuff to do this weekend.",
                             "There’s a lot of interesting stuff in this book.",
                             "He’s talked to me aboutall that stufftoo.",
-                            "He does mountain biking and skiing, andstuff like that.",
-                            ""
+                            "He does mountain biking and skiing, andstuff like that."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -511,24 +663,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "several different things, especially small things that are not of much value: đồ linh tinh, đồ lặt vặt.",
-                        "examples": [
-                            "In the drawer she found a photograph, an old hairbrush, and various other odds and ends",
-                            "Odds and ends that haven’t sold have been drastically reduced in price."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "In the drawer she found a photograph, an old hairbrush, and various other odds and ends",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Odds and ends that haven’t sold have been drastically reduced in price."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -550,23 +701,7 @@
                             "▪ Do any of these bits and bobs belong to you?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -588,23 +723,7 @@
                             "The police found drug paraphernalia all over the house."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -642,23 +761,7 @@
                             "We piled the branches into heaps for burning."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -689,23 +792,7 @@
                             "in piles"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -727,23 +814,7 @@
                             "stacks of dirty dishes"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -756,21 +827,34 @@
                         "usage": "",
                         "region": "",
                         "definition": "a pile of something with a round shape: gò, mô, đống",
-                        "examples": [
-                            "mound of",
-                            "The Grand Hotel was now just a mound of rubble.",
-                            "A mound of leaves is the perfect place for a hedgehog to hibernate.",
-                            "a small mound of rice on the plate"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "mound of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Grand Hotel was now just a mound of rubble.",
+                                    "A mound of leaves is the perfect place for a hedgehog to hibernate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a small mound of rice on the plate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -796,23 +880,7 @@
                             "a mountain of dirty laundry waiting to be washed"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -825,24 +893,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a group of objects together in the same place : đống, chồng",
-                        "examples": [
-                            "a collection of empty wine bottles on the back porch",
-                            "There's quite a collection of toothbrushes in the bathroom."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a collection of empty wine bottles on the back porch",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "There's quite a collection of toothbrushes in the bathroom."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -884,23 +951,7 @@
                             "a wad of cotton wool"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -921,23 +972,7 @@
                             "She keeps all his old letters, tied up in bundles."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -949,27 +984,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "1several pieces of paper held or tied together : thếp",
-                        "examples": [
-                            "sheaf of",
-                            "He laid a sheaf of documents on the desk.",
-                            "He had a sheaf of papers under his arm.",
-                            "2a bunch of wheat, corn etc tied together after it has been cut : bó, lượm",
-                            "I saw her put a sheaf of notes into her briefcase."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sheaf of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He laid a sheaf of documents on the desk.",
+                                    "He had a sheaf of papers under his arm."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "2a bunch of wheat, corn etc tied together after it has been cut : bó, lượm",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I saw her put a sheaf of notes into her briefcase."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -986,30 +1035,108 @@
                         "usage": "",
                         "region": "",
                         "definition": "a group of things that are fastened, held, or growing together:bó, cụm , búi, buồng",
-                        "examples": [
-                            "bunch of",
-                            "I’ll send her a bunch of flowers .",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a bunch of flowers/roses/daffodils etcI picked a bunch of flowers from the garden.",
-                            "a bunch of keysA bunch of keys dangled from his belt.",
-                            "a bunch of grapesShe served the cheese with a bunch of black grapes.",
-                            "a bunch of bananasBunches of bananas hung in the trees.",
-                            "a bunch of herbs/parsley/thyme etcYou might like to add a bunch of fresh herbs to the stock."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a bunch of flowers/roses/daffodils etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I picked a bunch of flowers from the garden."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bunch of keys",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A bunch of keys dangled from his belt."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bunch of grapes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She served the cheese with a bunch of black grapes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bunch of bananas",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Bunches of bananas hung in the trees."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bunch of herbs/parsley/thyme etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You might like to add a bunch of fresh herbs to the stock."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bunch of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I’ll send her a bunch of flowers ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1031,23 +1158,7 @@
                             "a bookofstamps/tickets/matches"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1076,24 +1187,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a group of people, especially people you think are strange or unusual in some way : đống",
-                        "examples": [
-                            "collection of",
-                            "There was an interesting collection of people at the wedding."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "collection of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "There was an interesting collection of people at the wedding."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1110,24 +1220,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a group of products or machines which are all at the same stage of development : đời, thế hệ",
-                        "examples": [
-                            "anewgeneration of low-fat margarines",
-                            "Scientists are working on developing thenextgeneration of supercomputers."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "anewgeneration of low-fat margarines",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Scientists are working on developing thenextgeneration of supercomputers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1152,23 +1261,7 @@
                             "The information pack consists of a brochure and a map."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1193,23 +1286,7 @@
                             "The computer comes with a software package."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1225,28 +1302,92 @@
                         "examples": [
                             "range of",
                             "a range of services",
-                            "The drug is effective against a range of bacteria.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a wide/broad rangeThe Institute organises talks on a wide range of topics.",
-                            "a whole range(= a wide range )He also supports a whole range of other charities.",
-                            "a large/great/huge/vast rangeA vast range of plants are used in medicines.",
-                            "a diverse rangeDuring his career he has run a diverse range of businesses.",
-                            "a narrow/limited rangeThey only had a very limited range of products available."
+                            "The drug is effective against a range of bacteria."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a wide/broad range",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The Institute organises talks on a wide range of topics."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a whole range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a wide range",
+                                "examples": [
+                                    "He also supports a whole range of other charities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a large/great/huge/vast range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A vast range of plants are used in medicines."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a diverse range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "During his career he has run a diverse range of businesses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a narrow/limited range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They only had a very limited range of products available."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1266,26 +1407,58 @@
                         "examples": [
                             "selection of",
                             "a wide selection of shellfish",
-                            "They only have alimited selectionof his books.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a wide/large/big selectionThe museum shop offers a wide selection of items.",
-                            "a good selectionThere is a good selection of bars and cafés nearby.",
-                            "a varied selectionThe supermarket has a varied selection of fruit juice drinks especially for children."
+                            "They only have alimited selectionof his books."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a wide/large/big selection",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The museum shop offers a wide selection of items."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a good selection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There is a good selection of bars and cafés nearby."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a varied selection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The supermarket has a varied selection of fruit juice drinks especially for children."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1325,23 +1498,7 @@
                             "several major UK supermarket chains"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1361,23 +1518,7 @@
                             "Her pay rise brought her into a new tax bracket."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1393,28 +1534,92 @@
                         "examples": [
                             "round of",
                             "a third round of peace talks",
-                            "the Government’s latest round of expenditure cuts",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a round of talks/negotiations/meetingsA second round of talks got under way this week.",
-                            "a round of votingIn the first round of voting he took 44.5 percent of the vote,",
-                            "a round of cuts(= when a government or a company reduces the size or amount of sth)The President is likely to approve a new round of cuts in military forces.",
-                            "a round of layoffs(= when people are told to leave their jobs )The latest round of layoffs could bring its labor force down to 60,000.",
-                            "a round of violenceWhat has prompted the latest round of violence?"
+                            "the Government’s latest round of expenditure cuts"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a round of talks/negotiations/meetings",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A second round of talks got under way this week."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a round of voting",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In the first round of voting he took 44.5 percent of the vote,"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a round of cuts",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when a government or a company reduces the size or amount of sth",
+                                "examples": [
+                                    "The President is likely to approve a new round of cuts in military forces."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a round of layoffs",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when people are told to leave their jobs",
+                                "examples": [
+                                    "The latest round of layoffs could bring its labor force down to 60,000."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a round of violence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What has prompted the latest round of violence?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1431,27 +1636,10 @@
                         "region": "",
                         "definition": "(all) combined in a single person or object",
                         "examples": [
-                            "With this model you get a radio, CD player and cassette deck all in one.",
-                            ""
+                            "With this model you get a radio, CD player and cassette deck all in one."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1475,23 +1663,7 @@
                             "the wonders of the natural world"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

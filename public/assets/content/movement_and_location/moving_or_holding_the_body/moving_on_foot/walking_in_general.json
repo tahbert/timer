@@ -46,23 +46,7 @@
                             "a fast/slow etc walkersb who walks fast, slowly etc"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -91,46 +75,181 @@
                         "usage": "",
                         "region": "",
                         "definition": "to move forward by putting one foot in front of the other :",
-                        "examples": [
-                            "‘How did you get here?’ ‘We walked.’",
-                            "Doctors said he’d never walk again.",
-                            "walk into/out of/along/back etc",
-                            "Jed walked out of the station and got into a taxi.",
-                            "I was walking along Main Street when I met Pierre.",
-                            "Carrie walked into the room and sat down in her chair.",
-                            "He loved walking in the hills.",
-                            "walk home",
-                            "She hates walking home alone at night.",
-                            "walk a mile/200 metres/a short distance etc",
-                            "We must have walked ten miles today.",
-                            "I walked all the way to San Rafael.",
-                            "within (easy) walking distance (of sth)(= near enough to be able to walk to )",
-                            "There are plenty of bars and restaurants within walking distance of the hotel.",
-                            "walking pace(= the speed that you normally walk at )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "walk[C] A2 a particular journey that you make by walking, especially one that goes through an interesting or attractive area :",
-                            "He says he’sgoing ona longwalktomorrow.",
-                            "Have you everdonethe Three Peakswalk?",
-                            "coastal/hill etc walk",
-                            "There is a stunning 10-mile coastal walk from St Andrews to Crail.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a five-mile/ten-kilometre etc walkHe began the five-mile walk back to town.",
-                            "a five-minute/two-hour etc walkThere’s a good restaurant a five-minute walk away."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "walk[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "C] A2 a particular journey that you make by walking, especially one that goes through an interesting or attractive area :"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a five-mile/ten-kilometre etc walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He began the five-mile walk back to town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a five-minute/two-hour etc walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There’s a good restaurant a five-minute walk away."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "‘How did you get here?’ ‘We walked.’",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Doctors said he’d never walk again."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "walk into/out of/along/back etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Jed walked out of the station and got into a taxi.",
+                                    "I was walking along Main Street when I met Pierre.",
+                                    "Carrie walked into the room and sat down in her chair.",
+                                    "He loved walking in the hills."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "walk home",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She hates walking home alone at night."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "walk a mile/200 metres/a short distance etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We must have walked ten miles today.",
+                                    "I walked all the way to San Rafael."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "within (easy) walking distance (of sth)(= near enough to be able to walk to )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There are plenty of bars and restaurants within walking distance of the hotel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "walking pace(= the speed that you normally walk at )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He says he’sgoing ona longwalktomorrow.",
+                                    "Have you everdonethe Three Peakswalk?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "coastal/hill etc walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There is a stunning 10-mile coastal walk from St Andrews to Crail."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -168,12 +287,9 @@
                             "walk in/across/along etc",
                             "Sheena’s up at six every morning to walk along the beach.",
                             "I like to go walking in the woods, just to breathe the air.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "walk[C] A2 a journey that you make by walking, especially for exercise or enjoyment :",
                             "It’s a long walk. Maybe we should get the bus.",
                             "walk to/through/across etc",
                             "a walk through the castle grounds",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "go for a walk/take a walk/have a walk[VP] to walk somewhere for pleasure or for exercise.Go for a walkis more common in spoken English thantake a walk: đi dạo",
                             "It’s a lovely evening. Let’s go for a walk.",
                             "Let’s go for a walk on the beach.",
@@ -181,13 +297,6 @@
                             "go for a walk/take a walk along/through/across etc",
                             "He said he was going for a walk around the block to clear his head.",
                             "We arrived in St Louis at noon, and took a walk down by the Mississippi River.",
-                            "take sb/a dog for a walkCould you take the dog for a walk?",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a long walkWe went for a long walk in the woods.",
-                            "a short walkThe house is only a short walk from local shops.",
-                            "a little walkI just felt like a little walk.",
-                            "a brisk walkA brisk walk will improve your circulation.",
-                            "an easy walkFrom here it is an easy walk to the summit.",
                             "COMMON ERRORS",
                             "►Do not say 'go a walk' or 'make a walk'. Saygo for a walk."
                         ],
@@ -195,16 +304,120 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "walk[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "C] A2 a journey that you make by walking, especially for exercise or enjoyment :"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take sb/a dog for a walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Could you take the dog for a walk?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a long walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We went for a long walk in the woods."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a short walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The house is only a short walk from local shops."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a little walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I just felt like a little walk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a brisk walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A brisk walk will improve your circulation."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an easy walk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "From here it is an easy walk to the summit."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -226,23 +439,7 @@
                             "Do you feel like stopping here and stretching your legs?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -255,26 +452,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to take an animal, especially a dog, for a walk:",
-                        "examples": [
-                            "walk the dogtake your dog for a walk dẫn chó đi dạo",
-                            "I get quite a lot of exercise myself by walking the dog.",
-                            "Geoff wants a Walkman for when he walks the dogs.",
-                            "She walks the dog for an hour every afternoon."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "walk the dogtake your dog for a walk dẫn chó đi dạo",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I get quite a lot of exercise myself by walking the dog.",
+                                    "Geoff wants a Walkman for when he walks the dogs.",
+                                    "She walks the dog for an hour every afternoon."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -319,23 +515,7 @@
                             "Hetookonestepand fell."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -353,23 +533,7 @@
                             "Doctor Jameson hurried past us, taking long strides."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -404,23 +568,7 @@
                             "Janet had the slow, leaning walk of an expectant mother."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -435,18 +583,17 @@
                         "definition": "writtenthe way sb walks, especially when it is a littlestrangeorunusual:kiểu đi (thường là kì quặc)",
                         "examples": [
                             "Melanie walked with the slightly awkward gait of a very tall person.",
-                            "The old man approached the counter with a stooped, shuffling gait.",
-                            "a slow shuffling gait"
+                            "The old man approached the counter with a stooped, shuffling gait."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a slow shuffling gait",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -485,25 +632,25 @@
                         "region": "",
                         "definition": "the sound of sb’s foot being placed on the ground when they are walking or running: tiếng bước chân",
                         "examples": [
-                            "I could always recognise my mother’s footsteps as she scurried up the stairs.",
-                            "heard footsteps",
-                            "He heard someone’s footsteps in the hall.",
-                            "Suddenly Rachel heard footsteps behind her in the dark street."
+                            "I could always recognise my mother’s footsteps as she scurried up the stairs."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "heard footsteps",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He heard someone’s footsteps in the hall.",
+                                    "Suddenly Rachel heard footsteps behind her in the dark street."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -542,23 +689,7 @@
                             "I’d gone about ten paces, when I heard a strange sound behind me."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -576,23 +707,7 @@
                             "I'd only gone a few steps down the road when I realized I'd forgotten to lock the door."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -609,23 +724,7 @@
                             "Paco reached the door in only three strides."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -654,26 +753,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to raise one foot and put it down in front of or behind the other one in order to walk or move : bước",
-                        "examples": [
-                            "step forward/back/down/into etc",
-                            "He stepped back to let me through.",
-                            "I stepped outside and closed the door.",
-                            "Mr. Ives? Pleasestep this way(= walk in the direction I am showing you )."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "step forward/back/down/into etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He stepped back to let me through.",
+                                    "I stepped outside and closed the door.",
+                                    "Mr. Ives? Pleasestep this way(= walk in the direction I am showing you )."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -714,23 +812,7 @@
                             "walking holiday/tour etc(= a holiday on which you walk a lot, especially in the countryside )"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

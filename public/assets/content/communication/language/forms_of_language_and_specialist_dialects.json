@@ -52,23 +52,7 @@
                             "At home, they speak in dialect."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -86,43 +70,280 @@
                             "one of the best-known poems in the English language",
                             "speak the language be able to speak the language of the country you are in nói ngôn ngữ bản địa",
                             "It’s difficult living in a country where you don’t speak the language.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "speak a languageCan you speak a foreign language?",
-                            "use a languageThe children use their native language at home.",
-                            "learn a languageImmigrants are expected to learn the language of their new country.",
-                            "master a language(= succeed in learning a language well )She had had a long struggle to master the Russian language.",
-                            "know a languageHe had lived in Japan, but did not know the language.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a foreign languageHe found learning a foreign language extremely difficult.",
-                            "the English/Japanese/Spanish etc languageShe had some knowledge of the Spanish language.",
-                            "sb’s first/native language(= the language someone first learned as a child )His first language was Polish.",
-                            "a second language(= a language you speak that is not your first language )Most of the students learned English as their second language.",
-                            "modern languages(= languages that are spoken now )The school has a good modern languages department.",
-                            "a dead language(= a language that is no longer spoken )She didn’t see the point of learning a dead language.",
-                            "an official language(= the language used for official business in a country )Canada has two official languages: English and French.",
-                            "a common language(= a language that more than one person or group speaks, so that they can understand each other )Most of the countries of South America share a common language: Spanish.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the language barrier(= the problem of communicating with someone when you do not speak the same language )Because of the language barrier, it was hard for doctors to give good advice to patients.",
-                            "a language student/learnerLanguage learners often have problems with tenses.",
                             "a language teachera book for language teachers",
-                            "language teachingrecent developments in language teaching",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "sb’s command of a language(= someone’s ability to speak a language )Does he have a good command of the language?"
+                            "language teachingrecent developments in language teaching"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "speak a language",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Can you speak a foreign language?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use a language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The children use their native language at home."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "learn a language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Immigrants are expected to learn the language of their new country."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "master a language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "succeed in learning a language well",
+                                "examples": [
+                                    "She had had a long struggle to master the Russian language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "know a language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had lived in Japan, but did not know the language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a foreign language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He found learning a foreign language extremely difficult."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "English/Japanese/Spanish etc languageShe had some knowledge of the Spanish language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s first/native language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the language someone first learned as a child",
+                                "examples": [
+                                    "His first language was Polish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a second language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a language you speak that is not your first language",
+                                "examples": [
+                                    "Most of the students learned English as their second language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "modern languages",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "languages that are spoken now",
+                                "examples": [
+                                    "The school has a good modern languages department."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dead language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a language that is no longer spoken",
+                                "examples": [
+                                    "She didn’t see the point of learning a dead language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an official language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the language used for official business in a country",
+                                "examples": [
+                                    "Canada has two official languages: English and French."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a common language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a language that more than one person or group speaks, so that they can understand each other",
+                                "examples": [
+                                    "Most of the countries of South America share a common language: Spanish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the language barrier",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the problem of communicating with someone when you do not speak the same language",
+                                "examples": [
+                                    "Because of the language barrier, it was hard for doctors to give good advice to patients."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a language student/learner",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Language learners often have problems with tenses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s command of a language",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone’s ability to speak a language",
+                                "examples": [
+                                    "Does he have a good command of the language?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -140,28 +361,58 @@
                         "region": "",
                         "definition": "/slæŋ/  veryinformalwords used in a particular country or place:tiếng lóng",
                         "examples": [
-                            "▪ I was totally confused by the slang that the other kids were using.",
-                            "slang for",
-                            "▪ ‘Bladdered’ is slang for ‘drunk’.",
-                            "slang word/term/expression",
-                            "▪ ‘Shepherd’ was a slang term for a spy.",
-                            "US/British/Southern etc slang",
-                            "▪ ‘Baloney’ is US slang for nonsense."
+                            "▪ I was totally confused by the slang that the other kids were using."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "slang for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ ‘Bladdered’ is slang for ‘drunk’."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "slang word/term/expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ ‘Shepherd’ was a slang term for a spy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "US/British/Southern etc slang",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ ‘Baloney’ is US slang for nonsense."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -184,23 +435,7 @@
                             "▪ You shouldn’t use phrases like ‘sort of’ in essays -- they’re too colloquial."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -234,23 +469,7 @@
                             "Idiomatic and spoken phrases tend to differ widely throughout the country."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -265,18 +484,17 @@
                         "definition": "using spoken rather than written language - use this especially about tests and exams.Oralis also used about culture, traditions, and history that are based on spoken English rather than being written down: miệng, truyền miệng",
                         "examples": [
                             "We had a 15-minute oral exam in German.",
-                            "Anglo-Saxon stories and poems were part of a largely oral culture.",
-                            "an oral agreement/ exam"
+                            "Anglo-Saxon stories and poems were part of a largely oral culture."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "an oral agreement/ exam",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -298,22 +516,34 @@
                         "usage": "",
                         "region": "",
                         "definition": "spoken rather than written - use this especially about agreements, warnings, announcements etc that have never been written down and are therefore not always official: bằng miệng",
-                        "examples": [
-                            "verbal agreement/instructions etc",
-                            "We had a verbal agreement but no written contract.",
-                            "Federal authorities gave Alascom verbal approval to begin the project.",
-                            "a verbal agreement/description/explanation",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "verbal agreement/instructions etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We had a verbal agreement but no written contract.",
+                                    "Federal authorities gave Alascom verbal approval to begin the project."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a verbal agreement/description/explanation",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -340,29 +570,10 @@
                             "The tribe’s history was passed on by word of mouth.",
                             "A word-of-mouth recommendation is probably the best form of advertising.",
                             "He found out about the job by word of mouth.",
-                            "A lot of our customers hear about us through word of mouth.",
-                            "word-of-mouth[attri]",
-                            "We get most of our work through word-of-mouth recommendations.",
-                            "word-of-mouth publicity"
+                            "A lot of our customers hear about us through word of mouth."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -390,24 +601,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "adjectiveWORDSbằng lời nói( hơn là cử chỉ)",
-                        "examples": [
-                            "relating to words",
-                            "_It can sometimes be difficult to give a verbal description of things like colours and sounds."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "relating to words",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_It can sometimes be difficult to give a verbal description of things like colours and sounds."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -428,23 +638,7 @@
                             "Non-standard dialects of English are regional dialects."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -462,23 +656,7 @@
                             "In StandardAmerican, 'gotten' is used as a past participle of 'get'."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -517,23 +695,7 @@
                             "_military/legal/computer jargon"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -560,23 +722,7 @@
                             "the language of science"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -589,26 +735,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌtɜːʳmɪˈnɒlədʒi, ˌtɜːʳməˈnɒlədʒiǁ-ˈnɑː-/  thespecialwords that people working in science, medicine, the law etc use to describe things:",
-                        "examples": [
-                            "thuật ngữ",
-                            "▪ It is important that lawyers use the correct terminology when they prepare contracts.",
-                            "scientific/linguistic/computer etc terminology thuật ngữ khoa học, ngôn ngữ, máy tính",
-                            "▪ It was an interesting programme, which gave the facts without using too much scientific terminology."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "thuật ngữ",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ It is important that lawyers use the correct terminology when they prepare contracts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "scientific/linguistic/computer etc terminology thuật ngữ khoa học, ngôn ngữ, máy tính",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ It was an interesting programme, which gave the facts without using too much scientific terminology."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -631,23 +791,7 @@
                             "▪ ‘Doolally’, meaning ‘crazy’, is 19th century soldiers’ slang, and comes from the name of an Indian town."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -664,23 +808,7 @@
                             "▪ I want a book that will explain to me in layman’s terms how my computer works."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -694,24 +822,24 @@
                         "region": "",
                         "definition": "/-spiːk/ management/boardroom/PR etc -speaka type of language and the words used by managers etc - use this especially to talk about a way of speaking that you think is silly or unnecessarily different from normal language:",
                         "examples": [
-                            "cách nói, ngôn ngữ của ...",
-                            "▪ ‘What on earth does he mean, ‘window’?’ ‘Oh, that’s management-speak for ‘opportunity’.’",
-                            "▪ Her email was so full of corporate-speak, you hardly realized that what she was saying was that we were all fired."
+                            "cách nói, ngôn ngữ của ..."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "▪ ‘What on earth does he mean, ‘window’?’ ‘Oh, that’s management-speak for ‘opportunity’.’",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Her email was so full of corporate-speak, you hardly realized that what she was saying was that we were all fired."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -748,23 +876,7 @@
                             "Why can't they write these instructions in plain English?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -781,23 +893,7 @@
                             "the origins of language"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -43,23 +43,7 @@
                             "▪ The seats were all taken and we had to stand up all the way from Tokyo to Nagoya."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -67,7 +51,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -77,23 +61,7 @@
                             "She’d been on her feet all morning without once sitting down."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -107,25 +75,25 @@
                         "region": "",
                         "definition": "/ontiptoes/onyour tiptoes standing on your toes, especially when you stretch your body in order to see something or reach sth: kiễng, nhón",
                         "examples": [
-                            "She was up on her tiptoes, with her arm about his neck.",
-                            "stand on tiptoe",
-                            "She stood on her tiptoes to open the high window.",
-                            "People were standing on tiptoe to try and see what was happening."
+                            "She was up on her tiptoes, with her arm about his neck."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "stand on tiptoe",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She stood on her tiptoes to open the high window.",
+                                    "People were standing on tiptoe to try and see what was happening."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -142,26 +110,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to stand while resting part of your body against a wall, a table etc: đứng dựa",
-                        "examples": [
-                            "lean against/on",
-                            "He was leaning on the bridge, watching the boats go by.",
-                            "Kay was leaning against the wall, smoking a cigarette.",
-                            "Joe leaned on the gate and watched as they drove away."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lean against/on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was leaning on the bridge, watching the boats go by.",
+                                    "Kay was leaning against the wall, smoking a cigarette.",
+                                    "Joe leaned on the gate and watched as they drove away."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -200,23 +167,7 @@
                             "The ceilings were so low that Mark couldn’t stand up straight."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -248,30 +199,60 @@
                         "examples": [
                             "▪ She got up and turned off the TV.",
                             "▪ I can’t get up. Give me a hand, will you?",
-                            "▪ I watched how slowly he got up, how stiff he seemed.",
-                            "get up from a chair/seat/sofa etc",
-                            "▪ Max got up from his chair and shook her hand.",
-                            "▪ When Maura came in, he got up from the table and poured the coffe.",
-                            "get up off the floor/ground/grass etc",
-                            "▪ One of her friends helped her to get up off the floor.",
-                            "▪ I got up off the grass and strolled over to where Rob was sitting.",
-                            "get up to do something/get up and do something",
-                            "▪ I was left with Maria when the others got up to dance."
+                            "▪ I watched how slowly he got up, how stiff he seemed."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get up from a chair/seat/sofa etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Max got up from his chair and shook her hand.",
+                                    "▪ When Maura came in, he got up from the table and poured the coffe."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get up off the floor/ground/grass etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ One of her friends helped her to get up off the floor.",
+                                    "▪ I got up off the grass and strolled over to where Rob was sitting."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get up to do something/get up and do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I was left with Maria when the others got up to dance."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -295,23 +276,7 @@
                             "▪ Abruptly she stood up, and got ready to leave."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -329,23 +294,7 @@
                             "My attorney got slowly to his feet, breathing heavily."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -360,26 +309,41 @@
                         "definition": "formal to stand up - use this especially in descriptions of events and formal ceremonies: trỗi dậy",
                         "examples": [
                             "▪ The old woman rose stiffly and held out her hand.",
-                            "▪ The congregation rose as the bride entered the cathedral.",
-                            "rise from your seat/the table/a chair etc",
-                            "▪ The chairman had already risen from his seat and was beginning his speech.",
-                            "rise to your feet",
-                            "▪ Audience members rose to their feet, cheering and clapping."
+                            "▪ The congregation rose as the bride entered the cathedral."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "rise from your seat/the table/a chair etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The chairman had already risen from his seat and was beginning his speech."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rise to your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Audience members rose to their feet, cheering and clapping."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -401,23 +365,7 @@
                             "Would you all please stand to sing hymn 106?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -446,27 +394,10 @@
                         "region": "",
                         "definition": "Stand up straight with your back against the wall.",
                         "examples": [
-                            "The pain in his stomach was so severe that he could no longer stand up straight.",
-                            ""
+                            "The pain in his stomach was so severe that he could no longer stand up straight."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -480,18 +411,17 @@
                         "region": "",
                         "definition": "stand to/at attention if sb, especially soldiers or a police officers, , they stand with their backs straight, their arms straight down by their sides, and their feet close together: đứng nghiêm",
                         "examples": [
-                            "The colonel gave the order for the men to stand to attention.",
-                            "We stood at attention until we were given permission to leave"
+                            "The colonel gave the order for the men to stand to attention."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "We stood at attention until we were given permission to leave",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -514,18 +444,17 @@
                         "region": "",
                         "definition": "draw/pull yourself up to your full height to stand up as straight as you can because you are angry with sb or are determined to make them listen to you:",
                         "examples": [
-                            "▪ I drew myself up to my full height and informed him that the President had sent me down here personally.",
-                            "▪ Trembling inside, I stepped out of the car and pulled myself up to my full height to face my adversary"
+                            "▪ I drew myself up to my full height and informed him that the President had sent me down here personally."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "▪ Trembling inside, I stepped out of the car and pulled myself up to my full height to face my adversary",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -549,27 +478,10 @@
                         "definition": "to stand up after bending down low: đứng thẳng lên",
                         "examples": [
                             "▪ She bent over the body, and when she straightened up there were tears in her eyes.",
-                            "▪ If you’re lifting something heavy, be careful not to hurt your back when you straighten up.",
-                            ""
+                            "▪ If you’re lifting something heavy, be careful not to hurt your back when you straighten up."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -598,27 +510,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "UK to put your foot down on something while you are standing or walking, especially accidentally: dẫm chân",
-                        "examples": [
-                            "tread in/on",
-                            "Sorry, did I tread on your foot?",
-                            "She trod barefoot on the soft grass.",
-                            "I trod in some mud in the park, and tracked it into the house.",
-                            "Ow, you trod on my foot, you clumsy brute!"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tread in/on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Sorry, did I tread on your foot?",
+                                    "She trod barefoot on the soft grass.",
+                                    "I trod in some mud in the park, and tracked it into the house.",
+                                    "Ow, you trod on my foot, you clumsy brute!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -635,26 +546,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to try to hurt or kill sb/sth, by putting your foot down onto them",
-                        "examples": [
-                            "stamp on sb/sth",
-                            "Marta shrieked and started stamping on the cockroach.",
-                            "There was a big cockroach in the kitchen and Barbara stamped on it.",
-                            "In a recent incident, youths stamped on a police officer’s head as she lay injured."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "stamp on sb/sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Marta shrieked and started stamping on the cockroach.",
+                                    "There was a big cockroach in the kitchen and Barbara stamped on it.",
+                                    "In a recent incident, youths stamped on a police officer’s head as she lay injured."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -671,26 +581,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to put your foot down on something while you are standing or walking, especially accidentally: dẫm chân",
-                        "examples": [
-                            "step in/on etc",
-                            "I accidentally stepped in a puddle.",
-                            "You’re stepping on my foot.",
-                            "I think I must have stepped on some glass."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "step in/on etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I accidentally stepped in a puddle.",
+                                    "You’re stepping on my foot.",
+                                    "I think I must have stepped on some glass."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -729,23 +638,7 @@
                             "She stood at the bus stopstampingherfeet(= because she was cold )."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -761,23 +654,7 @@
                             "Stand aside, please, so the doctor can get through."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -807,23 +684,7 @@
                         "definition": "(stand) used to tell sb, especially soldiers, to stand in a relaxed way with their feet apart :nghỉ!",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -837,23 +698,7 @@
                         "definition": "!used when ordering a group of people, especially soldiers, to stand up straight in neat lines",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

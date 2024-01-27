@@ -45,23 +45,7 @@
                             "His kitchen worktops offer a prime example of this approach."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,20 +60,10 @@
                         "definition": "a flat surface, usually supported by four legs, used for putting things on: cái bàn",
                         "examples": [
                             "The food was served on long tables.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "set/lay the table(= put knives, forks etc on a table before a meal )The table was set for fourteen.",
-                            "clear the table(= take plates etc off )Do you want me to clear the table?",
-                            "sit at a tableHe was sitting at a corner table.",
-                            "sit around a tableWe sat around the table and talked.",
-                            "get up from/leave the tableShe stood up from her chair and left the table.",
-                            "book/reserve a table(= in a restaurant )I've booked a table for four at a local restaurant.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "breakfast tableWill you clear the breakfast table?",
                             "the dinner table[S] the table at which the main meal of the day is served",
                             "They sat round the dinner table, arguing about politics.",
                             "No reading at the dinner table!",
                             "dining tablea table at which you eat meals",
-                            "kitchen/dining-room tableThey were chatting around the kitchen table.",
                             "bedside tableUKnightstandUS/night tablea small table which is kept at the side of a bedbàn đầu giường",
                             "dressing tablemainly UKvanityUS a piece of bedroom furniture like a table with a mirror and drawers :bàn trang điểm của phụ nữ"
                         ],
@@ -97,16 +71,137 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "set/lay the table",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put knives, forks etc on a table before a meal",
+                                "examples": [
+                                    "The table was set for fourteen."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clear the table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take plates etc off",
+                                "examples": [
+                                    "Do you want me to clear the table?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sit at a table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was sitting at a corner table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sit around a table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We sat around the table and talked."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get up from/leave the table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She stood up from her chair and left the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "book/reserve a table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in a restaurant",
+                                "examples": [
+                                    "I've booked a table for four at a local restaurant."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "breakfast table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Will you clear the breakfast table?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "kitchen/dining-room table",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They were chatting around the kitchen table."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -126,39 +221,245 @@
                         "examples": [
                             "Marie was sitting at her desk.",
                             "She satather desk writing letters.",
-                            "He had a pile of papersonhis desk.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "tidyHow come your desk is always so tidy?",
-                            "cluttered(= covered with papers, books etc in an untidy way )His desk is so cluttered he can't find anything.",
-                            "empty(= that no one is using )There are one or two empty desks in the office.",
-                            "a school deskThe children are at their school desks by 8:30 in the morning.",
-                            "an office deskI got back from holiday to find piles of papers on my office desk.",
-                            "a writing desk(= that you use for writing letters etc )Under the window was a small writing desk.",
-                            "a wooden/mahogany/rosewood etc deskHe sat at a plain wooden desk.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "sit at a deskI don't want to do a job in which I'm sitting at a desk all day.",
-                            "get up from your deskHe got up from his desk to welcome the visitors.",
-                            "tidy your deskI need to tidy my desk.",
-                            "clear your desk(= remove all the papers etc from it )It's a good idea to clear your desk regularly.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a desk job(= working mostly at a desk in an office )He left his desk job to become a gardener.",
-                            "a desk drawerI think I left my car keys in the desk drawer.",
-                            "a desk lampDon't forget to switch off the desk lamp."
+                            "He had a pile of papersonhis desk."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tidy",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "How come your desk is always so tidy?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cluttered",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "covered with papers, books etc in an untidy way",
+                                "examples": [
+                                    "His desk is so cluttered he can't find anything."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "empty",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that no one is using",
+                                "examples": [
+                                    "There are one or two empty desks in the office."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a school desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The children are at their school desks by 8:30 in the morning."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an office desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I got back from holiday to find piles of papers on my office desk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a writing desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that you use for writing letters etc",
+                                "examples": [
+                                    "Under the window was a small writing desk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wooden/mahogany/rosewood etc desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He sat at a plain wooden desk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sit at a desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I don't want to do a job in which I'm sitting at a desk all day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get up from your desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He got up from his desk to welcome the visitors."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tidy your desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I need to tidy my desk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clear your desk",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "remove all the papers etc from it",
+                                "examples": [
+                                    "It's a good idea to clear your desk regularly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a desk job",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "working mostly at a desk in an office",
+                                "examples": [
+                                    "He left his desk job to become a gardener."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a desk drawer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think I left my car keys in the desk drawer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a desk lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Don't forget to switch off the desk lamp."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

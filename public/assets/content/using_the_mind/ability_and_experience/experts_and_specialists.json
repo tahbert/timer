@@ -39,26 +39,41 @@
                         "region": "",
                         "definition": "an expert who has studied a particular medical or technical subject for a long time and knows much more about it than other peopl: chuyên gia",
                         "examples": [
-                            "You really need a specialist for this job.",
-                            "specialist in",
-                            "Professor Williams teaches English Literature and is a specialist in the novels of George Orwell.",
-                            "computer/marketing/engine etc specialist",
-                            "The Health Department is seeking the advice of a team of tropical disease specialists."
+                            "You really need a specialist for this job."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "specialist in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Professor Williams teaches English Literature and is a specialist in the novels of George Orwell."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "computer/marketing/engine etc specialist",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Health Department is seeking the advice of a team of tropical disease specialists."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -81,36 +96,194 @@
                             "expert in",
                             "an expert in statistics",
                             "medical/technical/financial etc expert",
-                            "Tests should be administered by a medical expert.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a leading expert(= one of the best and most respected )He is one of the country’s leading experts on Islam.",
-                            "a world/international expert(= one who is known in many different countries )She is a world expert on tropical diseases.",
-                            "an independent expert(= someone who is not controlled by, or does not receive money from, an organization or the government )The authorities called in an independent expert to advise them.",
-                            "a medical/legal/financial etc expert(= someone who has special skills related to a particular job or subject )Medical experts agree that screening can prevent deaths from breast cancer.",
-                            "a so-called expert(= someone who says they are an expert, but who you do not respect very much )There are many so-called experts willing to tell you how to bring up your children.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "experts say somethingExperts are saying that the economy is likely to improve towards the end of this year.",
-                            "experts believe somethingLegal experts believe that the evidence will not be accepted in court.",
-                            "experts advise/recommend somethingMost financial experts recommend that you don''t borrow money on credit cards.",
-                            "talk to/consult an expert(= ask an expert for information or advice )If cracks appear in your house, you should consult an expert to find out what is causing the problem.",
-                            "get/obtain/seek advice from an expert(= ask an expert for information or advice )Don’t make big financial decisions without first seeking advice from an expert.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a team/panel of expertsYou can get advice from our panel of gardening experts."
+                            "Tests should be administered by a medical expert."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a leading expert",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one of the best and most respected",
+                                "examples": [
+                                    "He is one of the country’s leading experts on Islam."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a world/international expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one who is known in many different countries",
+                                "examples": [
+                                    "She is a world expert on tropical diseases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an independent expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who is not controlled by, or does not receive money from, an organization or the government",
+                                "examples": [
+                                    "The authorities called in an independent expert to advise them."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a medical/legal/financial etc expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who has special skills related to a particular job or subject",
+                                "examples": [
+                                    "Medical experts agree that screening can prevent deaths from breast cancer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a so-called expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who says they are an expert, but who you do not respect very much",
+                                "examples": [
+                                    "There are many so-called experts willing to tell you how to bring up your children."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "experts say something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Experts are saying that the economy is likely to improve towards the end of this year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "experts believe something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Legal experts believe that the evidence will not be accepted in court."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "experts advise/recommend something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most financial experts recommend that you don''t borrow money on credit cards."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "talk to/consult an expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ask an expert for information or advice",
+                                "examples": [
+                                    "If cracks appear in your house, you should consult an expert to find out what is causing the problem."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get/obtain/seek advice from an expert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ask an expert for information or advice",
+                                "examples": [
+                                    "Don’t make big financial decisions without first seeking advice from an expert."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a team/panel of experts",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can get advice from our panel of gardening experts."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -127,26 +300,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "someone whose knowledge and opinions on a particular subject are greatly respected:chuyên gia lão luyện, chuyên gia uy tín",
-                        "examples": [
-                            "authority on",
-                            "Reischauer became an authority on Japanese-American relations.",
-                            "She was widely regarded as the country’s leading authority on plant diseases.",
-                            "She's a world authorityon19th-century Irish history."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "authority on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Reischauer became an authority on Japanese-American relations.",
+                                    "She was widely regarded as the country’s leading authority on plant diseases.",
+                                    "She's a world authorityon19th-century Irish history."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -164,25 +336,25 @@
                         "region": "",
                         "definition": "sb who knows a lot about a subject, especially politics or economics, and who is asked to give their opinion about it on television, in newspapers etc: chuyên gia",
                         "examples": [
-                            "Hollywood pundits predicted the movie would grab the top spot in the ratings, but they were wrong.",
-                            "political/media/TV etc pundits",
-                            "If you believe the fashion pundits, we’ll all be wearing pink this year.",
-                            "If the pundits are right, the economic situation may become worse before the end of the year."
+                            "Hollywood pundits predicted the movie would grab the top spot in the ratings, but they were wrong."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "political/media/TV etc pundits",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "If you believe the fashion pundits, we’ll all be wearing pink this year.",
+                                    "If the pundits are right, the economic situation may become worse before the end of the year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -205,23 +377,7 @@
                             "The market for magazines for computer buffs is growing all the time."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -235,24 +391,24 @@
                         "region": "",
                         "definition": "sb who has great knowledge and experience of something such as art, furniture, food, or wine so that they can recognize what is the best: người sành sỏi",
                         "examples": [
-                            "▪ The golden chanterelle, as it is commonly known, is a favorite among mushroom connoisseurs.",
-                            "connoisseur of",
-                            "▪ Lord Burlington was a great collector and connoisseur of paintings."
+                            "▪ The golden chanterelle, as it is commonly known, is a favorite among mushroom connoisseurs."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "connoisseur of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Lord Burlington was a great collector and connoisseur of paintings."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -273,23 +429,7 @@
                             "A few science boffins were asked for their opinions, but otherwise the article gave very little information."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -323,23 +463,7 @@
                             "a hospital technician"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -352,26 +476,68 @@
                         "usage": "",
                         "region": "",
                         "definition": "sb who is very skilled at something bậc thầy",
-                        "examples": [
-                            "master of",
-                            "He wasamasterofdisguise.",
-                            "Runyon was a master of the short story.",
-                            "a master of disguise",
-                            "Hitchcock was an acknowledged master of suspense.",
-                            "master at",
-                            "She’s a master at manipulating people.",
-                            "a work of art by a true master",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "master of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He wasamasterofdisguise.",
+                                    "Runyon was a master of the short story."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a master of disguise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Hitchcock was an acknowledged master of suspense."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "master at",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She’s a master at manipulating people."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a work of art by a true master",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",

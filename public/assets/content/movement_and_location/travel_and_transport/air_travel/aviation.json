@@ -38,25 +38,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "the final part of a plane’s flight, before it lands at an airport :",
-                        "examples": [
-                            "approach your approach",
-                            "It was clear to land so wemadeourapproach.",
-                            "Please fasten your seat belts, the plane is now making its final approach(in)toHeathrow."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "approach your approach",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It was clear to land so wemadeourapproach.",
+                                    "Please fasten your seat belts, the plane is now making its final approach(in)toHeathrow."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -68,7 +67,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -78,23 +77,7 @@
                             "The plane had barely left the ground when it began to experience engine trouble."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -112,9 +95,6 @@
                             "Children spent hours watching the planes take off and land.",
                             "This is your Captain speaking. We are due to take off in five minutes.",
                             "We had to wait on the runway for a half an hour before we finally took off.",
-                            "take off from",
-                            "Planes were unable to take off from Gatwick owing to high winds.",
-                            "The president’s plane took off from Andrews Air Force Base at 9:45 am.",
                             "takeoff/take-off[C or U] the moment when an aircraft leaves the ground and begins to fly:",
                             "Night take-offs and landings are banned at this airport.",
                             "Seat-belts must remain fastened until after take-off.",
@@ -124,16 +104,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take off from",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Planes were unable to take off from Gatwick owing to high winds.",
+                                    "The president’s plane took off from Andrews Air Force Base at 9:45 am."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -153,30 +136,60 @@
                         "examples": [
                             "Flight 846 landed five minutes ago.",
                             "They watched the planes taking off and landing.",
-                            "Despite severe weather conditions, the Boeing 727 landed as scheduled.",
-                            "land at",
-                            "When the plane landed at JFK, it was three hours late.",
-                            "We will be landing at Singapore airport at 3 am local time.",
-                            "land in",
-                            "We should landinMadrid at 7am.",
-                            "Before landing in Algiers, we circled the airport several times.",
-                            "come in to landgo down towards the ground at an airport tiếp đất",
-                            "There’s a plane coming in to land now."
+                            "Despite severe weather conditions, the Boeing 727 landed as scheduled."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "land at",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "When the plane landed at JFK, it was three hours late.",
+                                    "We will be landing at Singapore airport at 3 am local time."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "land in",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We should landinMadrid at 7am.",
+                                    "Before landing in Algiers, we circled the airport several times."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "come in to landgo down towards the ground at an airport tiếp đất",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There’s a plane coming in to land now."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -197,23 +210,7 @@
                             "Our plane came down in a field."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -231,23 +228,7 @@
                             "We will be touching down in about an hour’s time."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -278,26 +259,41 @@
                         "examples": [
                             "I don't travel muchbyair.",
                             "I’d prefer to travel by air.",
-                            "b)relating to or involving planes :",
-                            "the victims of Britain’s worst air disaster",
-                            "Air travelwas growing rapidly.",
-                            "air trafficcongestion",
-                            "His brother died in anair crash."
+                            "b)relating to or involving planes :"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the victims of Britain’s worst air disaster",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Air travelwas growing rapidly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "air trafficcongestion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His brother died in anair crash."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -321,23 +317,7 @@
                             "_aviation fuel"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -370,23 +350,7 @@
                             "There's a 20 kilo baggage allowance."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -404,23 +368,7 @@
                             "He arrived with 88 pounds of excess baggage."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -451,23 +399,7 @@
                         "definition": "a route followed by an aircraft : đường bay",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -482,23 +414,7 @@
                         "definition": "a type of aircraft that does not have a pilot but is controlled by someone on the ground",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -513,23 +429,7 @@
                         "definition": "an event at which people watch planes fly and do very complicated movements in the sky : cuộc biểu diễn máy",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -544,27 +444,10 @@
                         "definition": "to jump out of an aircraft with a parachute because the aircraft is going to have an accident : nhảy dù",
                         "examples": [
                             "The pilot bailed out of the aircraft just in time and was only slightly injured.",
-                            "The plane's engine failed and the pilot was forced to bail out.",
-                            ""
+                            "The plane's engine failed and the pilot was forced to bail out."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -595,18 +478,17 @@
                         "definition": "any vehicle, with or without an engine, especially a plane, that can fly.Aircraftsounds more formal thanplane:",
                         "examples": [
                             "Smoking is not allowed on board the aircraft.",
-                            "He was trained to fly military aircraft.",
-                            "military aircraft"
+                            "He was trained to fly military aircraft."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "military aircraft",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -644,24 +526,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a company that takes passengers and goods to different places by plane : hãng hàng không",
-                        "examples": [
-                            "an airline pilot",
-                            "What airline did you fly?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "an airline pilot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "What airline did you fly?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -695,30 +576,10 @@
                         "region": "",
                         "definition": "to land an aircraft suddenly because of an emergency, sometimes resultingin serious damage or injuries : hạ cánh vội vã",
                         "examples": [
-                            "The jet crash-landed and burst into flames.",
-                            "crash-landing[C] an occasion when a pilot has to bring a plane down to the ground in a sudden and dangerous way because the plane has a problem :",
-                            "The pilot attempted a crash-landing on the beach.",
-                            "make a crash-landing",
-                            "He was forced tomakeacrash-landingin the desert."
+                            "The jet crash-landed and burst into flames."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -734,10 +595,8 @@
                         "examples": [
                             "You can land a plane on water in an emergency.",
                             "The pilot managed to land the aircraft safely.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "landing[C or U] B2 the action of bringing an aircraft down to the ground after being in the airOPP take-off: hạ cánh, đổ bộ",
                             "take-off and landing procedures",
-                            "a crash/ emergency landing(= a sudden landing caused by a problem with the engine etc )",
                             "the ApolloMoon landings",
                             "One person has died after the pilot of a light aircraft was forced to make acrash/emergencylanding in a field.",
                             "a soft landinga situation in which a spacecraft comes down onto the ground gently and without any damage"
@@ -746,15 +605,15 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a crash/ emergency landing",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
+                                "definition": "a sudden landing caused by a problem with the engine etc",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -779,23 +638,7 @@
                             "I learned to fly when I was in Australia."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -812,23 +655,7 @@
                             "The pilot managed to bring the plane down safely."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

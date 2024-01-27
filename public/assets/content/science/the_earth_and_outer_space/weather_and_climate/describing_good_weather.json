@@ -42,23 +42,7 @@
                             "It looks as if we are in for a settled spell this week."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -89,7 +73,6 @@
                         "examples": [
                             "The weather report says the weather should be good over the weekend.",
                             "The weather was a bit better in the second week.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "good weather[U] weather that is sunny and warm:thời tiết tốt",
                             "get/have good weather",
                             "We go to Greece every Easter, and we usually get good weather",
@@ -100,23 +83,7 @@
                             "Sometimes, in good weather, he walked to work across the fields."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -137,23 +104,7 @@
                             "What’s happened to the weather? It was beautiful last week."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -167,25 +118,25 @@
                         "region": "",
                         "definition": "/lovely   pleasantly warm and sunny:đẹp",
                         "examples": [
-                            "Morning, Bill. Nice weather, isn’t it?",
-                            "it’s a nice day/it’s a lovely morning etc",
-                            "It’s a lovely day - why don’t we go for a walk?",
-                            "What a lovely morning!"
+                            "Morning, Bill. Nice weather, isn’t it?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "it’s a nice day/it’s a lovely morning etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It’s a lovely day - why don’t we go for a walk?",
+                                    "What a lovely morning!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -202,27 +153,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "not moving because there isnowind:lặng gió",
-                        "examples": [
-                            "dead calmcompletely calmhoàn toànlặng gió",
-                            "The sea was dead calm.",
-                            "calm night/evening etc",
-                            "The night was calm and warm.",
-                            "It was a calm, clear, beautiful day."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dead calmcompletely calmhoàn toànlặng gió",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The sea was dead calm."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "calm night/evening etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The night was calm and warm.",
+                                    "It was a calm, clear, beautiful day."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -240,24 +205,24 @@
                         "region": "",
                         "definition": "if the weather is fine, it isnot rainingand the sky is clear:",
                         "examples": [
-                            "Next week will be fine but a little cooler.",
-                            "a fine spring evening",
-                            "It can take several days of fine weather for the grass to dry out."
+                            "Next week will be fine but a little cooler."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a fine spring evening",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It can take several days of fine weather for the grass to dry out."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -274,26 +239,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "if the weather is dry, it doesnot rain:khô (ko mưa )",
-                        "examples": [
-                            "The dry weather will continue for several days",
-                            "Southern areas should stay dry until the early evening.",
-                            "the dry seasonthe time of year when there is little or no rain",
-                            "During the dry season, many of the swamps turn to hard-baked mud."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "The dry weather will continue for several days",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Southern areas should stay dry until the early evening."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the dry seasonthe time of year when there is little or no rain",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "During the dry season, many of the swamps turn to hard-baked mud."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -328,24 +307,24 @@
                         "definition": "where the sun is shining down:dưới ánh nắng",
                         "examples": [
                             "I get a rash every time I go in the sun.",
-                            "Put the plant on a window sill in the sun.",
-                            "lie/laze/bask etc in the sun : tắm nắng",
-                            "We spent all day lazing around in the sun."
+                            "Put the plant on a window sill in the sun."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lie/laze/bask etc in the sun : tắm nắng",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We spent all day lazing around in the sun."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -367,23 +346,7 @@
                             "Northern regions will start dry with some sunshine."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -396,27 +359,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "if the weather is sunny, the sun is shining:có nắng",
-                        "examples": [
-                            "a lovely sunny afternoon",
-                            "It’s going to be sunny all day.",
-                            "We're having the party in the garden, so I'm praying it'll be sunny.",
-                            "sunny spells/intervalsespecially UK short periods of sunny weather: nắng gián đoạn",
-                            "The weather will remain dry with sunny spells."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a lovely sunny afternoon",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It’s going to be sunny all day.",
+                                    "We're having the party in the garden, so I'm praying it'll be sunny."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sunny spells/intervalsespecially UK short periods of sunny weather: nắng gián đoạn",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The weather will remain dry with sunny spells."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -435,23 +412,7 @@
                         "definition": "(of a place) receives a lot of sun, (of a person) attractive because they have recently been in the sun:ngập nắng, đầy nắng",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -468,23 +429,7 @@
                             "sun-drenched beaches"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -514,8 +459,6 @@
                         "region": "",
                         "definition": "a gentle wind or rain is soft and light : nhẹ nhàng, dịu dàng",
                         "examples": [
-                            "agentle breeze",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "gently[adv]in a gentle way :",
                             "Rain pattered gently on the roof above."
                         ],
@@ -523,11 +466,11 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "agentle breeze",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -552,28 +495,11 @@
                         "examples": [
                             "a soft breeze",
                             "soft rain",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "softly[adv] [B1]",
                             "Rain pattered softly on the roof above."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -607,23 +533,7 @@
                             "a temperateclimate"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -637,28 +547,10 @@
                         "region": "",
                         "definition": "clement weather is neither too hot nor too coldOPP inclement:ôn hoà",
                         "examples": [
-                            "It's very clement for the time of year.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "clemency[ U ] formal (of weather) the quality of being pleasant or not severe"
+                            "It's very clement for the time of year."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

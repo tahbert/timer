@@ -40,23 +40,7 @@
                         "definition": "a large building in which concerts are performed :phòng hoà nhạc",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -90,23 +74,7 @@
                             "I was doing a lot of studio work"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -135,44 +103,294 @@
                         "usage": "",
                         "region": "",
                         "definition": "a performance given by musicians or singers : buổi hòa nhạc",
-                        "examples": [
-                            "a concert of French choral music",
-                            "We were going to a concert in Bath Abbey.",
-                            "She still does about 100 concerts every year.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "go to a concert(alsoattend a concertformal)Do you want to go to the concert in the park this weekend?",
-                            "give/do a concertThe group gave concerts for charity throughout Europe.",
-                            "play in/perform in a concertI'm playing in a jazz concert on Saturday night.",
-                            "put on a concert(alsostage a concertformal) (= arrange one )The music club puts on regular concerts throughout the year.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a pop/rock/jazz/classical concertThere were 150,000 people at the rock concert in Frankfurt.",
-                            "an orchestral concert/a symphony concert(= one in which an orchestra plays )Tickets for orchestral concerts range from $15 to $35.",
-                            "a live concert(= that you watch as the performers play, rather than as a recording )a live concert in front of 500 fans",
-                            "an open-air/outdoor concertClapton thrilled fans at a huge outdoor concert in New York.",
-                            "a charity concert(= performed to raise money for charity )600 tickets have already been sold for the charity concert in June.",
-                            "a gala concert(= performed to celebrate a special occasion )a 75th anniversary gala concert",
-                            "a brass-band concert(= performed by a brass band )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a concert performanceShe gave a number of concert performances in Berlin.",
-                            "a concert tour(= a journey made by musicians to perform in different places )This year we did a concert tour of the United States.",
-                            "a concert hallOn the last night, the concert hall was packed.",
-                            "a concert ticketConcert tickets are available from $17.50.",
-                            "a concert pianist(= who performs in concerts )Her ambition was to become a concert pianist."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go to a concert",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoattend a concertformal",
+                                "examples": [
+                                    "Do you want to go to the concert in the park this weekend?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give/do a concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "The group gave concerts for charity throughout Europe."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "play in/perform in a concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I'm playing in a jazz concert on Saturday night."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put on a concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsostage a concertformal",
+                                "examples": [
+                                    "(= arrange one )The music club puts on regular concerts throughout the year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pop/rock/jazz/classical concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were 150,000 people at the rock concert in Frankfurt."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an orchestral concert/a symphony concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one in which an orchestra plays",
+                                "examples": [
+                                    "Tickets for orchestral concerts range from $15 to $35."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a live concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that you watch as the performers play, rather than as a recording",
+                                "examples": [
+                                    "a live concert in front of 500 fans"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an open-air/outdoor concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Clapton thrilled fans at a huge outdoor concert in New York."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a charity concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "performed to raise money for charity",
+                                "examples": [
+                                    "600 tickets have already been sold for the charity concert in June."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gala concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "performed to celebrate a special occasion",
+                                "examples": [
+                                    "a 75th anniversary gala concert"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a brass-band concert",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "performed by a brass band",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert performance",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She gave a number of concert performances in Berlin."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert tour",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a journey made by musicians to perform in different places",
+                                "examples": [
+                                    "This year we did a concert tour of the United States."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert hall",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "On the last night, the concert hall was packed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Concert tickets are available from $17.50."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert pianist",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "who performs in concerts",
+                                "examples": [
+                                    "Her ambition was to become a concert pianist."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a concert of French choral music",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We were going to a concert in Bath Abbey.",
+                                    "She still does about 100 concerts every year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -190,26 +408,25 @@
                         "region": "",
                         "definition": "informal a performance by a musician or group of musicians playing modern popular music or jazz : buổi biểu diễn",
                         "examples": [
-                            "We have a gig in L.A. on Thursday.",
-                            "do/play/have a gigperform at a concert",
-                            "The band are doing a gig in Sheffield on Nov 12.",
-                            "They are doing about 30 gigs on their European tour.",
-                            ""
+                            "We have a gig in L.A. on Thursday."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "do/play/have a gigperform at a concert",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The band are doing a gig in Sheffield on Nov 12.",
+                                    "They are doing about 30 gigs on their European tour."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -246,23 +463,7 @@
                             "Are you going to see Britney Spears this weekend?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -296,23 +497,7 @@
                             "The band's opening set lasted 45 minutes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

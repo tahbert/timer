@@ -42,23 +42,7 @@
                             "caviare and champagne"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,23 +59,7 @@
                             "a seafood restaurant"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -106,23 +74,7 @@
                         "definition": "oil from fish such as tuna or salmon , which is good for your health : dầu cá",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -139,45 +91,330 @@
                             "You usually drink white wine with fish.",
                             "In Japan, people eatraw fish.",
                             "Oily fish(= fish that contains a lot of oil )is supposed to be good for you.",
-                            "►You sayfish and chips, not 'chips and fish'.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "fresh fishThe market sells an amazing variety of fresh fish.",
-                            "frozen fish(= stored at a very low temperature to preserve it )I stopped at the supermarket to buy some frozen fish.",
-                            "white fish(= whose meat is white when cooked )grilled white fish",
-                            "oily fish(= containing a lot of natural oil )A diet of oily fish can help prevent heart disease.",
-                            "fried fish(= cooked in hot oil )We’re going to have fried fish tonight.",
-                            "steamed/poached fish(= cooked over boiling water )The kitchen smelt of steamed fish.",
-                            "baked fish(= cooked in an oven )Serve the baked fish with slices of lemon.",
-                            "battered fish(= covered in a mixture of flour and water, and then fried )The restaurant is well-known for its battered fish dishes.",
-                            "raw fish(= not cooked )In Japan we like to eat raw fish.",
-                            "smoked fish(= left in smoke to give it a special taste )It was the finest smoked fish they had ever tasted.",
-                            "dried fish(= preserved by having the water removed )Occasionally, the guards gave us some vegetables and dried fish.",
-                            "salted fish(= preserved by adding salt )The dish is made with rice and salted fish.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "eat fishYou should eat more fish.",
-                            "cook fishI think I’ll cook fish tonight.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a fish shopShe works in the fish shop on the High Street.",
-                            "a fish marketI brought some salmon at the local fish market.",
-                            "fish soupUse the bones to make fish soup.",
-                            "fish paste(= a smooth food, made by crushing fish )She spread some fish paste on fresh bread.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "fish and chipsWhy don't we stop off for some fish and chips on the way home?"
+                            "►You sayfish and chips, not 'chips and fish'."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "fresh fish",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The market sells an amazing variety of fresh fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "frozen fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stored at a very low temperature to preserve it",
+                                "examples": [
+                                    "I stopped at the supermarket to buy some frozen fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "white fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "whose meat is white when cooked",
+                                "examples": [
+                                    "grilled white fish"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "oily fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "containing a lot of natural oil",
+                                "examples": [
+                                    "A diet of oily fish can help prevent heart disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fried fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooked in hot oil",
+                                "examples": [
+                                    "We’re going to have fried fish tonight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "steamed/poached fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooked over boiling water",
+                                "examples": [
+                                    "The kitchen smelt of steamed fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "baked fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooked in an oven",
+                                "examples": [
+                                    "Serve the baked fish with slices of lemon."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "battered fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "covered in a mixture of flour and water, and then fried",
+                                "examples": [
+                                    "The restaurant is well-known for its battered fish dishes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "raw fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not cooked",
+                                "examples": [
+                                    "In Japan we like to eat raw fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "smoked fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "left in smoke to give it a special taste",
+                                "examples": [
+                                    "It was the finest smoked fish they had ever tasted."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "dried fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "preserved by having the water removed",
+                                "examples": [
+                                    "Occasionally, the guards gave us some vegetables and dried fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "salted fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "preserved by adding salt",
+                                "examples": [
+                                    "The dish is made with rice and salted fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "eat fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You should eat more fish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cook fish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think I’ll cook fish tonight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fish shop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She works in the fish shop on the High Street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fish market",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I brought some salmon at the local fish market."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fish soup",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Use the bones to make fish soup."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fish paste",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a smooth food, made by crushing fish",
+                                "examples": [
+                                    "She spread some fish paste on fresh bread."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fish and chips",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Why don't we stop off for some fish and chips on the way home?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -198,23 +435,7 @@
                             "deep-fried whitebait"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

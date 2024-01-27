@@ -39,27 +39,42 @@
                         "region": "",
                         "definition": "severe continuous pain in the head, oftenwith vomiting and difficulty in seeing : chứng đau nửa đầu, đau tiền đình",
                         "examples": [
-                            "Do you suffer from migraine?",
-                            "have/get a migraine",
-                            "I won’t be coming this evening – I’ve got a migraine.",
-                            "Considering the amount of stress she's under, it's not surprising she keepsgettingmigraines.",
-                            "bad/severe migraine",
-                            "He suffers from severe migraine."
+                            "Do you suffer from migraine?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have/get a migraine",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I won’t be coming this evening – I’ve got a migraine.",
+                                    "Considering the amount of stress she's under, it's not surprising she keepsgettingmigraines."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bad/severe migraine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He suffers from severe migraine."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -78,19 +93,7 @@
                         "definition": "a pain in your head :",
                         "examples": [
                             "If you have a headache, you should take some aspirin.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "bad/terrible/severeI’ve got a really bad headache.",
-                            "a splitting headache(= a very bad headache )The next day he woke up with a splitting headache.",
-                            "a throbbing/pounding/blinding headache(= a very bad headache )He had a throbbing headache, behind his nose and his eyes.",
                             "a thumping headache[a bad headache which is felt in strong painful beats]",
-                            "a slight headache(alsoa bit of a headachespoken) (= one that is not very serious )I’d rather stay at home – I’ve got a bit of a headache.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have a headache(alsohave got a headachespoken)She’s not coming – she says she’s got a headache.",
-                            "get headaches/suffer from headaches(= regularly have a headache )He often gets headaches at school.",
-                            "give somebody a headacheThe music was starting to give him a headache.",
-                            "cause headachesThe drug can cause headaches.",
-                            "complain of a headache(= say that you have a headache )Your child may complain of headaches or problems seeing the blackboard.",
-                            "a headache goes away(= it stops )I'd like to lie down for a bit to make my headache go away,",
                             "COMMON ERRORS",
                             "►Do not say'a strong/heavy headache'. Saya bad headache.",
                             "Do not say'a little headache'. Saya slight headacheora bit of a headache."
@@ -99,16 +102,171 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "bad/terrible/severe",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I’ve got a really bad headache."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a splitting headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a very bad headache",
+                                "examples": [
+                                    "The next day he woke up with a splitting headache."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a throbbing/pounding/blinding headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a very bad headache",
+                                "examples": [
+                                    "He had a throbbing headache, behind his nose and his eyes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a slight headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa bit of a headachespoken",
+                                "examples": [
+                                    "(= one that is not very serious )I’d rather stay at home – I’ve got a bit of a headache."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsohave got a headachespoken",
+                                "examples": [
+                                    "She’s not coming – she says she’s got a headache."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get headaches/suffer from headaches",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "regularly have a headache",
+                                "examples": [
+                                    "He often gets headaches at school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give somebody a headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The music was starting to give him a headache."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause headaches",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The drug can cause headaches."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "complain of a headache",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "say that you have a headache",
+                                "examples": [
+                                    "Your child may complain of headaches or problems seeing the blackboard."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a headache goes away",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it stops",
+                                "examples": [
+                                    "I'd like to lie down for a bit to make my headache go away,"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -127,23 +285,7 @@
                         "definition": "specialized a condition of the ear in which the person suffering from it hears noises such as ringing sự ù tai",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -160,23 +302,7 @@
                             "I’ve got terrible earache and a sore throat."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -193,23 +319,7 @@
                             "hen I woke up my mouth was dry and my head was thumping."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -242,23 +352,7 @@
                             "Over half of all children in Britain get glue ear at some time before they are 16, and it can lead to permanent hearing loss."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -288,29 +382,10 @@
                         "region": "",
                         "definition": "a feeling of spinning round and being unable to balance, caused by looking down from a height : sự chóng mặt, cảm giác mất thăng bằng (do nhìn từ trên rất cao nhìn xuống)",
                         "examples": [
-                            "She can't stand heights and has alwayssuffered fromvertigo.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "vertiginous[adj]formal causing or experiencing the feeling that everything is spinning round: gây chóng mặt",
-                            "The two skyscrapers were connected by a vertiginous walkway."
+                            "She can't stand heights and has alwayssuffered fromvertigo."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -324,25 +399,25 @@
                         "region": "",
                         "definition": "a feeling of illness after drinking too much alcohol : dư vị khó chịu do dùng thức uống có nồng độ cồn cao",
                         "examples": [
-                            "Ihada terrible hangover the next morning.",
-                            "a hangover cure",
-                            "The next day I had a terrible hangover.",
-                            "Ihad aterriblehangoverthe next day."
+                            "Ihada terrible hangover the next morning."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a hangover cure",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The next day I had a terrible hangover.",
+                                    "Ihad aterriblehangoverthe next day."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -363,32 +438,10 @@
                             "Sometimes I get dizzy at the top of staircases and escalators.",
                             "If you feel dizzy or short of breath, stop exercising immediately.",
                             "Going without sleep for a long time makes me feel dizzy and light-headed.",
-                            "I felt quite dizzywithexcitement as I went up to collect the award.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "dizziness[U]",
-                            "A fall in glucose levels results in nausea, dizziness, and faintness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "dizzily[adv]in a dizzy way or a way that makes you feel dizzy",
-                            "The skyscrapers towered dizzily above us."
+                            "I felt quite dizzywithexcitement as I went up to collect the award."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -405,23 +458,7 @@
                             "She suddenly felt giddy and had to find somewhere to sit down."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -436,23 +473,7 @@
                         "definition": "",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

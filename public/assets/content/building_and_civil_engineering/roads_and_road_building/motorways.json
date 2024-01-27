@@ -38,42 +38,246 @@
                         "region": "",
                         "definition": "UK a dual-carriageway road designed for fast traffic, with relatively few places for joining or leaving: đường cao tốc",
                         "examples": [
-                            "The speed limit on the motorway is 70 miles an hour.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "drive on/along/down the motorwayHe was driving along the motorway at a steady sixty miles an hour.",
-                            "get on/off the motorwayWe got on the motorway near Watford.",
-                            "join the motorway(= get on the motorway )Traffic will be diverted through Hamilton before joining the motorway.",
-                            "leave the motorwayA few miles further on they left the motorway.",
-                            "turn off the motorway(= leave the motorway )We forgot to turn off the motorway and ended up in London.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "busyThe motorway is always busy around Birmingham.",
-                            "a major motorwayTwo of Britain's major motorways pass through Nottingham.",
-                            "a six-lane/eight-lane etc motorwayThere are plans to build a new six-lane motorway through the area.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "motorway drivingIs motorway driving included in the driving test?",
-                            "motorway trafficthe constant noise of motorway traffic",
-                            "a motorway crashSix people were killed in a motorway crash.",
-                            "a motorway pile-up(= when several cars on a motorway crash into each other )a news report of a motorway pile-up on the M25",
-                            "a motorway junction(= a place where you can join or leave the motorway )Their stores are all situated near major motorway junctions.",
-                            "a motorway bridge/cafe/garage etc:",
-                            "A new motorway service station has been opened to encourage drivers to take a break.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a stretch/section of motorwayThis stretch of motorway is always very busy."
+                            "The speed limit on the motorway is 70 miles an hour."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "drive on/along/down the motorway",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was driving along the motorway at a steady sixty miles an hour."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get on/off the motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We got on the motorway near Watford."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "join the motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get on the motorway",
+                                "examples": [
+                                    "Traffic will be diverted through Hamilton before joining the motorway."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leave the motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A few miles further on they left the motorway."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn off the motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "leave the motorway",
+                                "examples": [
+                                    "We forgot to turn off the motorway and ended up in London."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "busy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The motorway is always busy around Birmingham."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a major motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Two of Britain's major motorways pass through Nottingham."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a six-lane/eight-lane etc motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There are plans to build a new six-lane motorway through the area."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "motorway driving",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Is motorway driving included in the driving test?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a motorway crash",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Six people were killed in a motorway crash."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a motorway pile-up",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when several cars on a motorway crash into each other",
+                                "examples": [
+                                    "a news report of a motorway pile-up on the M25"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a motorway junction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where you can join or leave the motorway",
+                                "examples": [
+                                    "Their stores are all situated near major motorway junctions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a stretch/section of motorway",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This stretch of motorway is always very busy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "motorway trafficthe constant noise of motorway traffic",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "a motorway bridge/cafe/garage etc:",
+                                    "A new motorway service station has been opened to encourage drivers to take a break."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -93,18 +297,17 @@
                         "examples": [
                             "Take the Hollywood Freeway (101) south, exit at Vine Street and drive east on Franklin Avenue.",
                             "Over on the side of the expressway, he saw an enormous sedan, up against a stone wall.",
-                            "They took the expressway to the airport.",
-                            "the Santa Monica freeway"
+                            "They took the expressway to the airport."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the Santa Monica freeway",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -131,23 +334,7 @@
                             "The village has become much quieter since the creation of the by-pass."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -167,23 +354,7 @@
                             "We took the beltway around the city."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -198,18 +369,17 @@
                         "definition": "US  a main road, especially one connecting major towns or cities: đường quốc lộ, đường xa lộ",
                         "examples": [
                             "The speed limit on the motorway is 70 miles an hour.",
-                            "the Pacific Coast Highway.",
-                            "Interstate Highway 75"
+                            "the Pacific Coast Highway."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Interstate Highway 75",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -232,18 +402,17 @@
                         "region": "",
                         "definition": "USa main road that you usually have to pay to use:",
                         "examples": [
-                            "He dropped her off at an entrance to the New Jersey Turnpike.",
-                            "the New Jersey Turnpike"
+                            "He dropped her off at an entrance to the New Jersey Turnpike."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the New Jersey Turnpike",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -269,23 +438,7 @@
                             "The accident happened on Interstate 84, about 10 miles east of Hartford."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -318,23 +471,7 @@
                             "Every day he passed through the toll gate where I worked."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -363,20 +500,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "In the US, Route is used before the names of main roads between some cities",
-                        "examples": [
-                            "Route 66",
-                            "Rockland is hard to miss. Route 1 runs right through it.",
-                            "the westerly side of Route 128"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Route 66",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Rockland is hard to miss. Route 1 runs right through it."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the westerly side of Route 128",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -402,23 +552,7 @@
                             "I waited until we were on the dual carriageway before I overtook him."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -435,23 +569,7 @@
                             "the northbound carriageway of the M1"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -46,23 +46,7 @@
                             "▪ Danny was her favourite grandson and she spoiled him rotten."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,8 +61,6 @@
                         "definition": "/ˈpæmpəʳ/  to look after a person or animal very kindly, and spend a lot of time trying to make them happy and comfortable, sometimes in a way that is not good for their health or character: nuông chiều, làm hư",
                         "examples": [
                             "▪ She really pampers that dog - it’s even got its own little bed next to hers.",
-                            "pamper yourself",
-                            "▪ Take some time out to pamper yourself with an aromatherapy massage.",
                             "pampered[attri] được nuông chiều, cưng chiều",
                             "▪ Pam was raised as the pampered daughter of a prosperous businessman."
                         ],
@@ -86,16 +68,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "pamper yourself",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Take some time out to pamper yourself with an aromatherapy massage."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -107,31 +91,30 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase/transitive phrasal verb]",
                         "usage": "",
                         "region": "",
                         "definition": "/fuss over/ˌmeɪk ə ˈfʌs ɒv, ˈfʌs əʊvəʳ/  British to look after someone very well and pay a lot of attention to them:",
-                        "examples": [
-                            "luôn luôn chú ý quan tâm/làm ầm lên, quan trọng hóa lên, vv",
-                            "▪ When I came out of hospital and got back home, everyone made a great fuss of me and I loved it.",
-                            "▪ My sister was jealous because Dad made such a fuss of me.",
-                            "▪ I enjoyed having people fussing over me - it made me feel important."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "luôn luôn chú ý quan tâm/làm ầm lên, quan trọng hóa lên, vv",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ When I came out of hospital and got back home, everyone made a great fuss of me and I loved it.",
+                                    "▪ My sister was jealous because Dad made such a fuss of me.",
+                                    "▪ I enjoyed having people fussing over me - it made me feel important."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -166,35 +149,177 @@
                         "definition": "to behave towards someone or something in a particular way : đối xử",
                         "examples": [
                             "Penny doesn’t think her co-workers treat her as an equal.",
-                            "He treated his automobiles almost as tenderly as he did his wife.",
-                            "treat sb like/as sth",
-                            "She treats me like one of the family.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "wellThe majority of workers are well treated.",
-                            "badlyWhy did he treat me so badly?",
-                            "fairly/unfairlyI just want to be treated fairly.",
-                            "equallyAll people should be treated equally, whatever their age.",
-                            "differentlyShould girls be treated differently from boys in school?",
-                            "harshlyThe guards treated the prisoners harshly.",
-                            "kindlyThe world had not treated him kindly.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "treat sb with respect/contempt/suspicion etcWhen you treat the kids with respect, they act responsibly.",
-                            "treat sb like dirtinformal(= very badly and with no respect )He treated this wife like dirt."
+                            "He treated his automobiles almost as tenderly as he did his wife."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "well",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The majority of workers are well treated."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "badly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Why did he treat me so badly?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fairly/unfairly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I just want to be treated fairly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "equally",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All people should be treated equally, whatever their age."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "differently",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Should girls be treated differently from boys in school?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "harshly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The guards treated the prisoners harshly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "kindly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The world had not treated him kindly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat sb with respect/contempt/suspicion etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "When you treat the kids with respect, they act responsibly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat sb like dirtinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very badly and with no respect",
+                                "examples": [
+                                    "He treated this wife like dirt."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat sb like/as sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She treats me like one of the family."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -215,23 +340,7 @@
                             "Sometimes he behaves very strangely towards me."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -249,23 +358,7 @@
                             "Francis is a natural leader. He’s very good at handling people."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -284,23 +377,7 @@
                             "▪ I try to deal with everyone in an honest, ethical way."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -333,23 +410,7 @@
                             "You're not helping the children by mollycoddling them - they have to grow up sometime."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -367,23 +428,7 @@
                             "She was brought up by a succession of over-indulgent relations."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -403,23 +448,7 @@
                             "indulgentlyadverb"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -449,25 +478,54 @@
                         "region": "",
                         "definition": "a particular way of behaving towards sb or of dealing with them:cách đối xử",
                         "examples": [
-                            "Harper described the treatment he had received in prison.",
-                            "treatment of",
-                            "Civil rights groups have complained about the harsh treatment of prisoners.",
-                            "We’re shocked by the government’s treatment of young homeless people.",
-                            "special/preferential treatment(= when one person is treated better than another) thiên vị",
-                            "Although I was the boss’s daughter, I didn’t get preferential treatment.",
-                            "The two young princes were not singled out for special treatment at school.",
-                            "silent treatment(= refusing to speak to me because she is angry with me ).",
-                            "Just lately, Kyra has been giving methe silent treatment"
+                            "Harper described the treatment he had received in prison."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "treatment of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Civil rights groups have complained about the harsh treatment of prisoners.",
+                                    "We’re shocked by the government’s treatment of young homeless people."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "special/preferential treatment(= when one person is treated better than another) thiên vị",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Although I was the boss’s daughter, I didn’t get preferential treatment.",
+                                    "The two young princes were not singled out for special treatment at school.",
+                                    "silent treatment(= refusing to speak to me because she is angry with me )."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Just lately, Kyra has been giving methe silent treatment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -494,23 +552,7 @@
                             "I was confused by her behavior toward me - one minute she was cold and unfriendly, the next she was all smiles."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -545,23 +587,7 @@
                             "_\"This is a poor piece of work.\" \"Yes, but you should make allowances for the fact that she's only seven.\""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

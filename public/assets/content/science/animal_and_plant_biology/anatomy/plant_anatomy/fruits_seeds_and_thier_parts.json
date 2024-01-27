@@ -42,23 +42,7 @@
                             "Add the black peppercorns, juniper berries, thyme, rosemary, sage, lovage, and bay leaf."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,23 +59,7 @@
                             "Peaches, plums, dates, avocados and olives all contain stones."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -104,24 +72,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ pip one of the small hard objects in a fruit such as an apple or orange, from which new fruit trees grow.",
-                        "examples": [
-                            "an apple pip",
-                            "Have these oranges got pips in?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "an apple pip",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Have these oranges got pips in?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -157,17 +124,6 @@
                         "examples": [
                             "The chemical will stop all seeds fromsprouting(= starting to grow) .",
                             "The farmers grow these crops for seed (= for planting to grow more crops, rather than for eating).",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "flower/sunflower/tomato etc seedsI bought a packet of poppy seeds.",
-                            "grass seedYou can sprinkle grass seed over any gaps in the lawn.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "plant/sow seeds(= put them in the soil )Sow the seeds in trays or pots.",
-                            "grow sth from seed(= grow a plant from a seed rather than buying it as a small plant )You can grow most vegetables from seed.",
-                            "seeds germinate(= start to grow )The seeds should start to germinate after a few days.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "-seededsuffixwith the type of seed mentioned",
-                            "The walnut is a hard-seeded fruit.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "seedless[adj] denoting a fruit that has no seeds.",
                             "seedless grapes"
                         ],
@@ -175,16 +131,103 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "flower/sunflower/tomato etc seeds",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I bought a packet of poppy seeds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grass seed",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can sprinkle grass seed over any gaps in the lawn."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plant/sow seeds",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put them in the soil",
+                                "examples": [
+                                    "Sow the seeds in trays or pots."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow sth from seed",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "grow a plant from a seed rather than buying it as a small plant",
+                                "examples": [
+                                    "You can grow most vegetables from seed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seeds germinate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "start to grow",
+                                "examples": [
+                                    "The seeds should start to germinate after a few days."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "-seededsuffixwith the type of seed mentioned",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The walnut is a hard-seeded fruit."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -202,8 +245,6 @@
                         "region": "",
                         "definition": "a) the seeds of crops such as corn, wheat, or rice that are gathered for use as food, or these crops themselves : ngũ cốc",
                         "examples": [
-                            "big sacks of grain",
-                            "Last year’s grain harvest was the biggest ever.",
                             "b)[C] a single seed of corn, wheat etc :",
                             "grains of wheat/rice"
                         ],
@@ -211,16 +252,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "big sacks of grain",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Last year’s grain harvest was the biggest ever."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -241,23 +284,7 @@
                             "It is a trap similar to the one that peasants enter when they feed seedcorn to their starving children."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -272,23 +299,7 @@
                         "definition": "one of the small yellow pieces on a corn cob: hạt bắp, ngô",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -323,23 +334,7 @@
                             "We were sitting round the firecracking nuts(= opening them)."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -372,23 +367,7 @@
                             "oranges and other citrus fruits"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -419,35 +398,17 @@
                         "definition": "the natural outer cover of some fruits and vegetables: vỏ",
                         "examples": [
                             "a banana/ potato skin",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "peel[ U ] the skin of some fruits and vegetables, especially the thick skin of fruits such as oranges, which you do not eat:vỏ",
                             "apple/ potato peel",
                             "The dessert was decorated with strips of lemon peel.",
                             "What shall I do with the peel?",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "peelings[CP]the unwanted pieces of fruit or vegetable skin which have been taken off:vỏbỏ đi",
                             "potato/apple peelings",
                             "Put the vegetable peelings on the compost heap.",
                             "Put the potato peelings on the compost heap."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -464,23 +425,7 @@
                             "Cut the melon in half and scoop out the flesh."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -494,28 +439,11 @@
                         "region": "",
                         "definition": "the white substance between the skin and the flesh of citrus fruits such as oranges, or the soft white inside part of the stem of some plants : cùi (chất mềm xốp trong vỏ: cam..)",
                         "examples": [
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "pithy[adj]with a lot of pith : nhiều cùi",
                             "a pithy orange"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -533,23 +461,7 @@
                             "Remove the cores, and bake the apples for 40 minutes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -582,23 +494,7 @@
                             "The chaff is winnowed out by the activities of millions of independent actions."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -616,23 +512,7 @@
                             "pine kernels"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -650,23 +530,7 @@
                             "oats contain more husk than barley"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -683,23 +547,7 @@
                             "peanuts roasted in their shells"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -732,23 +580,7 @@
                             "I tend to leave the windfalls for the birds to pick at."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -765,23 +597,7 @@
                             "In hot weather lettuces can suddenly run to seed."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

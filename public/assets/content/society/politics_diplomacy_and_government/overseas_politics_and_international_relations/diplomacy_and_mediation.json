@@ -46,23 +46,7 @@
                             "shuttle diplomacy[discussions between two or more countries, in which someone travels between the different countries, talking to the governments involved, carrying messages and suggesting ways of dealing with problems] ngoại giao con thoi"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,32 +61,45 @@
                         "definition": "to talk to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems :làm trung gian hoà giải, điều đình",
                         "examples": [
                             "The two envoys have succeeded in mediating an end to the war.",
-                            "mediate between",
-                            "UN officials mediated between the rebel fighters and the government.",
-                            "The former president has agreed to mediate the peace talks.",
-                            "Negotiators were called in to mediatebetweenthe two sides.",
-                            "mediate in",
-                            "The court was set up tomediatein civildisputes.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "mediation[U noun]",
                             "Last-minute attempts at mediation failed.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "mediator[C noun] người điều đình, người dàn xếp, hoà giải"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "mediate between",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "UN officials mediated between the rebel fighters and the government.",
+                                    "The former president has agreed to mediate the peace talks.",
+                                    "Negotiators were called in to mediatebetweenthe two sides."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mediate in",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The court was set up tomediatein civildisputes."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -136,24 +133,24 @@
                         "region": "",
                         "definition": "nhà ngoại giao",
                         "examples": [
-                            "Ambassador Thompson is an experienced diplomat who has served in France, South America, and the Middle East.",
-                            "Ambassador Thompson is là nhà ngoại giao có kinh nghiệm ở Pháp, Nam Mỹ và Trung Đông",
-                            "British and Argentinian diplomats met to discuss peace."
+                            "Ambassador Thompson is an experienced diplomat who has served in France, South America, and the Middle East."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Ambassador Thompson is là nhà ngoại giao có kinh nghiệm ở Pháp, Nam Mỹ và Trung Đông",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "British and Argentinian diplomats met to discuss peace."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -180,23 +177,7 @@
                             "Britain threatened tobreak offdiplomatic relations."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -209,28 +190,42 @@
                         "usage": "",
                         "region": "",
                         "definition": "a diplomat of the highest rank who is the official representative of their government in a foreign country: đại sứ",
-                        "examples": [
-                            "a British/ French/ US etc ambassador",
-                            "Sir Auckland Geddes is the British ambassador to Washington.",
-                            "Britain's ambassadorinMoscow has refused to comment.",
-                            "ambassador to",
-                            "Ms Takahashi was the first Japanese woman ever to be appointed ambassador to a foreign country.",
-                            "She's a former ambassadortothe United States."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a British/ French/ US etc ambassador",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Sir Auckland Geddes is the British ambassador to Washington.",
+                                    "Britain's ambassadorinMoscow has refused to comment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ambassador to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ms Takahashi was the first Japanese woman ever to be appointed ambassador to a foreign country.",
+                                    "She's a former ambassadortothe United States."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -254,23 +249,7 @@
                             "We used to be friendly with some people who workedatthe Swedish Embassy."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -303,23 +282,7 @@
                             "The Ambassador held a reception at the embassy."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

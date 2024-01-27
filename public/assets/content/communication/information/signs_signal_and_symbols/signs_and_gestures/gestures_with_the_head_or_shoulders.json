@@ -33,7 +33,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -42,23 +42,7 @@
                             "An old man was staring at her so she stuck her tongue out at him."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -91,14 +75,7 @@
                             "She bowed and left the stage.",
                             "Corbett entered the room, bowing respectfully.",
                             "The servantbowed lowand handed his master the sealed note.",
-                            "bow before/to",
-                            "He bowed before the king.",
-                            "bow your headto bend your neck so that you are looking at the ground, especially because you want to show respect for God, or because you are embarrassed or upset :",
-                            "She bowed her head and prayed.",
-                            "Phil stood, his head bowed in shame.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "bow[C] the act of bending the top part of your body forward to show respect for someone when you meet them, or as a way of thanking an audience",
-                            "take/give a bow(= bow to the audience at the end of a performance )",
                             "The music ended and the girl took a bow.",
                             "He gave a final bow just as the curtains came down.",
                             "This is done with aformal bowto the king or queen."
@@ -107,16 +84,36 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take/give a bow",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "bow to the audience at the end of a performance",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bow before/to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He bowed before the king.",
+                                    "bow your headto bend your neck so that you are looking at the ground, especially because you want to show respect for God, or because you are embarrassed or upset :",
+                                    "She bowed her head and prayed.",
+                                    "Phil stood, his head bowed in shame."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -136,41 +133,131 @@
                         "examples": [
                             "I asked her if she was ready to go, and she nodded.",
                             "When I suggested a walk, Elena nodded enthusiastically.",
-                            "‘Has he really left you?’ I asked. Josie nodded miserably.",
-                            "nod your head",
-                            "Momnoddedherheadsympathetically.",
-                            "nod in agreement",
-                            "Many people in the audience noddedinagreement.",
-                            "Rob nodded his head in agreement.",
-                            "nod/nod your head at/to",
-                            "The two men nodded to each other, as if they’d met before.",
-                            "She nodded to us as she walked by.",
-                            "The judge nodded at the foreman to proceed.",
-                            "nod/nod your head for sb to do sth",
-                            "She nodded for Mike to lead the way.",
-                            "She looked up and nodded for me to come in.",
-                            "nod your approval/agreement etc(= show your approval etc by nodding )",
-                            "Corbett nodded his acceptance.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "nod[C] a slight downward movement you make with your head to say ‘yes’ to something or to say that something can begin:",
-                            "I asked if he was hungry, and he responded with a nod.",
-                            "give (sb) a nod",
-                            "Daniels gave a slight nod, and Bill started to speak."
+                            "‘Has he really left you?’ I asked. Josie nodded miserably."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "nod[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "C] a slight downward movement you make with your head to say ‘yes’ to something or to say that something can begin:"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nod your head",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Momnoddedherheadsympathetically."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nod in agreement",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many people in the audience noddedinagreement.",
+                                    "Rob nodded his head in agreement."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nod/nod your head at/to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The two men nodded to each other, as if they’d met before.",
+                                    "She nodded to us as she walked by.",
+                                    "The judge nodded at the foreman to proceed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nod/nod your head for sb to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She nodded for Mike to lead the way.",
+                                    "She looked up and nodded for me to come in."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nod your approval/agreement etc(= show your approval etc by nodding )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Corbett nodded his acceptance.",
+                                    "I asked if he was hungry, and he responded with a nod."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give (sb) a nod",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Daniels gave a slight nod, and Bill started to speak."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -192,23 +279,7 @@
                             "\"That's incredible!\" he said, shaking his head in disbelief."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -243,27 +314,59 @@
                             "shrug your shoulders",
                             "I justshruggedmyshouldersand ignored him.",
                             "He shrugged hisshouldersas if to say that there was nothing he could do about it.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "shrug[C usually S] a movement of your shoulders upwards and then downwards again that you make to show that you do not know something or do not care about something",
-                            "with a shrug",
-                            "‘Suit yourself,’ he said with a shrug.",
-                            "\"I'm afraid there's nothing I can do about your problem, \" she said with a shrug.",
-                            "\"Well, I suppose we'll just have to do what he says, \" said Kim with a shrugofresignation."
+                            "with a shrug"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "‘",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Suit yourself,’ he said with a shrug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "\"",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I'm afraid there's nothing I can do about your problem, \" she said with a shrug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "\"",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Well, I suppose we'll just have to do what he says, \" said Kim with a shrugofresignation."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -302,8 +405,6 @@
                             "He winked mischievously at Erica.",
                             "He winked an eye at his companion.",
                             "‘The weather’s so nice, I’m thinking of calling in sick tomorrow,’ she said, winking at me.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "wink[C] when you close and open one eye quickly:",
                             "‘Don’t worry,’ he said with a wink. ‘I won’t tell anyone about this.’",
                             "give sb a wink",
                             "Hegaveme a conspiratorial wink as they left the room."
@@ -312,16 +413,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "wink[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "C] when you close and open one eye quickly:"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

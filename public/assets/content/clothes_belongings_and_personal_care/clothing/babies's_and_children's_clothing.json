@@ -40,40 +40,228 @@
                         "definition": "UKdiaperUS a piece of soft cloth or paper worn by a baby between its legs and fastened around its waist to hold its liquid and solid waste: tã lót",
                         "examples": [
                             "Excuse me while Ichangethe baby’snappy.",
-                            "Ichangedherdiaper.",
-                            "adirty nappy",
-                            "I knew William when he was stillinnappies (= when he was a baby) .",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "dirty/soiledWhere shall I put the dirty nappy?",
-                            "wetShe had been left in a wet nappy all day.",
-                            "dry/cleanI changed him into a dry nappy.",
-                            "a disposable nappy(= one that is meant to be used once and thrown away )Disposable nappies are harmful to the environment.",
-                            "a cloth nappy(= one made of cloth, that you can wash and use again )New cloth nappies are easily washable.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "wear a nappyShe doesn't wear nappies anymore; she's toilet trained.",
-                            "have a nappy onHe was three and a half, so he didn't have a nappy on.",
-                            "change a nappy(= take off a baby's dirty nappy and put on a clean one )My husband hardly ever changes the baby's nappies.",
-                            "put on a nappy(= put a nappy on a baby )I put a clean nappy on her half an hour ago.",
-                            "take off a nappy(= take off a baby's nappy )Come on, let's take this dirty nappy off.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "nappy rash(= sore skin caused by wet nappies )He's got really bad nappy rash at the moment.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "be out of nappies(= to no longer wear nappies, but use the toilet instead )Is George out of nappies yet?"
+                            "Ichangedherdiaper."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dirty/soiled",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Where shall I put the dirty nappy?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She had been left in a wet nappy all day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "dry/clean",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I changed him into a dry nappy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a disposable nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is meant to be used once and thrown away",
+                                "examples": [
+                                    "Disposable nappies are harmful to the environment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cloth nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one made of cloth, that you can wash and use again",
+                                "examples": [
+                                    "New cloth nappies are easily washable."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wear a nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She doesn't wear nappies anymore; she's toilet trained."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a nappy on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was three and a half, so he didn't have a nappy on."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "change a nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take off a baby's dirty nappy and put on a clean one",
+                                "examples": [
+                                    "My husband hardly ever changes the baby's nappies."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put on a nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put a nappy on a baby",
+                                "examples": [
+                                    "I put a clean nappy on her half an hour ago."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take off a nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take off a baby's nappy",
+                                "examples": [
+                                    "Come on, let's take this dirty nappy off."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nappy rash",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sore skin caused by wet nappies",
+                                "examples": [
+                                    "He's got really bad nappy rash at the moment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be out of nappies",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to no longer wear nappies, but use the toilet instead",
+                                "examples": [
+                                    "Is George out of nappies yet?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "adirty nappy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I knew William when he was stillinnappies (= when he was a baby) ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -92,23 +280,7 @@
                         "definition": "a piece of cloth or plastic tied under a baby’s chin to protect its clothes when it is eating:cái yếm dãi",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

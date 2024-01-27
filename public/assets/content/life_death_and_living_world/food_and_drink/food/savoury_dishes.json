@@ -40,23 +40,7 @@
                         "definition": "a Japanese dish that consists of small cakes of cooked rice served with raw fish",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -70,27 +54,10 @@
                         "region": "",
                         "definition": "a cooked sausage eaten in a long soft roll, often with fried onions : xúc xích Đức",
                         "examples": [
-                            "a hot dog stand",
-                            ""
+                            "a hot dog stand"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -104,35 +71,171 @@
                         "region": "",
                         "definition": "a type of food from India, consisting of meat or vegetables in a spicy sauce : món cà ri",
                         "examples": [
-                            "chicken curry",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "hot(= with a strong, burning taste that comes from strong spices )I love really hot curry.",
-                            "medium(= quite hot )She ordered a medium curry.",
-                            "mild(= not hot )Children often enjoy mild curry.",
-                            "chicken/beef/vegetable etc curryI think I’ll have a chicken curry.",
-                            "an Indian/Thai etc curry(= made from Indian, Thai etc recipes )",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "curry powder(= a mixture of spices for making curry )",
-                            "curry sauce(= a sauce for making curry, often in a jar )",
-                            "a curry houseBritish English(= a restaurant that serves curry )Let’s try that new curry house in town.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have curryFor dinner we had curry and rice.",
-                            "go for a curry(= go to a restaurant to eat a curry )How about going for a curry on Saturday night?"
+                            "chicken curry"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a strong, burning taste that comes from strong spices",
+                                "examples": [
+                                    "I love really hot curry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "medium",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "quite hot",
+                                "examples": [
+                                    "She ordered a medium curry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mild",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not hot",
+                                "examples": [
+                                    "Children often enjoy mild curry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "chicken/beef/vegetable etc curry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "I think I’ll have a chicken curry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an Indian/Thai etc curry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "made from Indian, Thai etc recipes",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "curry powder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a mixture of spices for making curry",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "curry sauce",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a sauce for making curry, often in a jar",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a curry houseBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a restaurant that serves curry",
+                                "examples": [
+                                    "Let’s try that new curry house in town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have curry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "For dinner we had curry and rice."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go for a curry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "go to a restaurant to eat a curry",
+                                "examples": [
+                                    "How about going for a curry on Saturday night?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -149,20 +252,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "a large circle of flat bread baked with cheese, tomatoes, and sometimes meat and vegetables spread on top",
-                        "examples": [
-                            "a slice of pizza",
-                            "I like a lot of different pizzatoppings.",
-                            "deepUKpan/ USdishpizza"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a slice of pizza",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I like a lot of different pizzatoppings."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "deepUKpan/ USdishpizza",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -189,23 +305,7 @@
                             "chicken casserole"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -220,23 +320,7 @@
                         "definition": "/ shish kebab a dish consisting of small pieces of meat and vegetables that have been put on a long thin stick or metal rod and cooked together :thịt nướng xiên",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -269,23 +353,7 @@
                             "a cheese/ mushroom omelette"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -302,23 +370,7 @@
                             "scrambled eggs on toast"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

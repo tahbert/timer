@@ -37,29 +37,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbASKthách",
-                        "examples": [
-                            "[ T ] to ask someone to do something which involves risk",
-                            "_Wear the low-cut blouse with your pink shorts - go on, I dare you!",
-                            "_[ + to infinitive ]I dare youtoask him to dance."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -71,28 +50,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounDEMAND",
-                        "examples": [
-                            "[ C ] a demand for something to happen",
-                            "_Management have so far ignored the union's callsforstricter safety regulations."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -108,23 +67,7 @@
                             "_I would appreciateitif you could let me know (= Please let me know) in advance whether or not you will be coming."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -136,25 +79,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "modal verbREQUEST",
-                        "examples": [
-                            "used to ask someone to do something",
-                            "_Will you give me her address?",
-                            "_Will you give that to Tony when you see him, please?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "used to ask someone to do something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_Will you give me her address?",
+                                    "_Will you give that to Tony when you see him, please?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -170,31 +112,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbWANT",
-                        "examples": [
-                            "[ + to infinitive ]used in requests",
-                            "_I'd like one of the round loaves, please.",
-                            "_[ + to infinitive ]I'd liketobook a seat for tonight's performance.",
-                            "_[ + object + to infinitive ]I'd like youtosend this for me first class, please.",
-                            "_[ + past participle ]I would like the whole lot finishedby the weekend."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -223,28 +142,43 @@
                         "region": "",
                         "definition": "would/do you mind?/ˌwʊd ˌduː jʊ ˈmaɪnd/ use this to ask someone politely to do something for you or to let you do something: bạn có phiền không",
                         "examples": [
-                            "▪ I’d like to ask you a couple of questions - do you mind?",
-                            "would/do you mind if bạn có phiền không nếu",
-                            "▪ Would you mind if I held the baby?",
-                            "▪ Do you mind if I just turn down the volume a little?",
-                            "would/do you mind doing something? bạn có phiền làm cái gì đó không",
-                            "▪ Would you mind stopping at the Post Office on the way home?",
-                            "▪ Dinner won’t be on the table for another half hour - do you mind waiting?"
+                            "▪ I’d like to ask you a couple of questions - do you mind?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "would/do you mind if bạn có phiền không nếu",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Would you mind if I held the baby?",
+                                    "▪ Do you mind if I just turn down the volume a little?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "would/do you mind doing something? bạn có phiền làm cái gì đó không",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Would you mind stopping at the Post Office on the way home?",
+                                    "▪ Dinner won’t be on the table for another half hour - do you mind waiting?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -266,23 +200,7 @@
                             "▪ Could you do me a favour and lock everything up at five?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -299,23 +217,7 @@
                             "▪ I would appreciate it if you could let me know when you will be making your decision."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -341,23 +243,7 @@
                             "_Can you make a little less noise, please? I'm trying to work."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -369,25 +255,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "excuse me/pardon me/ɪkˈskjuːz miː, ˈpɑːʳdn miː/ use this to politely get someone’s attention or to interrupt what they are doing when you want to ask them something. Pardon me is slightlyold-fashionedand is moreformalthan excuse me:",
-                        "examples": [
-                            "xin lỗi làm phiền",
-                            "▪ Excuse me, could I borrow your pen for a minute?",
-                            "▪ Pardon me, do you know what time it is?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "xin lỗi làm phiền",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Excuse me, could I borrow your pen for a minute?",
+                                    "▪ Pardon me, do you know what time it is?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -427,23 +312,7 @@
                             "▪ Nigel scrounged a drink off us before we left.scrounge something"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -461,23 +330,7 @@
                             "▪ The two boys moved around the bar, cadging free drinks and cigarettes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -491,24 +344,24 @@
                         "region": "",
                         "definition": "informal to ask sb for sth such as food or cigarettes, in a way that annoys or embarrasses people: xin xỏ",
                         "examples": [
-                            "▪ I think Steve managed to bum a lift home.",
-                            "bum sth off sb",
-                            "▪ He’s always bumming drinks off people and it really gets on my nerves."
+                            "▪ I think Steve managed to bum a lift home."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "bum sth off sb",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ He’s always bumming drinks off people and it really gets on my nerves."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -528,10 +381,6 @@
                         "examples": [
                             "▪ Things got so bad that at one point she thought she’d have to go out and beg.",
                             "▪ He just sits there on the street all day, but he doesn’t panhandle.",
-                            "beg for",
-                            "▪ Just a few years ago, Tanya was homeless and begging for money in front of the supermarket.",
-                            "beg from",
-                            "▪ Sad-looking men of all ages beg from tourists at the corner of the square.",
                             "beggaralsopanhandlerAmerican [C] ăn mày, kẻ ăn xin",
                             "▪ The streets of the capital are full of beggars.",
                             "▪ I’m so sick of the panhandlers always asking for money."
@@ -540,16 +389,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "beg for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Just a few years ago, Tanya was homeless and begging for money in front of the supermarket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "beg from",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Sad-looking men of all ages beg from tourists at the corner of the square."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -571,23 +439,7 @@
                             "He never pays for anything - he’d even mooch off his own mother."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -624,23 +476,7 @@
                             "My children are always nagging me to get new videos."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -661,23 +497,7 @@
                             "▪ Mum was always going on at me to do something with my musical talent, but I was more interested in sport."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -691,26 +511,41 @@
                         "region": "",
                         "definition": "to keep asking sb to do sth or asking them for sth in an annoying way: quấy rầy , nài nỉ",
                         "examples": [
-                            "She’d been pestered by reporters for days.",
-                            "pester somebody for something",
-                            "I can’t even walk down the street without being continually pestered for money.",
-                            "pester somebody to do something",
-                            "The kids have been pestering me to buy them new trainers."
+                            "She’d been pestered by reporters for days."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "pester somebody for something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I can’t even walk down the street without being continually pestered for money."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pester somebody to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The kids have been pestering me to buy them new trainers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -744,50 +579,299 @@
                         "region": "",
                         "definition": "to make a request for help, advice, information etc :",
                         "examples": [
-                            "If you need anything, you only have to ask.",
-                            "ask to do sthask to be allowed to do something",
-                            "The man on the phone wasn’t very helpful, so I asked to speak with the manager.",
-                            "Karen asked to see the doctor.",
-                            "ask sb to do sth",
-                            "Ask John to mail those letters tomorrow.",
-                            "ask for",
-                            "Some people find it difficult to ask for help.",
-                            "ask sb for sth",
-                            "He repeatedly asked Bailey for the report.",
-                            "ask (sb) if/whether you can do sth",
-                            "Letty’s been asking me if she can take the dog out for a walk.",
-                            "Ask your mom if you can come with us.",
-                            "ask that",
-                            "Was it too much to ask that he be allowed some privacy?",
-                            "ask sth of sb",
-                            "You have no right to ask anything of me.",
-                            "Expecting the children to do an hour’s homework after school is asking a lot of them.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "ask for helpDon’t be afraid to ask for help.",
-                            "ask for assistance(= help or support )You can call this number to ask for assistance.",
-                            "ask for advice/ask sb’s adviceIf you are in any doubt, ask for advice.",
-                            "ask for informationI wrote asking for information about language classes.",
-                            "ask for directions(= instructions how to get from one place to another )At the station he asked for directions to the museum.",
-                            "ask for detailsPlease ask for details of the full range of tickets available.",
-                            "ask for sb’s opinionDad always liked being asked for his opinion.",
-                            "ask for sb’s supportLabour councillors asked for our support for the proposal.",
-                            "ask for permissionThe two men entered without bothering to ask for permission.",
-                            "ask for an explanationWhen he asked for an explanation, no one could give him an answer."
+                            "If you need anything, you only have to ask."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "ask for help",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Don’t be afraid to ask for help."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for assistance",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "help or support",
+                                "examples": [
+                                    "You can call this number to ask for assistance."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for advice/ask sb’s advice",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If you are in any doubt, ask for advice."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for information",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I wrote asking for information about language classes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "instructions how to get from one place to another",
+                                "examples": [
+                                    "At the station he asked for directions to the museum."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for details",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Please ask for details of the full range of tickets available."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for sb’s opinion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Dad always liked being asked for his opinion."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for sb’s support",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Labour councillors asked for our support for the proposal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for permission",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The two men entered without bothering to ask for permission."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for an explanation",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "When he asked for an explanation, no one could give him an answer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask to do sthask to be allowed to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The man on the phone wasn’t very helpful, so I asked to speak with the manager.",
+                                    "Karen asked to see the doctor."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask sb to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ask John to mail those letters tomorrow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Some people find it difficult to ask for help."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask sb for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He repeatedly asked Bailey for the report."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask (sb) if/whether you can do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Letty’s been asking me if she can take the dog out for a walk.",
+                                    "Ask your mom if you can come with us."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Was it too much to ask that he be allowed some privacy?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask sth of sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You have no right to ask anything of me.",
+                                    "Expecting the children to do an hour’s homework after school is asking a lot of them."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -806,34 +890,177 @@
                         "definition": "formal to ask for advice, help, or money from sb who has the knowledge, right, or power to provide it: tìm kiếm, mưu cầu",
                         "examples": [
                             "If the symptoms persist, seek medical advice.",
-                            "Legal advice should be sought before you take any further action.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "seek helpHe sought help from the police.",
-                            "seek advice/informationIf in any doubt, seek the advice of a senior officer.",
-                            "seek support/approvalHe said he would seek shareholder support for the proposal.",
-                            "seek permissionThey are seeking permission to build 200 new houses.",
-                            "seek refuge/asylum/shelter(= try to find somewhere safe )They sought refuge inside the castle.",
-                            "seek election/re-election(= try to be elected or re-elected )He hasn’t decided whether to seek re-election.",
-                            "seek compensation/damages(= ask for money because of something bad you have suffered )The other two may seek compensation for wrongful imprisonment.",
-                            "seek revengeDafoe plays a computer mastermind who seeks revenge on his former employer.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "activelyThe university is actively seeking new funds.",
-                            "desperatelyThey ran in all directions, desperately seeking escape."
+                            "Legal advice should be sought before you take any further action."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "seek help",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He sought help from the police."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek advice/information",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If in any doubt, seek the advice of a senior officer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek support/approval",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He said he would seek shareholder support for the proposal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek permission",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They are seeking permission to build 200 new houses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek refuge/asylum/shelter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "try to find somewhere safe",
+                                "examples": [
+                                    "They sought refuge inside the castle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek election/re-election",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "try to be elected or re-elected",
+                                "examples": [
+                                    "He hasn’t decided whether to seek re-election."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek compensation/damages",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ask for money because of something bad you have suffered",
+                                "examples": [
+                                    "The other two may seek compensation for wrongful imprisonment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "seek revenge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Dafoe plays a computer mastermind who seeks revenge on his former employer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "actively",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The university is actively seeking new funds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "desperately",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They ran in all directions, desperately seeking escape."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -859,23 +1086,7 @@
                             "I've been invited to give a talk at the conference"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -906,27 +1117,86 @@
                         "definition": "to ask for something, or ask someone to do something, in an anxious way that shows you want it very much: cầu xin",
                         "examples": [
                             "She begged and pleaded with them until they finally agreed.",
-                            "She fought back the sudden urge to run to him andbeghisforgiveness.",
-                            "beg to do something",
-                            "The children begged to come with us.",
-                            "beg somebody to do something",
-                            "I begged Helen to stay, but she wouldn’t listen.",
-                            "beg (somebody) for something",
-                            "She ran to the nearest house andbegged for help.",
-                            "We could hear the prisonersbegging for mercy.",
-                            "I beg of youformal(= please )",
-                            "Listen, I beg of you.",
-                            "beg leave to do sthformal(= ask permission to do something )"
+                            "She fought back the sudden urge to run to him andbeghisforgiveness."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "beg to do something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The children begged to come with us."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "beg somebody to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I begged Helen to stay, but she wouldn’t listen."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "beg (somebody) for something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She ran to the nearest house andbegged for help.",
+                                    "We could hear the prisonersbegging for mercy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "I beg of youformal(= please )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Listen, I beg of you."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "beg leave to do sthformal(= ask permission to do something )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -949,27 +1219,42 @@
                         "region": "",
                         "definition": "to ask for something that you want very much, in a sincere and emotional way: nài xin, thỉnh cầu",
                         "examples": [
-                            "‘Don’t go!’ Robert pleaded.",
-                            "plead for",
-                            "Civil rights groups pleaded for government help.",
-                            "plead with sb (to do sth)",
-                            "Moira pleaded with him to stay.",
-                            "Parker pleaded with his supporters in the crowd to remain calm."
+                            "‘Don’t go!’ Robert pleaded."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "plead for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Civil rights groups pleaded for government help."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plead with sb (to do sth)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Moira pleaded with him to stay.",
+                                    "Parker pleaded with his supporters in the crowd to remain calm."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -987,27 +1272,86 @@
                         "region": "",
                         "definition": "to ask for sth, or ask sb to do sth, in a firm or angry way that shows you expect them to do it:",
                         "examples": [
-                            "Angry demonstrators demanded the resignation of two senior officials.",
-                            "demand to know/see/have etc sth",
-                            "I demand to know what’s going on.",
-                            "demand that",
-                            "They demanded that the military government free all political prisoners.",
-                            "demand sth of sb",
-                            "It seemed that no matter what she did, more was demanded of her.",
-                            "‘Where are you going?’ she demanded angrily.",
-                            "demand an apology/a refund etctell someone that they must say they are sorry, give money back etc",
-                            "How dare you say that! I demand an apology.",
-                            "►Do not say ‘demand for something’. Saydemand something:I demand my money back! (NOT I demand for my money back!)"
+                            "Angry demonstrators demanded the resignation of two senior officials."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "demand to know/see/have etc sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I demand to know what’s going on."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "demand that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They demanded that the military government free all political prisoners."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "demand sth of sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It seemed that no matter what she did, more was demanded of her.",
+                                    "‘Where are you going?’ she demanded angrily."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "demand an apology/a refund etctell someone that they must say they are sorry, give money back etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "How dare you say that! I demand an apology."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "►Do not say ‘demand for something’. Saydemand something:I demand my money back! (NOT I demand for my money back!)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -1035,23 +1379,7 @@
                             "▪ Women have been pressing for equal rights and pay for years."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1071,23 +1399,7 @@
                             "Members have called for his resignation."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1100,29 +1412,43 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ upon sb if sb, especially anorganizationin a bad situation, calls on sb to do sth, they ask strongly andurgentlyfor that person to do it because their help is needed:",
-                        "examples": [
-                            "call on/upon sb to do sth",
-                            "We are calling upon the government to release all political prisoners.",
-                            "The Secretary called on all Americans to help stop the abuse and neglect of children.",
-                            "They're calling on all men and boys over the age of 14 to join the army.",
-                            "formalI now call on everyone to raise a glass to the happy couple.",
-                            "call on/upon sb for sth",
-                            "The dance company has called on ballet-lovers everywhere for financial support."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "call on/upon sb to do sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We are calling upon the government to release all political prisoners.",
+                                    "The Secretary called on all Americans to help stop the abuse and neglect of children.",
+                                    "They're calling on all men and boys over the age of 14 to join the army.",
+                                    "formalI now call on everyone to raise a glass to the happy couple."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "call on/upon sb for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The dance company has called on ballet-lovers everywhere for financial support."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1156,24 +1482,24 @@
                         "region": "",
                         "definition": "UK /ask a favorUS  to ask sb to be kind or generous by helping you do sth or by doing sth for you: xin một đặc ân",
                         "examples": [
-                            "▪ Could I ask a favour? I need someone to collect the children from school tonight. Are you free?",
-                            "ask sb a favour",
-                            "▪ I need to ask you a big favor. Could you lend me $1000 till I get my tax refund?"
+                            "▪ Could I ask a favour? I need someone to collect the children from school tonight. Are you free?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "ask sb a favour",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I need to ask you a big favor. Could you lend me $1000 till I get my tax refund?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1191,24 +1517,24 @@
                         "definition": "sbT phrasal verb] if sb in a very bad situation turns to sb, they ask that person for help, comfort, sympathy etc: tìm đến ai",
                         "examples": [
                             "▪ After my wife died I didn’t know who to turn to.",
-                            "▪ Eventually I turned to an organization that helps people with drug and alcohol problems.",
-                            "turn to sb for sth",
-                            "▪ When things got really bad, I turned to my family for help."
+                            "▪ Eventually I turned to an organization that helps people with drug and alcohol problems."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "turn to sb for sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ When things got really bad, I turned to my family for help."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1225,28 +1551,57 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ call uponformal  to ask someone for help when you have a problem and especially when they have offered to help you when they can: kêu gọi",
-                        "examples": [
-                            "call on/upon sb",
-                            "▪ If you ever have a problem, you know that you can always call on us.",
-                            "call on/upon sb for sth",
-                            "▪ Members of the religious sect are very reluctant to call on outsiders for help.",
-                            "call on/upon sb to do sth",
-                            "▪ Being the only person in the office who speaks German, I’m often called upon to translate."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "call on/upon sb",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ If you ever have a problem, you know that you can always call on us."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "call on/upon sb for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Members of the religious sect are very reluctant to call on outsiders for help."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "call on/upon sb to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Being the only person in the office who speaks German, I’m often called upon to translate."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1263,28 +1618,57 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make a public request, for example on television or in the newspapers, for money, food, information etc, especially in order to help sb who is in a very bad situation: khẩn khoản kêu gọi",
-                        "examples": [
-                            "appeal for",
-                            "▪ The Red Cross is appealing for donations of food and clothing following the earthquake.",
-                            "appeal to sb for sth",
-                            "▪ The Murrays have appealed to the public for any information about their missing daughter.",
-                            "appeal to sb to do sth",
-                            "▪ The speaker had appealed to the miners to vote for their union."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "appeal for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The Red Cross is appealing for donations of food and clothing following the earthquake."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "appeal to sb for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The Murrays have appealed to the public for any information about their missing daughter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "appeal to sb to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The speaker had appealed to the miners to vote for their union."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

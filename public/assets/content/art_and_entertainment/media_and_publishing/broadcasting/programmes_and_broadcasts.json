@@ -48,23 +48,7 @@
                             "a series of articles about the state of the economy"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -87,23 +71,7 @@
                             "Her novel ‘The Awakening’ was recently serialized on TV."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -137,23 +105,7 @@
                             "I’m not bothered about watching it tonight - it’s a repeat of one I’ve already seen."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -171,23 +123,7 @@
                             "The television cameras captured the violence and played it again in instant replay."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -221,34 +157,145 @@
                             "It’s one of my favourite programs.",
                             "programme about/on",
                             "There’s a programme about killer whales next.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a television programme(alsoa TV programmeinformal)There aren't many good TV programmes on an the moment.",
-                            "a radio programmeI was once interviewed for a radio programme.",
                             "a cookery/wildlife/news/comedy/documentary etc programme",
                             "a daily news programme aimed at teenagers",
-                            "More and more people are watching cookery programmes on TV.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "watch a programmeShe was watching a wildlife programme.",
-                            "see a programmeDid you see that programme last night about crocodiles?",
-                            "listen to a programmeA lot of people listen to that programme on the way to work.",
-                            "hear a programmeI heard an interesting programme on the radio yesterday.",
-                            "present a programmeBritish English,host a programAmerican English(= introduce its different parts )At the time she was also presenting several television programmes.",
-                            "appear on a programmeI was invited to appear on a TV programme."
+                            "More and more people are watching cookery programmes on TV."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a television programme",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa TV programmeinformal",
+                                "examples": [
+                                    "There aren't many good TV programmes on an the moment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a radio programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I was once interviewed for a radio programme."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "watch a programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She was watching a wildlife programme."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "see a programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Did you see that programme last night about crocodiles?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "listen to a programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A lot of people listen to that programme on the way to work."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hear a programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I heard an interesting programme on the radio yesterday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "present a programmeBritish English,host a programAmerican English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "introduce its different parts",
+                                "examples": [
+                                    "At the time she was also presenting several television programmes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "appear on a programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I was invited to appear on a TV programme."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -266,35 +313,177 @@
                         "region": "",
                         "definition": "formal sth that isbroadcaston the radio or on television, especially a speech, discussion, or news programme: chương trình",
                         "examples": [
-                            "The government has banned all broadcasts by opposition groups.",
-                            "a news broadcast",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a TV/television/radio broadcastThe President addressed the nation in a television broadcast.",
-                            "In a nationwide TV broadcast, the prime minister explained why he was resigning.",
-                            "a satellite broadcastThe match was shown live in a world-wide satellite broadcast.",
-                            "a news broadcastThe BBC's evening news broadcast was interrupted.",
-                            "a party political broadcast(= a short television advertisement made by a political party )How are party political broadcasts funded?",
-                            "an election broadcast(= shown before an election to persuade people to vote for a party )a Labour party election broadcast",
-                            "a live broadcast(= shown or heard as it is happening )a live television broadcast from Beijing",
-                            "an Internet broadcastAn Internet broadcast can reach a truly global audience.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make/do a broadcastHe made a long broadcast over the radio.",
-                            "give a broadcastThe Prime Minister gave a television broadcast to the country at 10:15."
+                            "The government has banned all broadcasts by opposition groups."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "TV/television/radio broadcastThe President addressed the nation in a television broadcast."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a satellite broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The match was shown live in a world-wide satellite broadcast."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a news broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The BBC's evening news broadcast was interrupted."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a party political broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a short television advertisement made by a political party",
+                                "examples": [
+                                    "How are party political broadcasts funded?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an election broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "shown before an election to persuade people to vote for a party",
+                                "examples": [
+                                    "a Labour party election broadcast"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a live broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "shown or heard as it is happening",
+                                "examples": [
+                                    "a live television broadcast from Beijing"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Internet broadcastAn Internet broadcast can reach a truly global audience."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make/do a broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He made a long broadcast over the radio."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give a broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Prime Minister gave a television broadcast to the country at 10:15."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a news broadcast",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In a nationwide TV broadcast, the prime minister explained why he was resigning."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -314,35 +503,177 @@
                         "examples": [
                             "The senator appeared on the CBS show ‘Face the Nation’.",
                             "a new television quiz show",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "live(= broadcast on TV or radio as it is happening )Tonight’s show is live from Wembley Stadium.",
-                            "a TV/television/radio showWhat’s your favourite TV show?",
-                            "a quiz show(= in which people try to answer questions correctly )It’s the BBC’s most popular quiz show.",
-                            "a game show(= in which people play games or answer questions to win prizes )It’s been a popular game show for years.",
-                            "a chat showUK,a talk showUS(= in which famous or interesting people talk to someone about themselves )She was on the chat show to publicize her new novel.",
-                            "a family show(= one that is suitable for families and children to watch )It’s a real family show, with something for everyone.",
-                            "a news showespecially AmE: the morning news show",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "appear on/take part in a show(= to be a guest on a show )They were trying to persuade Daniel Radcliffe to appear on the show.",
-                            "host a show(alsopresent a showBritish English) (= to be the person who introduces the different parts of a show, or who talks to guests )He presents his own talk show on ITV.",
-                            "watch a showPeople of all ages watch the show.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the star of the showVery quickly, Williams became the star of the show."
+                            "a news showespecially AmE: the morning news show"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "live",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "broadcast on TV or radio as it is happening",
+                                "examples": [
+                                    "Tonight’s show is live from Wembley Stadium."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "TV/television/radio showWhat’s your favourite TV show?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a quiz show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which people try to answer questions correctly",
+                                "examples": [
+                                    "It’s the BBC’s most popular quiz show."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a game show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which people play games or answer questions to win prizes",
+                                "examples": [
+                                    "It’s been a popular game show for years."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chat showUK,a talk showUS",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which famous or interesting people talk to someone about themselves",
+                                "examples": [
+                                    "She was on the chat show to publicize her new novel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a family show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is suitable for families and children to watch",
+                                "examples": [
+                                    "It’s a real family show, with something for everyone."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "appear on/take part in a show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to be a guest on a show",
+                                "examples": [
+                                    "They were trying to persuade Daniel Radcliffe to appear on the show."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "host a show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsopresent a showBritish English",
+                                "examples": [
+                                    "(= to be the person who introduces the different parts of a show, or who talks to guests )He presents his own talk show on ITV."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "watch a show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "People of all ages watch the show."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the star of the show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Very quickly, Williams became the star of the show."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -381,23 +712,7 @@
                             "the huge success of television soaps"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -422,23 +737,7 @@
                             "They showed a documentary on animal communication."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -456,23 +755,7 @@
                             "The popular British sitcom ‘One Foot in the Grave’ will finish this year."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -486,18 +769,17 @@
                         "region": "",
                         "definition": "especially UK a short news programme, in which only the most important pieces of news are read: bản tin",
                         "examples": [
-                            "It was reported in news bulletins throughout the day that the astronauts were in trouble.",
-                            "a weekly news bulletin"
+                            "It was reported in news bulletins throughout the day that the astronauts were in trouble."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a weekly news bulletin",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -522,28 +804,57 @@
                         "examples": [
                             "Welcome to the early evening news.",
                             "the early evening/late night news.",
-                            "I usually watch the/ten o'clock/early evening/late night news.",
-                            "on the newson television or radio",
-                            "They said on the news that the visit has been cancelled.",
-                            "Did you hear anything on the news about the bomb?",
-                            "Was there anything interesting on the news this evening?",
-                            "It must be true – I heard it on the news last night.",
-                            "watch/ listen to/ follow the newslisten, read or watch the news regularly theo dõi tin tức",
-                            "I don’t know if you’ve been following the news, but I heard that three American servicemen were killed there.",
-                            "Let’swatch the news.",
-                            "Be quiet. I want tolisten to the news.",
-                            "I was listening to the news this morning, but I didn’t catch what they said about it.",
-                            "switch/turn/put on the news(= turn the television or radio on for the news)"
+                            "I usually watch the/ten o'clock/early evening/late night news."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "on the newson television or radio",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They said on the news that the visit has been cancelled.",
+                                    "Did you hear anything on the news about the bomb?",
+                                    "Was there anything interesting on the news this evening?",
+                                    "It must be true – I heard it on the news last night."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "watch/ listen to/ follow the newslisten, read or watch the news regularly theo dõi tin tức",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I don’t know if you’ve been following the news, but I heard that three American servicemen were killed there.",
+                                    "Let’swatch the news.",
+                                    "Be quiet. I want tolisten to the news.",
+                                    "I was listening to the news this morning, but I didn’t catch what they said about it."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "switch/turn/put on the news(= turn the television or radio on for the news)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -576,29 +887,28 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[U]",
                         "usage": "",
                         "region": "",
                         "definition": "television programmes that show real people in funny situations or situations in which they must compete with each other. Often the people are filmed continuously for weeks or months : chương trình truyền hình thực tế",
-                        "examples": [
-                            "the reality TV show ‘Big Brother’",
-                            "The trouble with reality TV is that a lot of the time it’s really boring."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the reality TV show ‘Big Brother’",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The trouble with reality TV is that a lot of the time it’s really boring."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -635,23 +945,7 @@
                             "Universities may record and broadcast some lectures as webcasts."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -684,23 +978,7 @@
                             "The interview is available as a podcast."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -736,23 +1014,7 @@
                             "the first episode of a new drama series"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

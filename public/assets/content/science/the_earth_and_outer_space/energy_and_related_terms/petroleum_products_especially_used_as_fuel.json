@@ -43,23 +43,7 @@
                             "diesel car/truck etc"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,35 +56,212 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ gas gasoline  a liquid obtained from petroleum , used especially as a fuel for cars, aircraft and other vehicles: xăng",
-                        "examples": [
-                            "petrol prices",
-                            "The petrol tank is leaking.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "unleaded petrol(= petrol that does not contain lead )",
-                            "leaded petrol(= petrol that contains lead )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a litre of petrol",
-                            "a tankful/tank of petrol(= the amount of petrol that you need to fill up a car )He bought a tankful of petrol.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a petrol station(= a place where you take your car to fill it with petrol )We'd better stop at the next petrol station.",
-                            "a petrol pump(= a machine for putting petrol into cars at a petrol station )",
-                            "the petrol tank(= the part of a car where you put the petrol )The petrol tank was nearly empty.",
-                            "a petrol tanker(= a vehicle used for carrying petrol )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "fill (a vehicle) up with petrolShe stopped to fill up with petrol.",
-                            "run out of petrolThey ran out of petrol some miles from their destination.",
-                            "run on petrolMany older vehicles have been converted to run on unleaded petrol.",
-                            "use petrolTry to cut your motoring costs and use less petrol."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "unleaded petrol",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "petrol that does not contain lead",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leaded petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "petrol that contains lead",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a tankful/tank of petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the amount of petrol that you need to fill up a car",
+                                "examples": [
+                                    "He bought a tankful of petrol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a petrol station",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where you take your car to fill it with petrol",
+                                "examples": [
+                                    "We'd better stop at the next petrol station."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a petrol pump",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a machine for putting petrol into cars at a petrol station",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the petrol tank",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the part of a car where you put the petrol",
+                                "examples": [
+                                    "The petrol tank was nearly empty."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a petrol tanker",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a vehicle used for carrying petrol",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a vehicle",
+                                "examples": [
+                                    "up with petrolShe stopped to fill up with petrol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "run out of petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They ran out of petrol some miles from their destination."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "run on petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many older vehicles have been converted to run on unleaded petrol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Try to cut your motoring costs and use less petrol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "petrol prices",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The petrol tank is leaking."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a litre of petrol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -126,42 +287,296 @@
                             "a rise in the price of oil",
                             "the importance of protecting our oil supplies",
                             "anoil refinery(= factory where oil is made purer )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "discover/find oilOil was discovered in Saudi Arabia in 1938.|How does a company go about finding oil and getting it from the ground?",
-                            "hit/strike oil(= to find oil when you are digging for it )The engineers drilled down a few hundred metres until they hit oil.|The Ohio Oil Company struck oil on May 3rd.",
-                            "drill for oilPlans to drill for oil off the New South Wales coast have recently been revived.",
-                            "produce oil(= to have natural areas of oil, and take it out of the ground )The US does not produce enough oil to meet its own needs.",
-                            "extract oilformal(= to take oil out of an area )the difficult process of extracting the oil",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "crude oil(= oil in its natural state )the price of crude oil",
-                            "refined oil(= oil that has been treated by an industrial process )They had exported refined oil.",
-                            "offshore oil(= found under the sea, not far from the coast )The company has the technical capabilities to produce offshore oil.",
-                            "heavy/light oil2,000 barrels of heavy oil are produced a day.|The oil corporation announced the discovery of another field of light oil.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "oil pricesThe increase in oil prices has prompted warnings of a global recession.",
-                            "the oil industryHe works in in the oil industry.",
-                            "an oil companyYPF was the state oil company in Argentina.",
-                            "an oil producer(= a country which produces oil )The Soviet Union is the world's largest oil producer.",
-                            "an oil refinery(= a place where oil is treated by an industrial process )an oil refinery in Perth",
-                            "oil productiona fall in US oil production",
-                            "an oil spill(= situation in which oil comes out of a ship or other container into the sea )a terrible oil spill near the Shetland Islands",
-                            "an oil crisis(= situation in which there is not enough oil, and the price of oil is very high )The world is facing an oil crisis.",
-                            "an oil rig(= structure on land or in the sea with equipment for getting oil out of the ground )an oil rig in the North Sea"
+                            "oil productiona fall in US oil production"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "discover/find oil",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Oil was discovered in Saudi Arabia in 1938.|How does a company go about finding oil and getting it from the ground?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hit/strike oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to find oil when you are digging for it",
+                                "examples": [
+                                    "The engineers drilled down a few hundred metres until they hit oil.|The Ohio Oil Company struck oil on May 3rd."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drill for oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Plans to drill for oil off the New South Wales coast have recently been revived."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "produce oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to have natural areas of oil, and take it out of the ground",
+                                "examples": [
+                                    "The US does not produce enough oil to meet its own needs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "extract oilformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to take oil out of an area",
+                                "examples": [
+                                    "the difficult process of extracting the oil"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crude oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "oil in its natural state",
+                                "examples": [
+                                    "the price of crude oil"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "refined oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "oil that has been treated by an industrial process",
+                                "examples": [
+                                    "They had exported refined oil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "offshore oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "found under the sea, not far from the coast",
+                                "examples": [
+                                    "The company has the technical capabilities to produce offshore oil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "heavy/light oil2,000 barrels of heavy oil are produced a day.|",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The oil corporation announced the discovery of another field of light oil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "oil prices",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The increase in oil prices has prompted warnings of a global recession."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the oil industry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He works in in the oil industry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil company",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "YPF was the state oil company in Argentina."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil producer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a country which produces oil",
+                                "examples": [
+                                    "The Soviet Union is the world's largest oil producer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil refinery",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where oil is treated by an industrial process",
+                                "examples": [
+                                    "an oil refinery in Perth"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil spill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "situation in which oil comes out of a ship or other container into the sea",
+                                "examples": [
+                                    "a terrible oil spill near the Shetland Islands"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil crisis",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "situation in which there is not enough oil, and the price of oil is very high",
+                                "examples": [
+                                    "The world is facing an oil crisis."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil rig",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "structure on land or in the sea with equipment for getting oil out of the ground",
+                                "examples": [
+                                    "an oil rig in the North Sea"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -180,23 +595,7 @@
                         "definition": "a dark thick oil obtained from under the ground, from which various substances including petrol, paraffin and diesel oil are produced: dầu mỏ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -227,23 +626,7 @@
                         "definition": "describes petrol (= fuel) with small amounts of lead in it: có chì; chứa chì",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -260,23 +643,7 @@
                             "Does your car use unleaded petrol?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

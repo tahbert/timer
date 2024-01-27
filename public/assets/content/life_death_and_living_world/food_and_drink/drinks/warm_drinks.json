@@ -49,45 +49,330 @@
                             "a jar of coffee",
                             "instant coffee(= powdered coffee )",
                             "I haven’t got anyreal coffee(= coffee beans )at the moment.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a cup/mug of coffeeJake had a quick breakfast and a mug of coffee.",
-                            "a pot of coffeeShall I make a pot of coffee?",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have a coffeeShe stopped in a café to have a quick coffee.",
-                            "drink coffeeI don’t often drink coffee.",
-                            "sip coffee(= drink it slowly )He sat in his chair, peacefully sipping his coffee.",
-                            "make coffeeYou wash up and I’ll make the coffee.",
-                            "pour the coffee (out)He poured the coffee out into mugs.",
-                            "spill coffeeHe’d accidentally spilt coffee over the table.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "black(= without milk )He went up to the counter and ordered a black coffee.",
-                            "white(= with milk )I’d like a white coffee, please.",
-                            "fresh(= made very recently using coffee beans )the delicious smell of fresh coffee",
-                            "strong/ weakI needed some strong coffee to wake me up.",
-                            "milky(= with a lot of milk in it )a steaming mug of milky coffee",
-                            "decaffeinated(alsodecafinformal) (= without any caffeine in it )Have you got any decaf coffee?",
-                            "iced coffeecoffee served cold with ice :a can of iced coffee",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a coffee cup/mugKate put down her coffee cup.",
-                            "a coffee potShe refilled the coffee pot.",
-                            "a coffee machine(= for making coffee )Janice crossed to the coffee machine and filled two plastic cups.",
-                            "a coffee break(= a break from work to have some coffee )Shall we stop for a coffee break?",
-                            "a coffee stain(= a mark left by coffee or a coffee cup )The table was covered in coffee stains."
+                            "iced coffeecoffee served cold with ice :a can of iced coffee"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cup/mug of coffee",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Jake had a quick breakfast and a mug of coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pot of coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Shall I make a pot of coffee?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She stopped in a café to have a quick coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drink coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I don’t often drink coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sip coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "drink it slowly",
+                                "examples": [
+                                    "He sat in his chair, peacefully sipping his coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You wash up and I’ll make the coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pour the coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "out",
+                                "examples": [
+                                    "He poured the coffee out into mugs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "spill coffee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He’d accidentally spilt coffee over the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "black",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "without milk",
+                                "examples": [
+                                    "He went up to the counter and ordered a black coffee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "white",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with milk",
+                                "examples": [
+                                    "I’d like a white coffee, please."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fresh",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "made very recently using coffee beans",
+                                "examples": [
+                                    "the delicious smell of fresh coffee"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "strong/ weak",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I needed some strong coffee to wake me up."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "milky",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of milk in it",
+                                "examples": [
+                                    "a steaming mug of milky coffee"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "decaffeinated",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsodecafinformal",
+                                "examples": [
+                                    "(= without any caffeine in it )Have you got any decaf coffee?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coffee cup/mug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Kate put down her coffee cup."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coffee pot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She refilled the coffee pot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coffee machine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for making coffee",
+                                "examples": [
+                                    "Janice crossed to the coffee machine and filled two plastic cups."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coffee break",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a break from work to have some coffee",
+                                "examples": [
+                                    "Shall we stop for a coffee break?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coffee stain",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a mark left by coffee or a coffee cup",
+                                "examples": [
+                                    "The table was covered in coffee stains."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -111,37 +396,195 @@
                             "b)[U] dried, finely cut leaves that are used to make tea",
                             "c)[U] bushes whose leaves are used to make tea :",
                             "tea plantations",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a cup/mug of teaWould you like a cup of tea?",
-                            "a pot of teaShall I make a pot of tea?",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "hotThe tea was too hot to drink.",
-                            "sweetI poured Helen a mug of sweet tea and waited for her to answer.",
-                            "strongYou've made the tea too strong.",
-                            "weakYou have your tea weak, don't you Chris?",
-                            "black(= without milk )I ordered black tea and toast.",
-                            "white(= with milk )Two white teas and a coffee, please.",
-                            "milky(= with a lot of milk )I don't like my tea so milky.",
                             "green tea[U] light-coloured tea made from leaves that have been heated with steam, especially popular in eastern Asia",
-                            "herbal tea/ tisane[C or U](a) drinkmade by pouring boiling water onto particular types of dried or fresh flowers or leaves : nước sắc, thuốc hãm",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "drink teaSusan sank into her chair and drank her tea.",
-                            "pour teaShe poured the tea and handed a cup to Cara."
+                            "herbal tea/ tisane[C or U](a) drinkmade by pouring boiling water onto particular types of dried or fresh flowers or leaves : nước sắc, thuốc hãm"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cup/mug of tea",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Would you like a cup of tea?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pot of tea",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Shall I make a pot of tea?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The tea was too hot to drink."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sweet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I poured Helen a mug of sweet tea and waited for her to answer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "strong",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You've made the tea too strong."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "weak",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You have your tea weak, don't you Chris?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "black",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "without milk",
+                                "examples": [
+                                    "I ordered black tea and toast."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "white",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with milk",
+                                "examples": [
+                                    "Two white teas and a coffee, please."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "milky",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of milk",
+                                "examples": [
+                                    "I don't like my tea so milky."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drink tea",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Susan sank into her chair and drank her tea."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pour tea",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She poured the tea and handed a cup to Cara."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -163,23 +606,7 @@
                             "she had a latte and I had a hot chocolate"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -192,24 +619,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a sweet chocolate drinkthat is made with cocoa powder : ca-cao",
-                        "examples": [
-                            "a nice hot mug of cocoa",
-                            "They drank their cocoa and watched as the beginning of their favorite movie started."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a nice hot mug of cocoa",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They drank their cocoa and watched as the beginning of their favorite movie started."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -228,23 +654,7 @@
                         "definition": "a drinkmade from milk and malt: sữa mạch nha",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -275,23 +685,7 @@
                         "definition": "(of coffee or tea) from which the caffeine has been removed: lọc hết chất ca-phê-in",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -326,23 +720,7 @@
                             "I’ll have a double espresso."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -361,23 +739,7 @@
                             "I asked for a skinny latte, not a full-fat one."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -390,24 +752,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "informal coffee that does not contain caffeine .Decafis short for ‘decaffeinated’:",
-                        "examples": [
-                            "a cup of decaf/ a decaf latte",
-                            "I always drink decaf."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cup of decaf/ a decaf latte",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I always drink decaf."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -424,24 +785,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ filtered coffee coffee made by allowing water to pass through a paper or mesh filter containing ground coffee: cà phê phin",
-                        "examples": [
-                            "a very nice cup of filter coffee",
-                            "We usually drink filter coffee at home."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a very nice cup of filter coffee",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We usually drink filter coffee at home."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -462,23 +822,7 @@
                             "strong coffeewith warm milk that has bubbles in it,or a cup of this"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -497,23 +841,7 @@
                             "I asked for a skinny latte, not a full-fat one."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -526,24 +854,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a type of coffee of good quality, or aflavouring which tastes of this : cà phê mô-ca",
-                        "examples": [
-                            "Kenyan, Colombian or mocha coffee",
-                            "Many grocery stores carry all kinds of ‘specialty coffees’ such as mint, mocha, or almond."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Kenyan, Colombian or mocha coffee",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Many grocery stores carry all kinds of ‘specialty coffees’ such as mint, mocha, or almond."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -564,23 +891,7 @@
                             "Can I have an Americano?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -611,23 +922,7 @@
                         "definition": "a small paper bagfilled with enough tea leaves to make tea for one person : trà túi lọc",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -642,23 +937,7 @@
                         "definition": "a containerfor making and serving tea with a handle and a shaped opening for pouring : ấm pha trà",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -673,23 +952,7 @@
                         "definition": "mainly USa small wire ballwhich is filled with tea leaves and put into hot water to make tea : quả cầu kim loại lọc trà",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -706,23 +969,7 @@
                             "coffee machine[C]a machinewhich makes coffee: máy pha cà phê"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -756,28 +1003,11 @@
                             "2[T] ifyou brew tea or coffee, you add boiling water to it to make a hot drink : pha",
                             "freshly brewed coffee",
                             "He brewed us some coffee/ He brewed some coffeeforus.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "brew[C usually S] UK informal a drink that is brewed, especially tea:mẻtrà",
                             "Make us a brew, Bren."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -799,23 +1029,7 @@
                             "She drinks an infusion of herbs (=a drink made by leaving herbs in hot water)."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -828,30 +1042,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ perk:lọc, chiết ngâm, pha phin",
-                        "examples": [
-                            "[I] (of coffee) be prepared in a percolator.",
-                            "he put some coffee on to percolate",
-                            "[T] Prepare (coffee) in a percolator.",
-                            "it will have to be instant coffee—there's no time to percolate any"
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -881,27 +1073,10 @@
                         "definition": "How do you like...?",
                         "examples": [
                             "used when asking someone how they like their drinks made",
-                            "_\"How do you like your tea?\" \"Milk and one sugar, please.\"",
-                            ""
+                            "_\"How do you like your tea?\" \"Milk and one sugar, please.\""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

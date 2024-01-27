@@ -40,46 +40,313 @@
                         "definition": "what sb is called :",
                         "examples": [
                             "Her name is Mandy Wilson.",
-                            "What’s your last name?",
-                            "full nameall your names",
-                            "Ayrton Senna’s full name was Ayrton Senna da Silva.",
-                            "by the name of(= called something )",
-                            "He married a young lady by the name of Sarah Hunt.",
-                            "under the name (of)(= using a different name from your real name )",
-                            "HH Munro wrote under the name Saki.",
-                            "mention sb by name",
-                            "She didn’t mention you by name, but I’m sure it was you she was talking about.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a nameAll their children have French names.",
-                            "give sb a nameThey gave their children unusual names.",
-                            "use a name(= tell people that you have a particular name )She may be using a false name.",
-                            "take a name(= choose to have a new name )Are you going to take your husband’s name when you get married?",
-                            "change your nameMany immigrants changed their names to seem more American.",
-                            "give (sb) your name(= tell someone your name, especially someone in an official position )I gave my name to the receptionist.",
-                            "know sb’s nameHis first name is Tom, but I don’t know his last name.",
-                            "use sb’s name(= say their name when speaking to them )I didn’t know him well enough to use his first name.",
-                            "call sb’s name(= say someone’s name loudly, to get their attention )He called Jean’s name, but there was no answer.",
-                            "sign your nameSign your name here, please.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "call sb by their first/full etc name(= use that name when you speak to them )Everyone called him by his first name.",
-                            "go by the name of ...(= be called something by people, often when that is not your real name )As he had long red hair, he went by the name of Red.",
-                            "know sb by name(= know their name )The headteacher knew all the children by name.",
-                            "greet sb by name(= use someone’s name when you see them )The waiter greeted him by name."
+                            "What’s your last name?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a name",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "All their children have French names."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb a name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They gave their children unusual names."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use a name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "tell people that you have a particular name",
+                                "examples": [
+                                    "She may be using a false name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "choose to have a new name",
+                                "examples": [
+                                    "Are you going to take your husband’s name when you get married?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "change your name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many immigrants changed their names to seem more American."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sb",
+                                "examples": [
+                                    "your name(= tell someone your name, especially someone in an official position )I gave my name to the receptionist."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "know sb’s name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His first name is Tom, but I don’t know his last name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use sb’s name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "say their name when speaking to them",
+                                "examples": [
+                                    "I didn’t know him well enough to use his first name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "call sb’s name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "say someone’s name loudly, to get their attention",
+                                "examples": [
+                                    "He called Jean’s name, but there was no answer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sign your name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sign your name here, please."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "call sb by their first/full etc name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "use that name when you speak to them",
+                                "examples": [
+                                    "Everyone called him by his first name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go by the name of ...",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be called something by people, often when that is not your real name",
+                                "examples": [
+                                    "As he had long red hair, he went by the name of Red."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "know sb by name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "know their name",
+                                "examples": [
+                                    "The headteacher knew all the children by name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "greet sb by name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "use someone’s name when you see them",
+                                "examples": [
+                                    "The waiter greeted him by name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "full nameall your names",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ayrton Senna’s full name was Ayrton Senna da Silva."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "by the name of(= called something )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He married a young lady by the name of Sarah Hunt."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "under the name (of)(= using a different name from your real name )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "HH Munro wrote under the name Saki."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mention sb by name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She didn’t mention you by name, but I’m sure it was you she was talking about."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -101,23 +368,7 @@
                             "Fill out the form with your last name, followed by your given name."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -134,23 +385,7 @@
                             "My mother kept her maiden name when she got married. did not change her name to her husband’s name"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -170,24 +405,24 @@
                             "Can I have your last name?",
                             "Johnson is a common English family name.",
                             "At school they used to call each other by their surnames.",
-                            "Joseph Conrad’s original family name was Korzeniowski.",
-                            "carry on the family nameto pass on your family name to your children",
-                            "He died leaving no children to carry on the family name."
+                            "Joseph Conrad’s original family name was Korzeniowski."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "carry on the family nameto pass on your family name to your children",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He died leaving no children to carry on the family name."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -205,18 +440,17 @@
                         "region": "",
                         "definition": "the first letters of each of your names: tên viết tắt",
                         "examples": [
-                            "There’s no need to write out your full name. Just your initials will do.",
-                            "a suitcase marked with the initials JR"
+                            "There’s no need to write out your full name. Just your initials will do."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a suitcase marked with the initials JR",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -242,23 +476,7 @@
                             "The title ‘Ms’ became much more popular in the 1980s."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -275,23 +493,7 @@
                             "My mother’s Christian name was Mary."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -309,23 +511,7 @@
                             "Vicki won’t tell anyone her second name."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -342,23 +528,7 @@
                             "I don’t know what her married name is."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -390,25 +560,25 @@
                         "examples": [
                             "At school he was given the nickname ‘Shorty’.",
                             "She got the nickname ‘Sis’ because her brother couldn’t pronounce her name when they were kids.",
-                            "Mona - nicknamed Mo - had two teenage sons.",
-                            "earn somebody a nicknamecause sb to have a particular nickname",
-                            "His black cloak earned him the nickname ‘Dracula’.",
-                            "His fondness for rings had already earned him the nickname Ringo."
+                            "Mona - nicknamed Mo - had two teenage sons."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "earn somebody a nicknamecause sb to have a particular nickname",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "His black cloak earned him the nickname ‘Dracula’.",
+                                    "His fondness for rings had already earned him the nickname Ringo."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -430,23 +600,7 @@
                             "She had pet names for all her grandchildren -- Curly, Longlegs, and Coco."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -465,23 +619,7 @@
                             "He seems to be stuck with the label of 'troublemaker'."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -499,23 +637,7 @@
                             "I didn’t blame her for hating the ‘mayor’s ex-girlfriend’ tag."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -532,23 +654,7 @@
                             "Jackson gained the sobriquet ‘Stonewall’ at the Battle of Bull Run."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -591,23 +697,7 @@
                             "The Chinese name for this plant means ‘cat’s ears’."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -624,23 +714,7 @@
                             "Our customers prefer goods with brand names, such as Levis or Adidas."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -655,29 +729,44 @@
                         "definition": "the name of a book, film, play, painting etc: tựa đề",
                         "examples": [
                             "I’ve read one of her books, but I can’t remember the title.",
-                            "What’s the title of this week’s assignment?",
-                            "title of",
-                            "The title of this play is ‘Othello’.",
-                            "The titleofEvelyn Waugh's first novel was 'Decline and Fall'.",
-                            "under the title",
-                            "The film was released in the UK under the title ‘Maybe Baby’.",
-                            "RegisterIn everyday English, people usually say that somethingis called ..., rather than sayingits title is ...:",
-                            "The play'stitle is'Blasted'.➔The playis called'Blasted'."
+                            "What’s the title of this week’s assignment?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "title of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The title of this play is ‘Othello’.",
+                                    "The titleofEvelyn Waugh's first novel was 'Decline and Fall'."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "under the title",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The film was released in the UK under the title ‘Maybe Baby’.",
+                                    "RegisterIn everyday English, people usually say that somethingis called ..., rather than sayingits title is ...:",
+                                    "The play'stitle is'Blasted'.➔The playis called'Blasted'."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -698,23 +787,7 @@
                             "In this part of the US many of the place names are of French origin."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -728,27 +801,10 @@
                         "region": "",
                         "definition": "a secret name for sth such as a military plan that you do not want other people to know about: biệt hiệu, tên mật",
                         "examples": [
-                            "Operation Overlord was the code name of the Normandy landing which took place in June 1944.",
-                            ""
+                            "Operation Overlord was the code name of the Normandy landing which took place in June 1944."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -765,23 +821,7 @@
                             "This fine city justifies its appellation ‘the Pearl of the Orient’."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -815,23 +855,7 @@
                             "She began acting in her childhood under the stage name Marjorie Moore."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -855,23 +879,7 @@
                             "▪ The woman was a foreigner travelling under a false name."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -892,23 +900,7 @@
                             "▪ Morton wrote a weekly column in ‘The Daily Telegraph' under the pseudonym ’Beachcomber'."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -921,27 +913,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "/pseudonymformal a name used by a writer instead of their real name: bút danh",
-                        "examples": [
-                            "The name Voltaire was in fact a pen name -- his real name was Francois Marie Arouet",
-                            "Mark Twain was his pen name. His real name was Samuel Clemens.",
-                            "under the pen nameusing the pen name",
-                            "She wrote her novels under the pen name George Eliot, because the publishers would not accept a manuscript written by a woman.",
-                            "She wrote under the pseudonym of George Eliot."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "The name Voltaire was in fact a pen name -- his real name was Francois Marie Arouet",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Mark Twain was his pen name. His real name was Samuel Clemens."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "under the pen nameusing the pen name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She wrote her novels under the pen name George Eliot, because the publishers would not accept a manuscript written by a woman.",
+                                    "She wrote under the pseudonym of George Eliot."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -960,28 +966,10 @@
                         "definition": "a word meaning ‘also known as’, used when giving sb’s real name, together with a different name they also use or are known by, especially because they are a criminal: được biết tới như",
                         "examples": [
                             "Carlos, alias \"The Jackal', is wanted by police in several countries.",
-                            "We were introduced to Mrs Taylor, alias Meg Dods, author of the Housewife’s Manual.",
-                            "alias[C]",
-                            "Roberts is known to use a number of aliases, including Bill Smith, Paul Williams, and even Count Von Blixenburg."
+                            "We were introduced to Mrs Taylor, alias Meg Dods, author of the Housewife’s Manual."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -998,23 +986,7 @@
                             "Standing there in front of me was Peter Downs, a.k.a. ‘The Leithgate Strangler’."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1032,23 +1004,7 @@
                             "She entered the private clinic under an assumed name, but the press still managed to find out."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1062,18 +1018,17 @@
                         "region": "",
                         "definition": "if sbgoes by the name of sth, they tell people that this is their name, when in fact it is not: thích được gọi là",
                         "examples": [
-                            "Herbert always hated his original name, so he went by the name of David.",
-                            "The photographs resembled a man who lived in New York and went by the name of Ivan Denisovich"
+                            "Herbert always hated his original name, so he went by the name of David."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "The photographs resembled a man who lived in New York and went by the name of Ivan Denisovich",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -1100,23 +1055,7 @@
                             "Bollard set up a company under the name of Mr M. Roberts."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1147,13 +1086,6 @@
                         "definition": "sb who is anonymous does sth without saying what their name is, or their name is not known: giấu tên, vô danh, nặc danh",
                         "examples": [
                             "The writer of the poem is anonymous.",
-                            "an anonymous donor/ benefactorsb who gives sth but does not say publicly who they are",
-                            "$50,000 has been given to the charity by an anonymous donor from Utah.",
-                            "The money was donated by an anonymous benefactor .",
-                            "anonymous letter/phone call etcfrom sb who does not say their name",
-                            "I received anonymous phone calls warning me not to go to the police about what I’d seen.",
-                            "sb wishes to remain anonymous",
-                            "One source, who wished to remain anonymous, said that he had seen the woman go into hisroom.",
                             "anonymously[adv]",
                             "He sent the documents anonymously to a local newspaper.",
                             "anonymity[U]",
@@ -1163,16 +1095,53 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "an anonymous donor/ benefactorsb who gives sth but does not say publicly who they are",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "$50,000 has been given to the charity by an anonymous donor from Utah.",
+                                    "The money was donated by an anonymous benefactor ."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "anonymous letter/phone call etcfrom sb who does not say their name",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I received anonymous phone calls warning me not to go to the police about what I’d seen."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb wishes to remain anonymous",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "One source, who wished to remain anonymous, said that he had seen the woman go into hisroom."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1194,23 +1163,7 @@
                             "▪ The newspaper received the information from an unnamed source."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1229,23 +1182,7 @@
                             "An unidentified caller contacted the police and gave the names of the men involved in the robbery."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1262,23 +1199,7 @@
                             "He tried to go incognito but his bizarre disguise made him stand out even more."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1293,24 +1214,24 @@
                         "definition": "an unknown person is sb whose name is not known because you do not know them or because they are not famous: vô danh",
                         "examples": [
                             "She said the flowers were from an unknown admirer.",
-                            "We met near the Tomb of the Unknown Soldier.",
-                            "unknown to",
-                            "Most of the stars in the movie are unknown to US audiences."
+                            "We met near the Tomb of the Unknown Soldier."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "unknown to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Most of the stars in the movie are unknown to US audiences."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1328,18 +1249,17 @@
                         "region": "",
                         "definition": "a nameless person is one of many people who are not famous and whose names are not generally known: không tên, vô danh",
                         "examples": [
-                            "No one gives much thought to the nameless millions who work in our factories.",
-                            "the nameless victims of the nation’s civil war"
+                            "No one gives much thought to the nameless millions who work in our factories."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the nameless victims of the nation’s civil war",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",

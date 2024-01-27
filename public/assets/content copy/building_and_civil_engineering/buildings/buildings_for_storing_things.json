@@ -1,0 +1,101 @@
+[
+    {
+        "id": "",
+        "name": "buildings for storing things",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "granary",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a large building for storing threshed grain:kho thóc, kho lúa",
+                        "examples": [
+                            "All the livestock quarters and the granaries in the village were empty."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "barn",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a large farm building used for storing grain, hay, or straw or for housing livestock: kho",
+                        "examples": [
+                            "Clean livestock barns have fewer fly problems.",
+                            "An enclosed stone-built courtyard houses a range of farm buildings, a hay barn and a secure workshop."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

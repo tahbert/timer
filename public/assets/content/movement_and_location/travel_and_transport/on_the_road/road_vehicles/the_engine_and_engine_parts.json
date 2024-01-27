@@ -42,23 +42,7 @@
                             "a car with an excellent suspension system"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,23 +59,7 @@
                             "a six-cylinder engine"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -104,25 +72,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "the machinery that brings the power produced by the engine to the wheels of a vehicle : bộ truyền lực, hộp truyền động",
-                        "examples": [
-                            "automatic transmission",
-                            "The car had a faulty transmission.",
-                            "manual transmissionif a car has manual transmission, the gears are changed by the driver."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "automatic transmission",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The car had a faulty transmission.",
+                                    "manual transmissionif a car has manual transmission, the gears are changed by the driver."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -141,35 +108,194 @@
                         "definition": "the machinery in a vehicle such as a car, truck, or bicycle that you use to go comfortably at different speeds : số",
                         "examples": [
                             "His mountain bike had 18 gears.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "first/second/third etc gearThe heavy traffic meant that we seldom got out of second gear.",
-                            "a low gear(= first or second gear )You should use a low gear when going up a hill.",
-                            "a high gear(= third, fourth, or fifth gear )Put the car into a higher gear.",
-                            "top gearBritish English(= the highest gear )Hamilton slipped effortlessly into top gear.",
-                            "bottom gearBritish English(= the lowest gear )The car trundled slowly forward in bottom gear.",
-                            "reverse/ reverse gear(= for driving backwards )He put the truck into reverse gear.",
-                            "To go backwards, you mustputthe carin/intoreverse (gear).",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "change gear(alsoswitch/shift gearsAmerican English)It takes some time to learn when to change gear.",
-                            "put the car etc into (first/second/third etc) gearHe put the car into gear, and they moved slowly forwards.",
-                            "engage first/second etc gear(= put the car into gear )Nick struggled to engage first gear.",
-                            "be in the wrong gearThe straining noises from the engine told him that he was in the wrong gear.",
-                            "crunch/grind the gears(= change gear in a way that makes an unpleasant noise )He crunched the gears into reverse."
+                            "To go backwards, you mustputthe carin/intoreverse (gear)."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "first/second/third etc gear",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The heavy traffic meant that we seldom got out of second gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a low gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "first or second gear",
+                                "examples": [
+                                    "You should use a low gear when going up a hill."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a high gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "third, fourth, or fifth gear",
+                                "examples": [
+                                    "Put the car into a higher gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "top gearBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the highest gear",
+                                "examples": [
+                                    "Hamilton slipped effortlessly into top gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bottom gearBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the lowest gear",
+                                "examples": [
+                                    "The car trundled slowly forward in bottom gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "reverse/ reverse gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for driving backwards",
+                                "examples": [
+                                    "He put the truck into reverse gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "change gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoswitch/shift gearsAmerican English",
+                                "examples": [
+                                    "It takes some time to learn when to change gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put the car etc into",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "first/second/third etc",
+                                "examples": [
+                                    "gearHe put the car into gear, and they moved slowly forwards."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "engage first/second etc gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put the car into gear",
+                                "examples": [
+                                    "Nick struggled to engage first gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be in the wrong gear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The straining noises from the engine told him that he was in the wrong gear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crunch/grind the gears",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "change gear in a way that makes an unpleasant noise",
+                                "examples": [
+                                    "He crunched the gears into reverse."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -188,23 +314,7 @@
                         "definition": "a short solid piece of metal which moves up and down inside a cylinder in an engine to press the fuel into a small space and to send the power produced by it to the wheels pit-tông",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -219,23 +329,7 @@
                         "definition": "US/exhaust pipe the pipe at the back of a vehicle through which waste gas escapes from the engine : ống pô",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -267,23 +361,7 @@
                             "If something such as an engine is water-cooled, it is surrounded by water to keep it at the correct operating temperature."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -299,23 +377,7 @@
                             "If an engine is air-cooled, it is kept cool by a flow of air."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

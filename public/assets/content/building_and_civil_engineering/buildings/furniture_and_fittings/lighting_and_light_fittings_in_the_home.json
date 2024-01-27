@@ -43,23 +43,7 @@
                             "We shone our torches around the cavern."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,23 +60,7 @@
                             "Shine a light over here, will you?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -106,27 +74,10 @@
                         "region": "",
                         "definition": "a lamp that you can carry, consisting of a metal container with glass sides that surrounds a flame or light: đèn lồng, đèn xách",
                         "examples": [
-                            "The miners used lanterns which were lit by candles.",
-                            "Chinese lantern[C] a folding decoration made from thin coloured paper :đèn xếpTrung Hoa"
+                            "The miners used lanterns which were lit by candles."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -156,33 +107,144 @@
                         "region": "",
                         "definition": "an object that produces light by using electricity, oil, or gas - often used in names of lights : đèn",
                         "examples": [
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "switch/turn on a lampDorothy switched on the desk lamp.",
-                            "switch/turn off a lampHe switched off the lamp beside the bed.",
-                            "light a lampElizabeth lit the lamps and started rebuilding the fire.",
-                            "a lamp burnsA silver lamp burned on the altar.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a table/desk/bedside lampHe read by the light of the bedside lamp.",
                             "an electric lamp",
-                            "an oil/kerosene/paraffin lamp(= lamps that you light with a flame )The large room was lit by a paraffin lamp on a table.",
-                            "a street lampHarry stopped under a street lamp.",
-                            "a hurricane lamp(= a lamp with a strong glass cover, which protects the light from the wind) đàn bão",
                             "standard lampUKfloor lampUS [C] a tall lamp that stands on the floor:đèn đứng"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "switch/turn on a lamp",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Dorothy switched on the desk lamp."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "switch/turn off a lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He switched off the lamp beside the bed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "light a lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Elizabeth lit the lamps and started rebuilding the fire."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lamp burns",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A silver lamp burned on the altar."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a table/desk/bedside lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He read by the light of the bedside lamp."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oil/kerosene/paraffin lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "lamps that you light with a flame",
+                                "examples": [
+                                    "The large room was lit by a paraffin lamp on a table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a street lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Harry stopped under a street lamp."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hurricane lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a lamp with a strong glass cover, which protects the light from the wind",
+                                "examples": [
+                                    "đàn bão"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -201,36 +263,96 @@
                         "definition": "sth that produces light, especially electric light, to help you to see :",
                         "examples": [
                             "Ahead of us we could see the lights of the city.",
-                            "We’re having a mixture of wall lights and ceiling lights in different parts of the house.",
-                            "turn/switch/put on a light",
-                            "I switched on the light in the bedroom.",
-                            "turn/switch/put off a light",
-                            "Don’t forget to switch the lights off when you go out.",
-                            "turn/switch/put out a light",
-                            "Can you turn the light out downstairs?",
-                            "a light is/comes/goes on",
-                            "The lights in the office were still on.",
-                            "The street lights were just beginning to come on.",
-                            "He left a light on in the kitchen.",
-                            "a light is off/out",
-                            "Make sure all the lights are off when you leave.",
-                            "Suddenly all thelightsin the housewent out.",
-                            "Can youturn the light down(= make it less bright )a bit?"
+                            "We’re having a mixture of wall lights and ceiling lights in different parts of the house."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "turn/switch/put on a light",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I switched on the light in the bedroom."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn/switch/put off a light",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Don’t forget to switch the lights off when you go out."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn/switch/put out a light",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Can you turn the light out downstairs?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a light is/comes/goes on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The lights in the office were still on.",
+                                    "The street lights were just beginning to come on.",
+                                    "He left a light on in the kitchen."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a light is off/out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Make sure all the lights are off when you leave.",
+                                    "Suddenly all thelightsin the housewent out.",
+                                    "Can youturn the light down(= make it less bright )a bit?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -265,23 +387,7 @@
                         "definition": "a specially shaped metal or wooden stick that you put a candle into :giá đỡ nến",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -294,33 +400,142 @@
                         "usage": "",
                         "region": "",
                         "definition": "a stick of wax with a string through the middle, which you burn to give light: cây nến",
-                        "examples": [
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "light a candleShe lit a candle in the church.",
-                            "blow out a candleCan you blow out all the candles on your birthday cake?",
-                            "a candle burns(= is giving out light )The house was dark except for one candle burning in a window.",
-                            "a candle flickers(= the flame moves in an unsteady way )As the door opened, the candles flickered unsteadily.",
-                            "a candle goes outA sudden draught made the candles go out.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a lighted candleA procession moved through the village carrying lighted candles.",
-                            "a flickering candle(= with the flame moving unsteadily )The church was full of flickering white candles.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a candle flameThe candle flame flickered."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "light a candle",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She lit a candle in the church."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "blow out a candle",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Can you blow out all the candles on your birthday cake?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a candle burns",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "is giving out light",
+                                "examples": [
+                                    "The house was dark except for one candle burning in a window."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a candle flickers",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the flame moves in an unsteady way",
+                                "examples": [
+                                    "As the door opened, the candles flickered unsteadily."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a candle goes out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A sudden draught made the candles go out."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lighted candle",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A procession moved through the village carrying lighted candles."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a flickering candle",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with the flame moving unsteadily",
+                                "examples": [
+                                    "The church was full of flickering white candles."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a candle flame",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The candle flame flickered."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -355,23 +570,7 @@
                         "definition": "UKfluorescent lightUS  a fluorescent electric light in the form of a thin glass tube, often with a plastic cover:đèn ống huỳnh quang",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -386,23 +585,7 @@
                         "definition": "a small electric light that you put in a child’s room at night: đèn ngủ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -436,23 +619,7 @@
                             "an energy-saving light bulb"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -467,18 +634,17 @@
                         "definition": "a covering that is put over an electric light in order to make it less bright : tán đèn, chụp đèn",
                         "examples": [
                             "The lamps all had matching purple shades.",
-                            "The shade on the lamp was slightly crooked.",
-                            "lampshadea decorative covering around an electric light which reduces its brightness or controls where it shines"
+                            "The shade on the lamp was slightly crooked."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lampshadea decorative covering around an electric light which reduces its brightness or controls where it shines",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -502,23 +668,7 @@
                         "definition": "a heavy, often decorative, base for an electric light which stands on a table or the floor",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -549,23 +699,7 @@
                         "definition": "a very bright electric light that turns in any direction, used for finding people, guarding places etc :đèn pha rọi",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -41,18 +41,17 @@
                         "examples": [
                             "The guard checked our passes.",
                             "They issued us with free passes to the theatre.",
-                            "You can buy a cheap one-daybus pass.",
-                            "boarding passUS/boarding cardUK a card that a passenger must have to be allowed to enter anaircraftor aship: thẻ lên tàu;thẻ lên máy bay"
+                            "You can buy a cheap one-daybus pass."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "boarding passUS/boarding cardUK a card that a passenger must have to be allowed to enter anaircraftor aship: thẻ lên tàu;thẻ lên máy bay",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -80,38 +79,228 @@
                             "ticket to",
                             "I’d like two tickets to Berlin.",
                             "a ticket to do sth",
-                            "a ticket to watch the US Open",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a train/bus/coach ticketI’ve lost my train ticket.",
-                            "an airline/plane/air ticketYou can pick up your airline tickets at the check-in desk.",
-                            "a theatre/concert ticketThe special rate includes theatre tickets and transport from the hotel to the theatre.",
-                            "a one-way ticket(alsoa single ticketBritish English) (= a ticket to a place but not back again )I bought a one-way ticket to London.",
-                            "a return ticketBritish English,a round-trip ticketAmerican English(= a ticket to a place and back )How much is a round trip ticket to Boston?",
-                            "a season ticket(= one that allows you to make a journey or go to a sports stadium, theatre etc as often as you like during a fixed time period )He has a season ticket for Manchester United.",
-                            "a valid ticket(= one that is legally or officially acceptable )You cannot travel without a valid ticket.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "book/reserve a ticketWe booked our tickets well in advance.",
-                            "buy a ticketSheila bought a ticket for the next flight home.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a ticket office/booth/counter(= a place where you can buy tickets )There was a long queue at the ticket office.",
-                            "a ticket machineThe ticket machine wasn’t issuing tickets.",
-                            "the ticket barrierBritish English(= a gate or other barrier at a station that you need a ticket to get through )John insisted on carrying my case as far as the ticket barrier.",
-                            "a ticket agency(= a company that sells tickets for concerts, sporting events, etc )Book your tickets online from one of the many ticket agencies."
+                            "a ticket to watch the US Open"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a train/bus/coach ticket",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I’ve lost my train ticket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an airline/plane/air ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can pick up your airline tickets at the check-in desk."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a theatre/concert ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The special rate includes theatre tickets and transport from the hotel to the theatre."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a one-way ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa single ticketBritish English",
+                                "examples": [
+                                    "(= a ticket to a place but not back again )I bought a one-way ticket to London."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a return ticketBritish English,a round-trip ticketAmerican English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a ticket to a place and back",
+                                "examples": [
+                                    "How much is a round trip ticket to Boston?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a season ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that allows you to make a journey or go to a sports stadium, theatre etc as often as you like during a fixed time period",
+                                "examples": [
+                                    "He has a season ticket for Manchester United."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a valid ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is legally or officially acceptable",
+                                "examples": [
+                                    "You cannot travel without a valid ticket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "book/reserve a ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We booked our tickets well in advance."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "buy a ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sheila bought a ticket for the next flight home."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a ticket office/booth/counter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where you can buy tickets",
+                                "examples": [
+                                    "There was a long queue at the ticket office."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a ticket machine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The ticket machine wasn’t issuing tickets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the ticket barrierBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a gate or other barrier at a station that you need a ticket to get through",
+                                "examples": [
+                                    "John insisted on carrying my case as far as the ticket barrier."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a ticket agency",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a company that sells tickets for concerts, sporting events, etc",
+                                "examples": [
+                                    "Book your tickets online from one of the many ticket agencies."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -146,23 +335,7 @@
                         "definition": "UKa place where tickets are sold, especially at a railway station or theatre.",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -197,30 +370,10 @@
                             "May I have a return to Birmingham, please?",
                             "May I have a return ticket to Birmingham, please?",
                             "A return to London, please.",
-                            "There’s no point in buying a one-way ticket when a round-trip ticket is the same price.",
-                            "return[adj] khứ hồi",
-                            "It costs $475 return to Helsinki for a return ticket to Helsinki.",
-                            "round-trip[adv] khứ hồi",
-                            "The ferry costs only $5 round-trip per person."
+                            "There’s no point in buying a one-way ticket when a round-trip ticket is the same price."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -237,23 +390,7 @@
                             "All you have to do is print off the e-ticket and show it at the check-in desk."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -268,23 +405,7 @@
                         "definition": "US a ticket which allows a passenger to change routes or to change from one bus or train to another : vé chuyển xe tàu (để tiếp tục đi trên tuyến đường khác)",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -303,23 +424,7 @@
                             "May I have a single to London, please."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -336,23 +441,7 @@
                             "My company pays for my season ticket."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -385,23 +474,7 @@
                             "The tickets were marked 'Not Transferable'."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -418,23 +491,7 @@
                             ""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

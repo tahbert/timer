@@ -43,23 +43,7 @@
                             "I'll send you a text as soon as I have any news."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -83,23 +67,7 @@
                             "I'll send you the agendabyfax."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -114,10 +82,6 @@
                         "definition": "to send sb a copy of a document or message electronically down a telephone line, using a fax machine: gửi fax",
                         "examples": [
                             "Shall I fax the report or mail it?",
-                            "fax sth to sb",
-                            "The order will be faxed directly to the manufacturer.",
-                            "fax sb sth",
-                            "They’ve agreed to fax us their proposals tomorrow.",
                             "faxed[adj] sent by fax:",
                             "In a faxed letter, he said he would not be returning to work."
                         ],
@@ -125,16 +89,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "fax sth to sb",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The order will be faxed directly to the manufacturer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fax sb sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They’ve agreed to fax us their proposals tomorrow."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -146,30 +129,14 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ U ]",
                         "usage": "",
                         "region": "",
                         "definition": "abb for short message service: a system for sending text messages from one mobile phone to another : dịch vụ nhắn tin ngắn",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

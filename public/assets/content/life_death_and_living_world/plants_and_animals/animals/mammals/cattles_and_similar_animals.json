@@ -40,23 +40,7 @@
                         "definition": "animals, such as cows and sheep, and birds, such as chickens, kept on a farm : vật nuôi; thú nuôi (trên nông trại)",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,23 +60,7 @@
                             "dairy/ beef cattle"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -125,23 +93,7 @@
                             "water buffalo[ C ] a large Asian animal like a cow with horns that curve backwards, which is often used for pulling farming tools : trâu to ở Đông Nam Á"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -155,18 +107,17 @@
                         "region": "",
                         "definition": "an adult male animal of the cattle family : bò đực",
                         "examples": [
-                            "They did not see the sign by the gate saying 'Beware of the bull'.",
-                            "a herd of cows with one bull"
+                            "They did not see the sign by the gate saying 'Beware of the bull'."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a herd of cows with one bull",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -190,34 +141,127 @@
                         "definition": "a large female animal that is kept on farms and used to produce milk or meat",
                         "examples": [
                             "a herd of cows",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "types of cow",
-                            "dairy cows(= kept for their milk )He keeps a herd of dairy cows.",
-                            "beef cows(= kept for their meat )They are a well-known breed of beef cow.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "milk a cow(= get the milk from a cow )Once a day, the cows are brought in to be milked.",
-                            "a cow moos(= makes a long low sound )I could hear cows mooing in the barn.",
-                            "a cow grazes(= eats the grass )Cows were grazing peacefully in the meadows.",
-                            "a cow calves(= produces a calf, a young cow)At this time of year the cows are calving.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a herd of cows(= a group that are together sw)We had to wait while a farmer brought a herd of cows across the bridge.",
-                            "It’s you I’m pursuing, Abba!",
-                            ""
+                            "It’s you I’m pursuing, Abba!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dairy cows",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
-                                "examples": [],
+                                "definition": "kept for their milk",
+                                "examples": [
+                                    "He keeps a herd of dairy cows."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "beef cows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "kept for their meat",
+                                "examples": [
+                                    "They are a well-known breed of beef cow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "milk a cow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get the milk from a cow",
+                                "examples": [
+                                    "Once a day, the cows are brought in to be milked."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cow moos",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes a long low sound",
+                                "examples": [
+                                    "I could hear cows mooing in the barn."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cow grazes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "eats the grass",
+                                "examples": [
+                                    "Cows were grazing peacefully in the meadows."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cow calves",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "produces a calf, a young cow",
+                                "examples": [
+                                    "At this time of year the cows are calving."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a herd of cows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a group that are together sw",
+                                "examples": [
+                                    "We had to wait while a farmer brought a herd of cows across the bridge."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -236,23 +280,7 @@
                         "definition": "a young male cow that has had its testicles removed : bò thiến",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -267,23 +295,7 @@
                         "definition": "a bull (= male cow) which has had its reproductive organs removed,used in the past for pulling loads on farms : con bò đực ( để lấy sức kéo )",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -316,23 +328,7 @@
                             ""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -347,23 +343,7 @@
                         "definition": "a young cow, especially one that has not yet given birth to a calf (= baby cow) : bò cái tơ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -396,23 +376,7 @@
                             "dairy cattle"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -429,23 +393,7 @@
                             "a bovine virus"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -33,7 +33,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[]",
                         "usage": "",
                         "region": "",
@@ -43,23 +43,7 @@
                             "I don’t know what’s the matter. She’s usually so bright and full of clever ideas."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -87,23 +71,7 @@
                             "Her latest work displays tremendous skill and creativity."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -123,23 +91,7 @@
                             "an imaginative designer"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -169,45 +121,330 @@
                         "region": "",
                         "definition": "a good idea about what you should do, write, say etc, especially one which you get suddenly : cảm hứng",
                         "examples": [
-                            "He raised his eyes to the altar as ifseeking inspiration.",
-                            "inspiration for",
-                            "Where exactly did you get the inspiration for the movie?",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "get inspiration from sthHe gets much of his inspiration from the classical poets.",
-                            "draw/take/derive inspiration from sth(= get inspiration )She draws inspiration from mythology and folk stories.",
-                            "find inspiration in sthAs a musician, he finds inspiration in traditional music.",
-                            "look for inspiration(alsoseek inspirationformal)I sought inspiration in medieval carvings.",
-                            "have an inspiration(= suddenly have an idea )He had an inspiration while he was taking a walk in the countryside.",
-                            "lack inspiration(= not have any good or interesting ideas )His latest album appears to lack inspiration.",
-                            "provide inspiration for sthThe Malvern Hills have provided inspiration for many artists.",
-                            "inspiration comes from sb/sthThe architect’s chief inspiration came from Christopher Wren.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a flash of inspiration(= a sudden good idea )A sudden flash of inspiration came to him.",
-                            "a source of inspiration for/to sbOur success was a source of inspiration for many countries in Africa.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a great inspirationMy mother was a great inspiration to me.",
-                            "a sudden inspirationHe had a sudden inspiration.",
-                            "fresh inspiration(= new inspiration )Fresh inspiration was provided by his trip to Italy.",
-                            "direct inspiration(= in which someone copies an idea directly from a person or thing )She took direct inspiration from the films of John Ford.",
-                            "divine inspiration(= inspiration from God )He prayed for divine inspiration.",
-                            "creative inspiration(= which inspires someone to create something new, for example a story or a work of art )Her creative inspiration is evident in this series of sculptures.",
-                            "artistic inspiration(= which inspires someone to produce a work of art )Writers are always looking for new sources of inspiration.",
-                            "poetic inspiration(= which inspires someone to write poetry )Poetic inspiration can come from many sources."
+                            "He raised his eyes to the altar as ifseeking inspiration."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get inspiration from sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He gets much of his inspiration from the classical poets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "draw/take/derive inspiration from sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get inspiration",
+                                "examples": [
+                                    "She draws inspiration from mythology and folk stories."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "find inspiration in sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "As a musician, he finds inspiration in traditional music."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "look for inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoseek inspirationformal",
+                                "examples": [
+                                    "I sought inspiration in medieval carvings."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have an inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "suddenly have an idea",
+                                "examples": [
+                                    "He had an inspiration while he was taking a walk in the countryside."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lack inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not have any good or interesting ideas",
+                                "examples": [
+                                    "His latest album appears to lack inspiration."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "provide inspiration for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Malvern Hills have provided inspiration for many artists."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "inspiration comes from sb/sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The architect’s chief inspiration came from Christopher Wren."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a flash of inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a sudden good idea",
+                                "examples": [
+                                    "A sudden flash of inspiration came to him."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a source of inspiration for/to sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Our success was a source of inspiration for many countries in Africa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a great inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My mother was a great inspiration to me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sudden inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had a sudden inspiration."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fresh inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "new inspiration",
+                                "examples": [
+                                    "Fresh inspiration was provided by his trip to Italy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "direct inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which someone copies an idea directly from a person or thing",
+                                "examples": [
+                                    "She took direct inspiration from the films of John Ford."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "divine inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "inspiration from God",
+                                "examples": [
+                                    "He prayed for divine inspiration."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "creative inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which inspires someone to create something new, for example a story or a work of art",
+                                "examples": [
+                                    "Her creative inspiration is evident in this series of sculptures."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "artistic inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which inspires someone to produce a work of art",
+                                "examples": [
+                                    "Writers are always looking for new sources of inspiration."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "poetic inspiration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which inspires someone to write poetry",
+                                "examples": [
+                                    "Poetic inspiration can come from many sources."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "inspiration for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Where exactly did you get the inspiration for the movie?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -242,20 +479,34 @@
                         "definition": "involving the use of imagination to produce new ideas or things :",
                         "examples": [
                             "This job is so boring. I wish I could do something more creative.",
-                            "I teachcreative writingat Trinity College.",
-                            "thecreative processof writing a poem",
-                            "Diaghilev did his greatcreative workin France.",
-                            "acreative solutionto the problem"
+                            "I teachcreative writingat Trinity College."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "thecreative processof writing a poem",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Diaghilev did his greatcreative workin France."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acreative solutionto the problem",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -276,29 +527,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verb-pp-INTERESTthu hút (sự chú ý)",
-                        "examples": [
-                            "[ T ] to keep someone's attention completely",
-                            "_This trial has gripped the whole nation.",
-                            "_I was gripped throughout the entire two hours of the film."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -334,23 +564,7 @@
                             "The design of the car has inspired many imitations."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -381,25 +595,25 @@
                         "definition": "sb/sth that gives you ideas for doing sth : nguồn cảm hứng",
                         "examples": [
                             "He went to church, perhaps seekingdivineinspiration.",
-                            "The seascapes of Cape Cod were her inspiration.",
-                            "inspiration for/behind",
-                            "He was the inspiration for Wordsworth’s poem ‘The Old Huntsman’.",
-                            "The golden autumn light provided the inspirationforthe painting."
+                            "The seascapes of Cape Cod were her inspiration."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "inspiration for/behind",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was the inspiration for Wordsworth’s poem ‘The Old Huntsman’.",
+                                    "The golden autumn light provided the inspirationforthe painting."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

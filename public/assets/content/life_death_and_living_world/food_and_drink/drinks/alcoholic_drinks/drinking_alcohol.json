@@ -42,23 +42,7 @@
                             "Do we have time for a quick one before the train arrives?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,23 +61,7 @@
                             "Cliff wanted us all to go and have a drink after the show."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -110,13 +78,6 @@
                             "He’s been depressed, and drinking a lot more recently.",
                             "Did you drink a lot over Christmas?",
                             "It was obvious that Jimmy had been drinking.",
-                            "drink and drivedrink alcohol before driving your car",
-                            "I think people who drink and drive should be banned from driving permanently.",
-                            "drink heavilydrink a lot",
-                            "It was clear that Malone had been drinking heavily.",
-                            "She’s been drinking more heavily recently.",
-                            "drink like a fishinformal regularly :uống thường xuyên",
-                            "My uncle drinks like a fish, and has done for years.",
                             "drinking[U]thói uống rượu",
                             "His family life is beginning to be affected by his drinking.",
                             "I'vedonea lot of drinking since dad died.",
@@ -127,16 +88,53 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "drink and drivedrink alcohol before driving your car",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I think people who drink and drive should be banned from driving permanently."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drink heavilydrink a lot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It was clear that Malone had been drinking heavily.",
+                                    "She’s been drinking more heavily recently."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drink like a fishinformal regularly :uống thường xuyên",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My uncle drinks like a fish, and has done for years."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -170,18 +168,17 @@
                         "region": "",
                         "definition": "drink tosthto wish someone success, good luck, good health etc before having an alcoholic drink: nâng cốc mừng",
                         "examples": [
-                            "Let’s drink to your success in your new job.",
-                            "\"Here's to a prosperous future then.\" \"I'll drink tothat!\""
+                            "Let’s drink to your success in your new job."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "\"Here's to a prosperous future then.\" \"I'll drink tothat!\"",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -204,27 +201,26 @@
                         "region": "",
                         "definition": "if you drink a toast to someone, you drink something in order to thank them, wish them luck etc : ly mừng",
                         "examples": [
-                            "Champagne corks popped as the guestsdranka toasttothe happy couple.",
-                            "propose a toast(= ask people to drink a toast)",
-                            "I’d like topropose a toastto the bride and groom.",
-                            "Now, if you'd all please raise your glasses, I'd like to propose a toasttothe bride and groom.",
-                            "Now, if you'd all please raise your glasses, I'd like toproposea toasttothe bride and groom.",
-                            ""
+                            "Champagne corks popped as the guestsdranka toasttothe happy couple."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "propose a toast(= ask people to drink a toast)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I’d like topropose a toastto the bride and groom.",
+                                    "Now, if you'd all please raise your glasses, I'd like to propose a toasttothe bride and groom.",
+                                    "Now, if you'd all please raise your glasses, I'd like toproposea toasttothe bride and groom."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -241,24 +237,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "Cheers!spokensay this as you raise your glass when you are drinking with sb:cạn ly ! dô !",
-                        "examples": [
-                            "They all clinked glasses and said ‘Cheers!’",
-                            "Cheers! Your good health."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "They all clinked glasses and said ‘Cheers!’",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Cheers! Your good health."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -279,23 +274,7 @@
                             "Here's to the happy couple!"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -329,23 +308,7 @@
                             "Ben is the only one of my friends who doesn’t drink."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -360,28 +323,10 @@
                         "definition": "UK /teetotalerUS  sb who never drinks anything containing alcohol, often for religious or moral reasons:người bài rượu, kiêng rượu",
                         "examples": [
                             "He’s recently become a strict teetotaller.",
-                            "We’re not teetotalers, but we recommend sensible drinking limits.",
-                            "teetotal[adj]kiêng rượu",
-                            "He’s a teetotal, non-smoking vegetarian yoga teacher."
+                            "We’re not teetotalers, but we recommend sensible drinking limits."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -395,24 +340,24 @@
                         "region": "",
                         "definition": "to not drink even a little of anything alcoholic, usually because you have decided to stop drinking alcohol:không động đến",
                         "examples": [
-                            "I used to drink a bottle of whisky a week but I never touch it these days.",
-                            "not touch a drop",
-                            "‘Rick hasn’t touched a drop in years,’ said Mrs Marsden proudly."
+                            "I used to drink a bottle of whisky a week but I never touch it these days."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "not touch a drop",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "‘Rick hasn’t touched a drop in years,’ said Mrs Marsden proudly."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -447,23 +392,7 @@
                         "definition": "the period from 1919 to 1933 in the US when the production and sale of alcoholic drinks was illegal : thời kỳ cấm rượu bia",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

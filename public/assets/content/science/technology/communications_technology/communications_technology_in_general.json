@@ -39,18 +39,17 @@
                         "region": "",
                         "definition": "a system that makes it possible for many messages or large amounts of information to be sent at the same time and very quickly between computers or other electronic devices : băng thôn rộng",
                         "examples": [
-                            "Internet connection via broadband offers many advantages.",
-                            "broadband services/networks/technology/transmission"
+                            "Internet connection via broadband offers many advantages."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "broadband services/networks/technology/transmission",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -82,23 +81,7 @@
                             "communications satellite[an artificial object in space used to send out television, radio and telephone signals around the Earth's surface] vệ tinh liên lạc thông tin"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -125,23 +108,7 @@
                             "You’re listening to the American Armed Forces Network."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -171,17 +138,6 @@
                         "region": "",
                         "definition": "a series of light waves, sound waves etc that carry an image, sound, or message, for example in radio or television : tín hiệu",
                         "examples": [
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "strongI can’t use my phone because the signal isn’t strong enough here.",
-                            "weak/faintThe signals were too weak for the receiver to pick up.",
-                            "a radio/electrical/radar signalA transmitter connected to the door bell sends radio signals to a portable receiver.",
-                            "a digital signalDigital signals can be compressed to take up less space.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "send (out)/transmit a signalThe signals are transmitted via satellites.",
-                            "emit a signal(= sends one out )The device emits a signal which can be picked up by a submarine.",
-                            "receive/pick up a signalThe antenna that will pick up the signals is a 12-metre dish.",
-                            "carry a signal(= allow it to travel along or through something )Copper wires carry the electrical signals.",
-                            "a signal travels(= goes across space, along a wire etc )The signal travels over the cable network.",
                             "detect a signal",
                             "a small antenna which can detect radio signals"
                         ],
@@ -189,16 +145,154 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "strong",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I can’t use my phone because the signal isn’t strong enough here."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "weak/faint",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The signals were too weak for the receiver to pick up."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a radio/electrical/radar signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A transmitter connected to the door bell sends radio signals to a portable receiver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a digital signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Digital signals can be compressed to take up less space."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "send",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "out",
+                                "examples": [
+                                    "/transmit a signalThe signals are transmitted via satellites."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "emit a signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sends one out",
+                                "examples": [
+                                    "The device emits a signal which can be picked up by a submarine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "receive/pick up a signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The antenna that will pick up the signals is a 12-metre dish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "carry a signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "allow it to travel along or through something",
+                                "examples": [
+                                    "Copper wires carry the electrical signals."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a signal travels",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "goes across space, along a wire etc",
+                                "examples": [
+                                    "The signal travels over the cable network."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -217,23 +311,7 @@
                         "definition": "noise or other electronic signals that stop you from getting good pictures or sound on a television or radio : nhiễu sóng",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -262,28 +340,42 @@
                         "usage": "",
                         "region": "",
                         "definition": "the amount of sound produced by a television, radio etc",
-                        "examples": [
-                            "turn the volume up/ down",
-                            "Can you turn the volume up?",
-                            "Register",
-                            "In everyday English, people usually sayturnsthuporturnsthdownrather than use the nounvolume:",
-                            "Can youturnthe TVupa bit?",
-                            "She’s always yelling at us toturnour musicdown."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "turn the volume up/ down",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Can you turn the volume up?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Register",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In everyday English, people usually sayturnsthuporturnsthdownrather than use the nounvolume:",
+                                    "Can youturnthe TVupa bit?",
+                                    "She’s always yelling at us toturnour musicdown."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

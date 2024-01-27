@@ -42,23 +42,7 @@
                             "The crowd did a Mexican wave."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,23 +60,7 @@
                             "She was a popular cheerleader at the University of Texas."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -121,26 +89,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "sb on television or radio who describes an event as it is happening , especially a sports game: bình luận viên",
-                        "examples": [
-                            "a sports commentator",
-                            "Parcells, the former New York Giants coach, later became a sports commentator on television.",
-                            "a radio commentator",
-                            "a football commentator."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a sports commentator",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Parcells, the former New York Giants coach, later became a sports commentator on television."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a radio commentator",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "a football commentator."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -166,23 +148,7 @@
                             "Over 30,000 spectators turned out for the women’s basketball match against Zaire."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -196,43 +162,313 @@
                         "region": "",
                         "definition": "sb who likes a particular sport, or a particular team, and often goes to watch a game or watch a team play :người hâm mộ",
                         "examples": [
-                            "Thousands of fans queued to buy tickets.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a football/tennis/baseball etc fanJack is a keen football fan.",
-                            "a Manchester United/Redsox/Colts etc fanManchester United fans were delighted with their team’s victory.",
-                            "a Rolling Stones/Kylie Minogue etc fanMike has been a lifelong Kylie Minogue fan.",
-                            "a big/huge/massive fanElizabeth is a massive fan of Elton John.",
-                            "a devoted fan(= a strong supporter or admirer )Devoted fans from all over the country have travelled to the concert.",
-                            "a loyal fan(= fans who always support someone )He will be playing to hundreds of loyal fans on Sunday.",
-                            "adoring fans(= fans who like and admire someone very much )She’s mobbed by adoring fans wherever she goes.",
-                            "sb’s number one fanShe told Dave that she was his number one fan.",
-                            "rival/opposing/opposition fans(= fans who support different teams competing against each other )There were fights between rival fans outside the stadium.",
-                            "home fans(= fans at their own team’s sports field )The home fans cheered the team onto the pitch.",
-                            "away fans(= fans visiting another team’s sports field )Two sections of the ground had been allocated to away fans.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "fan mailThe group receives lots of fan mail.",
-                            "a fan clubHer fan club has 25,000 members in the UK alone.",
-                            "fan base(= the people who are someone’s biggest fans )The band has built up a loyal fan base over the years.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "fans cheer/applaud (sb/sth)Fans on both sides applauded their skill and spirit.",
-                            "fans boo (sb/sth)Their own fans booed them off the pitch.",
-                            "fans chant sthEngland fans chanted his name.",
-                            "disappoint fansThe concert was cancelled, disappointing hundreds of fans."
+                            "Thousands of fans queued to buy tickets."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a football/tennis/baseball etc fan",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Jack is a keen football fan."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Manchester United/Redsox/Colts etc fanManchester United fans were delighted with their team’s victory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Rolling Stones/Kylie Minogue etc fanMike has been a lifelong Kylie Minogue fan."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a big/huge/massive fan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Elizabeth is a massive fan of Elton John."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a devoted fan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a strong supporter or admirer",
+                                "examples": [
+                                    "Devoted fans from all over the country have travelled to the concert."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a loyal fan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fans who always support someone",
+                                "examples": [
+                                    "He will be playing to hundreds of loyal fans on Sunday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "adoring fans",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fans who like and admire someone very much",
+                                "examples": [
+                                    "She’s mobbed by adoring fans wherever she goes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s number one fan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She told Dave that she was his number one fan."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rival/opposing/opposition fans",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fans who support different teams competing against each other",
+                                "examples": [
+                                    "There were fights between rival fans outside the stadium."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "home fans",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fans at their own team’s sports field",
+                                "examples": [
+                                    "The home fans cheered the team onto the pitch."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "away fans",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fans visiting another team’s sports field",
+                                "examples": [
+                                    "Two sections of the ground had been allocated to away fans."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fan mail",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The group receives lots of fan mail."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fan club",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Her fan club has 25,000 members in the UK alone."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fan base",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the people who are someone’s biggest fans",
+                                "examples": [
+                                    "The band has built up a loyal fan base over the years."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fans cheer/applaud",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sb/sth",
+                                "examples": [
+                                    "Fans on both sides applauded their skill and spirit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fans boo",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sb/sth",
+                                "examples": [
+                                    "Their own fans booed them off the pitch."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fans chant sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "England fans chanted his name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "disappoint fans",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The concert was cancelled, disappointing hundreds of fans."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -252,8 +488,6 @@
                         "examples": [
                             "Several supporters were arrested outside the stadium.",
                             "The town was full of football supporters, waiting for the big day.",
-                            "Milan/Liverpool etc supporter",
-                            "Milan supporters cheered as they scored their first goal in two games.",
                             "support[T] to like a particular team and want it to win:",
                             "‘Which team do you support?’ ‘Oh, Manchester United, of course!’"
                         ],
@@ -261,16 +495,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Milan/Liverpool etc supporter",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Milan supporters cheered as they scored their first goal in two games."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

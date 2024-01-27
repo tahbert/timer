@@ -38,49 +38,347 @@
                         "usage": "",
                         "region": "",
                         "definition": "someone’s ability to remember things, places, experiences etc : trí nhớ",
-                        "examples": [
-                            "memory for",
-                            "She has a terrible memory for names.",
-                            "do sth from memory",
-                            "These stories were told and retold, mainly from memory.",
-                            "The pianist played the whole piece from memory.",
-                            "in your memory",
-                            "The image has remained in my memory ever since.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "good/excellentI wish my memory was as good as yours.",
-                            "bad/poor/terribleA student with a poor memory may struggle in school.",
-                            "short-term memory(= your ability to remember things that you have just seen, heard, or done )The drug can damage your short-term memory.",
-                            "long-term memory(= your ability to remember things that happened a long time ago )Most people's long-term memory is limited.",
-                            "visual memory(= your ability to remember things you have seen )Poor spellers often have a weak visual memory.",
-                            "a photographic memory(= the ability to remember every detail of things that you have seen )Unless you have a photographic memory, you forget half of what you read as soon as you close the book.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "remain/stay/stick in your memory(= be remembered for a long time )That day will remain in my memory forever.",
-                            "refresh/jog your memory(= help someone to remember something )Perhaps this photograph will refresh your memory?",
-                            "lose your memory(= become unable to remember things that happened in the past )The blow on the head caused him to lose his memory.",
-                            "commit something to memoryformal(= make yourself remember something )I've already committed his name to memory.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a short memory(= if you have a short memory, you soon forget things )Voters have short memories.",
-                            "have a long memory(= if you have a long memory, you remember things for a long time )He has a long memory for people who have let him down.",
-                            "have a memory like a sieve(= forget things very easily)I'm sorry, I have a memory like a sieve. I forgot you were coming today!",
-                            "loss of memory/memory loss(= when you cannot remember things)The condition can cause dizziness and memory loss.",
-                            "a lapse of memory/a memory lapse(= when you cannot remember something for a short time )The alcohol seemed to make him suffer lapses of memory.",
-                            "if my memory serves (me correctly/right)(= used to say that you are almost certain you have remembered something correctly )If my memory serves me correctly, Johnson was also there.",
-                            "sth is etched in your memory(= it is impossible to forget)The date was etched in my memory."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good/excellent",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I wish my memory was as good as yours."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bad/poor/terrible",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A student with a poor memory may struggle in school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "short-term memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "your ability to remember things that you have just seen, heard, or done",
+                                "examples": [
+                                    "The drug can damage your short-term memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "long-term memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "your ability to remember things that happened a long time ago",
+                                "examples": [
+                                    "Most people's long-term memory is limited."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "visual memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "your ability to remember things you have seen",
+                                "examples": [
+                                    "Poor spellers often have a weak visual memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a photographic memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the ability to remember every detail of things that you have seen",
+                                "examples": [
+                                    "Unless you have a photographic memory, you forget half of what you read as soon as you close the book."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "remain/stay/stick in your memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be remembered for a long time",
+                                "examples": [
+                                    "That day will remain in my memory forever."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "refresh/jog your memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "help someone to remember something",
+                                "examples": [
+                                    "Perhaps this photograph will refresh your memory?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lose your memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "become unable to remember things that happened in the past",
+                                "examples": [
+                                    "The blow on the head caused him to lose his memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commit something to memoryformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make yourself remember something",
+                                "examples": [
+                                    "I've already committed his name to memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a short memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "if you have a short memory, you soon forget things",
+                                "examples": [
+                                    "Voters have short memories."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a long memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "if you have a long memory, you remember things for a long time",
+                                "examples": [
+                                    "He has a long memory for people who have let him down."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a memory like a sieve",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "forget things very easily",
+                                "examples": [
+                                    "I'm sorry, I have a memory like a sieve. I forgot you were coming today!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "loss of memory/memory loss",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when you cannot remember things",
+                                "examples": [
+                                    "The condition can cause dizziness and memory loss."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lapse of memory/a memory lapse",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when you cannot remember something for a short time",
+                                "examples": [
+                                    "The alcohol seemed to make him suffer lapses of memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "if my memory serves",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "me correctly/right",
+                                "examples": [
+                                    "(= used to say that you are almost certain you have remembered something correctly )If my memory serves me correctly, Johnson was also there."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sth is etched in your memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it is impossible to forget",
+                                "examples": [
+                                    "The date was etched in my memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "memory for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She has a terrible memory for names."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "do sth from memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "These stories were told and retold, mainly from memory.",
+                                    "The pianist played the whole piece from memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in your memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The image has remained in my memory ever since."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -106,23 +404,7 @@
                             "▪ Dinali has a brilliant mind, with almost total recall of what she has read."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -139,23 +421,7 @@
                             "His powers of recollection are extraordinary."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -188,21 +454,6 @@
                             "nostalgia for",
                             "nostalgia for the good old days",
                             "He looked back on his university days with a certain amount of nostalgia.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "feel nostalgiaHe didn't feel any nostalgia for his school days.",
-                            "have nostalgiaThe immigrants I spoke to often had an intense nostalgia for their homeland.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "great nostalgia(= a strong feeling of nostalgia )I read the college newsletter with great nostalgia.",
-                            "pure nostalgia(= used when talking about good things from the past that are not mixed with things from the present )It was an evening of pure nostalgia, as the band played hits from the 1940s.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a feeling/sense of nostalgiaDid it give you a sense of nostalgia to see the play on Broadway again?",
-                            "a pang of nostalgia(= a short feeling of nostalgia )She felt a pang of nostalgia for the time when they were all children.",
-                            "a wave of nostalgia(= a strong feeling of nostalgia )As I drove into the city I felt a wave of nostalgia sweep over me.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a nostalgia tripinformal(= a situation or experience that reminds you of events in the past )Walking around campus was a great nostalgia trip for both of us.",
-                            "a nostalgia buffinformal(= someone who likes old things )The restaurant, which still has its 1930s décor, is a favorite with nostalgia buffs.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "nostalgic[adj] C2if you feel nostalgic about a time in the past, you feel happy when you remember it, and in some ways you wish that things had not changed :",
                             "a nostalgic visit to my home town",
                             "This song always makes me feel nostalgic.",
                             "Seeing those old school photographs has made mefeelquitenostalgic.",
@@ -214,16 +465,171 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "feel nostalgia",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He didn't feel any nostalgia for his school days."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The immigrants I spoke to often had an intense nostalgia for their homeland."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "great nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a strong feeling of nostalgia",
+                                "examples": [
+                                    "I read the college newsletter with great nostalgia."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pure nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used when talking about good things from the past that are not mixed with things from the present",
+                                "examples": [
+                                    "It was an evening of pure nostalgia, as the band played hits from the 1940s."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a feeling/sense of nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Did it give you a sense of nostalgia to see the play on Broadway again?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pang of nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a short feeling of nostalgia",
+                                "examples": [
+                                    "She felt a pang of nostalgia for the time when they were all children."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wave of nostalgia",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a strong feeling of nostalgia",
+                                "examples": [
+                                    "As I drove into the city I felt a wave of nostalgia sweep over me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a nostalgia tripinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a situation or experience that reminds you of events in the past",
+                                "examples": [
+                                    "Walking around campus was a great nostalgia trip for both of us."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a nostalgia buffinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who likes old things",
+                                "examples": [
+                                    "The restaurant, which still has its 1930s décor, is a favorite with nostalgia buffs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nostalgic[adj]",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "C2if you feel nostalgic about a time in the past, you feel happy when you remember it, and in some ways you wish that things had not changed :"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -240,27 +646,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "an act of remembering sth",
-                        "examples": [
-                            "have no recollection (of sth)(= not remember )",
-                            "I have no recollection of how I found my way there in the dark.",
-                            "to (the best of) my recollection(= used when you are unsure if you remember correctly )",
-                            "To the best of my recollection, she drives a Mercedes.",
-                            "Noone, to my recollection, gave a second thought to the risks involved."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have no recollection (of sth)(= not remember )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I have no recollection of how I found my way there in the dark."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "to (the best of) my recollection(= used when you are unsure if you remember correctly )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "To the best of my recollection, she drives a Mercedes.",
+                                    "Noone, to my recollection, gave a second thought to the risks involved."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -277,18 +697,17 @@
                         "region": "",
                         "definition": "a stroll/trip/walk down memory lanewhen you spend some time remembering the past :",
                         "examples": [
-                            "She returned to her old school yesterday for a trip down memory lane.",
-                            "take a stroll/trip/walk down memory laneto remember happy times in the past"
+                            "She returned to her old school yesterday for a trip down memory lane."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take a stroll/trip/walk down memory laneto remember happy times in the past",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -315,23 +734,7 @@
                             "I'm sure my university days seem happier in retrospect than they really were."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -360,47 +763,347 @@
                         "usage": "",
                         "region": "",
                         "definition": "sth that you remember from the past about a person, place, or experience : ký ức",
-                        "examples": [
-                            "memory of",
-                            "She talked about her memories of the war.",
-                            "He has lots of happy memories of his stay in Japan.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "good/bad etc memoriesHe left school with good memories of his time there.",
-                            "happy/unhappy memoriesMany people have unhappy memories of being forced to play team sports.",
-                            "fond memories(= about someone or something you like )She had fond memories of her aunt and uncle.",
-                            "a painful memory(= very upsetting )He sobbed as he relived the painful memory.",
-                            "a vivid memory(= very clear and detailed )I have vivid memories of that summer.",
-                            "a clear memoryI have a clear memory of the first time I met David.",
-                            "a dim/distant memory(= not clear, from a long time ago )He had only dim memories of his father, who had died when he was four.",
-                            "a vague memory(= not clear )I have a vague memory of visiting them when I was small.",
-                            "a childhood memoryGoing to the farm brought back happy childhood memories.",
-                            "somebody's earliest memoryMy earliest memory is of being bitten by a dog.",
-                            "an abiding/enduring/lasting memory(= that you will always have )The children's abiding memory of their father is of his patience and gentleness.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a/have no memory of sth(= remember/not remember something )She had no memory of the accident.",
-                            "relive a memory(= talk about past events so you remember them again )Seeing her again was an excuse to relive old memories.",
-                            "bring back memories(alsorekindle/revive memoriesformal) (= make you remember something )For many older people, the film brought back memories of the war.",
-                            "memories come flooding back(= you suddenly remember things clearly )Evelyn hugged her daughter, as memories came flooding back to her.",
-                            "a memory fades(= becomes less clear and accurate )Write down how you felt before the memory fades.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a place is full of memories(= makes you remember things that happened there )My old home is full of unhappy memories.",
-                            "be haunted by the memory of something(= be unable to forget something unhappy )He is haunted by memories of his unhappy childhood.",
-                            "shudder/wince at the memory of something(= be upset by remembering something )She shuddered at the memory of her parents fighting."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good/bad etc memories",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He left school with good memories of his time there."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "happy/unhappy memories",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many people have unhappy memories of being forced to play team sports."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fond memories",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "about someone or something you like",
+                                "examples": [
+                                    "She had fond memories of her aunt and uncle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a painful memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very upsetting",
+                                "examples": [
+                                    "He sobbed as he relived the painful memory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a vivid memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very clear and detailed",
+                                "examples": [
+                                    "I have vivid memories of that summer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a clear memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I have a clear memory of the first time I met David."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dim/distant memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not clear, from a long time ago",
+                                "examples": [
+                                    "He had only dim memories of his father, who had died when he was four."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a vague memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not clear",
+                                "examples": [
+                                    "I have a vague memory of visiting them when I was small."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a childhood memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Going to the farm brought back happy childhood memories."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "somebody's earliest memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My earliest memory is of being bitten by a dog."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an abiding/enduring/lasting memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that you will always have",
+                                "examples": [
+                                    "The children's abiding memory of their father is of his patience and gentleness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a/have no memory of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "remember/not remember something",
+                                "examples": [
+                                    "She had no memory of the accident."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "relive a memory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "talk about past events so you remember them again",
+                                "examples": [
+                                    "Seeing her again was an excuse to relive old memories."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bring back memories",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsorekindle/revive memoriesformal",
+                                "examples": [
+                                    "(= make you remember something )For many older people, the film brought back memories of the war."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "memories come flooding back",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "you suddenly remember things clearly",
+                                "examples": [
+                                    "Evelyn hugged her daughter, as memories came flooding back to her."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a memory fades",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "becomes less clear and accurate",
+                                "examples": [
+                                    "Write down how you felt before the memory fades."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a place is full of memories",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes you remember things that happened there",
+                                "examples": [
+                                    "My old home is full of unhappy memories."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be haunted by the memory of something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be unable to forget something unhappy",
+                                "examples": [
+                                    "He is haunted by memories of his unhappy childhood."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shudder/wince at the memory of something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be upset by remembering something",
+                                "examples": [
+                                    "She shuddered at the memory of her parents fighting."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "memory of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She talked about her memories of the war.",
+                                    "He has lots of happy memories of his stay in Japan."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -417,26 +1120,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "a sudden very clear memory of sth that happened to you in the past :",
-                        "examples": [
-                            "have flashbacks of",
-                            "Eaton stillhas flashbacksof the crash.",
-                            "I kepthavingflashbacksofher lying there bleeding.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have flashbacks of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Eaton stillhas flashbacksof the crash.",
+                                    "I kepthavingflashbacksofher lying there bleeding."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -453,27 +1154,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "formal sth from the past that you remember : ký ức, kỷ niệm",
-                        "examples": [
-                            "recollection of",
-                            "My earliest recollections are of my mother bending over my cot.",
-                            "I have many pleasant recollectionsofthe time we spent together.",
-                            "a dim recollectionsththat you remember slightly, but not very well",
-                            "I had a dim recollectionofhaving met her before."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "recollection of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "My earliest recollections are of my mother bending over my cot.",
+                                    "I have many pleasant recollectionsofthe time we spent together."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dim recollectionsththat you remember slightly, but not very well",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I had a dim recollectionofhaving met her before."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -497,23 +1212,7 @@
                             "It was a night of pleasant talk, the two of them exchanging reminiscences about the war."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

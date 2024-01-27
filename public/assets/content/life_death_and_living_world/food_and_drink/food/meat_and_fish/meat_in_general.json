@@ -41,24 +41,7 @@
                         "examples": [
                             "I gave up eating meat a few months ago.",
                             "a meat pie",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "eat meatI don't eat meat - I'm vegetarian.|People are eating less meat these days.",
-                            "have meat in it(= contain meat )Does this stew have meat in it?",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "raw(= not cooked )The dogs are fed on raw meat.",
-                            "cookedHow will I know when the meat is cooked?",
-                            "undercooked(= not cooked enough )Eating undercooked meat can make you very ill.",
-                            "tough(= difficult to chew )The meat was tough and chewy.",
-                            "lean(= with little fat )Try to eat more lean meat, fish and chicken.",
-                            "fatty(= with a lot of fat )People are being urged to eat less fatty meat.",
-                            "red meat(= a dark-coloured meat such as beef )For health reasons, you should eat less red meat.",
-                            "white meat(= a light-coloured meat such as chicken )White meat is supposed to be healthier.",
                             "dark meatthe dark-coloured meatthat you find on the legs of birds that you eat, such as chicken : thịt đùi của gia cầm",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a joint of meatBritish English(= a large piece of meat, sometimes containing a bone )He began to carve the joint of meat.",
-                            "a cut of meat(= a joint of meat taken from a particular part of an animal )Cheaper cuts of meat can be tough.",
-                            "a slice of meat(= a thin piece of meat cut from a larger piece )He helped himself to another slice of meat.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "meaty[adj] full of meat or tasting a lot of meat",
                             "a good meaty stew"
                         ],
@@ -66,16 +49,222 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "eat meat",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I don't eat meat - I'm vegetarian.|People are eating less meat these days."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have meat in it",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "contain meat",
+                                "examples": [
+                                    "Does this stew have meat in it?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "raw",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not cooked",
+                                "examples": [
+                                    "The dogs are fed on raw meat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cooked",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "How will I know when the meat is cooked?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "undercooked",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not cooked enough",
+                                "examples": [
+                                    "Eating undercooked meat can make you very ill."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tough",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "difficult to chew",
+                                "examples": [
+                                    "The meat was tough and chewy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lean",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with little fat",
+                                "examples": [
+                                    "Try to eat more lean meat, fish and chicken."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fatty",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of fat",
+                                "examples": [
+                                    "People are being urged to eat less fatty meat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "red meat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a dark-coloured meat such as beef",
+                                "examples": [
+                                    "For health reasons, you should eat less red meat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "white meat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a light-coloured meat such as chicken",
+                                "examples": [
+                                    "White meat is supposed to be healthier."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a joint of meatBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a large piece of meat, sometimes containing a bone",
+                                "examples": [
+                                    "He began to carve the joint of meat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cut of meat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a joint of meat taken from a particular part of an animal",
+                                "examples": [
+                                    "Cheaper cuts of meat can be tough."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a slice of meat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a thin piece of meat cut from a larger piece",
+                                "examples": [
+                                    "He helped himself to another slice of meat."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -116,23 +305,7 @@
                             "lamb chops"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -147,23 +320,7 @@
                         "definition": "meatthat comes from a deer : thịt hươu, nai",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -178,23 +335,7 @@
                         "definition": "the meatfrom an adult sheep eaten as food : thịt cừu",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -228,23 +369,7 @@
                             "pork sausages"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -263,23 +388,7 @@
                             "gammon[U] mainly UKmeattaken from the back leg or side of a pig and preserved with smoke or salt : đùi lợn muối/ hun khói"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -294,23 +403,7 @@
                         "definition": "/ cracklingsUS  the crisp skin of cooked pork (= meat from a pig) : phần da giòn (của thịt lợn quay)",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -330,23 +423,7 @@
                             "rasher of baconUK(piece of bacon)"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -363,23 +440,7 @@
                             "a dish of pigs' trotters"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -412,23 +473,7 @@
                             "roast turkey"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -443,23 +488,7 @@
                         "definition": "the meat from birds such as chickens : thịt gia cầm",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -474,23 +503,7 @@
                         "definition": "the meatof this bird:thịt vịt",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -504,36 +517,206 @@
                         "region": "",
                         "definition": "the meat from this bird eaten as food : thịt gà",
                         "examples": [
-                            "A male chicken is called a cock and a female chicken is called a hen.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "fresh(= recently killed and not frozen )Is the chicken fresh?",
-                            "frozenWe never buy cheap frozen chicken.",
-                            "free-range(= from a chicken that moved around outside and ate naturally )All the chicken we serve is free-range.",
-                            "roast chicken(= cooked in an oven )For dinner we're having roast chicken.",
-                            "fried chicken(= cooked in oil )They filled their plates with fried chicken.",
-                            "skinless chicken(= with the skin removed )For this recipe, you will need a two pounds of skinless chicken.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "chicken breast/thigh/wingChop the chicken breast into pieces.",
-                            "a chicken piece(= a chicken breast, leg, thigh or wing )You will need two chicken pieces per person.",
-                            "chicken drumsticks(= the lower part of chicken legs )party food, such as sandwiches and chicken drumsticks",
-                            "a chicken sandwich/salad/pie etcI'll make a chicken pie with the leftovers.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "stuff a chicken(= fill a chicken with a mixture of onion, lemon, herbs etc )",
-                            "carve a chicken(= cut up a whole chicken that has been cooked )"
+                            "A male chicken is called a cock and a female chicken is called a hen."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "fresh",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "recently killed and not frozen",
+                                "examples": [
+                                    "Is the chicken fresh?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "frozen",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "We never buy cheap frozen chicken."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "free-range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "from a chicken that moved around outside and ate naturally",
+                                "examples": [
+                                    "All the chicken we serve is free-range."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "roast chicken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooked in an oven",
+                                "examples": [
+                                    "For dinner we're having roast chicken."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fried chicken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooked in oil",
+                                "examples": [
+                                    "They filled their plates with fried chicken."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "skinless chicken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with the skin removed",
+                                "examples": [
+                                    "For this recipe, you will need a two pounds of skinless chicken."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "chicken breast/thigh/wing",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Chop the chicken breast into pieces."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chicken piece",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a chicken breast, leg, thigh or wing",
+                                "examples": [
+                                    "You will need two chicken pieces per person."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "chicken drumsticks",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the lower part of chicken legs",
+                                "examples": [
+                                    "party food, such as sandwiches and chicken drumsticks"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chicken sandwich/salad/pie etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I'll make a chicken pie with the leftovers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "stuff a chicken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fill a chicken with a mixture of onion, lemon, herbs etc",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "carve a chicken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cut up a whole chicken that has been cooked",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -571,23 +754,7 @@
                             "a buffet ofcoldmeats and cheeses"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -619,24 +786,24 @@
                         "examples": [
                             "The spaghetti sauce is made with UKminced/ USgroundbeef.",
                             "People in England often haveroastbeefand Yorkshire puddingfor lunch on Sundays.",
-                            "He is a beefcattlefarmer.",
-                            "roast beef",
-                            "We have both dairy and beef cattle on the farm."
+                            "He is a beefcattlefarmer."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "roast beef",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We have both dairy and beef cattle on the farm."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -655,23 +822,7 @@
                         "definition": "meatfrom a very young cow : thịt bê",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

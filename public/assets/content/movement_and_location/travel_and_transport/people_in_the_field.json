@@ -42,23 +42,7 @@
                             "bus conductor[C] the person on some buses whose job is to take your money and give you a ticket : nhân viên soát vé"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,23 +59,7 @@
                             "I asked the stewardess if I could have a blanket."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -106,23 +74,7 @@
                         "definition": "an officer on a ship who deals with the ship's accounts, or a person on a passenger ship or aircraft who is responsible for taking care of passengers: người phụ trách tài vụ, người quản lý",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -138,27 +90,10 @@
                         "examples": [
                             "The captain and crew welcome you aboard.",
                             "This is your captain speaking. We expect to be landing at London Heathrow in an hour's time.",
-                            "This is your captain speaking. We will be arriving at Gatwick Airport in approximately 10 minutes.",
-                            "sea captain[C] a person in charge of a ship, especially one used fortradingrather than for military purposes : thuyền trưởng"
+                            "This is your captain speaking. We will be arriving at Gatwick Airport in approximately 10 minutes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -175,23 +110,7 @@
                             "There aren't any porters, so we'll have to find a trolley for the luggage."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -206,23 +125,7 @@
                         "definition": "an officer on a ship or aircraft who plans which way it should go when it is travelling from one place to another : người lái",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -255,10 +158,6 @@
                             "The plane crashed, killing two of the crew and four passengers.",
                             "The captain and crew would like to welcome you on board Flight 381 to Geneva.",
                             "Everyone aboard the Montreal Queen, including the crew, died.",
-                            "crew of",
-                            "He joined the crew of a large fishing boat.",
-                            "have/ carry a crew of",
-                            "The aircraft has/carries a crew of seven.",
                             "crew member/crewman [C] a member of the crew on a boat or ship",
                             "All crewmembers should return to the ship by 6 a.m."
                         ],
@@ -266,16 +165,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "crew of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He joined the crew of a large fishing boat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have/ carry a crew of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The aircraft has/carries a crew of seven."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

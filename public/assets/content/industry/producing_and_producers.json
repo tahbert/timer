@@ -42,28 +42,10 @@
                             "The aircraft will continue to be assembled in France.",
                             "It’s one of those beds that you have to assemble yourself.",
                             "Our kits are very easy to assemble.",
-                            "The apprentices worked in the shed where the new locomotives were assembled and the old ones repaired.",
-                            "assembly[U] C2",
-                            "Production had shifted completely to the assembly of wheelbarrows and other gardening equipment."
+                            "The apprentices worked in the shed where the new locomotives were assembled and the old ones repaired."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -96,23 +78,7 @@
                             "►Do not use 'made by' when talking about the materials used to make something."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -130,7 +96,6 @@
                             "They produce cheap goods for export to the United States.",
                             "a factory that produces high-quality steel",
                             "The factory produces an incredible 100 cars per hour.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "production[U] B2 the process of making or growing things to be sold, especially in large quantities",
                             "The company's new model will be going into production early next year.",
                             "production of",
@@ -141,24 +106,37 @@
                             "agricultural production and distribution",
                             "production costs/facilities/processes etc",
                             "high-tech production methods",
-                            "be in production(= being produced )",
                             "By September, the new motors were in production.",
-                            "go into/out of production(= begin to be produced in large numbers, or stop being produced )",
                             "The new model will go into production next year."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be in production",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
+                                "definition": "being produced",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go into/out of production",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "begin to be produced in large numbers, or stop being produced",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -184,23 +162,7 @@
                             "mass-produced furniture"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -213,27 +175,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ turn out to make large quantities of things, especially without caring about quality: sản xuất đại trà",
-                        "examples": [
-                            "churn/turn out sth",
-                            "They turn out cheap souvenirs for tourists.",
-                            "Churning out pamphlets and booklets is ineffective if consumers cannot understand the messages.",
-                            "churn/turn sth out",
-                            "As long as people keep buying these products, the company will keep turning them out."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "churn/turn out sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They turn out cheap souvenirs for tourists.",
+                                    "Churning out pamphlets and booklets is ineffective if consumers cannot understand the messages."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "churn/turn sth out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "As long as people keep buying these products, the company will keep turning them out."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -252,11 +228,6 @@
                         "definition": "to produce goods (especiallymachines,equipment,carsetc) in large numbers, usually in a factory using machines sản xuất, chế tạo",
                         "examples": [
                             "He works for a company that manufactures car parts.",
-                            "the company that manufactured the drug",
-                            "The company manufactures aircraft parts.",
-                            "manufactured goods",
-                            "The report notes a rapid decline in manufacturedgoods.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "manufacture[U] the process of making goods or materials using machines, usually in large numbers or amounts : việc sản xuất chế tạo",
                             "Systems of this type have been used in car manufacture.",
                             "Cost will determine the methods of manufacture.",
@@ -267,16 +238,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the company that manufactured the drug",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The company manufactures aircraft parts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "manufactured goods",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The report notes a rapid decline in manufacturedgoods."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -321,23 +311,7 @@
                             "Makers of cars often think more about speed than about safety."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -363,23 +337,7 @@
                             "Clothing manufacturers have also felt the effects of the recession, as people spend less on clothes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -401,23 +359,7 @@
                             "leading oil producers"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -453,23 +395,7 @@
                             "It cost the country $4 million inlost productivity."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -484,23 +410,7 @@
                         "definition": "not producing very much",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -513,25 +423,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "relating to the production of goods, crops, or wealth :năng suất",
-                        "examples": [
-                            "the economy’s productive capacity",
-                            "In order to turn the deserts into fertile and productive land, engineers built an 800-mile canal.",
-                            "He had an amazingly productive five years in which he managed to write four novels."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the economy’s productive capacity",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "In order to turn the deserts into fertile and productive land, engineers built an 800-mile canal.",
+                                    "He had an amazingly productive five years in which he managed to write four novels."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

@@ -45,39 +45,245 @@
                             "I prefermilk chocolatetodark chocolate.",
                             "2[C] a small sweet that is covered with chocolate :",
                             "Would you like a chocolate?",
-                            "a box of chocolates",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "milk chocolate(= chocolate with milk added to it )ice-cream inside a milk chocolate coating",
-                            "dark chocolate(alsoplain chocolateUK) (= without milk and with very little sugar )strawberries dipped in dark chocolate",
-                            "white chocolate(= white in colour, with a sweet milky taste )Serve the cake with a white chocolate sauce.",
-                            "bitter chocolate(= dark chocolate with a strong sharp taste )Bitter chocolate may be added to meat sauces for extra flavour.",
-                            "cooking chocolate(= chocolate to use in cooking )Melt the cooking chocolate and spread it over the tray.",
-                            "melted chocolateStir in the eggs and the melted chocolate.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a bar of chocolate(= a long block of chocolate )He bought a Coke and a bar of chocolate.",
-                            "a piece/bit of chocolateWould you like a piece of chocolate?",
-                            "a box of chocolates(= a box of small sweets covered with chocolate )I gave Mum a box of chocolates for her birthday.",
-                            "a slab of chocolate(= a large flat piece )They shared a large slab of chocolate.",
-                            "a square of chocolate(= a small square piece )I only ate one small square of chocolate.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a chocolate cake/biscuit/pudding etcFor her birthday he made a chocolate cake.",
-                            "chocolate chips(= very small pieces of chocolate )vanilla ice cream with chocolate chips",
-                            "a chocolate factoryMy dream job would be working in a chocolate factory."
+                            "a box of chocolates"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "milk chocolate",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "chocolate with milk added to it",
+                                "examples": [
+                                    "ice-cream inside a milk chocolate coating"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "dark chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoplain chocolateUK",
+                                "examples": [
+                                    "(= without milk and with very little sugar )strawberries dipped in dark chocolate"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "white chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "white in colour, with a sweet milky taste",
+                                "examples": [
+                                    "Serve the cake with a white chocolate sauce."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bitter chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "dark chocolate with a strong sharp taste",
+                                "examples": [
+                                    "Bitter chocolate may be added to meat sauces for extra flavour."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cooking chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "chocolate to use in cooking",
+                                "examples": [
+                                    "Melt the cooking chocolate and spread it over the tray."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "melted chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Stir in the eggs and the melted chocolate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bar of chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a long block of chocolate",
+                                "examples": [
+                                    "He bought a Coke and a bar of chocolate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a piece/bit of chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Would you like a piece of chocolate?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a box of chocolates",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a box of small sweets covered with chocolate",
+                                "examples": [
+                                    "I gave Mum a box of chocolates for her birthday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a slab of chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a large flat piece",
+                                "examples": [
+                                    "They shared a large slab of chocolate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a square of chocolate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small square piece",
+                                "examples": [
+                                    "I only ate one small square of chocolate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chocolate cake/biscuit/pudding etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "For her birthday he made a chocolate cake."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "chocolate chips",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very small pieces of chocolate",
+                                "examples": [
+                                    "vanilla ice cream with chocolate chips"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chocolate factory",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My dream job would be working in a chocolate factory."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -97,26 +303,24 @@
                         "examples": [
                             "a candybar",
                             "a box of candy",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "sweetUK A2 [ C ] a small piece of sweet food made of sugar or chocolate",
                             "She bought a packet of sweets to suck on the journey.",
                             "Eating sweets is bad for your teeth.",
-                            "a sweet shop",
-                            "a packet ofboiled sweets(= hard sweets that taste of fruit )"
+                            "a sweet shop"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a packet ofboiled sweets",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
+                                "definition": "hard sweets that taste of fruit",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -154,23 +358,7 @@
                             "Would you like a piece/stick of chewing gum?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -187,23 +375,7 @@
                             "You can eat a peppermint as a breath freshener."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -55,23 +55,7 @@
                             "He reappeared two hours later,as promised."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -85,27 +69,42 @@
                         "region": "",
                         "definition": "especially spokento promise sincerely that you will do something or that something is true – often used when you are trying to persuade someone that they can trust you :",
                         "examples": [
-                            "Campus officials had given her their word. There was to be a raise in salary each year.",
-                            "give sb your word (that)",
-                            "I give you my word that your money is safe with me.",
-                            "I’ll let you go out tonight if you give me your word that you’ll be home by 11.",
-                            "give sb your word of honour/honor",
-                            "He had given her his word of honor that he would respect her wishes."
+                            "Campus officials had given her their word. There was to be a raise in salary each year."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give sb your word (that)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I give you my word that your money is safe with me.",
+                                    "I’ll let you go out tonight if you give me your word that you’ll be home by 11."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb your word of honour/honor",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had given her his word of honor that he would respect her wishes."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -136,23 +135,7 @@
                             "The fridge is guaranteed for one year. the company that makes it promises to repair or replace it if it breaks within a year"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -182,23 +165,7 @@
                             "Presidents mustswear allegianceto the US constitution."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -212,14 +179,6 @@
                         "region": "",
                         "definition": "formalto make a firm and definite promise to do something important, which will affect you for a long time and which could result in serious effects if you fail : cam kết",
                         "examples": [
-                            "commit somebody to doing something",
-                            "He has clearly committed his government to continuing down the path of economic reform.",
-                            "commit somebody to something",
-                            "Meeting them doesn’t commit us to anything.",
-                            "commit yourself",
-                            "I’d committed myself and there was no turning back.",
-                            "commit yourself to (doing) something",
-                            "The banks have committed themselves to boosting profits by slashing costs.",
                             "committed[adj] be committed to doing something: cam kết làm gì",
                             "The church is committed to changing the role it allows women."
                         ],
@@ -227,16 +186,69 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "commit somebody to doing something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He has clearly committed his government to continuing down the path of economic reform."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commit somebody to something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Meeting them doesn’t commit us to anything."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commit yourself",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I’d committed myself and there was no turning back."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commit yourself to (doing) something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The banks have committed themselves to boosting profits by slashing costs."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -271,23 +283,7 @@
                             "Herrera pledged that his company will give aid to schools."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -300,27 +296,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "to firmly promise something, especially to yourself - used especially in literature: thề, nguyện",
-                        "examples": [
-                            "vow to do something",
-                            "Ben vowed to avenge his mother’s death.",
-                            "vow (that)",
-                            "Daley vowed that the Police Department would be reformed.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "vow to do something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Ben vowed to avenge his mother’s death."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "vow (that)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Daley vowed that the Police Department would be reformed."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -337,27 +346,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "formalto make an official or legal promise to do something : cam kết, cam đoan",
-                        "examples": [
-                            "undertake to do sth",
-                            "The government undertook to keep price increases to a minimum.",
-                            "The two sides undertook to respect each other’s territory.",
-                            "undertake that",
-                            "The government undertookthatthe buildings would not be redeveloped."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "undertake to do sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The government undertook to keep price increases to a minimum.",
+                                    "The two sides undertook to respect each other’s territory."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "undertake that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The government undertookthatthe buildings would not be redeveloped."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -375,27 +398,42 @@
                         "region": "",
                         "definition": "to tell someone that something will definitely happen or is definitely true, so that they are less worried or more confident : đảm bảo, cam đoan",
                         "examples": [
-                            "The document is genuine,I can assure you.",
-                            "assure sb (that)",
-                            "The doctor assured me that I wouldn’t feel any pain.",
-                            "The airline has assured travellers there will be no further delays.",
-                            "assure sb of sth",
-                            "The dealer had assured me of its quality."
+                            "The document is genuine,I can assure you."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "assure sb (that)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The doctor assured me that I wouldn’t feel any pain.",
+                                    "The airline has assured travellers there will be no further delays."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "assure sb of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The dealer had assured me of its quality."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -428,45 +466,295 @@
                         "usage": "",
                         "region": "",
                         "definition": "a statement that you will definitely do or provide something or that something will definitely happen",
-                        "examples": [
-                            "promise of",
-                            "We received promises of support from several MPs.",
-                            "promise to",
-                            "He would never break his promise to his father.",
-                            "promise to do sth",
-                            "She made a promise to visit them once a month.",
-                            "promise that",
-                            "He promised that he’d pick me up.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make a promiseI made a promise to my mother that I’d look after Dad.",
-                            "keep a promise(alsofulfil a promiseBritish English,fulfill a promiseAmerican English formal) (= do what you promised to do )She said she would come back, and she kept her promise.|The mayor has fulfilled his promise to get tough on corruption.",
-                            "break a promise(= not do what you promised to do )Once again, the government has broken its promises.",
-                            "go back on your promise(= break it )They were angry that the company had gone back on its promise.",
-                            "renege on a promiseformal(= break it )It is tempting for the government to renege on its promise.",
-                            "have sb’s promise(= they have promised you something )‘It’ll remain a secret?’ ‘Yes, you have my promise.’",
-                            "hold somebody to their promise(= make them keep it )The next day, Gareth held me to my promise to take him fishing.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a solemn promiseAs governor, I made a solemn promise to defend the laws of the Republic.",
-                            "a firm promise(= definite )What had happened to all those firm promises of help?",
-                            "a vague promise(= not definite )Larry made some vague promises to leave his wife.",
-                            "a false/empty/hollow promise(= one that will not be kept )I didn’t make any false promises.",
-                            "a broken promise(= one that has not been kept )There have been too many broken promises.",
-                            "a campaign/election promiseHe was accused of breaking a campaign promise not to raise taxes."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make a promise",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I made a promise to my mother that I’d look after Dad."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "keep a promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsofulfil a promiseBritish English,fulfill a promiseAmerican English formal",
+                                "examples": [
+                                    "(= do what you promised to do )She said she would come back, and she kept her promise.|The mayor has fulfilled his promise to get tough on corruption."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "break a promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not do what you promised to do",
+                                "examples": [
+                                    "Once again, the government has broken its promises."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go back on your promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "break it",
+                                "examples": [
+                                    "They were angry that the company had gone back on its promise."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renege on a promiseformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "break it",
+                                "examples": [
+                                    "It is tempting for the government to renege on its promise."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have sb’s promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "they have promised you something",
+                                "examples": [
+                                    "‘It’ll remain a secret?’ ‘Yes, you have my promise.’"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hold somebody to their promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make them keep it",
+                                "examples": [
+                                    "The next day, Gareth held me to my promise to take him fishing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a solemn promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "As governor, I made a solemn promise to defend the laws of the Republic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a firm promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "definite",
+                                "examples": [
+                                    "What had happened to all those firm promises of help?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a vague promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not definite",
+                                "examples": [
+                                    "Larry made some vague promises to leave his wife."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a false/empty/hollow promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that will not be kept",
+                                "examples": [
+                                    "I didn’t make any false promises."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a broken promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that has not been kept",
+                                "examples": [
+                                    "There have been too many broken promises."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a campaign/election promise",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was accused of breaking a campaign promise not to raise taxes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "promise of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We received promises of support from several MPs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "promise to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He would never break his promise to his father."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "promise to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She made a promise to visit them once a month."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "promise that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He promised that he’d pick me up."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -483,35 +771,221 @@
                         "usage": "",
                         "region": "",
                         "definition": "lời thề nguyện",
-                        "examples": [
-                            "1a very serious promise to do something or not to do something that you choose to make",
-                            "Jim made a vow that he would find his wife’s killer.",
-                            "2a religious promise that you will do something for God, the church etc :",
-                            "a monk who had taken a vow of poverty",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make a vowI made a vow never to go near the place again.",
-                            "take a vow(= make a vow at a formal ceremony )Priests have to take a vow of obedience to the Catholic Church.",
-                            "keep a vow(= do as you promised )She kept her vow not to tell anyone about their affair.",
-                            "break a vow(= fail to do as you promised )She accused him of breaking his marriage vows.",
-                            "exchange vows(= make promises to each other as part of a wedding ceremony )They wanted to exchange vows before their family and friends.",
-                            "renew your vows(= have a second wedding ceremony to repeat your promises )Fifty couples celebrated their golden weddings and renewed their vows at a cathedral service in Chicago.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a solemn vow(= a very serious vow, which you must keep )He made a solemn vow that he would do everything he could to help her.",
-                            "marriage/wedding vowsShe wrote her own marriage vows.",
-                            "a holy/sacred vowWhen we get married in church we are making sacred vows.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a vow of silence/poverty/celibacy etcPeople close to him have finally broken their vow of silence.",
-                            "be bound by a vow(= to have promised seriously to do something )She told him she was bound by a vow not to tell any other person."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make a vow",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I made a vow never to go near the place again."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make a vow at a formal ceremony",
+                                "examples": [
+                                    "Priests have to take a vow of obedience to the Catholic Church."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "keep a vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "do as you promised",
+                                "examples": [
+                                    "She kept her vow not to tell anyone about their affair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "break a vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fail to do as you promised",
+                                "examples": [
+                                    "She accused him of breaking his marriage vows."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "exchange vows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make promises to each other as part of a wedding ceremony",
+                                "examples": [
+                                    "They wanted to exchange vows before their family and friends."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renew your vows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "have a second wedding ceremony to repeat your promises",
+                                "examples": [
+                                    "Fifty couples celebrated their golden weddings and renewed their vows at a cathedral service in Chicago."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a solemn vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a very serious vow, which you must keep",
+                                "examples": [
+                                    "He made a solemn vow that he would do everything he could to help her."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "marriage/wedding vows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She wrote her own marriage vows."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a holy/sacred vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "When we get married in church we are making sacred vows."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a vow of silence/poverty/celibacy etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "People close to him have finally broken their vow of silence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be bound by a vow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to have promised seriously to do something",
+                                "examples": [
+                                    "She told him she was bound by a vow not to tell any other person."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "1a very serious promise to do something or not to do something that you choose to make",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Jim made a vow that he would find his wife’s killer.",
+                                    "2a religious promise that you will do something for God, the church etc :"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a monk who had taken a vow of poverty",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -535,30 +1009,59 @@
                         "definition": "a promise that something will definitely happen or is definitely true, which makes someone less worried or more confident: sự đảm bảo",
                         "examples": [
                             "Despite all their assurances, they broke the agreement and signed a deal with a rival company.",
-                            "Despite my repeated assurances, Rob still looked very nervous.",
-                            "assurance that",
-                            "I need an assurance that you will support me.",
-                            "assurance about/on",
-                            "His lawyer was unwilling to give him any kind of assurance about the outcome of the trial.",
-                            "give/seek/receive an assurance",
-                            "He gave an assurance that the work would be completed by Wednesday.",
-                            "The manager gave me his personal assurance that the parts would be here today.",
-                            ""
+                            "Despite my repeated assurances, Rob still looked very nervous."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "assurance that",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I need an assurance that you will support me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "assurance about/on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His lawyer was unwilling to give him any kind of assurance about the outcome of the trial."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give/seek/receive an assurance",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He gave an assurance that the work would be completed by Wednesday.",
+                                    "The manager gave me his personal assurance that the parts would be here today."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -575,29 +1078,58 @@
                         "usage": "",
                         "region": "",
                         "definition": "aformalpromise that something will happen or be provided, because you are going to make sure of this : lời cam kết, đảm bảo",
-                        "examples": [
-                            "guarantee that",
-                            "The contract contains a guarantee that the building will be finished within 6 months.",
-                            "After the Second World War, Belgium wanted a guarantee that it would not be invaded again..",
-                            "guarantee of",
-                            "I’m afraid there’s no guarantee of success.",
-                            "give a guarantee",
-                            "I cannotgiveaguaranteethat there will be no redundancies."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "guarantee that",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The contract contains a guarantee that the building will be finished within 6 months.",
+                                    "After the Second World War, Belgium wanted a guarantee that it would not be invaded again.."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "guarantee of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I’m afraid there’s no guarantee of success."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give a guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I cannotgiveaguaranteethat there will be no redundancies."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -616,49 +1148,333 @@
                         "definition": "1 a promise to do sth or to behave in a particular way that will take along time or involve a lot of effort:",
                         "examples": [
                             "Are you ready tomakea long-termcommitment?",
-                            "commitment to",
-                            "Our company has a commitment to quality and customer service.",
-                            "commitment to doing sth",
-                            "The governor has a strong commitment to creating jobs in the state.",
                             "2[U] the hard work and loyalty that sb gives to an organization, activity etc :",
                             "I was impressed by the energy and commitment shown by the players.",
                             "commitment to",
-                            "Her commitment to work is beyond question.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make a commitmentGetting married involves making a serious commitment.",
-                            "give a commitmentThe government gave a commitment to withdraw all its forces.",
-                            "something requires/demands (a) commitmentNursing as a profession demands genuine commitment.",
-                            "honour/meet a commitment(= do what you promised to do )Will they honour their commitment to a ceasefire?",
-                            "show/demonstrate commitmentThroughout her life she demonstrated her deep commitment to the needs of the poor.",
-                            "lack commitmentI never get promoted because they think I lack commitment.",
-                            "reaffirm/restate/reiterate a commitment(= give a promise again )They reaffirmed their commitment to abandon nuclear power.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "real/genuine commitmentThe job demands real commitment to teaching.",
-                            "personal commitmentAs a company, we expect a personal commitment from our staff to do their best.",
-                            "strong commitmentShe's known for her strong commitment to women's rights.",
-                            "long-term commitmentHaving a child together involves a long-term commitment.",
-                            "a lifelong commitmentMarriage is a lifelong commitment.",
-                            "full/total commitmentSuch therapies demand full commitment from the patient.",
-                            "political commitmentThere was no local political commitment to the proposal.",
-                            "religious commitmentMany people have ceased to have any active religious commitment.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a lack of commitmentHis lack of commitment to the project was easy to see.",
-                            "a level of commitmentThis post demands a high level of commitment."
+                            "Her commitment to work is beyond question."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make a commitment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Getting married involves making a serious commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give a commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The government gave a commitment to withdraw all its forces."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "something requires/demands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a",
+                                "examples": [
+                                    "commitmentNursing as a profession demands genuine commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "honour/meet a commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "do what you promised to do",
+                                "examples": [
+                                    "Will they honour their commitment to a ceasefire?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "show/demonstrate commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Throughout her life she demonstrated her deep commitment to the needs of the poor."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lack commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I never get promoted because they think I lack commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "reaffirm/restate/reiterate a commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "give a promise again",
+                                "examples": [
+                                    "They reaffirmed their commitment to abandon nuclear power."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "real/genuine commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The job demands real commitment to teaching."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "personal commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "As a company, we expect a personal commitment from our staff to do their best."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "strong commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She's known for her strong commitment to women's rights."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "long-term commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Having a child together involves a long-term commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lifelong commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Marriage is a lifelong commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "full/total commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Such therapies demand full commitment from the patient."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "political commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There was no local political commitment to the proposal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "religious commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many people have ceased to have any active religious commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lack of commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His lack of commitment to the project was easy to see."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a level of commitment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This post demands a high level of commitment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commitment to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Our company has a commitment to quality and customer service."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commitment to doing sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The governor has a strong commitment to creating jobs in the state."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -679,34 +1495,160 @@
                             "pledge of",
                             "a pledge of support for the plan",
                             "pledge to do sth",
-                            "the government’s pledge to make no deals with terrorists",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make/give a pledgeSeveral European countries made similar pledges.",
-                            "take a pledgeliterary(= make one, especially formally )He took a pledge never to drink again.",
-                            "keep a pledge(= do what you promised to do )He has not kept his election pledges.",
-                            "fulfil/honour a pledge(= more formal than keep )The time is coming when they will have to honour that pledge.",
-                            "renege on a pledgeformal(= not keep it )The government reneged on its electoral pledges.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "an election/campaign/manifesto pledgeThe governor had kept her campaign pledge to slash taxes.",
-                            "a spending pledgeBrE: I asked him to clarify Labour’s spending pledges.",
-                            "a firm pledgeHe also gave a firm pledge to build up the National Health Service.",
-                            "a solemn pledgeWe will not forget. That is a solemn pledge.",
-                            ""
+                            "the government’s pledge to make no deals with terrorists"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make/give a pledge",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Several European countries made similar pledges."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a pledgeliterary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make one, especially formally",
+                                "examples": [
+                                    "He took a pledge never to drink again."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "keep a pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "do what you promised to do",
+                                "examples": [
+                                    "He has not kept his election pledges."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fulfil/honour a pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "more formal than keep",
+                                "examples": [
+                                    "The time is coming when they will have to honour that pledge."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renege on a pledgeformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not keep it",
+                                "examples": [
+                                    "The government reneged on its electoral pledges."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an election/campaign/manifesto pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The governor had kept her campaign pledge to slash taxes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a spending pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "BrE: I asked him to clarify Labour’s spending pledges."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a firm pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He also gave a firm pledge to build up the National Health Service."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a solemn pledge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We will not forget. That is a solemn pledge."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -728,35 +1670,172 @@
                             "oath to do sth",
                             "Public officials must take an oath to support the U.S. Constitution.",
                             "under oathwhile you have made a promise to tell the truth in a court of law",
-                            "He admitted that he had lied under oath.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "swear/take an oathAs children, they took an oath of friendship.",
-                            "violate/break an oath(= do something you promised not to do )I do not expect you to violate your oath.",
-                            "be bound by an oath(= have sworn an oath )These chiefs were bound to him by oaths of loyalty.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "an oath of loyalty/allegiance/obedienceThey swore an oath of allegiance to the crown.",
-                            "an oath of secrecyAnyone who joined had to swear an oath of secrecy.",
-                            "the oath of office(= the oath a government worker swears to do a job honestly and well )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a solemn oath(= a very serious oath )He swore a solemn oath never to tell.",
-                            "a sacred oath(= one you swear by God )Stephen swore a sacred oath to recognise Matilda as Queen.",
-                            "the presidential oath(= sworn by a new president )the oldest person ever to take the presidential oath for the first time",
-                            "the coronation oath(= sworn by a king or queen when they are crowned )",
-                            ""
+                            "He admitted that he had lied under oath."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "swear/take an oath",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "As children, they took an oath of friendship."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "violate/break an oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "do something you promised not to do",
+                                "examples": [
+                                    "I do not expect you to violate your oath."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be bound by an oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "have sworn an oath",
+                                "examples": [
+                                    "These chiefs were bound to him by oaths of loyalty."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oath of loyalty/allegiance/obedience",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They swore an oath of allegiance to the crown."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an oath of secrecy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Anyone who joined had to swear an oath of secrecy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the oath of office",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the oath a government worker swears to do a job honestly and well",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a solemn oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a very serious oath",
+                                "examples": [
+                                    "He swore a solemn oath never to tell."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sacred oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one you swear by God",
+                                "examples": [
+                                    "Stephen swore a sacred oath to recognise Matilda as Queen."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the presidential oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sworn by a new president",
+                                "examples": [
+                                    "the oldest person ever to take the presidential oath for the first time"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the coronation oath",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sworn by a king or queen when they are crowned",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -774,28 +1853,57 @@
                         "usage": "",
                         "region": "",
                         "definition": "a public or official promise to do something, especially something difficult, which needs a lot of effort or money, and that you will be responsible for making sure that it is done: một cam kết",
-                        "examples": [
-                            "undertaking to do sth",
-                            "Khrushchev demanded an American undertaking not to attack Cuba.",
-                            "undertaking that",
-                            "Before we can release you, we need an undertaking that you will not leave town before the trial.",
-                            "gave an undertaking",
-                            "Both organizations gave an undertaking to curb violence among their members."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "undertaking to do sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Khrushchev demanded an American undertaking not to attack Cuba."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "undertaking that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Before we can release you, we need an undertaking that you will not leave town before the trial."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gave an undertaking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Both organizations gave an undertaking to curb violence among their members."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -835,23 +1943,7 @@
                             "I promise you, it does work!"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -865,25 +1957,25 @@
                         "region": "",
                         "definition": "/ you have my word spoken say this when you want to make a veryseriousandsincerepromise: tôi hứa",
                         "examples": [
-                            "▪ You won’t regret this - I give you my word.",
-                            "I give you my word/you have my word (that)",
-                            "▪ I give you my word that I’ll do everything I can.",
-                            "▪ Do I have your word, Mr Bigelow, that this problem will be corrected?"
+                            "▪ You won’t regret this - I give you my word."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "I give you my word/you have my word (that)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I give you my word that I’ll do everything I can.",
+                                    "▪ Do I have your word, Mr Bigelow, that this problem will be corrected?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -905,23 +1997,7 @@
                             "cross my heart and hope to die"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -937,23 +2013,7 @@
                             "I swear that the evidence I give will be the truth, the whole truth, and nothing but the truth"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -986,24 +2046,24 @@
                             "I made a promise to you and I intend to keep it.",
                             "If I make a promise, I like to keep it.",
                             "She was crying because she thought he had not kept his promise.",
-                            "Respect your teenager’s privacy. If you promise not to tell her father, keep your word.",
-                            "keep your promise/word to do sth",
-                            "The government has kept its promise to cut taxes, but this has meant cuts in services, too."
+                            "Respect your teenager’s privacy. If you promise not to tell her father, keep your word."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "keep your promise/word to do sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The government has kept its promise to cut taxes, but this has meant cuts in services, too."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1022,23 +2082,7 @@
                         "definition": "",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1051,27 +2095,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "British/fulfillAmerican  formal to do what you have promised to do or what you must do, especially in politics or business: hoàn thành lời hứa",
-                        "examples": [
-                            "fulfil a pledge/promise/commitment",
-                            "▪ Eisenhower finally fulfilled his campaign pledge to end the war in Korea.",
-                            "▪ In the ROTC program, students fulfill a service commitment after college, in return for a scholarship from the Army or Navy.",
-                            "fulfil a duty/mission",
-                            "▪ The general did not have confidence that the Fourth Fleet would be able to fulfil its mission."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "fulfil a pledge/promise/commitment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Eisenhower finally fulfilled his campaign pledge to end the war in Korea.",
+                                    "▪ In the ROTC program, students fulfill a service commitment after college, in return for a scholarship from the Army or Navy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fulfil a duty/mission",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The general did not have confidence that the Fourth Fleet would be able to fulfil its mission."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1094,23 +2152,7 @@
                             "▪ I stand by what I said during the campaign."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1127,23 +2169,7 @@
                             "▪ The President promised to lower income taxes, and he’s been as good as his word."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1160,23 +2186,7 @@
                             "The strike has ended. The employers must now keep their side of the bargain and increase overtime pay."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1213,23 +2223,7 @@
                             "Despite Roosevelt’s broken promise to balance the budget, he was elected president four times"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1247,23 +2241,7 @@
                             "The rebels had agreed to a ceasefire, but they’ve gone back on their word."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1276,25 +2254,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "formal to fail to keep to officially agreed promises or responsibilities: bội ước, thất hứa",
-                        "examples": [
-                            "renege on",
-                            "The government has had to renege on its commitment to full employment.",
-                            "Kenoco Inc has reneged on its agreement to finance the film."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "renege on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The government has had to renege on its commitment to full employment.",
+                                    "Kenoco Inc has reneged on its agreement to finance the film."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1332,23 +2309,7 @@
                             "▪ Government officials need to be held to their promises."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1377,20 +2338,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "a written agreement in which a company selling something promises to repair it if it breaks within a particular period of time",
-                        "examples": [
-                            "under warranty",
-                            "The car is still under warranty.",
-                            "a three-year warranty"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "under warranty",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The car is still under warranty."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a three-year warranty",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -1413,28 +2387,136 @@
                         "region": "",
                         "definition": "a formal written promise to repair or replace a product if it breaks within a specific period of timeSYN warranty: bảo hành",
                         "examples": [
-                            "They offer a two-year guarantee on all their electrical goods.",
-                            "under guarantee",
-                            "Is your TV under guarantee(= protected by a guarantee )?",
-                            "amoney-back guarantee",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a guaranteeAll our boots have a one-year guarantee for being waterproof.",
-                            "come with/carry a guaranteeThe building work comes with a 30-year guarantee.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a one-year/two-year etc guaranteeOur clocks carry a five-year guarantee.",
-                            "a money-back guarantee(= one that gives you back the money you paid if there is a problem )The company offers a 30-day, money-back guarantee on all its products.",
-                            "a lifetime guarantee(= one that lasts as long as the object your have bought )The binoculars are covered against manufacturing faults by a lifetime guarantee.",
-                            "a full guarantee(= one that covers all problems )A full guarantee comes with every purchase."
+                            "They offer a two-year guarantee on all their electrical goods."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a guarantee",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All our boots have a one-year guarantee for being waterproof."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "come with/carry a guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The building work comes with a 30-year guarantee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a one-year/two-year etc guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Our clocks carry a five-year guarantee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a money-back guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that gives you back the money you paid if there is a problem",
+                                "examples": [
+                                    "The company offers a 30-day, money-back guarantee on all its products."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lifetime guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that lasts as long as the object your have bought",
+                                "examples": [
+                                    "The binoculars are covered against manufacturing faults by a lifetime guarantee."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a full guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that covers all problems",
+                                "examples": [
+                                    "A full guarantee comes with every purchase."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "under guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Is your TV under guarantee(= protected by a guarantee )?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "amoney-back guarantee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -1480,23 +2562,7 @@
                             "I made a resolution to give up chocolate."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

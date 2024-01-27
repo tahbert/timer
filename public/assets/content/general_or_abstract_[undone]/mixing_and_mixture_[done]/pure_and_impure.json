@@ -45,8 +45,6 @@
                             "Clothes made of pure cotton are much cooler than those made of mixed fibers.",
                             "20%/50% etc pure",
                             "Crude cocaine is only about 25 percent pure.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "purity[U] C1 the state of not being mixed with anything else:",
                             "The gold is then tested to determine its purity to determine how pure it is.",
                             "the atrocities carried out in the name of ethnic/racial purity"
                         ],
@@ -54,16 +52,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "purity[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "U] C1 the state of not being mixed with anything else:"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -80,25 +80,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "solid gold/silver/pine etcmade of gold, silver, wood etcthat has not been mixed with any other metal or wood:đặc, ròng",
-                        "examples": [
-                            "a solid gold necklace",
-                            "The antiques dealer guessed that the furniture was Victorian and solid mahogany.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a solid gold necklace",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The antiques dealer guessed that the furniture was Victorian and solid mahogany."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -120,23 +118,7 @@
                             "I’ll have a straight vodka please."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -144,27 +126,39 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adv]",
                         "usage": "",
                         "region": "",
                         "definition": "if sth is100% beef, 100% cotton etc, it is made only from beef or cotton, and has no other food or material added to it:",
-                        "examples": [
-                            "100%, hoàn toàn",
-                            "▪ The label said ‘100% wool’.",
-                            "▪ The hamburgers at this restaurant are 100% beef.",
-                            "▪ a 100% graphite tennis racket",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "100%, hoàn toàn",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The label said ‘100% wool’.",
+                                    "▪ The hamburgers at this restaurant are 100% beef."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "▪ a 100% graphite tennis racket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -190,23 +184,7 @@
                             "Nowadays more and more people are choosing to buy unadulterated organic food, which has been grown without pesticides and chemicals."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -236,11 +214,6 @@
                         "region": "",
                         "definition": "to remove dirty or harmful substances from sth :làm sạch, tinh chế",
                         "examples": [
-                            "chemicals used to purify the water",
-                            "▪ You can purify water by boiling and filtering it.",
-                            "▪ It has been found that houseplants help purify the air.",
-                            "▪ The solution is purified by passing it through a carbon filter.",
-                            "▪ a bottle of purified linseed oil",
                             "—purification[U] :",
                             "water purificationtablets"
                         ],
@@ -248,11 +221,30 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chemicals used to purify the water",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ You can purify water by boiling and filtering it.",
+                                    "▪ It has been found that houseplants help purify the air.",
+                                    "▪ The solution is purified by passing it through a carbon filter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "▪ a bottle of purified linseed oil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -277,18 +269,17 @@
                         "examples": [
                             "▪ The oil is piped to the coast, where it is refined.",
                             "▪ The dealers buy raw cocaine in the south, refine it here, and smuggle it into the north.",
-                            "▪ After the first refining process the metal is washed.",
-                            "▪ refined petroleum"
+                            "▪ After the first refining process the metal is washed."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "▪ refined petroleum",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -328,26 +319,41 @@
                         "definition": "a substance that is impure is not pure and contains other substances:không tinh khiết, tạp chất",
                         "examples": [
                             "▪ New laws restrict the sale of impure chemicals.",
-                            "▪ The last sample was impure and quite useless for manufacturing purposes.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "impurity[C usually P] something in a substance which should not be in it and which makes it not pure:tạp chất",
-                            "▪ Lime is added to the liquid metal to remove all the impurities.",
-                            "▪ There were impurities in the aluminum."
+                            "▪ The last sample was impure and quite useless for manufacturing purposes."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "▪",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Lime is added to the liquid metal to remove all the impurities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "▪",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were impurities in the aluminum."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

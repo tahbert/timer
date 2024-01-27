@@ -43,23 +43,7 @@
                             "a notebook"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -83,42 +67,294 @@
                             "library booka book that you borrow from a library",
                             "I went and got a library book about it.",
                             "secondhand booka book that has already been owned by someone else",
-                            "a secondhand book dealer",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "read a bookWhat book are you reading at the moment?",
-                            "look through a book(= look at the pages quickly )I looked through the book until I found the right section.",
-                            "write a bookHe’s written several interesting travel books.",
-                            "publish a bookThe book is published by Penguin.",
-                            "a book comes out(= it is published for the first time )Everyone was waiting for the new Harry Potter book to come out.",
-                            "borrow a book(alsotake out a bookBritish English) (= from a library )You can borrow up to six books from the library.",
-                            "return a book(= to a library )Please return all your books before the end of term.",
-                            "renew a book(= arrange to continue borrowing it from a library )If you need to renew a book, you can do it by phone.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a book shop(alsobook storeAmerican English)I got it from that little book shop in the village.",
-                            "a book seller(= a person, shop, or company selling books )High street book sellers are experiencing a drop in sales.",
-                            "a book tokenBritish English(= a ticket that you can use to pay for a book )She always bought me book tokens for my birthday.",
-                            "a book review(= an article giving critical opinions of a book )She had a book review published in the student magazine.",
-                            "a book fair(= an event at which publishers and authors show new books )",
-                            "the introduction/preface/foreword to a bookIn the introduction to this book I referred to a conversation between myself and a young student.",
-                            "a section of a bookThe most useful section of the book is the list of suppliers of artists’ materials.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the cover of a bookHis picture is on the cover of the book.",
-                            "a chapter of a bookThe first chapter of the book is about his childhood."
+                            "a secondhand book dealer"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "read a book",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "What book are you reading at the moment?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "look through a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "look at the pages quickly",
+                                "examples": [
+                                    "I looked through the book until I found the right section."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "write a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He’s written several interesting travel books."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "publish a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The book is published by Penguin."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book comes out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it is published for the first time",
+                                "examples": [
+                                    "Everyone was waiting for the new Harry Potter book to come out."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "borrow a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsotake out a bookBritish English",
+                                "examples": [
+                                    "(= from a library )You can borrow up to six books from the library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "return a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to a library",
+                                "examples": [
+                                    "Please return all your books before the end of term."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renew a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "arrange to continue borrowing it from a library",
+                                "examples": [
+                                    "If you need to renew a book, you can do it by phone."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book shop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsobook storeAmerican English",
+                                "examples": [
+                                    "I got it from that little book shop in the village."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book seller",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a person, shop, or company selling books",
+                                "examples": [
+                                    "High street book sellers are experiencing a drop in sales."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book tokenBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a ticket that you can use to pay for a book",
+                                "examples": [
+                                    "She always bought me book tokens for my birthday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book review",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an article giving critical opinions of a book",
+                                "examples": [
+                                    "She had a book review published in the student magazine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book fair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an event at which publishers and authors show new books",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the introduction/preface/foreword to a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In the introduction to this book I referred to a conversation between myself and a young student."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a section of a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The most useful section of the book is the list of suppliers of artists’ materials."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the cover of a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His picture is on the cover of the book."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chapter of a book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The first chapter of the book is about his childhood."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -139,23 +375,7 @@
                             "She was jotting things down in a little notebook."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -173,23 +393,7 @@
                             "a reporter's notepad"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -208,23 +412,7 @@
                             "a volume of Keats’s poetry"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -255,23 +443,7 @@
                         "definition": "mainly UKbookstoreUS  a shop where books are sold : hiệu sách",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -285,44 +457,330 @@
                         "region": "",
                         "definition": "a room or building containing books that can be looked at or borrowed :",
                         "examples": [
-                            "a public library",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "go to/visit the libraryI need to go to the library to return some books.",
-                            "use the libraryYou can use the library before or after school.",
-                            "borrow something from the library/take something out of the libraryBooks, CDs, DVDs, and magazines can be borrowed from the library.",
-                            "return something to the library/take something back to the libraryHave you taken those books back to the library?",
-                            "check something out of the libraryAmerican English(= borrow a book etc from the library )You can check out up to ten books from the library.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a public library(= a library that is supported by government money )Our public libraries need more support.",
-                            "a school/university/college libraryShe was studying at the college library.",
-                            "a local libraryThis information is available at your local library.",
-                            "a lending library(= one that lends books )Lending libraries became increasingly popular in Victorian times.",
-                            "a reference library(= one that does not lend books, so that you must read them there )The reference library contains a collection of documents relating to slavery.",
-                            "a research library(= one that is good for doing research )The university has one of the best research libraries in the world.",
-                            "a branch library(= a small library that is controlled by a larger library )There is a good children's section in the branch library.",
-                            "a mobile libraryBritish English(= a small library inside a vehicle )A mobile library visits the village once a week.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a library bookShe's gone into town to change her library books.",
-                            "a library card(= a card that proves you are a member of a library and can borrow books )When you join the library, you will be issued with a library card.",
-                            "a library userLibrary users have been protesting against plans to close the local library.",
-                            "the library staffIf you have problems finding a book, ask a member of the library staff.",
-                            "library servicesPublic library services are threatened by budget cuts.",
-                            "a library catalogueStudents need to be taught how to use the computerized library catalogue."
+                            "a public library"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go to/visit the library",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I need to go to the library to return some books."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use the library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can use the library before or after school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "borrow something from the library/take something out of the library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Books, CDs, DVDs, and magazines can be borrowed from the library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "return something to the library/take something back to the library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Have you taken those books back to the library?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "check something out of the libraryAmerican English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "borrow a book etc from the library",
+                                "examples": [
+                                    "You can check out up to ten books from the library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a public library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a library that is supported by government money",
+                                "examples": [
+                                    "Our public libraries need more support."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a school/university/college library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She was studying at the college library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a local library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This information is available at your local library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lending library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that lends books",
+                                "examples": [
+                                    "Lending libraries became increasingly popular in Victorian times."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a reference library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that does not lend books, so that you must read them there",
+                                "examples": [
+                                    "The reference library contains a collection of documents relating to slavery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a research library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is good for doing research",
+                                "examples": [
+                                    "The university has one of the best research libraries in the world."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a branch library",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small library that is controlled by a larger library",
+                                "examples": [
+                                    "There is a good children's section in the branch library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mobile libraryBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small library inside a vehicle",
+                                "examples": [
+                                    "A mobile library visits the village once a week."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a library book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She's gone into town to change her library books."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a library card",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a card that proves you are a member of a library and can borrow books",
+                                "examples": [
+                                    "When you join the library, you will be issued with a library card."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a library user",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Library users have been protesting against plans to close the local library."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the library staff",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If you have problems finding a book, ask a member of the library staff."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "library services",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Public library services are threatened by budget cuts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a library catalogue",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Students need to be taught how to use the computerized library catalogue."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -362,32 +820,126 @@
                             "Ireadthe magazinefrom cover to cover(= all of it).",
                             "cover photo/shot/picture(= picture on the front cover)",
                             "The cover shot was of three guys in army kit.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the front/back coverThe price of the book is on the back cover.",
-                            "a hard/soft coverI never buy books in hard cover – they’re much more expensive.",
-                            "a book/magazine coverThere was a blonde girl on the magazine cover.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a cover story(= the main story on the front of a newspaper or magazine )Last month’s cover story was entitled ‘Your Child’s Brain’.",
-                            "a cover photo/shot(= picture on the front cover )The picture became the July 4th cover shot.",
-                            "a cover designthe cover design of the Christmas issue",
-                            "a cover girl(= an attractive girl whose photo is on the front cover )She had always liked the idea of being a cover girl.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "read sth from cover to cover(= read a book, magazine etc very thoroughly )He read it from cover to cover in less than three hours."
+                            "a cover designthe cover design of the Christmas issue"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the front/back cover",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The price of the book is on the back cover."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hard/soft cover",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I never buy books in hard cover – they’re much more expensive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a book/magazine cover",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There was a blonde girl on the magazine cover."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cover story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the main story on the front of a newspaper or magazine",
+                                "examples": [
+                                    "Last month’s cover story was entitled ‘Your Child’s Brain’."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cover photo/shot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "picture on the front cover",
+                                "examples": [
+                                    "The picture became the July 4th cover shot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cover girl",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an attractive girl whose photo is on the front cover",
+                                "examples": [
+                                    "She had always liked the idea of being a cover girl."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "read sth from cover to cover",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "read a book, magazine etc very thoroughly",
+                                "examples": [
+                                    "He read it from cover to cover in less than three hours."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -422,41 +974,262 @@
                         "definition": "(written abbp)one side of a piece of paper in a book, newspaper, document etc,",
                         "examples": [
                             "The full address is givenon page15.",
-                            "You will find the answersover the page.",
-                            "a 400-page novel",
-                            "We took out afull page advertisementin the ‘Village Voice’.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the next/previous pageI glanced back to the previous page.|What’s on the next page?",
-                            "the opposite/facing pageSee the diagram on the opposite page.",
-                            "the left-hand/right-hand pageThe answers are on the right-hand page.",
-                            "the front/back page(= of a newspaper )Her picture was on the front page of every newspaper.",
-                            "the sports/arts/financial etc pages(= the part of a newspaper that deals with sport, art etc )He only ever reads the sports pages.",
-                            "a blank page(= with nothing on it )There were a couple of blank pages at the back of the book.",
-                            "a new/fresh page(= which has not yet been written on )Start each section of your essay on a new page.",
-                            "a full pageThe article went on for a full page.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "turn a pageI turned the page in order to find out what happened next.",
-                            "turn to/see page 22/45 etcTurn to page 8 for more details.",
-                            "flick/flip/leaf through the pages of sth(= turn them quickly )She was flicking through the pages of a magazine.",
-                            "jump/leap off the page(= be very noticeable )One mistake jumped off the page.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the top of the pageWrite your name at the top of the page.",
-                            "the bottom/foot of the pageSee the note at the bottom of page 38."
+                            "You will find the answersover the page."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the next/previous page",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I glanced back to the previous page.|What’s on the next page?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the opposite/facing page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "See the diagram on the opposite page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the left-hand/right-hand page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The answers are on the right-hand page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the front/back page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "of a newspaper",
+                                "examples": [
+                                    "Her picture was on the front page of every newspaper."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the sports/arts/financial etc pages",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the part of a newspaper that deals with sport, art etc",
+                                "examples": [
+                                    "He only ever reads the sports pages."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a blank page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with nothing on it",
+                                "examples": [
+                                    "There were a couple of blank pages at the back of the book."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a new/fresh page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which has not yet been written on",
+                                "examples": [
+                                    "Start each section of your essay on a new page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a full page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The article went on for a full page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn a page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I turned the page in order to find out what happened next."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn to/see page 22/45 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Turn to page 8 for more details."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "flick/flip/leaf through the pages of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "turn them quickly",
+                                "examples": [
+                                    "She was flicking through the pages of a magazine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "jump/leap off the page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be very noticeable",
+                                "examples": [
+                                    "One mistake jumped off the page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the top of the page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Write your name at the top of the page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the bottom/foot of the page",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "See the note at the bottom of page 38."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a 400-page novel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We took out afull page advertisementin the ‘Village Voice’."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -490,26 +1263,26 @@
                         "region": "",
                         "definition": "a book or other piece of writing that is connected with learning or intended for study : văn bản",
                         "examples": [
-                            "Some of the original text has survived.",
-                            "set text(= one that must be studied for an examination)",
-                            "‘Hamlet’ is a set text this year.",
-                            "'Ulysses' is a set text for the exam.",
-                            "Literary texts, like all other works of art, have a historical context."
+                            "Some of the original text has survived."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "set text(= one that must be studied for an examination)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "‘Hamlet’ is a set text this year.",
+                                    "'Ulysses' is a set text for the exam.",
+                                    "Literary texts, like all other works of art, have a historical context."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -531,23 +1304,7 @@
                             "All the artwork in the book has been done by the author."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -577,35 +1334,144 @@
                         "region": "",
                         "definition": "the empty space at the side of a page : lề",
                         "examples": [
-                            "Use double spacing and wide margins to leave room for comments.",
-                            "in the margin",
-                            "Someone had scribbled a note in the margin .",
-                            "If I have any comments to make, I'll write them in the margin.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "wideThe margin should be wider.",
-                            "narrow(= not wide )The margins are very narrow, making the page look cluttered.",
-                            "a generous margin(= wide )Leave a generous margin at the side of the page.",
-                            "the right-hand margin(= on the right of the page )There were some notes written in the right-hand margin.",
-                            "the left-hand margin(= on the left of the page )All typing begins at the left-hand margin.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "leave a marginThe teacher told us to leave a margin wide enough for him to write corrections.",
-                            "set the margins(= make them a particular size )Set the margins to have one inch on each side.",
-                            ""
+                            "Use double spacing and wide margins to leave room for comments."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "wide",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The margin should be wider."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "narrow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not wide",
+                                "examples": [
+                                    "The margins are very narrow, making the page look cluttered."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a generous margin",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "wide",
+                                "examples": [
+                                    "Leave a generous margin at the side of the page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the right-hand margin",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "on the right of the page",
+                                "examples": [
+                                    "There were some notes written in the right-hand margin."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the left-hand margin",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "on the left of the page",
+                                "examples": [
+                                    "All typing begins at the left-hand margin."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leave a margin",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The teacher told us to leave a margin wide enough for him to write corrections."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "set the margins",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make them a particular size",
+                                "examples": [
+                                    "Set the margins to have one inch on each side."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the margin",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Someone had scribbled a note in the margin .",
+                                    "If I have any comments to make, I'll write them in the margin."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -639,24 +1505,24 @@
                         "region": "",
                         "definition": "/ˌbɪbliˈɒgrəfiǁ-ˈɑːg-/  a list of all the books and articles on a particular subject, or all the books and articles that are used when you write something: danh mục",
                         "examples": [
-                            "▪ There is a short bibliography at the back of the book.",
-                            "in a bibliography trong một danh mục",
-                            "▪ Details of suggested further reading are given in the bibliography."
+                            "▪ There is a short bibliography at the back of the book."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in a bibliography trong một danh mục",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Details of suggested further reading are given in the bibliography."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -675,44 +1541,330 @@
                         "definition": "(written abbchap.) one of the parts into which a book is divided : chương",
                         "examples": [
                             "Read Chapter 11 as your homework.",
-                            "This chapter discusses power, and how people use it.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "this chapter/the present chapterThe present chapter deals with the years leading up to the war.",
-                            "the next chapterThis theme will be developed in the next chapter.",
-                            "the following chapters(= the ones after this one )The following chapters will explore this issue.",
-                            "the previous/preceding chapterThe method is described in the previous chapter.",
-                            "earlier chapters(= the ones before this one )All these have been mentioned briefly in earlier chapters.",
-                            "later chapters(= the ones after this one )These points will be explored in more detail in later chapters.",
-                            "the introductory/opening chapter(= the first chapter )There’s a short introductory chapter giving an outline of the subject matter.",
-                            "the last/final chapterThe final chapter summarizes the themes in the book.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "be divided into chaptersThe book is divided into ten chapters.",
-                            "read a chapterI haven’t even read the first chapter yet.",
-                            "write a chapterHe wrote the first chapter 20 years before the book was published.",
-                            "see chapter 2/3 etc(= used in books to direct a reader to a chapter )His scientific claims were never justified (see chapter 16).",
-                            "be discussed/described in chapter 1/2/3 etcThese points will be discussed in chapter 8.",
-                            "a chapter deals with somethingThree further chapters deal with soil, water, and air.",
-                            "a chapter explores somethingThe second chapter explores the effects of these changes in more detail.",
-                            "a chapter is devoted to something(= it deals only with a particular subject )Five whole chapters are devoted to social reform.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the beginning/start of a chapterHis character is introduced at the beginning of the first chapter.",
-                            "the end of a chapterThe answers are given at the end of the chapter.",
-                            "the remainder of a chapterformal(= the rest of a chapter )The remainder of this chapter is devoted to a discussion of privatization."
+                            "This chapter discusses power, and how people use it."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "this chapter/the present chapter",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The present chapter deals with the years leading up to the war."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the next chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This theme will be developed in the next chapter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the following chapters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the ones after this one",
+                                "examples": [
+                                    "The following chapters will explore this issue."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the previous/preceding chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The method is described in the previous chapter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "earlier chapters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the ones before this one",
+                                "examples": [
+                                    "All these have been mentioned briefly in earlier chapters."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "later chapters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the ones after this one",
+                                "examples": [
+                                    "These points will be explored in more detail in later chapters."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the introductory/opening chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the first chapter",
+                                "examples": [
+                                    "There’s a short introductory chapter giving an outline of the subject matter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the last/final chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The final chapter summarizes the themes in the book."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be divided into chapters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The book is divided into ten chapters."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "read a chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I haven’t even read the first chapter yet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "write a chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He wrote the first chapter 20 years before the book was published."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "see chapter 2/3 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used in books to direct a reader to a chapter",
+                                "examples": [
+                                    "His scientific claims were never justified (see chapter 16)."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be discussed/described in chapter 1/2/3 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "These points will be discussed in chapter 8."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chapter deals with something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Three further chapters deal with soil, water, and air."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chapter explores something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The second chapter explores the effects of these changes in more detail."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chapter is devoted to something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it deals only with a particular subject",
+                                "examples": [
+                                    "Five whole chapters are devoted to social reform."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the beginning/start of a chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His character is introduced at the beginning of the first chapter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the end of a chapter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The answers are given at the end of the chapter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the remainder of a chapterformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the rest of a chapter",
+                                "examples": [
+                                    "The remainder of this chapter is devoted to a discussion of privatization."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -730,32 +1882,77 @@
                         "region": "",
                         "definition": "the things that are written in a letter, book etc",
                         "examples": [
-                            "The letter was burned and its contents will never be known.",
-                            "contents page",
-                            "Sue opened the book and looked at the contents page.",
-                            "contents of",
-                            "A computer disk can store the entire contents of a set of encyclopedias.",
-                            "The contents of the report are expected to show that the government acted wrongly.",
-                            "She kept the contents of the letter a secret.",
-                            "table of contentsa list of what a book contains",
-                            "She glanced at the table of contents to see what stories were included.",
-                            "The program automatically creates a table of contents",
-                            "He cast his eye down thecontents page."
+                            "The letter was burned and its contents will never be known."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "contents page",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Sue opened the book and looked at the contents page."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "contents of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A computer disk can store the entire contents of a set of encyclopedias.",
+                                    "The contents of the report are expected to show that the government acted wrongly.",
+                                    "She kept the contents of the letter a secret."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "table of contentsa list of what a book contains",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She glanced at the table of contents to see what stories were included."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "The program automatically creates a table of contents",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He cast his eye down thecontents page."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -778,23 +1975,7 @@
                             "Have you read the introduction to the third edition?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -808,25 +1989,25 @@
                         "region": "",
                         "definition": "an alphabetical list, such as one printed at the back of a book showing which page a subject, name, etc. is found on : bảng chú dẫn",
                         "examples": [
-                            "It’s a lot quicker if you use the index.",
-                            "in the index",
-                            "Try looking up 'heart disease'inthe index.",
-                            "Look under B in the index to see if biology is covered in the book."
+                            "It’s a lot quicker if you use the index."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in the index",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Try looking up 'heart disease'inthe index.",
+                                    "Look under B in the index to see if biology is covered in the book."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

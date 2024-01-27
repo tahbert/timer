@@ -33,31 +33,31 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
                         "definition": "to officially bring sb to a court of law to be judged: khởi kiện, đưa ra tòa",
                         "examples": [
-                            "A month after the murder, a man was arrested by police and put on trial.",
-                            "put sb on trial forsth",
-                            "The couple were put on trial for fraud and found guilty.",
-                            "A Glasgow girl was put on trial for poisoning her lover."
+                            "A month after the murder, a man was arrested by police and put on trial."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "put sb on trial forsth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The couple were put on trial for fraud and found guilty.",
+                                    "A Glasgow girl was put on trial for poisoning her lover."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -69,30 +69,30 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
                         "definition": "to send sb to a court of law where they will be officially accused of a serious crime and will be judged: đưa ai ra tòa",
                         "examples": [
-                            "Blake was brought to trial and sentenced to seven years in prison.",
-                            "bring sb to trial for sth",
-                            "These men were brought to trial for a crime they did not commit."
+                            "Blake was brought to trial and sentenced to seven years in prison."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "bring sb to trial for sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "These men were brought to trial for a crime they did not commit."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -114,27 +114,27 @@
                             "She sued the paperfor(= in order to get) damages after they wrongly described her as a prostitute.",
                             "She is suing her husbandfor(= in order to get a) divorce.",
                             "If the builders don’t fulfil their side of the contract, we’ll sue.",
-                            "The company is suing a former employee.",
-                            "sue (sb) for libel/ defamation/ negligence/ slander etc",
-                            "Miss James could not afford to sue for libel.",
-                            "She was suing doctors for negligence over the loss of her child.",
-                            "The railway maysue for damages(= in order to get money )because of loss of revenue.",
-                            "He is beingsued for divorce(= in order to end a marriage )by his wife."
+                            "The company is suing a former employee."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sue (sb) for libel/ defamation/ negligence/ slander etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Miss James could not afford to sue for libel.",
+                                    "She was suing doctors for negligence over the loss of her child.",
+                                    "The railway maysue for damages(= in order to get money )because of loss of revenue.",
+                                    "He is beingsued for divorce(= in order to end a marriage )by his wife."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -168,16 +168,6 @@
                         "region": "",
                         "definition": "an official statement made by the police accusing someone of a crime or an offence: lời buộc tội , bản cáo buộc",
                         "examples": [
-                            "criminal chargesofficial statements saying that sb has done sth illegal",
-                            "Criminal charges were filed in October against Sorvino by the District Attorney’s office.",
-                            "murder/ burglary/ rape etc charges",
-                            "San Francisco police have arrested a 39-year-old man on murder charges.",
-                            "a charge of burglary/ theft/ fraud etc",
-                            "He faces a charge of armed robbery.",
-                            "charge against",
-                            "What are the charges against the accused?",
-                            "file charges (against sb)start a legal process against sb",
-                            "On Tuesday, the police officially filed charges against Jeffers.",
                             "on a charge[UK]",
                             "He appeared in court on a murder charge.",
                             "drop (the) chargesdecide to stop accusing someone",
@@ -187,16 +177,86 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "criminal chargesofficial statements saying that sb has done sth illegal",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Criminal charges were filed in October against Sorvino by the District Attorney’s office."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "murder/ burglary/ rape etc charges",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "San Francisco police have arrested a 39-year-old man on murder charges."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a charge of burglary/ theft/ fraud etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He faces a charge of armed robbery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "charge against",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What are the charges against the accused?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "file charges (against sb)start a legal process against sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "On Tuesday, the police officially filed charges against Jeffers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -218,23 +278,7 @@
                             "Hancock pleaded not guilty to a federal indictment accusing him of four bombings."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -263,29 +307,58 @@
                         "usage": "",
                         "region": "",
                         "definition": "if the police charge sb, they tell that person that they believe he or she is guilty of a crime, and that the person must appear in court so that it can be proved whether they are guilty or not: buộc tội, tố cáo",
-                        "examples": [
-                            "charge sb with murder/ theft/ assault etc",
-                            "The man they arrested last night has been charged with murder.",
-                            "They’re going to charge him with dangerous driving.",
-                            "charge sb with doing sth",
-                            "Police have charged a 22-year-old man with robbing two Japanese tourists.",
-                            "be charged",
-                            "Twelve people involved in the demonstration have been arrested and charged."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "charge sb with murder/ theft/ assault etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The man they arrested last night has been charged with murder.",
+                                    "They’re going to charge him with dangerous driving."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "charge sb with doing sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Police have charged a 22-year-old man with robbing two Japanese tourists."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be charged",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Twelve people involved in the demonstration have been arrested and charged."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -303,26 +376,26 @@
                         "region": "",
                         "definition": "/bring charges  to make an official statement accusing someone of a crime or an offence, so that they will be judged in a court of law : tố cáo, buộc tội",
                         "examples": [
-                            "He’s in trouble this time. The police have said they’re going to press charges.",
-                            "press charges against",
-                            "Curran decided to bring charges against the man who attacked him.",
-                            "Charges have been brought against the demonstrators.",
-                            "The family have decided not to press chargesagainsthim."
+                            "He’s in trouble this time. The police have said they’re going to press charges."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "press charges against",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Curran decided to bring charges against the man who attacked him.",
+                                    "Charges have been brought against the demonstrators.",
+                                    "The family have decided not to press chargesagainsthim."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -342,9 +415,6 @@
                         "examples": [
                             "The shopkeeper is unlikely to prosecute if the stolen goods are returned.",
                             "People who give the police false information will be prosecuted.",
-                            "prosecute sb for sth",
-                            "Winstanley was prosecuted for criminal damage of property.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "prosecutionC2 [U noun]",
                             "evidence that could lead to the arrest and prosecution of car thieves."
                         ],
@@ -352,16 +422,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "prosecute sb for sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Winstanley was prosecuted for criminal damage of property."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -379,10 +451,6 @@
                         "region": "",
                         "definition": "to officially accuse sb of a crime, so that they will be judged in a court of law - used especially in the American legal system: tố cáo, buộc tội",
                         "examples": [
-                            "be indicted",
-                            "A leading cocaine trafficker has been indicted by the United States government.",
-                            "indict sb for sth",
-                            "He was indicted for perjury before a grand jury.",
                             "indictable[adj] : có thể bị truy tố, buộc tội",
                             "Drug trafficking is an indictable offense a crime for which someone can be indicted."
                         ],
@@ -390,16 +458,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be indicted",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A leading cocaine trafficker has been indicted by the United States government."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "indict sb for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was indicted for perjury before a grand jury."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -418,27 +505,25 @@
                         "definition": "to officially accuse an important public official or politician of a crime when they are in a position of authority - used especially in the American legal system: tố cáo, buộc tội (một vị quan chức)",
                         "examples": [
                             "Congress voted to impeach the President, but he resigned before any action was taken.",
-                            "impeach sb for doing sth",
-                            "The governor was impeached for accepting bribes.",
-                            "---------------------------------------------------------------------------------------------------------------",
                             "impeachment[U noun]",
-                            "Richard Nixon was forced to resign the presidency in 1974 to avoid impeachment.",
-                            ""
+                            "Richard Nixon was forced to resign the presidency in 1974 to avoid impeachment."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "impeach sb for doing sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The governor was impeached for accepting bribes."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -478,23 +563,7 @@
                             "West has been accused of first-degree murder."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -524,26 +593,26 @@
                         "region": "",
                         "definition": "to examine a person accused of committing a crime in a court of law by asking them questions and considering known facts, and then decide if they are guilty : xử, xét xử (trước tòa)",
                         "examples": [
-                            "Because of security implications the officers were tried in secret.",
-                            "be tried for sth",
-                            "They are being triedformurder.",
-                            "He was tried for attempting to murder his wife.",
-                            "The defence argued that a regional court was not competent to try their case."
+                            "Because of security implications the officers were tried in secret."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be tried for sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They are being triedformurder.",
+                                    "He was tried for attempting to murder his wife.",
+                                    "The defence argued that a regional court was not competent to try their case."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -565,29 +634,12 @@
                             "Another three of the president’s advisors were subpoenaed.",
                             "A friend of the victim was subpoenaedasa witness by lawyers representing the accused.",
                             "[ + to infinitive ]They were subpoenaedtotestify before the judge.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "subpoena[C noun] [legal] trát đòi hầu toà",
                             "a legal document ordering someone to appear in a court of law",
                             "Subpoenas were issued to several government employees."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -605,23 +657,7 @@
                             "Istarted/took legalproceedings to try to have him taken away from his parents permanently."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

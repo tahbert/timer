@@ -38,27 +38,10 @@
                         "region": "",
                         "definition": "laugh, shout, scream, etc. your head offinformal to laugh, shout, scream, etc. very noisily and for a long time:",
                         "examples": [
-                            "There I was lying face down on the pavement and you two were laughing your heads off!",
-                            ""
+                            "There I was lying face down on the pavement and you two were laughing your heads off!"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -71,33 +54,187 @@
                         "usage": "",
                         "region": "",
                         "definition": "a loud high sound that expresses an emotion: tiếng khóc",
-                        "examples": [
-                            "a baby’s cry",
-                            "a cry of pain/despair/delight etcA rock was loose and he fell with a sharp cry of surprise.",
-                            "a cry escapes somebody/sb’s lipsA cry escaped her lips as he tightened his grip on her wrist.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "give a cryThe woman looked up and gave a cry of fear.",
-                            "let out/utter a crySeeing the fields and mountains, she let out a cry of delight.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a small/little cryThe child gave a small cry and burst into tears.",
-                            "a loud crya loud cry of pain",
-                            "a great cryliterary(= a loud cry )With a great cry they charged into battle.",
-                            "a sharp cry(= loud, short, and sudden )He gave a sharp cry of pain.",
-                            "a low cry(= not loud or high )I heard a long, low cry of despair.",
-                            "a strangled/stifled cry(= that stops before it is finished )The girl gave a stifled cry of disappointment.",
-                            "a muffled cry(= that cannot be heard clearly )I thought I heard a muffled cry from somewhere in the building.",
-                            "an anguished/agonised cry(= full of distress )She gave an anguished cry, calling his name.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give a cry",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The woman looked up and gave a cry of fear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "let out/utter a cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Seeing the fields and mountains, she let out a cry of delight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a small/little cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The child gave a small cry and burst into tears."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a great cryliterary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a loud cry",
+                                "examples": [
+                                    "With a great cry they charged into battle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sharp cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "loud, short, and sudden",
+                                "examples": [
+                                    "He gave a sharp cry of pain."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a low cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not loud or high",
+                                "examples": [
+                                    "I heard a long, low cry of despair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a strangled/stifled cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that stops before it is finished",
+                                "examples": [
+                                    "The girl gave a stifled cry of disappointment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a muffled cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that cannot be heard clearly",
+                                "examples": [
+                                    "I thought I heard a muffled cry from somewhere in the building."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an anguished/agonised cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "full of distress",
+                                "examples": [
+                                    "She gave an anguished cry, calling his name."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a baby’s cry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "a cry of pain/despair/delight etcA rock was loose and he fell with a sharp cry of surprise.",
+                                    "a cry escapes somebody/sb’s lipsA cry escaped her lips as he tightened his grip on her wrist."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a loud crya loud cry of pain",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -120,28 +257,10 @@
                         "region": "",
                         "definition": "to make a long, loud, deep sound",
                         "examples": [
-                            "We could hear thelionsroaring at the other end of the zoo.",
-                            "roar[C or S] [C2] a loud, deep sound",
-                            "The lionlet outa loud roar."
+                            "We could hear thelionsroaring at the other end of the zoo."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -156,12 +275,6 @@
                         "definition": "to make a high sound by forcing air through a small hole or passage, especially through the lips, or through a special device held to the lips: huýt sáo/ thổi còi (gây chú ý)",
                         "examples": [
                             "The referee whistled and the game was over.",
-                            "whistle to sb(= whistle to get someone’s attention )",
-                            "Dad whistled to us to come home for dinner.",
-                            "whistle at sb(= whistle to let someone know that you think they are attractive )",
-                            "Men are always whistling at Heidi on the street.",
-                            "On the days when she wore a skirt the men on the building site would whistle at her.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "whistle[C] [B2] the sound made by sb whistling",
                             "From the bottom of the garden I recognised my father's tuneless whistle.",
                             "low/ shrill/ high-pitched etc whistle",
@@ -171,16 +284,36 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "whistle to sb(= whistle to get someone’s attention )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Dad whistled to us to come home for dinner."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "whistle at sb(= whistle to let someone know that you think they are attractive )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Men are always whistling at Heidi on the street.",
+                                    "On the days when she wore a skirt the men on the building site would whistle at her."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

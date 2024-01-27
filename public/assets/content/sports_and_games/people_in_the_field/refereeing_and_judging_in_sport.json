@@ -38,28 +38,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ scorekeeperUS  the person who records the score in a game : người ghi tỉ số",
-                        "examples": [
-                            "score[ I ] UK to record the number of points won by competitors : ghi điểm",
-                            "We need someone to score for tomorrow's match."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -89,11 +69,6 @@
                         "region": "",
                         "definition": "sb who makes sure that the rules are obeyed in soccer, American football, rugby, ice hockey, basketball, boxing, or wrestling : trọng tài",
                         "examples": [
-                            "a football referee",
-                            "The referee blew his whistle to stop the game.",
-                            "To United’s disbelief, the referee failed to award the goal",
-                            "The referee should never have allowed the first goal.",
-                            "One of the players was sent off for arguing with the referee.",
                             "referee[I or T] to be a referee in a gamelàm trọng tài",
                             "Who’s refereeing the match?",
                             "They had to ask one of the spectators to referee (the match)."
@@ -102,16 +77,36 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a football referee",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The referee blew his whistle to stop the game."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "To United’s disbelief, the referee failed to award the goal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The referee should never have allowed the first goal.",
+                                    "One of the players was sent off for arguing with the referee."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -130,23 +125,7 @@
                         "definition": "an official in a sport who decides when a ball has gone out of the playing area : trọng tài biên",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -161,10 +140,6 @@
                         "definition": "sb who makes sure that the rules are obeyed in baseball, cricket, tennis, or hockey : trọng tài",
                         "examples": [
                             "He was given several warnings by the umpire.",
-                            "a cricket/ tennis umpire",
-                            "He made no attempt to hide his disgust at the umpire’s decision, which cost him the match.",
-                            "I thought he was out, but the umpire called him safe.",
-                            "Mack was thrown out of the game for hitting an umpire.",
                             "umpire[I or T]làm trọng tài",
                             "Who’s refereeing the match?",
                             "Starmers has been chosen to umpire the next cricket test match."
@@ -173,16 +148,20 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cricket/ tennis umpire",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He made no attempt to hide his disgust at the umpire’s decision, which cost him the match.",
+                                    "I thought he was out, but the umpire called him safe.",
+                                    "Mack was thrown out of the game for hitting an umpire."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -217,10 +196,6 @@
                         "definition": "the people who decide which person is thebestin a competition such as skating, horse-riding etc, where people donot compete in teams:giám khảo",
                         "examples": [
                             "There are normally three judges for the national essay competition.",
-                            "The judges awarded first prize to 14-year-old Amanda Colton, on her horse, Donna",
-                            "There will be only one winner and the judges’ decision is final.",
-                            "a panel of judges",
-                            "A panel of judges will evaluate the dancers' performance.",
                             "judge[T] C1 to officially decide who will be the winner of a competition :làm giám khảo",
                             "Dillon and two other writers judged the poetry contest.",
                             "I've been asked to judge the fancy-dress competition.",
@@ -233,16 +208,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "The judges awarded first prize to 14-year-old Amanda Colton, on her horse, Donna",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "There will be only one winner and the judges’ decision is final."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a panel of judges",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A panel of judges will evaluate the dancers' performance."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -263,23 +257,7 @@
                             "Special prizes will be granted to winners selected by an expert jury in early December."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -312,23 +290,7 @@
                             "in sport, when players or teams play according to the rules and no one has an unfair advantage"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

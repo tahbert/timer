@@ -42,23 +42,7 @@
                             "Generally, working people don't have time to shop for food every day."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -73,25 +57,55 @@
                         "definition": "sb who works in a particular job or in a particular way : người làm",
                         "examples": [
                             "factory/social/construction workers",
-                            "a good/tireless/skilled worker",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a factory/farm/office workerFactory workers threatened strikes.",
-                            "a research/rescue/health etc workerRescue workers searched the rubble all night looking for survivors.",
-                            "a construction worker(= someone who builds buildings, bridges etc )"
+                            "a good/tireless/skilled worker"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a factory/farm/office worker",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "Factory workers threatened strikes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a research/rescue/health etc worker",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Rescue workers searched the rubble all night looking for survivors."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a construction worker",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who builds buildings, bridges etc",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -110,20 +124,34 @@
                         "region": "",
                         "definition": "slightly formal a person who is qualified to work in a profession, especially medicine or law:",
                         "examples": [
-                            "Elizabeth Quan is a London-based practitioner of traditional Chinese medicine.",
-                            "medical/legal practitioner",
-                            "She was a medical practitioner (= a doctor) before she entered politics.",
-                            "a practitioner of alternative medicine"
+                            "Elizabeth Quan is a London-based practitioner of traditional Chinese medicine."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "medical/legal practitioner",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She was a medical practitioner (= a doctor) before she entered politics."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a practitioner of alternative medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -161,26 +189,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/drʌdʒ/  someone who works hard at something that isdifficultandboring, especially for people who donot realizeor care that the work is difficult and boring:",
-                        "examples": [
-                            "người lao dịch , thân trâu ngựa ( làm công việc cực nhọc, nhàm chán nhưng ko nhận ra )",
-                            "▪ The work I was given was the same, day after day; I felt like a drudge.",
-                            "a household drudgesomeone who stays at home doing nothing except boring tasks around the house",
-                            "▪ One of the women said that since having four children, she felt she’d been reduced to a household drudge."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "người lao dịch , thân trâu ngựa ( làm công việc cực nhọc, nhàm chán nhưng ko nhận ra )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The work I was given was the same, day after day; I felt like a drudge."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a household drudgesomeone who stays at home doing nothing except boring tasks around the house",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ One of the women said that since having four children, she felt she’d been reduced to a household drudge."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -197,26 +239,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "British /peonAmerican /ˈdɒgzˌbɒdiǁˈdɔːgzˌbɑːdi, ˈpiːənǁˈpiːɑːn/  informal a person who does theboringorunimportantjobs thatno one else wantsto do:",
-                        "examples": [
-                            "kẻ tôi tớ",
-                            "▪ You have to be prepared to be a peon when you start -- sweeping floors, delivering, that kind of thing.",
-                            "a general dogsbody",
-                            "▪ I got myself a job as a typist and general dogsbody on a small magazine."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "kẻ tôi tớ",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ You have to be prepared to be a peon when you start -- sweeping floors, delivering, that kind of thing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a general dogsbody",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I got myself a job as a typist and general dogsbody on a small magazine."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

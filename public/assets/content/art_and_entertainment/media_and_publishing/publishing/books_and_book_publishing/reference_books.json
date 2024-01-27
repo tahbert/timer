@@ -42,23 +42,7 @@
                             "A dictionary lists the words, a grammar states the rules."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,38 +56,228 @@
                         "region": "",
                         "definition": "a book that gives a list of words in alphabetical order and explains their meanings in the same language, or another language :",
                         "examples": [
-                            "a German – English dictionary",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "use a dictionaryWe advise all our students to use a good dictionary.",
-                            "look sth up in a dictionaryIf you don’t understand the meaning of a word, look it up in a dictionary.",
-                            "check a dictionaryI often check the dictionary for spelling and pronunciation.",
-                            "consult a dictionaryformal(= check something in a dictionary )Consult the dictionary for examples of how a word is used.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a pocket dictionary(= small enough to be carried in your pocket )Pocket dictionaries don't always give you enough information.",
-                            "an electronic dictionary(= small electronic machine containing a dictionary )Electronic dictionaries are very popular in Japan.",
-                            "a bilingual dictionary(= with translations from one language into another )A bilingual dictionary is an essential purchase for anybody learning a foreign language.",
-                            "a monolingual dictionary(= written in only one language )Monolingual dictionaries tend to have more examples than bilingual ones.",
-                            "a picture dictionary(= containing a lot of pictures, especially for children or beginners in a language )The advantage of a picture dictionary is that you don't have lengthy definitions.",
-                            "an online dictionary(= one you can use on the Internet )There are plenty of online dictionaries available free on the Internet.",
-                            "an etymological dictionary(= showing the origin and history of words )Etymological dictionaries show how languages borrow words from each other.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a dictionary definitionClear dictionary definitions are what students look for.",
-                            "a dictionary entry(= the definition and all the other information at a word )The introduction explains the functions of the different parts of a dictionary entry."
+                            "a German – English dictionary"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "use a dictionary",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We advise all our students to use a good dictionary."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "look sth up in a dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If you don’t understand the meaning of a word, look it up in a dictionary."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "check a dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I often check the dictionary for spelling and pronunciation."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "consult a dictionaryformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "check something in a dictionary",
+                                "examples": [
+                                    "Consult the dictionary for examples of how a word is used."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pocket dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "small enough to be carried in your pocket",
+                                "examples": [
+                                    "Pocket dictionaries don't always give you enough information."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an electronic dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "small electronic machine containing a dictionary",
+                                "examples": [
+                                    "Electronic dictionaries are very popular in Japan."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bilingual dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with translations from one language into another",
+                                "examples": [
+                                    "A bilingual dictionary is an essential purchase for anybody learning a foreign language."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a monolingual dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "written in only one language",
+                                "examples": [
+                                    "Monolingual dictionaries tend to have more examples than bilingual ones."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a picture dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "containing a lot of pictures, especially for children or beginners in a language",
+                                "examples": [
+                                    "The advantage of a picture dictionary is that you don't have lengthy definitions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an online dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one you can use on the Internet",
+                                "examples": [
+                                    "There are plenty of online dictionaries available free on the Internet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an etymological dictionary",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "showing the origin and history of words",
+                                "examples": [
+                                    "Etymological dictionaries show how languages borrow words from each other."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dictionary definition",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Clear dictionary definitions are what students look for."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dictionary entry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the definition and all the other information at a word",
+                                "examples": [
+                                    "The introduction explains the functions of the different parts of a dictionary entry."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -138,23 +312,7 @@
                         "definition": "(annualUS) a book published every year by a school or other organization, that gives various facts about the events and achievements of the previous or present year : niên giám",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -175,23 +333,7 @@
                             "a new business directory"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -225,23 +367,7 @@
                             "‘A Companion to Japanese Literature’"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -263,23 +389,7 @@
                             "a handbook on basic psychology"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -303,23 +413,7 @@
                             "Leach has written many popular manuals on childcare."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -336,23 +430,7 @@
                             "How-to books on dieting are often at the top of the bestseller lists."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -377,23 +455,7 @@
                             "A guide for hospital staff will be published shortly, covering everything from simple hygiene to security regulations."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

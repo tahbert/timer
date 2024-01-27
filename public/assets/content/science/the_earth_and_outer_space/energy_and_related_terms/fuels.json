@@ -40,23 +40,7 @@
                         "definition": "power that is obtained from water flowing from one level to a lower level: sức nước; thuỷ lực",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,51 +56,336 @@
                         "examples": [
                             "The water is heated using energy from the sun.",
                             "The problem with nuclear energy is dealing with the waste.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "solar energyThe water pump is powered by solar energy.",
                             "nuclear/atomic energya report on the cost of nuclear energy",
-                            "wind/wave energyThe windmill uses wind energy to crush grain and pump water.",
-                            "renewable energy(= energy such as solar or wind energy that can be replaced naturally )Switching to sources of renewable energy will reduce carbon emissions.",
-                            "alternative energy(= energy from sources other than oil, coal, or nuclear energy )It is the first form of public transport to be powered by alternative energy.",
-                            "clean energy(= which does not cause pollution )Iceland possesses sufficient quantities of clean energy sources that it does not need to rely on fossil fuels.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "generate/produce energya power plant that generates energy from household waste",
-                            "supply/provide energyThe wind farm will provide enough energy for 100,000 homes.",
-                            "store energyBatteries store the energy from the solar panels.",
-                            "use energyWashing machines use a lot of energy.",
-                            "conserve energy(= not waste any energy )An efficient boiler will conserve energy and save you money.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "energy use30% of all our energy use is in the home.",
-                            "energy efficiencyThis guide provides advice on ways of improving energy efficiency.",
-                            "energy consumptionWe all need to reduce our energy consumption.",
                             "energy needs/requirements65% of the country’s energy needs are met by imported oil.",
                             "energy productionhydro-electricity and other methods of energy production",
-                            "energy resourcesThe world’s energy resources are being used up at an alarming rate.",
-                            "an energy shortageCalifornia experienced energy shortages that in turn led to power outages.",
-                            "an energy crisisEurope could soon face an energy crisis.",
-                            "energy suppliesWe must secure the country’s future energy supplies.",
                             "an energy companya state-owned energy company",
-                            "the energy industryregulation of the energy industry",
-                            "an energy billWe are looking at ways of cutting our energy bill.",
-                            "energy pricesEnergy prices are likely to rise significantly in the near future.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a source/form of energyCoal is more expensive than other sources of energy.",
-                            "the demand for energyThe demand for energy in developing countries will continue to grow."
+                            "the energy industryregulation of the energy industry"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "solar energy",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The water pump is powered by solar energy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wind/wave energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The windmill uses wind energy to crush grain and pump water."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renewable energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "energy such as solar or wind energy that can be replaced naturally",
+                                "examples": [
+                                    "Switching to sources of renewable energy will reduce carbon emissions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "alternative energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "energy from sources other than oil, coal, or nuclear energy",
+                                "examples": [
+                                    "It is the first form of public transport to be powered by alternative energy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clean energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which does not cause pollution",
+                                "examples": [
+                                    "Iceland possesses sufficient quantities of clean energy sources that it does not need to rely on fossil fuels."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "supply/provide energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The wind farm will provide enough energy for 100,000 homes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "store energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Batteries store the energy from the solar panels."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Washing machines use a lot of energy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "conserve energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not waste any energy",
+                                "examples": [
+                                    "An efficient boiler will conserve energy and save you money."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "energy efficiency",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This guide provides advice on ways of improving energy efficiency."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "energy consumption",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We all need to reduce our energy consumption."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "energy resources",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The world’s energy resources are being used up at an alarming rate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an energy shortage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "California experienced energy shortages that in turn led to power outages."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an energy crisis",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Europe could soon face an energy crisis."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "energy supplies",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We must secure the country’s future energy supplies."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an energy bill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We are looking at ways of cutting our energy bill."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "energy prices",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Energy prices are likely to rise significantly in the near future."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a source/form of energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Coal is more expensive than other sources of energy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the demand for energy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The demand for energy in developing countries will continue to grow."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -135,50 +404,398 @@
                         "definition": "a substancewhich is used to provide heat or power, usually by being burned: nhiên liệu, chất đốt",
                         "examples": [
                             "Wood, coal, oil, petrol and gas are all different kinds of fuel.",
-                            "Plutonium is a fuel used to produce nuclear energy.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a fossil fuel(= a fuel such as coal or oil, produced by the gradual decaying of plants and animals) nhiên liệu hóa thạchGlobal warming may be caused by burning fossil fuels.",
-                            "nuclear fuelWhat do we do with the spent nuclear fuel?",
-                            "solid fuel(= a solid substance, such as coal, that is used as a fuel) nhiên liệu rắnThe number of homes using solid fuel for heating has decreased.",
-                            "domestic/household fuel(= used in a house )There has been a sharp rise in domestic fuel costs.",
-                            "smokeless fuel(= that burns without producing smoke )The government is trying to encourage the use of environmentally-friendly smokeless fuels.",
-                            "unleaded fuel(= that does not contain lead )Modern cars run on unleaded fuel.",
-                            "a green fuel(= a fuel that harms the environment as little as possible )Are green fuels, like Biodiesel, really the solution to our fuel crisis?",
-                            "a clean fuel(= fuel that does not harm the environment )The proposal is to cut tax on cars that run on clean fuel.",
-                            "aviation fuel(= used used by planes )high-octane aviation fuel",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "use fuelPeople need to learn how to use fuel more efficiently.",
-                            "run on fuel(= use fuel as the source of power )Will this engine run on unleaded fuel?",
-                            "run out of fuel(= use all the fuel available and have none left )The ship ran out of fuel and drifted helplessly.",
-                            "fill up with fuel(= put fuel in a vehicle's fuel tank )Before leaving, I filled up with fuel at the local petrol station.",
-                            "save fuelYou can save fuel by not driving too fast.",
-                            "waste fuelThe booklet gives helpful tips on how to avoid wasting fuel.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "fuel costs/pricesThe increase in fuel costs is severely affecting pensioners.",
-                            "a fuel billInsulating your house will cut your fuel bill.",
-                            "a fuel tank(= a container for storing fuel )The fuel tank holds 14 gallons of petrol.",
-                            "a fuel gauge(= an instrument for measuring fuel )I noticed the fuel gauge was on empty so I pulled into the nearest gas station.",
-                            "a fuel pump(= a machine that forces fuel into an engine )The car's fuel pump was leaking.",
-                            "fuel consumption(= amount used )Fuel consumption averages 54 miles per gallon.",
-                            "fuel economy/efficiency(= how well a vehicle uses fuel, without wasting any )Greater engine efficiency has led to improved fuel economy.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "something is running low on fuel(= it does not have much fuel left )The plane was running low on fuel.",
-                            ""
+                            "Plutonium is a fuel used to produce nuclear energy."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a fossil fuel",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a fuel such as coal or oil, produced by the gradual decaying of plants and animals",
+                                "examples": [
+                                    "nhiên liệu hóa thạchGlobal warming may be caused by burning fossil fuels."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nuclear fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "What do we do with the spent nuclear fuel?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "solid fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a solid substance, such as coal, that is used as a fuel",
+                                "examples": [
+                                    "nhiên liệu rắnThe number of homes using solid fuel for heating has decreased."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "domestic/household fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used in a house",
+                                "examples": [
+                                    "There has been a sharp rise in domestic fuel costs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "smokeless fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that burns without producing smoke",
+                                "examples": [
+                                    "The government is trying to encourage the use of environmentally-friendly smokeless fuels."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "unleaded fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that does not contain lead",
+                                "examples": [
+                                    "Modern cars run on unleaded fuel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a green fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a fuel that harms the environment as little as possible",
+                                "examples": [
+                                    "Are green fuels, like Biodiesel, really the solution to our fuel crisis?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a clean fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "fuel that does not harm the environment",
+                                "examples": [
+                                    "The proposal is to cut tax on cars that run on clean fuel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "aviation fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used used by planes",
+                                "examples": [
+                                    "high-octane aviation fuel"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "People need to learn how to use fuel more efficiently."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "run on fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "use fuel as the source of power",
+                                "examples": [
+                                    "Will this engine run on unleaded fuel?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "run out of fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "use all the fuel available and have none left",
+                                "examples": [
+                                    "The ship ran out of fuel and drifted helplessly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fill up with fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put fuel in a vehicle's fuel tank",
+                                "examples": [
+                                    "Before leaving, I filled up with fuel at the local petrol station."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "save fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can save fuel by not driving too fast."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "waste fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The booklet gives helpful tips on how to avoid wasting fuel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fuel costs/prices",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The increase in fuel costs is severely affecting pensioners."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fuel bill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Insulating your house will cut your fuel bill."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fuel tank",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a container for storing fuel",
+                                "examples": [
+                                    "The fuel tank holds 14 gallons of petrol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fuel gauge",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an instrument for measuring fuel",
+                                "examples": [
+                                    "I noticed the fuel gauge was on empty so I pulled into the nearest gas station."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fuel pump",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a machine that forces fuel into an engine",
+                                "examples": [
+                                    "The car's fuel pump was leaking."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fuel consumption",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "amount used",
+                                "examples": [
+                                    "Fuel consumption averages 54 miles per gallon."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fuel economy/efficiency",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "how well a vehicle uses fuel, without wasting any",
+                                "examples": [
+                                    "Greater engine efficiency has led to improved fuel economy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "something is running low on fuel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it does not have much fuel left",
+                                "examples": [
+                                    "The plane was running low on fuel."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -197,23 +814,7 @@
                         "definition": "a fuel that is made from living things or their waste : nhiên liệu sinh học",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -247,23 +848,7 @@
                             "solar heating"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -280,23 +865,7 @@
                             "Solar panels are used to power satellites."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -317,23 +886,7 @@
                             "a nuclear-powered submarine"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -366,23 +919,7 @@
                             "Does this radiorunon batteries?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -399,23 +936,7 @@
                             "Some calculators run on solar power."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -432,23 +953,7 @@
                             "The plane was refuelled in Dubai."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -465,23 +970,7 @@
                             "Remember to feed the fire while I'm out."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -500,23 +989,7 @@
                             "In the future electricity will be used to power road vehicles."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -530,29 +1003,10 @@
                         "region": "",
                         "definition": "to supply a system with a substance which can be burnt to provide heat or power: cấpnhiên liệu",
                         "examples": [
-                            "Our heating system is fuelledbygas.",
-                            "-fuel[suffix]",
-                            "We have a gas-fuelled heating system.",
-                            "petrol/ hydrogen-fuelled cars"
+                            "Our heating system is fuelledbygas."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -590,23 +1044,7 @@
                             "a burning/red hot coal"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -624,23 +1062,7 @@
                             "The heating system runs on oil."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -654,36 +1076,211 @@
                         "region": "",
                         "definition": "a clear substance like air that is burned for heating or cooking : khí ga",
                         "examples": [
-                            "The explosion was caused by agas leakfrom the water heater.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "natural gas(= gas used for cooking and heating, taken from under the earth or from under the sea )The main part of natural gas is methane.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a gas cooker/oven/stoveGas cookers are more efficient than electric ones.",
-                            "a gas fire(= an object that burns gas to heat a room )She turned on the gas fire.",
-                            "a gas cylinder(= a large container for gas )One of the gas cylinders exploded.",
-                            "a gas bottle(= a small container for gas )The gas bottles need to be stored in a safe place.",
-                            "a gas leak(= an escape of gas through a hole in something )If you suspect a gas leak, do not strike a match or even turn on an electric light.",
-                            "a gas supply(= a system for supplying gas to someone's house )The engineers had quite a challenge to install the new gas supply.",
-                            "gas reserves(= a supply of gas kept to be used when it is needed )Norway has far greater gas reserves than the UK.",
-                            "a gas pipelineThe Chinese and Russian governments are cooperating in gas pipeline projects.",
-                            "a gas bill(= a bill you have to pay for gas you have used )Household gas bills have increased dramatically.",
-                            "gas productionThe company expanded its gas production facilities.",
-                            "the gas industryThere are plans to nationalize the country's gas industry."
+                            "The explosion was caused by agas leakfrom the water heater."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "natural gas",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "gas used for cooking and heating, taken from under the earth or from under the sea",
+                                "examples": [
+                                    "The main part of natural gas is methane."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas cooker/oven/stove",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Gas cookers are more efficient than electric ones."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas fire",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an object that burns gas to heat a room",
+                                "examples": [
+                                    "She turned on the gas fire."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas cylinder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a large container for gas",
+                                "examples": [
+                                    "One of the gas cylinders exploded."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas bottle",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small container for gas",
+                                "examples": [
+                                    "The gas bottles need to be stored in a safe place."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas leak",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an escape of gas through a hole in something",
+                                "examples": [
+                                    "If you suspect a gas leak, do not strike a match or even turn on an electric light."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas supply",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a system for supplying gas to someone's house",
+                                "examples": [
+                                    "The engineers had quite a challenge to install the new gas supply."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gas reserves",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a supply of gas kept to be used when it is needed",
+                                "examples": [
+                                    "Norway has far greater gas reserves than the UK."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas pipeline",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Chinese and Russian governments are cooperating in gas pipeline projects."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gas bill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a bill you have to pay for gas you have used",
+                                "examples": [
+                                    "Household gas bills have increased dramatically."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gas production",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The company expanded its gas production facilities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the gas industry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There are plans to nationalize the country's gas industry."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -704,23 +1301,7 @@
                             "We can use those old shelves as firewood."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

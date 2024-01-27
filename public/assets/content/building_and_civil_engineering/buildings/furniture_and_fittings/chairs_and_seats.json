@@ -42,23 +42,7 @@
                             "the arm of a chair"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,23 +59,7 @@
                             "Jack's eyes caught a glimpse of Rose's hand that had rested on the armrest of her chair."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -121,44 +89,313 @@
                         "region": "",
                         "definition": "a place where you can sit, especially one in a vehicle or one from which you watch a performance, sports event etc : chỗ ngồi",
                         "examples": [
-                            "I was in the back seat and Jo was driving.",
-                            "a 10,000-seat stadium",
-                            "People were shifting in their seats, looking uncomfortable.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "freeExcuse me, is this seat free?",
-                            "an empty/vacant seatPatrick spotted an empty seat near the back.",
-                            "the front/back/rear seat(= in a car )Never leave bags on the back seat of a car.",
-                            "the driver's seatHe climbed into the driver's seat.",
-                            "the passenger seatThe cop in the passenger seat spun around to stare at him.",
-                            "a window/aisle seat(= one next to the window or the space between seats, for example in a plane)I'd prefer a window seat, please.",
-                            "a front-row seat(= one at the front of a theatre, sports ground etc )We had front-row seats.",
-                            "a ringside seat(= one in the front row at a sports event, especially a boxing match )We managed to get ringside seats, so we had a great view of the fight.",
-                            "a good seat(= one from which you can see well )I managed to get a fairly good seat, near the front.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a seatWe had really good seats, just in front of the stage.",
-                            "have/take a seat(= sit down )Take a seat, please.",
-                            "book/reserve a seatYou can book seats online.",
-                            "show somebody to their seatA flight attendant showed them to their seats.",
-                            "go back to/return to your seatThe audience clapped as he returned to his seat.",
-                            "resume your seatformal(= sit down again )We resumed our seats for the second half of the play.",
-                            "save sb a seat(= tell other people not to sit there )I'll save you a seat next to me.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "bums on seatsUK informal(= used for saying that sth or sb can attract a large audience )He is an actor who will put bums on seats."
+                            "I was in the back seat and Jo was driving."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "free",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Excuse me, is this seat free?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an empty/vacant seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Patrick spotted an empty seat near the back."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the front/back/rear seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in a car",
+                                "examples": [
+                                    "Never leave bags on the back seat of a car."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the driver's seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He climbed into the driver's seat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the passenger seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The cop in the passenger seat spun around to stare at him."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a window/aisle seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one next to the window or the space between seats, for example in a plane",
+                                "examples": [
+                                    "I'd prefer a window seat, please."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a front-row seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one at the front of a theatre, sports ground etc",
+                                "examples": [
+                                    "We had front-row seats."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a ringside seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one in the front row at a sports event, especially a boxing match",
+                                "examples": [
+                                    "We managed to get ringside seats, so we had a great view of the fight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a good seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one from which you can see well",
+                                "examples": [
+                                    "I managed to get a fairly good seat, near the front."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We had really good seats, just in front of the stage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have/take a seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit down",
+                                "examples": [
+                                    "Take a seat, please."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "book/reserve a seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can book seats online."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "show somebody to their seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A flight attendant showed them to their seats."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go back to/return to your seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The audience clapped as he returned to his seat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "resume your seatformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit down again",
+                                "examples": [
+                                    "We resumed our seats for the second half of the play."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "save sb a seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "tell other people not to sit there",
+                                "examples": [
+                                    "I'll save you a seat next to me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bums on seatsUK informal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used for saying that sth or sb can attract a large audience",
+                                "examples": [
+                                    "He is an actor who will put bums on seats."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a 10,000-seat stadium",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "People were shifting in their seats, looking uncomfortable."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -179,26 +416,41 @@
                             "We’d better hurry and get to our places before the show starts.",
                             "My ticket says 6G but there's someone sitting in my place.",
                             "The children collected their prizes and then went back to their places.",
-                            "I don’t think there are enough places for everyone.",
-                            "take your placesit in the seat that you are expected to sit in",
-                            "Jennifer quietly took her place at the table.",
-                            "save a place",
-                            "Save me a place (= Keep a seat for me until I arrive) near the front."
+                            "I don’t think there are enough places for everyone."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take your placesit in the seat that you are expected to sit in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Jennifer quietly took her place at the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "save a place",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Save me a place (= Keep a seat for me until I arrive) near the front."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -220,23 +472,7 @@
                             "a 50 000-seater stadium"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -265,24 +501,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a long seat for two or more people, especially outdoors : ghế dài, ghế băng",
-                        "examples": [
-                            "aparkbench (= a seat in a public garden)",
-                            "We sat on a park bench."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "aparkbench (= a seat in a public garden)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We sat on a park bench."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -301,23 +536,7 @@
                         "definition": "/beanbag chair a very large cloth bag that is filled with small balls of soft plastic and used for sitting on",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -334,23 +553,7 @@
                             "She sat in an armchair by the fire, reading a newspaper."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -369,43 +572,281 @@
                             "on/in a chair",
                             "She was sitting on a wooden chair.",
                             "He sat back in his chair.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "sit in/on a chairShe sat in her favourite chair.",
-                            "pull/draw up a chair(= move a chair nearer someone or something )Pull up a chair and look at these pictures.",
-                            "take a chair(= sit down in one in a particular place )Brian took a chair beside his wife.",
-                            "lean back in your chairHe leant back in his chair and took out his pipe.",
-                            "sink/slump/flop into a chair(= sit down in one in a tired or unhappy way )Greg groaned and sank into his chair.",
-                            "collapse in/into a chair(= sit down suddenly because you are very tired or upset )Eileen collapsed into a chair and burst out crying.",
-                            "get up from your chair(alsorise from your chairformal)He got up from his chair and walked to the window.",
-                            "jump up from your chair(= get up quickly )‘Look at the time!’ she cried, jumping up from her chair.",
-                            "push back your chair(= in order to get up )He pushed back his chair and stood up.",
-                            "lounge in a chair(= sit in one in a very relaxed way )Everyone was outside, lounging in chairs in the sun.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a comfortable chair(alsoa comfy chairinformal)The hotel had a TV room with some nice comfy chairs.",
-                            "a hard chair(= not comfortable )I sat on a hard chair in the corridor and waited.",
-                            "an empty chair(= with no one using it )She came and sat in an empty chair beside me.",
-                            "a wooden/plastic/leather etc chairIn the kitchen was a table with six wooden chairs around it.",
-                            "a folding chair(= one which you can fold so it is flat )People were sitting on blankets or folding chairs, listening to the outdoor concert.",
                             "a rocking chaira chair that has two curved pieces of wood fixed under its legs, so that it moves backwards and forwards smoothly",
                             "a high chaira chair with long legs, for a baby or a small child, usually with a small table connected to it for the child to eat from : ghế cao cho trẻ con ngồi ăn",
-                            "aneasy chaira big soft comfortable chair with arms",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a chair leg/arm/back/seatThe chair leg has broken."
+                            "aneasy chaira big soft comfortable chair with arms"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sit in/on a chair",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She sat in her favourite chair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pull/draw up a chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "move a chair nearer someone or something",
+                                "examples": [
+                                    "Pull up a chair and look at these pictures."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit down in one in a particular place",
+                                "examples": [
+                                    "Brian took a chair beside his wife."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lean back in your chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He leant back in his chair and took out his pipe."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sink/slump/flop into a chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit down in one in a tired or unhappy way",
+                                "examples": [
+                                    "Greg groaned and sank into his chair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "collapse in/into a chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit down suddenly because you are very tired or upset",
+                                "examples": [
+                                    "Eileen collapsed into a chair and burst out crying."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get up from your chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsorise from your chairformal",
+                                "examples": [
+                                    "He got up from his chair and walked to the window."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "jump up from your chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get up quickly",
+                                "examples": [
+                                    "‘Look at the time!’ she cried, jumping up from her chair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "push back your chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in order to get up",
+                                "examples": [
+                                    "He pushed back his chair and stood up."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lounge in a chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sit in one in a very relaxed way",
+                                "examples": [
+                                    "Everyone was outside, lounging in chairs in the sun."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a comfortable chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa comfy chairinformal",
+                                "examples": [
+                                    "The hotel had a TV room with some nice comfy chairs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hard chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not comfortable",
+                                "examples": [
+                                    "I sat on a hard chair in the corridor and waited."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an empty chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with no one using it",
+                                "examples": [
+                                    "She came and sat in an empty chair beside me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wooden/plastic/leather etc chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In the kitchen was a table with six wooden chairs around it."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a folding chair",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one which you can fold so it is flat",
+                                "examples": [
+                                    "People were sitting on blankets or folding chairs, listening to the outdoor concert."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chair leg/arm/back/seat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The chair leg has broken."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -424,23 +865,7 @@
                         "definition": "/ couchA2 a comfortable seat with raised arms and a back, that is wide enough for two or three people to sit on : ghé sô pha, trường kỷ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -460,23 +885,7 @@
                             "bar stoola tall seat with no support for the back or arms, for sitting on while drinking or eating at a bar"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -491,23 +900,7 @@
                         "definition": "UK two chairs and a sofa covered in the same material",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -538,23 +931,7 @@
                         "definition": "the special chair used by a ruler, especially a king or queen : ngai, ngai vàng",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -571,23 +948,7 @@
                             "A booster seat helps the seat belt fit better for older children who are not big enough for the safety belt alone."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

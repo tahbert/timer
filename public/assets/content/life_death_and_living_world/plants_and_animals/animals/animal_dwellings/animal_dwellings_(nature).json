@@ -42,23 +42,7 @@
                             "a mouse/ rabbit/ fox hole"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -73,23 +57,7 @@
                         "definition": "the home of particular types of wild animal, for example lions or foxes: hang, sào huyệt",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -106,23 +74,7 @@
                             "a fox's lair"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -153,23 +105,7 @@
                         "definition": "a pile of soil created by ants when they are making their nests underground : gò mối; ụ tổ kiến",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -184,23 +120,7 @@
                         "definition": "a small pile of earth pushed up to the surface of the ground by the digging of a mole (= a mammal that lives underground) : đất chuột chũi đùn lên",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -236,23 +156,7 @@
                             "a spider's web"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -270,10 +174,6 @@
                             "In May the femalesbuildanestand lay their eggs.",
                             "Young eagles leave the nest after only two months.",
                             "a field mouse’s nest",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "build/make a nestSwallows build their nests out of mud.",
-                            "leave the nestBarn owls leave the nest at two to three months.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "a bird's/eagle's/crow's etc nestan abandoned bird's nest",
                             "a wasps'/hornets' nesta wasps' nest in the attic",
                             "an ants' nesta red ants' nest"
@@ -282,16 +182,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "build/make a nest",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Swallows build their nests out of mud."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leave the nest",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Barn owls leave the nest at two to three months."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -308,40 +227,244 @@
                         "usage": "",
                         "region": "",
                         "definition": "the natural home of a plant or animal :môi trường sống",
-                        "examples": [
-                            "watching monkeys in theirnatural habitat",
-                            "The grassland is an important habitat for many wild flowers.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "sth’s natural habitat(= the type of place where an animal or plant usually lives or grows )She studies gorillas in their natural habitat.",
-                            "sth’s native habitat(= the particular place where an animal or plant lives or grows )Even in its native habitat, the plant is very rare.",
-                            "a wildlife habitatThe land next to the harbour is perhaps the most threatened wildlife habitat in Britain.",
-                            "a woodland/wetland/grassland/marshland habitat(= a place in a wood, etc where animals and plants live or grow )The owl inhabits woodland habitats from Scotland to southern Spain.",
-                            "a coastal habitat(= a place near the coast where animals and plants live or grow )Dolphins are vulnerable to these poisons because of their coastal habitat.",
-                            "a marine habitat(= a place in the sea where animals and plants live and grow )Cuttlefish are found in marine habitats worldwide.",
-                            "an important habitatThe island is an important habitat for exotic animals.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "damage/destroy a habitatWidening the road will uproot trees and damage wildlife habitat.",
-                            "provide a habitat(= be suitable and available as a home for particular animals or plants )Marshes provide the habitat of many species of wading birds.",
-                            "conserve/protect a habitat(= prevent it from changing or being damaged )These measures will protect the habitat of endangered species such as wolves.",
-                            "create a habitatThe aim is to create a suitable breeding habitat for rare birds.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "loss of habitatElephants are menaced by poaching and loss of habitat.",
-                            "the destruction of a habitatIt is in south Texas that the destruction of the bird’s habitat has been most alarming."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sth’s natural habitat",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the type of place where an animal or plant usually lives or grows",
+                                "examples": [
+                                    "She studies gorillas in their natural habitat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sth’s native habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the particular place where an animal or plant lives or grows",
+                                "examples": [
+                                    "Even in its native habitat, the plant is very rare."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wildlife habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The land next to the harbour is perhaps the most threatened wildlife habitat in Britain."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a woodland/wetland/grassland/marshland habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place in a wood, etc where animals and plants live or grow",
+                                "examples": [
+                                    "The owl inhabits woodland habitats from Scotland to southern Spain."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coastal habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place near the coast where animals and plants live or grow",
+                                "examples": [
+                                    "Dolphins are vulnerable to these poisons because of their coastal habitat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a marine habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place in the sea where animals and plants live and grow",
+                                "examples": [
+                                    "Cuttlefish are found in marine habitats worldwide."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an important habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The island is an important habitat for exotic animals."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "damage/destroy a habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Widening the road will uproot trees and damage wildlife habitat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "provide a habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be suitable and available as a home for particular animals or plants",
+                                "examples": [
+                                    "Marshes provide the habitat of many species of wading birds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "conserve/protect a habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "prevent it from changing or being damaged",
+                                "examples": [
+                                    "These measures will protect the habitat of endangered species such as wolves."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "create a habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The aim is to create a suitable breeding habitat for rare birds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "loss of habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Elephants are menaced by poaching and loss of habitat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the destruction of a habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It is in south Texas that the destruction of the bird’s habitat has been most alarming."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "watching monkeys in theirnatural habitat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The grassland is an important habitat for many wild flowers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -360,23 +483,7 @@
                         "definition": "a place,such as a branch of a tree, where birds rest or sleep : nơi chim đậu, nơi chim ngủ; chuồng gà",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

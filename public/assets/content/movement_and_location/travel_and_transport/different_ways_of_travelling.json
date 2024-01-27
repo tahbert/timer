@@ -43,23 +43,7 @@
                             "The man lost control of his car, killing a pedestrian."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,23 +60,7 @@
                             "▪ Anna missed the bus, so she decided to walk."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -106,26 +74,26 @@
                         "region": "",
                         "definition": "if you go somewhereon foot,you walk instead of going by car, bus, train etc:",
                         "examples": [
-                            "It’s not far. It’ll take you about ten minutes on foot.",
-                            "go on foot",
-                            "The bus left us at the bottom of the hill, and we went the rest of the way on foot.",
-                            "The two men had attempted to cross the mountains on foot.",
-                            "Are you going by bicycle or on foot?"
+                            "It’s not far. It’ll take you about ten minutes on foot."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go on foot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The bus left us at the bottom of the hill, and we went the rest of the way on foot.",
+                                    "The two men had attempted to cross the mountains on foot.",
+                                    "Are you going by bicycle or on foot?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -165,36 +133,162 @@
                             "ride a busAmerican English:",
                             "Ann rides the bus to work.",
                             "►Do not userideto talk about sb controlling a car or other vehicle. Usedrive:the man who was driving the stolen car",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "ride[C] B1 a journey in a vehicle, when you are not driving",
                             "ride in",
-                            "He invited me togo foraridein his new car.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "take/have a rideVisitors can take a ride on a steam train.",
-                            "go for a rideHe went for a ride in a private plane piloted by a friend.",
-                            "give sb a rideEllie gave us a ride to school.",
-                            "get a rideAmE: I left the farm that night, and got a ride into town.",
-                            "take sb for a rideHugh took me for a ride in his new car.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a car/bus/train etc rideThe resort is a short bus ride away from the hotel.",
-                            "a short/long rideI climbed slowly aboard the bus for the long ride to Hawkesworth.",
-                            "a smooth/comfortable rideThe new suspension produces a smoother ride.",
-                            "a bumpy ridePart of the flight had been a bumpy ride through a thunderstorm."
+                            "He invited me togo foraridein his new car."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take/have a ride",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Visitors can take a ride on a steam train."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go for a ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He went for a ride in a private plane piloted by a friend."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb a ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ellie gave us a ride to school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get a ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "AmE: I left the farm that night, and got a ride into town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take sb for a ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Hugh took me for a ride in his new car."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a car/bus/train etc ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The resort is a short bus ride away from the hotel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a short/long ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I climbed slowly aboard the bus for the long ride to Hawkesworth."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a smooth/comfortable ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The new suspension produces a smoother ride."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bumpy ride",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Part of the flight had been a bumpy ride through a thunderstorm."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -212,10 +306,6 @@
                         "region": "",
                         "definition": "to go somewhere on a bicycle: lái xe đạp",
                         "examples": [
-                            "cycle to/down/home etc",
-                            "Do you cycle to work?",
-                            "cycle 50 kilometres/10 miles etc",
-                            "It took about 20 minutes for her to cycle the 5 miles to her home.",
                             "cycling[U]C2",
                             "We did a lot of cycling in France last year.",
                             "Cycling isn’t only good for the environment - it’s a great form of exercise too."
@@ -224,16 +314,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cycle to/down/home etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Do you cycle to work?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cycle 50 kilometres/10 miles etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It took about 20 minutes for her to cycle the 5 miles to her home."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -254,23 +363,7 @@
                             "Shall we get a taxi to the station?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -310,23 +403,7 @@
                             "_I drove my daughter to school."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -342,27 +419,42 @@
                         "examples": [
                             "She’s flying back to the States tomorrow.",
                             "Will you take the train there or fly?",
-                            "Maurice is nervous about flying, so he usually travels overland.",
-                            "fly to",
-                            "The prime minister will be flying to Delhi later today for a three-day visit.",
-                            "fly from/out of/in etc",
-                            "He was arrested at Heathrow after flying from Brussels airport.",
-                            "Lewis stopped off in Jamaica before flying on to Toronto."
+                            "Maurice is nervous about flying, so he usually travels overland."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "fly to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The prime minister will be flying to Delhi later today for a three-day visit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fly from/out of/in etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was arrested at Heathrow after flying from Brussels airport.",
+                                    "Lewis stopped off in Jamaica before flying on to Toronto."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -386,23 +478,7 @@
                             "He always catches the 10.30am train to work."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -422,23 +498,7 @@
                             "She sailed around the world single-handed in her yacht."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -458,23 +518,7 @@
                             "She took the 10.30 flight to Edinburgh."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -508,23 +552,7 @@
                             "▪ Troops entered the region by land and sea."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -536,23 +564,36 @@
                         "usage": "",
                         "region": "",
                         "definition": "prepositionTRAVEL",
-                        "examples": [
-                            "used for showing somemethodsof travelling",
-                            "_I love travelling on trains.",
-                            "_She'll be arriving on the five-thirty train.",
-                            "_We went to France on the ferry.",
-                            "_It'd be quicker to get there onfoot.",
-                            "_two figures onhorseback"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "used for showing somemethodsof travelling",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I love travelling on trains.",
+                                    "_She'll be arriving on the five-thirty train.",
+                                    "_We went to France on the ferry.",
+                                    "_It'd be quicker to get there onfoot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "_two figures onhorseback",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -576,29 +617,10 @@
                         "definition": "by train, car, bus etc, especially over alongdistance, when people would normally go by plane or ship:bằng đường bộ",
                         "examples": [
                             "It’s certainly quicker to fly but we thought it would be more exciting to go overland.",
-                            "We drove overland.",
-                            "overland[attri]",
-                            "The overland route is very difficult at times.",
-                            "an overland trip across Australia"
+                            "We drove overland."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -611,28 +633,27 @@
                         "usage": "",
                         "region": "",
                         "definition": "/boat/plane/train etc travelling to go somewhere in in a car, boat, plane, or train, etc - use this especially when you are comparing differentmethodsoftravelling:",
-                        "examples": [
-                            "▪ ‘Did you come by car?’ ‘No, by train.’",
-                            "▪ Some of the beaches can only be reached by boat.",
-                            "▪ We didn’t have much time, so we decided to go by plane.",
-                            "▪ One group went by car and the others took a taxi.",
-                            "▪ I can get to work in about 20 minutes by bike.",
-                            "▪ I went by boat the first time I went to Tahiti."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "▪ ‘Did you come by car?’ ‘No, by train.’",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Some of the beaches can only be reached by boat.",
+                                    "▪ We didn’t have much time, so we decided to go by plane.",
+                                    "▪ One group went by car and the others took a taxi.",
+                                    "▪ I can get to work in about 20 minutes by bike.",
+                                    "▪ I went by boat the first time I went to Tahiti."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

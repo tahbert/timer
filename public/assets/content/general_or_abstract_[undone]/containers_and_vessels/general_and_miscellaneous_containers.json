@@ -45,23 +45,7 @@
                             "Jim put his violin back in its case."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -80,34 +64,160 @@
                             "toolbox/shoebox/matchbox etc(= a box used for keeping tools etc in )",
                             "2 amount(alsoboxful) [C] the amount of something contained in a box",
                             "box of",
-                            "a box of chocolates",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a cardboard/wooden/plastic boxWe packed all our things into big cardboard boxes.",
-                            "a storage box(= for storing things in )Plastic storage boxes are useful for putting things in the attic.",
-                            "a toolboxThe hammer’s in the tool box.",
-                            "a shoebox(= that you buy shoes in )She used to keep photographs in old shoe boxes.",
-                            "a sandwich/lunch boxMost of the kids bring lunch boxes to school.",
-                            "a jewellery boxUK,a jewelry boxUS A jewellery box had gone missing.",
-                            "a money box(= that children save money in)How much have you got in your money box?",
-                            "a cash box(= for keeping a supply of money in, for example in a shop )Thieves stole £100 from a cash box at the school.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a pile/stack of boxesThere was a pile of boxes in the street outside the house.",
-                            ""
+                            "a box of chocolates"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cardboard/wooden/plastic box",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We packed all our things into big cardboard boxes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a storage box",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for storing things in",
+                                "examples": [
+                                    "Plastic storage boxes are useful for putting things in the attic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a toolbox",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The hammer’s in the tool box."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shoebox",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that you buy shoes in",
+                                "examples": [
+                                    "She used to keep photographs in old shoe boxes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sandwich/lunch box",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most of the kids bring lunch boxes to school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a jewellery box",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "UK,a jewelry boxUS A jewellery box had gone missing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a money box",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that children save money in",
+                                "examples": [
+                                    "How much have you got in your money box?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cash box",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for keeping a supply of money in, for example in a shop",
+                                "examples": [
+                                    "Thieves stole £100 from a cash box at the school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pile/stack of boxes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There was a pile of boxes in the street outside the house."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -127,31 +237,143 @@
                         "examples": [
                             "a shopping basket",
                             "a basket full of vegetables",
-                            "clothes/laundry basket(= for dirty clothes )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a wastepaper/waste basket(= for paper you throw away )He threw her letter in the wastepaper basket.",
-                            "a laundry/clothes basket(= for dirty clothes )Will you please put your socks in the laundry basket?",
-                            "a shopping basketShe paid for the apples and put them in her shopping basket.",
-                            "a picnic basketWe took a picnic basket and a rug.",
-                            "a bread basket(= for serving bread )There was a bread basket on the table.",
-                            "a fruit basket(= containing fruits )He had a fruit basket sent up to her hotel room.",
-                            "a hanging basket(= for putting plants in and hanging outside )All the shops had hanging baskets outside their doors.",
-                            "a wicker basket(= made from the hard stems of a plant )She stores her vegetables in pretty wicker baskets."
+                            "clothes/laundry basket(= for dirty clothes )"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a wastepaper/waste basket",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for paper you throw away",
+                                "examples": [
+                                    "He threw her letter in the wastepaper basket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a laundry/clothes basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for dirty clothes",
+                                "examples": [
+                                    "Will you please put your socks in the laundry basket?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shopping basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She paid for the apples and put them in her shopping basket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a picnic basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We took a picnic basket and a rug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bread basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for serving bread",
+                                "examples": [
+                                    "There was a bread basket on the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fruit basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "containing fruits",
+                                "examples": [
+                                    "He had a fruit basket sent up to her hotel room."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hanging basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for putting plants in and hanging outside",
+                                "examples": [
+                                    "All the shops had hanging baskets outside their doors."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wicker basket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "made from the hard stems of a plant",
+                                "examples": [
+                                    "She stores her vegetables in pretty wicker baskets."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -170,36 +392,194 @@
                         "definition": "sth such as a box or bowl that you use to keep things in :",
                         "examples": [
                             "ice cream in plastic containers",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a plastic/glass/metal etc containerA lot of food is sold in plastic containers.",
-                            "an airtight/watertight container(= not allowing air or water in )Seeds are best stored in airtight containers.",
-                            "a sealed container(= closed, so that no air or water can get in )Place the ingredients in a sealed container and shake well.",
-                            "an open container(= that has been opened or that does not have a lid )Don't keep food in open containers in the fridge.",
-                            "a shallow container(= not deep )Fill a shallow container with soil.",
-                            "a recyclable container(= that can be put through a special process and used again )Try to buy food that is packed in recyclable containers.",
-                            "a water/food/milk etc container",
-                            "a storage container(= for storing things in )There are a lot of old toys in storage containers in the attic.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "fill a containerTwo big containers were filled with water.",
-                            "put sth in a containerThe food is then put in special containers.",
-                            "store sth in a containerCarrots from the garden were stored in containers of sand in the cellar.",
-                            "a container holds sthHow much liquid will this container hold?",
-                            ""
+                            "a water/food/milk etc container"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a plastic/glass/metal etc container",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A lot of food is sold in plastic containers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an airtight/watertight container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not allowing air or water in",
+                                "examples": [
+                                    "Seeds are best stored in airtight containers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sealed container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "closed, so that no air or water can get in",
+                                "examples": [
+                                    "Place the ingredients in a sealed container and shake well."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an open container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that has been opened or that does not have a lid",
+                                "examples": [
+                                    "Don't keep food in open containers in the fridge."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shallow container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not deep",
+                                "examples": [
+                                    "Fill a shallow container with soil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a recyclable container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that can be put through a special process and used again",
+                                "examples": [
+                                    "Try to buy food that is packed in recyclable containers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a storage container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for storing things in",
+                                "examples": [
+                                    "There are a lot of old toys in storage containers in the attic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fill a container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Two big containers were filled with water."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put sth in a container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The food is then put in special containers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "store sth in a container",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Carrots from the garden were stored in containers of sand in the cellar."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a container holds sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "How much liquid will this container hold?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -216,24 +596,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a large strong box that you use to store things in or to move your personal possessions from one place to another : rương, hòm, tủ, két",
-                        "examples": [
-                            "a large wooden chest",
-                            "Her books and clothes were packed into chests and shipped across toCanada."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a large wooden chest",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Her books and clothes were packed into chests and shipped across toCanada."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

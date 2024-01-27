@@ -39,24 +39,24 @@
                         "region": "",
                         "definition": "raw food has not been cooked:sống",
                         "examples": [
-                            "Sushi consists of raw fish and rice.",
-                            "a salad made with nuts, raisins and raw carrots",
-                            "If you can’t resist snacking between meals, eat something healthy such as fruit or raw vegetables."
+                            "Sushi consists of raw fish and rice."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a salad made with nuts, raisins and raw carrots",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "If you can’t resist snacking between meals, eat something healthy such as fruit or raw vegetables."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -75,27 +75,10 @@
                         "definition": "uncooked food has not yet been cooked, butshouldbecookedbefore it is eaten:chưa nấu, sống",
                         "examples": [
                             "Uncooked meat should be stored separately.",
-                            "Spoon the sauce into large uncooked pasta shells.",
-                            ""
+                            "Spoon the sauce into large uncooked pasta shells."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -114,23 +97,7 @@
                             "The poultry wasn’t cooked and the fish was practically raw."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -161,31 +128,126 @@
                         "definition": "the activity of making food and cooking it:việc nấu ăn, nấu nướng",
                         "examples": [
                             "His hobbies include cooking and wine-making.",
-                            "My mother always hated cooking.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "do the cookingWho does the cooking in your house?",
-                            "share the cooking(= both cook the food )Pete and I usually share the cooking.",
-                            "like/enjoy cookingI enjoy cooking at the weekend.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "cooking facilities(= somewhere to cook, with the equipment you need )The apartment has one bedroom and a sitting-room with cooking facilities.",
-                            "cooking time(= how long you cook something for )Adjust the cooking time according to the size of the bird.",
-                            "cooking utensils(= pots, spoons, knives etc that you use when cooking )The kitchen has all the cooking utensils you will need.",
-                            "a cooking methodAdjust your cooking methods for healthy eating."
+                            "My mother always hated cooking."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "do the cooking",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Who does the cooking in your house?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "share the cooking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "both cook the food",
+                                "examples": [
+                                    "Pete and I usually share the cooking."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "like/enjoy cooking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I enjoy cooking at the weekend."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cooking facilities",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "somewhere to cook, with the equipment you need",
+                                "examples": [
+                                    "The apartment has one bedroom and a sitting-room with cooking facilities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cooking time",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "how long you cook something for",
+                                "examples": [
+                                    "Adjust the cooking time according to the size of the bird."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cooking utensils",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "pots, spoons, knives etc that you use when cooking",
+                                "examples": [
+                                    "The kitchen has all the cooking utensils you will need."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cooking method",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Adjust your cooking methods for healthy eating."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -205,32 +267,143 @@
                         "examples": [
                             "My favourite subject at school was cookery.",
                             "Ken Lowery, a cookery expert, will be giving free demonstrations from 4.30 until 7.00.",
-                            "She studied at a vegetarian cookery school in London.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "vegetarian cookeryMore and more people are taking an interest in vegetarian cookery.",
-                            "microwave cookery(= cooking using a microwave oven )There are many books on microwave cookery.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a cookery book(= telling you how to cook food )She opened her cookery book and chose a recipe.",
-                            "a cookery demonstration(= when sb shows you how to cook sth)After the cookery demonstration there is a free buffet.",
-                            "a cookery courseI decided to take a three-week cookery course.",
-                            "a cookery class/lessonI had basic cookery lessons at school.",
-                            "a cookery programme(= showing people how to cook on television )There are a huge number of cookery programmes on TV nowadays.",
-                            "a cookery writer(= someone who writes books or articles about cooking )He's a cookery writer for a newspaper."
+                            "She studied at a vegetarian cookery school in London."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "vegetarian cookery",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "More and more people are taking an interest in vegetarian cookery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "microwave cookery",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "cooking using a microwave oven",
+                                "examples": [
+                                    "There are many books on microwave cookery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery book",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "telling you how to cook food",
+                                "examples": [
+                                    "She opened her cookery book and chose a recipe."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery demonstration",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when sb shows you how to cook sth",
+                                "examples": [
+                                    "After the cookery demonstration there is a free buffet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery course",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I decided to take a three-week cookery course."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery class/lesson",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I had basic cookery lessons at school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "showing people how to cook on television",
+                                "examples": [
+                                    "There are a huge number of cookery programmes on TV nowadays."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cookery writer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who writes books or articles about cooking",
+                                "examples": [
+                                    "He's a cookery writer for a newspaper."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -269,23 +442,7 @@
                             "The chicken was overcooked and dry."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -301,28 +458,11 @@
                         "examples": [
                             "Oh, no! I’ve burnt the chicken!",
                             "The muffins are a little burned on the bottom.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "burned/ burntUK [adj]cháy",
                             "the smell of burnt hamburger"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -354,23 +494,69 @@
                         "examples": [
                             "I can recommend that new Greek restaurant. Their cooking is excellent.",
                             "Stop criticizing my cooking!",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "home cooking(= food cooked at home, not in a restaurant ) nhà nấu",
                             "Home cooking always tastes best to me.",
-                            "Italian/French etc cookingFresh herbs are used a lot in Thai cooking.",
-                            "traditional cookingTraditional Asian cooking uses a lot of oil.",
-                            "vegetarian cookinga book on vegetarian cooking",
-                            "slow cookingSlow cooking gives the dish a better flavour."
+                            "Italian/French etc cookingFresh herbs are used a lot in Thai cooking."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "home cooking",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "food cooked at home, not in a restaurant",
+                                "examples": [
+                                    "nhà nấu"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "traditional cooking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Traditional Asian cooking uses a lot of oil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "slow cooking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Slow cooking gives the dish a better flavour."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "vegetarian cookinga book on vegetarian cooking",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -399,23 +585,7 @@
                             "cordon bleu cookery(= in the style of traditional French cooking of a high standard )She did a course in cordon bleu cookery."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -435,27 +605,10 @@
                             "Trompe Le Monde features classic French cuisine served amid sumptuous surroundings.",
                             "Venetian cuisine is based on seafood and rice.",
                             "cuisine of",
-                            "the traditional cuisine of the Southwest",
-                            ""
+                            "the traditional cuisine of the Southwest"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -486,20 +639,34 @@
                         "definition": "formal relating to cooking :",
                         "examples": [
                             "Mint is perhaps the best-known of culinary herbs.",
-                            "The use of garlic, whether for medicinal or culinary purposes, dates back several centuries.",
-                            "the culinarydelights(= pleasant tasting food) of Beijing",
-                            "My culinaryskillsare rather limited, I'm afraid (= I am not very good at cooking)!",
-                            "mushrooms dried for culinary use"
+                            "The use of garlic, whether for medicinal or culinary purposes, dates back several centuries."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the culinarydelights(= pleasant tasting food) of Beijing",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My culinaryskillsare rather limited, I'm afraid (= I am not very good at cooking)!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mushrooms dried for culinary use",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -530,23 +697,7 @@
                             "The rooms all havecooking facilities(= there is cooking equipment in the rooms )."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -579,23 +730,7 @@
                             "apple pie à la mode"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -631,23 +766,7 @@
                             "lightly cooked vegetables"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -663,23 +782,7 @@
                             "Are the vegetables done (= Have they finished cooking) yet?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -687,7 +790,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -697,23 +800,7 @@
                             "Okay, the chicken is on. What can I do now?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -746,23 +833,7 @@
                             "Would you like your steak rare, medium, or well-done?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -780,23 +851,7 @@
                             "I like my steak rare."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -810,27 +865,10 @@
                         "region": "",
                         "definition": "precooked food has been partly or completely cooked before it is sold so that it can be quickly heated up later : nấu sẵn",
                         "examples": [
-                            "Sales of precookedmealshave risen sharply over the past few years.",
-                            "precook[ T ] to cook food before it is needed so that it can be heated and then eaten at a later time : nấu sẵn"
+                            "Sales of precookedmealshave risen sharply over the past few years."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -845,23 +883,7 @@
                         "definition": "(of an egg) has been heated in its shell in boiling water until both the white and yellow parts are solid: chín lòng đỏ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -878,23 +900,7 @@
                             "jellied beef/ eels"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -909,23 +915,7 @@
                         "definition": "(of an egg) boiled long enough for the white part to become solid, but the yellow part in the centre is still liquid: hồng đào",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -941,23 +931,7 @@
                             "\"How would you like your steak done?\" \" Well-done (= Cooked for a long time) , please.\""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

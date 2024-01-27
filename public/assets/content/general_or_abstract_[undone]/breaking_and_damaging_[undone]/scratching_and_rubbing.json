@@ -40,24 +40,24 @@
                         "definition": "if the wind, rain, sea etc wears sth away, it very gradually destroys its surface until there is nothing left: bào mòn, ăn mòn",
                         "examples": [
                             "The action of the sea is constantly wearing away the cliff face.",
-                            "Environmentalists are concerned that rock climbers are wearing the crags away in some places.",
-                            "get worn away",
-                            "The cathedral steps were getting worn away by the feet of thousands of visitors."
+                            "Environmentalists are concerned that rock climbers are wearing the crags away in some places."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get worn away",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The cathedral steps were getting worn away by the feet of thousands of visitors."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -77,40 +77,180 @@
                         "examples": [
                             "Caves are formed by water eroding rock.",
                             "If the river is not controlled, it will erode its banks as well as the surrounding farmland.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "erosion[U] C1 the process by which rock or soil is gradually destroyed by wind, rain, or the sea",
                             "the problem of soil erosion",
                             "the erosion of the coastline",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "cause erosionAcid rain has caused serious erosion, and now the entire hillside could slide down.",
-                            "lead to/result in erosionPoor farming practices have led to erosion of the soil.",
-                            "suffer (from) erosionMany areas of farmland have suffered severe erosion.",
-                            "reduce erosionnew measures designed to stop flooding and reduce erosion",
-                            "erosion happens/occursThe highest rates of erosion occur where soil is exposed to drought.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "serious/severe erosionSome areas of the coast have suffered severe erosion.",
-                            "significant erosion(= quite severe )This system of cultivation leads to significant erosion of the subsoil.",
-                            "soil erosionSoil erosion is worse in areas where trees have been cut down.",
-                            "marine/coastal erosion(= on land that is close to the sea )Coastal erosion is worrying the local residents.",
-                            "water/wind erosion(= caused by water or wind )Hedgerows and trees help to reduce the effect of wind erosion.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the rate of erosionThe maps show that the average rate of coastal erosion is about four metres per year.",
-                            ""
+                            "reduce erosionnew measures designed to stop flooding and reduce erosion"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cause erosion",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Acid rain has caused serious erosion, and now the entire hillside could slide down."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lead to/result in erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Poor farming practices have led to erosion of the soil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "from",
+                                "examples": [
+                                    "erosionMany areas of farmland have suffered severe erosion."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "erosion happens/occurs",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The highest rates of erosion occur where soil is exposed to drought."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "serious/severe erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Some areas of the coast have suffered severe erosion."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "significant erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "quite severe",
+                                "examples": [
+                                    "This system of cultivation leads to significant erosion of the subsoil."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "soil erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Soil erosion is worse in areas where trees have been cut down."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "marine/coastal erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "on land that is close to the sea",
+                                "examples": [
+                                    "Coastal erosion is worrying the local residents."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "water/wind erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "caused by water or wind",
+                                "examples": [
+                                    "Hedgerows and trees help to reduce the effect of wind erosion."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the rate of erosion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The maps show that the average rate of coastal erosion is about four metres per year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -159,23 +299,7 @@
                             "▪ precious stones that have been rubbed smooth and set in gold"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -183,7 +307,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase]",
                         "usage": "",
                         "region": "",
@@ -195,23 +319,7 @@
                             "\"Nếu gặp trai trẻ\", cô ta chỉ \"cắn nhẹ môi rồi xoa má để trông hồng hào hơn\"."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -233,23 +341,7 @@
                             "Đừng gãi - nó chỉ khiến bạn ngứa hơn thôi."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -278,28 +370,42 @@
                         "usage": "",
                         "region": "",
                         "definition": "chàxát, xoa",
-                        "examples": [
-                            "rub sth against/on sth",
-                            "When the cat rubs its back against my legs, I know it’s hungry.",
-                            "Rubbing a dock leaf on a nettle sting is said to get rid of the pain.",
-                            "rub sth togetherto rub two things together:chà xát, xoa",
-                            "Jan rubbed his hands together to keep them warm.",
-                            "Male crickets make a noise by rubbing their wings together."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "rub sth against/on sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "When the cat rubs its back against my legs, I know it’s hungry.",
+                                    "Rubbing a dock leaf on a nettle sting is said to get rid of the pain."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rub sth togetherto rub two things together:chà xát, xoa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Jan rubbed his hands together to keep them warm.",
+                                    "Male crickets make a noise by rubbing their wings together."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -317,26 +423,41 @@
                         "region": "",
                         "definition": "to make sth hard rub roughly on a hard surface:kéo lê, chà, xát",
                         "examples": [
-                            "Stop scraping your chair!",
-                            "scrape sth on/against/across etc sth",
-                            "We scraped our shoes on the doorstep to get the mud off them.",
-                            "scrape sth off (sth)",
-                            "I’ll have to scrape the ice off the windscreen before we set off."
+                            "Stop scraping your chair!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "scrape sth on/against/across etc sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We scraped our shoes on the doorstep to get the mud off them."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "scrape sth off (sth)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I’ll have to scrape the ice off the windscreen before we set off."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -371,25 +492,25 @@
                         "definition": "to rub against sth, often causing pain or damage:chà xát",
                         "examples": [
                             "▪ This seatbelt is rubbing my shoulder.",
-                            "▪ Badly fitting shoes will rub more painfully if you are not wearing socks.",
-                            "rub against",
-                            "▪ The teacher rubbed against the blackboard, getting chalk all over his back.",
-                            "▪ These days rucksacks are made with specially padded straps so that they do not rub against the shoulders."
+                            "▪ Badly fitting shoes will rub more painfully if you are not wearing socks."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "rub against",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The teacher rubbed against the blackboard, getting chalk all over his back.",
+                                    "▪ These days rucksacks are made with specially padded straps so that they do not rub against the shoulders."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -407,26 +528,26 @@
                         "region": "",
                         "definition": "to rub roughly against a hard surface, often making a noise:cạo",
                         "examples": [
-                            "▪ Outside snow plows were scraping the street.",
-                            "scrape on/against/along",
-                            "▪ Three workmen came into the store -- I could hear their boots scraping on the floor.",
-                            "▪ The sound of knives and forks scraping against plates filled the canteen.",
-                            "▪ It was not until we felt the exhaust pipe scraping along the road that we realized there was something wrong with the car."
+                            "▪ Outside snow plows were scraping the street."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "scrape on/against/along",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Three workmen came into the store -- I could hear their boots scraping on the floor.",
+                                    "▪ The sound of knives and forks scraping against plates filled the canteen.",
+                                    "▪ It was not until we felt the exhaust pipe scraping along the road that we realized there was something wrong with the car."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -448,23 +569,7 @@
                             "My dress was too tight under the arms and had a collar that chafed."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -494,8 +599,6 @@
                         "region": "",
                         "definition": "to damage a painted or polished surface by making long thin marks on it with something sharp or rough: làm xước, cào xước",
                         "examples": [
-                            "Be careful not to scratch the table with those scissors",
-                            "I scratched the side of the car as I was backing it into the driveway.",
                             "scratched[adj] bị xước",
                             "The kitchen has a beautiful wooden floor, but it’s badly scratched."
                         ],
@@ -503,16 +606,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Be careful not to scratch the table with those scissors",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I scratched the side of the car as I was backing it into the driveway."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

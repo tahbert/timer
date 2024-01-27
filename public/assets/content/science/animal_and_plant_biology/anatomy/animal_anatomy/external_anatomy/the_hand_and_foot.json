@@ -39,50 +39,391 @@
                         "region": "",
                         "definition": "the part of your body that you stand on and walk on :",
                         "examples": [
-                            "My foot hurts.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "left footMy left foot ached a bit.",
-                            "right footHe has broken a bone in his right foot.",
-                            "front foot(= of an animal )The tiger has five claws in each of its front feet.",
-                            "back/hind foot(= of an animal )The horse lifted its back foot.",
-                            "big/smallHe had small neat feet.",
-                            "bare(= without any socks or shoes )The marble floor felt cold under his bare feet.",
-                            "flat(= having a medical condition in which someone’s feet rest flat on the ground, with no curved part )We’ve both got slightly flat feet.",
-                            "booted/sandalled feet(= wearing boots or sandals )He put down his rucksack and stretched out his booted feet.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "injure/ hurt your footSimon injured his foot while playing rugby.",
-                            "sb’s foot hurtsShe complained that her foot was hurting.",
-                            "raise/lift your feetHe raised his foot off the floor and rested it on a chair.",
-                            "drag your feet(= walk slowly in an unwilling way )I was dragging my feet because I didn’t want to get there.",
-                            "wipe your feet(= wipe your shoes on a mat to remove dirt )Be sure to wipe your feet before coming into the house.",
-                            "stamp your feet(= bang them noisily on the ground )He stamped his feet in an attempt to keep warm.",
-                            "tap your feet(= bang them gently on the ground )She was tapping her feet in time with the music.",
-                            "shuffle your feet(= make small movements with them, because you are nervous or impatient )Ken shuffled his feet and looked down at the floor.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "a foot injuryHe suffered a foot injury during the match against Sporting Lisbon.",
-                            "a foot massageWould you like a foot massage?",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "at sb’s feet(= on the ground, near your feet )The dog was sitting at his master’s feet.",
-                            "in your stockinged/ stocking feet(= not wearing shoes )She stood 5ft 6 inches tall in her stockinged feet.",
-                            "my feet are killing meinformal(= my feet are hurting )",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "-footed[suffix] with feet of the stated type or number",
-                            "our four-footed friends (=animals having four feet)",
-                            "flat-footed players/ bare-footed children (= children wearing no shoes)"
+                            "My foot hurts."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "left foot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "My left foot ached a bit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "right foot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He has broken a bone in his right foot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "front foot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "of an animal",
+                                "examples": [
+                                    "The tiger has five claws in each of its front feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "back/hind foot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "of an animal",
+                                "examples": [
+                                    "The horse lifted its back foot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "big/small",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had small neat feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bare",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "without any socks or shoes",
+                                "examples": [
+                                    "The marble floor felt cold under his bare feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "flat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "having a medical condition in which someone’s feet rest flat on the ground, with no curved part",
+                                "examples": [
+                                    "We’ve both got slightly flat feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "booted/sandalled feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "wearing boots or sandals",
+                                "examples": [
+                                    "He put down his rucksack and stretched out his booted feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "injure/ hurt your foot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Simon injured his foot while playing rugby."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s foot hurts",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She complained that her foot was hurting."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "raise/lift your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He raised his foot off the floor and rested it on a chair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "drag your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "walk slowly in an unwilling way",
+                                "examples": [
+                                    "I was dragging my feet because I didn’t want to get there."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wipe your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "wipe your shoes on a mat to remove dirt",
+                                "examples": [
+                                    "Be sure to wipe your feet before coming into the house."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "stamp your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "bang them noisily on the ground",
+                                "examples": [
+                                    "He stamped his feet in an attempt to keep warm."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tap your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "bang them gently on the ground",
+                                "examples": [
+                                    "She was tapping her feet in time with the music."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shuffle your feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make small movements with them, because you are nervous or impatient",
+                                "examples": [
+                                    "Ken shuffled his feet and looked down at the floor."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a foot injury",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He suffered a foot injury during the match against Sporting Lisbon."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a foot massage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Would you like a foot massage?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "at sb’s feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "on the ground, near your feet",
+                                "examples": [
+                                    "The dog was sitting at his master’s feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in your stockinged/ stocking feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not wearing shoes",
+                                "examples": [
+                                    "She stood 5ft 6 inches tall in her stockinged feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "my feet are killing meinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "my feet are hurting",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "our four-footed friends",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "animals having four feet",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "flat-footed players/ bare-footed children",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "children wearing no shoes",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -101,67 +442,513 @@
                         "region": "",
                         "definition": "the part of your body at the end of your arm, including your fingers and thumb, that you use to hold , move, touch and feel things:",
                         "examples": [
-                            "In her hand was a tattered old photograph.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "sb’s right/ left hand",
-                            "She held the book in her right hand.",
-                            "sb’s free hand(the hand sb is not already using )",
-                            "Amy was stroking the dog with her free hand.",
-                            "a gloved hand(covered with a glove)",
-                            "He stretched out a gloved hand.",
-                            "an outstretched hand(stretched out towards sb or sth)",
-                            "She took her father's outstretched hand and began to walk from the room.",
-                            "sb’s cupped hand(= in the shape of a cup )",
-                            "Hamil shook the dice in his cupped hand.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "wave your hand",
-                            "Marta waved a hand to attract his attention.",
-                            "clap your hands",
-                            "They were singing and clapping their hands.",
-                            "wash your hands",
-                            "Go wash your hands before dinner.",
-                            "hold hands (with sb)",
-                            "Joanne and Kevin held hands on the sofa.",
-                            "shake sb’s hand(alsoshake hands with sb)",
-                            "‘Nice to meet you,’ he said, as they shook hands.",
-                            "take sb’s hand(= hold someone’s hand )",
-                            "He reached across the table and took her hand in his.",
-                            "take sb by the hand(hold someone’s hand in order to take them somewhere )",
-                            "She took the boy by the hand and led him across the street.",
-                            "join hands(= take hold of the hands of people on either side of you )They stood in a circle and joined hands.",
-                            "clasp your hands(= hold them together tightly )Emily clasped her hands together and stood there nervously.",
-                            "fold your hands(= put your hands together and rest them on something )Lily folded both hands on her stomach.",
-                            "raise your hand(alsoput your hand up) (= lift your hand, especially when you want to ask or answer a question )If you know the answer, raise your hand.",
-                            "sb’s hands shake/ trembleHis hands trembled as he lifted the cup.",
-                            "sb’s hand holds sthHis other hand was holding his mobile phone.",
-                            "sb’s hand touches sthDaniel's hand touched mine.",
-                            "sb’s hand grips sth(= hold something firmly )Her hands gripped the steering wheel very tightly.",
-                            "sb’s hand grabs/grasps sth(= take and hold something firmly )He felt Connor's hand grasp his shoulder.",
-                            "sb’s hand tightensHer hand tightened on the knife handle.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "a hand movementThe disease means she has trouble controlling her hand movements.",
-                            "a hand gesture/signal(= a movement of your hand to show what you mean )He made a rude hand gesture at the other driver.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "in sb’s handHe had a suitcase in his hand.",
-                            "on your hands and knees(= in a crawling position )They got down on their hands and knees to search.",
-                            "the palm of your hand(= the inside surface of your hand )The phone could fit into the palm of his hand.",
-                            "the back of your hand(= the outside surface of your hand )Let a dog sniff the back of your hand, rather than your fingers.",
-                            "with your bare hands(= without using a tool, weapon, machine etc )With his bare hands he forced the doors apart."
+                            "In her hand was a tattered old photograph."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sb’s cupped hand",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in the shape of a cup",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shake sb’s hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoshake hands with sb",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "‘",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "Nice to meet you,’ he said, as they shook hands."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take sb’s hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "hold someone’s hand",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "join hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take hold of the hands of people on either side of you",
+                                "examples": [
+                                    "They stood in a circle and joined hands."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clasp your hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "hold them together tightly",
+                                "examples": [
+                                    "Emily clasped her hands together and stood there nervously."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fold your hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put your hands together and rest them on something",
+                                "examples": [
+                                    "Lily folded both hands on her stomach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "raise your hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoput your hand up",
+                                "examples": [
+                                    "(= lift your hand, especially when you want to ask or answer a question )If you know the answer, raise your hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hands shake/ tremble",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His hands trembled as he lifted the cup."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hand holds sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His other hand was holding his mobile phone."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hand touches sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Daniel's hand touched mine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hand grips sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "hold something firmly",
+                                "examples": [
+                                    "Her hands gripped the steering wheel very tightly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hand grabs/grasps sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take and hold something firmly",
+                                "examples": [
+                                    "He felt Connor's hand grasp his shoulder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s hand tightens",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Her hand tightened on the knife handle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hand movement",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The disease means she has trouble controlling her hand movements."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hand gesture/signal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a movement of your hand to show what you mean",
+                                "examples": [
+                                    "He made a rude hand gesture at the other driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in sb’s hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had a suitcase in his hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "on your hands and knees",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in a crawling position",
+                                "examples": [
+                                    "They got down on their hands and knees to search."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the palm of your hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the inside surface of your hand",
+                                "examples": [
+                                    "The phone could fit into the palm of his hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the back of your hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the outside surface of your hand",
+                                "examples": [
+                                    "Let a dog sniff the back of your hand, rather than your fingers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "with your bare hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "without using a tool, weapon, machine etc",
+                                "examples": [
+                                    "With his bare hands he forced the doors apart."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s right/ left hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She held the book in her right hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s free hand(the hand sb is not already using )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Amy was stroking the dog with her free hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gloved hand(covered with a glove)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He stretched out a gloved hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an outstretched hand(stretched out towards sb or sth)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She took her father's outstretched hand and began to walk from the room.",
+                                    "Hamil shook the dice in his cupped hand."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wave your hand",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Marta waved a hand to attract his attention."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clap your hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They were singing and clapping their hands."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wash your hands",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Go wash your hands before dinner."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hold hands (with sb)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Joanne and Kevin held hands on the sofa.",
+                                    "He reached across the table and took her hand in his."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take sb by the hand(hold someone’s hand in order to take them somewhere )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She took the boy by the hand and led him across the street."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -198,28 +985,11 @@
                             "Hestubbedhistoe(= hurt it by kicking it against something )on a rock.",
                             "little/big toe(the smallest or largest of your toes )",
                             "your big toe/ your little toe",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "-toed[suffix] having toes as described",
                             "the two-toed sloth"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -232,24 +1002,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "the rounded back part of the foot:gót chân",
-                        "examples": [
-                            "the heel of your foot(= the curved back part of your foot )",
-                            "He kicked his opponent with the heel of his foot."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the heel of your foot(= the curved back part of your foot )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He kicked his opponent with the heel of his foot."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -266,25 +1035,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "the bottom surface of your foot, especially the part you walk or stand on :lòng bàn chân",
-                        "examples": [
-                            "the sole of your foot",
-                            "The soles of her feet were aching from the long walk.",
-                            "Thesoles ofhisfeetwere caked in mud."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the sole of your foot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The soles of her feet were aching from the long walk.",
+                                    "Thesoles ofhisfeetwere caked in mud."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -301,24 +1069,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "the raised part of your foot between your toes and your ankle :mu bàn chân",
-                        "examples": [
-                            "the instep of your foot",
-                            "Open your stance slightly, play the ball back - opposite the instep of your right foot - and make a steep, aggressive swing."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the instep of your foot",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Open your stance slightly, play the ball back - opposite the instep of your right foot - and make a steep, aggressive swing."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -360,23 +1127,7 @@
                             "Varney slammed his fist down onto the table so hard the dishes jumped."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -389,25 +1140,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "done with the hands : làm bằng tay, thủ công",
-                        "examples": [
-                            "the manual sorting of letters",
-                            "She tried to cure the pain in my knee by putting manual pressure on the joint.",
-                            "It would take too long to do a manual search of all the data."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the manual sorting of letters",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She tried to cure the pain in my knee by putting manual pressure on the joint.",
+                                    "It would take too long to do a manual search of all the data."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -441,44 +1191,36 @@
                         "region": "",
                         "definition": "your nails are the hard smooth layers on the ends of your fingers and toes : móng",
                         "examples": [
-                            "He still had dirt under his nails.",
-                            "finger nail/ fingernail/toe nail/ toenail[more specific]",
-                            "She had small hands with polished finger nails.",
-                            "His toenails were long and dirty.",
-                            "long/ short/ dirty/ clean",
-                            "Her long nails were painted a pearly pink.",
-                            "How did you get such dirty nails?",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "cut your nails",
-                            "You should cut your nails more often!",
-                            "trim your nails(cut a small amount off )",
-                            "His nails were neatly trimmed.",
-                            "file your nails",
-                            "A girl was filing her nails on the bus.",
-                            "bite your nails",
-                            "Eddie bit his nails nervously.",
-                            "paint/ polish/ varnish your nails(to put coloured liquid on your nails)",
-                            "Don't paint short nails in dark colours.",
-                            "manicure your nails(to make your nails look attractive by cutting them and making the skin around them neat)",
-                            "She had manicured nails and expensive clothes.",
-                            "do your nailsinformal(= to cut or paint your nails )",
-                            "She sat at her desk, doing her nails.",
-                            "break a nail(= to accidentally damage a nail on one of your fingers )",
-                            "Oh, no, I've broken a nail."
+                            "He still had dirt under his nails."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "do your nailsinformal",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
+                                "definition": "to cut or paint your nails",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "break a nail",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to accidentally damage a nail on one of your fingers",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -501,23 +1243,7 @@
                             "Hernailswerebitten to the quick."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -530,24 +1256,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "the ball of your foot or thumb is the rounded part where the toes join the foot and the thumb joins the hand.",
-                        "examples": [
-                            "the ball of your hand/ foot(= the rounded part of your foot at the base of the toes )",
-                            "He has a blister on the ball of his foot."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the ball of your hand/ foot(= the rounded part of your foot at the base of the toes )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He has a blister on the ball of his foot."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -568,23 +1293,7 @@
                             "She's having an operation on an ingrowingtoenail."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -615,23 +1324,7 @@
                         "definition": "the finger nearest to your little finger . In many Western cultures, people often wear a ring on their ring finger to show that they are married or are planning to get married. : ngón áp út",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -648,23 +1341,7 @@
                             "a baby sucking its thumb"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -679,23 +1356,7 @@
                         "definition": "the longest finger on the hand : ngón tay giữa (kế ngón trỏ và ngónáp út)",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -712,23 +1373,7 @@
                             "a pinkie ring"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -743,23 +1388,7 @@
                         "definition": "/index finger the finger next to the thumb : ngón tay trỏ",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -792,23 +1421,7 @@
                             "Few of us are naturally ambidextrous"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -824,27 +1437,10 @@
                         "examples": [
                             "Are you left-handed?",
                             "a left-handed bowler",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "left-hander[ C ] sb who uses their left hand to write and do most things"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -858,28 +1454,10 @@
                         "region": "",
                         "definition": "using your right hand to write with and do most things: thuận tay phải",
                         "examples": [
-                            "She's right-handed.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "right-hander[ C ] informal sb who uses their right hand for writing and for doing most things"
+                            "She's right-handed."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -916,23 +1494,7 @@
                             "The police questioned Beresford andtookhisfingerprints(= made a record of them )."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -949,23 +1511,7 @@
                             "Her knuckles whitened as she gripped the gun."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -979,25 +1525,25 @@
                         "region": "",
                         "definition": "the inside part of your hand from your wrist to the base of your fingers : lòng bàn tay",
                         "examples": [
-                            "This tiny device fits intothepalmofyourhand.",
-                            "in sb’s palm",
-                            "She looked at the coins in her palm.",
-                            "He held the pebblein the palm of his hand."
+                            "This tiny device fits intothepalmofyourhand."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in sb’s palm",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She looked at the coins in her palm.",
+                                    "He held the pebblein the palm of his hand."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1022,23 +1568,7 @@
                             "two-fingered typing"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1055,23 +1585,7 @@
                             "Use your fingertips to gently flatten the pastry."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

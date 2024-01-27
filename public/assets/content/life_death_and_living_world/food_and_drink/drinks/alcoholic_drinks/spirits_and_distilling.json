@@ -45,23 +45,7 @@
                             "vintage champagne/port/claret"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,42 +60,233 @@
                         "definition": "an alcoholic drink which is usually made from grapes , but can also be made from other fruits or flowers. It is made by fermenting the fruit with water and sugar : rượu vang",
                         "examples": [
                             "a glass of wine",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "red/white/rosé wineThe waiter brought some red wine.",
-                            "dry wine(= not sweet )a dry white wine",
-                            "sweet wineA slightly sweet wine goes well with smoked duck.",
-                            "sparkling wine(= with bubbles of gas in it )The best-known sparkling wine is champagne.",
-                            "strong wine(= having a lot of alcohol )This village produces strong wines of good character.",
-                            "light wine(= without a lot of alcohol )The wine is light and refreshing.",
                             "fruity winea fresh and fruity wine made in France",
-                            "full-bodied wine(= with a pleasantly strong taste )full-bodied red wines such as claret",
                             "French/Spanish etc wineThe restaurant has a wide selection of French wines.",
-                            "vintage wine(= good quality wine from a particular year )He was a collector of vintage wines.",
-                            "fine wine(= a good and expensive wine )He was a lover of fine wines and good food.",
-                            "table wine(= an inexpensive wine to drink with a meal ) rượu thường",
                             "The vineyard produce table wines for local use.",
-                            "the house wine(= ordinary wine that is used in restaurants, in contrast to wines that are sold by the bottle and have the label of a wine produce on them )a glass of the house wine",
                             "fortified winea winethat contains more alcohol than wines usually do : rượu mạnh",
                             "Sherry and Martini are fortified wines.",
-                            "dessert winea sweet wine,especially for drinking with sweet food : rượu ngọt tráng miệng",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a bottle of wineThey opened a bottle of wine.",
-                            "a glass of wineI poured myself a glass of wine."
+                            "dessert winea sweet wine,especially for drinking with sweet food : rượu ngọt tráng miệng"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "red/white/rosé wine",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The waiter brought some red wine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "dry wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not sweet",
+                                "examples": [
+                                    "a dry white wine"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sweet wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A slightly sweet wine goes well with smoked duck."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sparkling wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with bubbles of gas in it",
+                                "examples": [
+                                    "The best-known sparkling wine is champagne."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "strong wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "having a lot of alcohol",
+                                "examples": [
+                                    "This village produces strong wines of good character."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "light wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "without a lot of alcohol",
+                                "examples": [
+                                    "The wine is light and refreshing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "full-bodied wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a pleasantly strong taste",
+                                "examples": [
+                                    "full-bodied red wines such as claret"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "vintage wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "good quality wine from a particular year",
+                                "examples": [
+                                    "He was a collector of vintage wines."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fine wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a good and expensive wine",
+                                "examples": [
+                                    "He was a lover of fine wines and good food."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "table wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an inexpensive wine to drink with a meal",
+                                "examples": [
+                                    "rượu thường"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the house wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ordinary wine that is used in restaurants, in contrast to wines that are sold by the bottle and have the label of a wine produce on them",
+                                "examples": [
+                                    "a glass of the house wine"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bottle of wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They opened a bottle of wine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a glass of wine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I poured myself a glass of wine."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -133,23 +308,7 @@
                             "The champagne corks were popping (= Bottles of champagne were opened) when Guy got his new job."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -40,9 +40,6 @@
                         "definition": "basic medical treatment which is given to someone as soon as possible after they have been hurt in an accident or suddenly become ill : sơ cứu",
                         "examples": [
                             "Did you learn any first aid at school?",
-                            "first-aid equipment",
-                            "Beinggiven first aidat the scene of the accident probably saved his life.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "first-aiderUK [ C ] sb who is qualified to give first aid",
                             "How many first-aiders are there in your office?"
                         ],
@@ -50,16 +47,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "first-aid equipment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Beinggiven first aidat the scene of the accident probably saved his life."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -78,28 +77,12 @@
                         "definition": "the science of understanding illness and injury, and the methods used for treating them:y học , y khoa",
                         "examples": [
                             "She studied medicine at Johns Hopkins University.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "modern medicine(= medicine based on science )Thanks to modern medicine, these babies will survive.",
-                            "conventional/orthodox medicine(= ordinary modern medicine )Some sufferers reject conventional medicine.",
-                            "Western medicine(= conventional medicine as developed in Western countries )the scientific basis of Western medicine",
-                            "traditional medicine(= medical treatments that were used before modern medicine )The plant was used in traditional medicine for the treatment of stomach problems.",
-                            "alternative/complementary medicine(= medical treatments that are not part of modern medicine )Various types of alternative medicine, particularly acupuncture, can give pain relief.",
-                            "herbal medicine(= medical treatments that use herbs )In ancient China, herbal medicine was often used with acupuncture.",
-                            "holistic medicine(= medical treatment of a whole person, not just a particular illness )One principle of holistic medicine is that each person is unique.",
-                            "folk medicine(= medical treatments that were used by ordinary people, especially in the past )Researchers are looking at plants that are commonly used in folk medicine.",
-                            "Chinese medicine(= medical treatments that are traditional in China, for example using herbs and acupuncture )Acupuncture is part of traditional Chinese medicine.",
-                            "geriatric/veterinary/tropical etc medicine(= medical study relating to specific groups or types of illness )Advances have been made in veterinary medicine, so that our pets are living longer, healthier lives.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "medical[adj] [B2] related to the treatment of illness and injuries",
                             "medical research",
                             "medical staff",
                             "a medical student",
-                            "a patient’smedical history(= the illnesses they have had )",
-                            "medical records(= which show what illnesses and treatment someone has had )",
                             "medical attention/treatment/care",
                             "The injury required urgent medical attention.",
-                            "the medical profession(= doctors, nurses, and other people who treat people who are ill )",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "medically[adv]",
                             "medically qualified personnel",
                             "medically fit"
@@ -108,15 +91,215 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "modern medicine",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "",
+                                "definition": "medicine based on science",
+                                "examples": [
+                                    "Thanks to modern medicine, these babies will survive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "conventional/orthodox medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ordinary modern medicine",
+                                "examples": [
+                                    "Some sufferers reject conventional medicine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Western medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "conventional medicine as developed in Western countries",
+                                "examples": [
+                                    "the scientific basis of Western medicine"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "traditional medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatments that were used before modern medicine",
+                                "examples": [
+                                    "The plant was used in traditional medicine for the treatment of stomach problems."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "alternative/complementary medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatments that are not part of modern medicine",
+                                "examples": [
+                                    "Various types of alternative medicine, particularly acupuncture, can give pain relief."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "herbal medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatments that use herbs",
+                                "examples": [
+                                    "In ancient China, herbal medicine was often used with acupuncture."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "holistic medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatment of a whole person, not just a particular illness",
+                                "examples": [
+                                    "One principle of holistic medicine is that each person is unique."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "folk medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatments that were used by ordinary people, especially in the past",
+                                "examples": [
+                                    "Researchers are looking at plants that are commonly used in folk medicine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Chinese medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical treatments that are traditional in China, for example using herbs and acupuncture",
+                                "examples": [
+                                    "Acupuncture is part of traditional Chinese medicine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "geriatric/veterinary/tropical etc medicine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "medical study relating to specific groups or types of illness",
+                                "examples": [
+                                    "Advances have been made in veterinary medicine, so that our pets are living longer, healthier lives."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a patient’smedical history",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the illnesses they have had",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "medical records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which show what illnesses and treatment someone has had",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the medical profession",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "doctors, nurses, and other people who treat people who are ill",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -146,23 +329,7 @@
                             "disapprovingShould doctors always remain clinically detached from (= express no emotion towards) their patients?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -193,23 +360,7 @@
                         "definition": "/ etiologyUS  specialized the scientific study of the cause of diseases :khoa nghiên cứu nguyên nhân bệnh",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -223,28 +374,10 @@
                         "region": "",
                         "definition": "UK/pediatricsUS  the science or study of medical care for children :nhi khoa",
                         "examples": [
-                            "She specializes in paediatrics.",
-                            "paediatricianUK/pediatricianUS [ C ] a doctor who has special training in medical care for children :bác sĩ khoa nhi",
-                            ""
+                            "She specializes in paediatrics."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -259,23 +392,7 @@
                         "definition": "US the part of medical science that is involved in the discovery of diseases inside the body and the treatment of them without cutting the body open:nội khoa(không mổ)",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -295,23 +412,7 @@
                             "pathologically[adv]"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -330,23 +431,7 @@
                             "geriatrician[ C ] specialized a doctor who specializes in the care and treatment of old people who are ill :bác sĩ lão khoa"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -361,23 +446,7 @@
                         "definition": "the branch of medical practice that treats injuries, diseases, and deformities by the physical removal, repair, or readjustment of organs and tissues, often involving cutting into the body: ngoại khoa",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

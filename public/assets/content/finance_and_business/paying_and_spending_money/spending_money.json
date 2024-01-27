@@ -60,23 +60,7 @@
                             "_We went on a spendingspree(= We bought a lot of things) on Saturday."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -90,28 +74,58 @@
                         "region": "",
                         "definition": "/ˌpeɪ ˈaʊt/  to spend more money on something than you want to spend or more than you think is fair:",
                         "examples": [
-                            "▪ £65! I don’t want to pay out that much!",
-                            "pay out for",
-                            "▪ You have to pay out so much money for car repairs these days.",
-                            "pay out on",
-                            "▪ The idea of paying out half my salary on rent didn’t sound too good.",
-                            "pay out £5/$10 etc",
-                            "▪ Did you know that Eddy paid out nearly £2000 for his new computer?"
+                            "▪ £65! I don’t want to pay out that much!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "pay out for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ You have to pay out so much money for car repairs these days."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pay out on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The idea of paying out half my salary on rent didn’t sound too good."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pay out £5/$10 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Did you know that Eddy paid out nearly £2000 for his new computer?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -133,23 +147,7 @@
                             "▪ I really want to avoid having to break into the money I was saving for college."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -162,25 +160,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌpeɪ gʊd ˈmʌni fɔːʳ/ spokenuse this to talk about something you paid areasonableprice for, so you expect it to be of good quality or used properly so that your money hasnot been wasted:",
-                        "examples": [
-                            "chi tiêu hợp lí",
-                            "▪ I paid good money for that tennis racquet and it broke the first time I used it.",
-                            "▪ What’s the point of paying good money for a wedding dress when I’m only going to wear it once?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chi tiêu hợp lí",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I paid good money for that tennis racquet and it broke the first time I used it.",
+                                    "▪ What’s the point of paying good money for a wedding dress when I’m only going to wear it once?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -205,23 +202,7 @@
                             "▪ The set meal costs £15 but you have to pay extra for wine."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -251,9 +232,6 @@
                         "region": "",
                         "definition": "/ˈθrɪfti/  spending money carefully and cleverly so that nothing is wasted and you can manage with the money you have:",
                         "examples": [
-                            "tiết kiệm",
-                            "▪ Mrs Jones was a very thrifty woman who never wasted anything.",
-                            "▪ By being thrifty and shopping wisely you can feed an entire family on as little as $100 a week.",
                             "thrift[uncountable noun]",
                             "▪ The old values of thrift being thrifty and hard work seem to be things of the past."
                         ],
@@ -261,16 +239,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiết kiệm",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Mrs Jones was a very thrifty woman who never wasted anything.",
+                                    "▪ By being thrifty and shopping wisely you can feed an entire family on as little as $100 a week."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -287,26 +268,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈkeəʳfəl/  spending money only on things that are necessary or cheap because you want your money to last as long as possible:",
-                        "examples": [
-                            "cẩn trọng ( chi tiêu )",
-                            "▪ I wouldn’t say he was mean -- he’s just careful.",
-                            "careful with money",
-                            "▪ Once you’ve spent your allowance there won’t be any more. You must learn to be more careful with money."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cẩn trọng ( chi tiêu )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I wouldn’t say he was mean -- he’s just careful."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "careful with money",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Once you’ve spent your allowance there won’t be any more. You must learn to be more careful with money."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -324,9 +319,6 @@
                         "region": "",
                         "definition": "/ˌekəˈnɒmɪkəl, ˌiː-ǁ-ˈnɑː-/  spending money carefully and sensibly so that you do not spend more than necessary:",
                         "examples": [
-                            "tiết kiệm",
-                            "▪ I’m trying to be more economical when I go shopping, and only buying what I really need.",
-                            "▪ Tim’s a very economical person,. He always looks around for the best buys.",
                             "economically[adverb]",
                             "▪ By shopping economically, you can save a lot of money on your weekly bill."
                         ],
@@ -334,16 +326,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiết kiệm",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I’m trying to be more economical when I go shopping, and only buying what I really need.",
+                                    "▪ Tim’s a very economical person,. He always looks around for the best buys."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -361,9 +356,6 @@
                         "region": "",
                         "definition": "/ˈfruːgəl/  spending as little money as possible,evenon things that arenecessarysuch as food and drink, especially because you arepoor:",
                         "examples": [
-                            "căn cơ, đạm bạc",
-                            "▪ He was very frugal, and would often use a tea bag three or four times over.",
-                            "▪ The monks lead a frugal life, allowing themselves only the bare essentials.",
                             "frugally[adverb]",
                             "▪ We moved to a little house in the country and tried to live as frugally as possible."
                         ],
@@ -371,16 +363,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "căn cơ, đạm bạc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ He was very frugal, and would often use a tea bag three or four times over.",
+                                    "▪ The monks lead a frugal life, allowing themselves only the bare essentials."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -422,23 +417,7 @@
                             "▪ In recent years the company has spent a lot of money on new technology."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -450,24 +429,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "splash out(sth)phrasal verbUK",
-                        "examples": [
-                            "to spend a lot of money on buying things, especially things which are pleasant to have but which you do not need",
-                            "_They splashed out £3000ona holiday."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to spend a lot of money on buying things, especially things which are pleasant to have but which you do not need",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_They splashed out £3000ona holiday."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -484,24 +462,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "laysthoutphrasal verbSPEND MONEY",
-                        "examples": [
-                            "informalto spend money, especially a large amount",
-                            "_It's not every day you lay out £2000ona holiday."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "informalto spend money, especially a large amount",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_It's not every day you lay out £2000ona holiday."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -518,26 +495,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/gəʊ tə ˌgreɪt ɪkˈspens/  to spend verylargeamounts of money on somethingimportant, even if it costs youmore thanyou can afford:",
-                        "examples": [
-                            "chi một đống tiền ( nhiều hơn khả năng chi trả của bạn )",
-                            "▪ The wedding was wonderful. Your parents obviously went to great expense.",
-                            "go to great expense to do something",
-                            "▪ Please let us have your comments on the plans for the new offices -- we’re going to great expense to get everything just right."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chi một đống tiền ( nhiều hơn khả năng chi trả của bạn )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The wedding was wonderful. Your parents obviously went to great expense."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go to great expense to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Please let us have your comments on the plans for the new offices -- we’re going to great expense to get everything just right."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -559,28 +550,11 @@
                             "▪ The organizers were told to spare no expense - this was going to be the biggest show on Earth.",
                             "no expense spared",
                             "▪ ‘Go out and buy whatever you want,’ he said, ‘no expense spared!’",
-                            "",
                             "spare noexpense",
                             "to use a lot of effort,expense(= money) etc. to do something"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -593,30 +567,74 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌʃel ˈaʊt, ˌfɔːʳk ˈaʊt/ spokeninformaltohave tospend more money on something than you think isfairorreasonable:",
-                        "examples": [
-                            "chi ( buộc phải )",
-                            "▪ No, we can’t afford to go to the bowling alley - I’ve forked out enough already today.",
-                            "shell out #50/$100 etc",
-                            "▪ Insurance companies are having to shell out millions of pounds to the victims of the floods.",
-                            "shell out/fork out on",
-                            "▪ I’m not shelling out any more money on this old car. It’s not worth it!",
-                            "shell out/fork out for",
-                            "▪ I failed my driving test and Dad said that he wasn’t forking out for any more lessons for me."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chi ( buộc phải )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ No, we can’t afford to go to the bowling alley - I’ve forked out enough already today."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shell out #50/$100 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Insurance companies are having to shell out millions of pounds to the victims of the floods."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shell out/fork out on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I’m not shelling out any more money on this old car. It’s not worth it!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "shell out/fork out for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I failed my driving test and Dad said that he wasn’t forking out for any more lessons for me."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -633,25 +651,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌgəʊ ɒn ə ˈspendɪŋ ˌspriː/ informalto spend a lot of money and buy a lot of things in ashorttimefor enjoyment, especially when other people think this isstupidor awasteof money:",
-                        "examples": [
-                            "vung tiền( trong 1 thời gian ngắn cho ăn chơi )",
-                            "▪ Jilly and I decided to cheer ourselves up and go on a spending spree.",
-                            "▪ You haven’t been on another spending spree, have you? What did you buy this time?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "vung tiền( trong 1 thời gian ngắn cho ăn chơi )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Jilly and I decided to cheer ourselves up and go on a spending spree.",
+                                    "▪ You haven’t been on another spending spree, have you? What did you buy this time?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -667,26 +684,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌmʌni ɪz nəʊ ˈɒbdʒɪktǁ-ˈɑːb-/ use this to say that you do not care how much money you spend on something even if it is a lot:",
-                        "examples": [
-                            "tiền không thành vấn đề",
-                            "▪ Simon always ordered the best. It was obvious that money was no object.",
-                            "money no object",
-                            "▪ Choose whatever outfit you want - money no object!"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiền không thành vấn đề",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Simon always ordered the best. It was obvious that money was no object."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "money no object",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Choose whatever outfit you want - money no object!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -703,25 +734,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌlɪv ðə ˈhaɪ laɪf/  to enjoy yourself by going out often and spending a lot of money, especially withrichorimportantpeople:",
-                        "examples": [
-                            "sống một cuộc sống thượng lưu",
-                            "▪ For several years they lived the high life with Hollywood stars and celebrities.",
-                            "▪ You’ve been living the high life recently, haven’t you! You’re always going out to clubs and fancy restaurants."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sống một cuộc sống thượng lưu",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ For several years they lived the high life with Hollywood stars and celebrities.",
+                                    "▪ You’ve been living the high life recently, haven’t you! You’re always going out to clubs and fancy restaurants."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -755,9 +785,6 @@
                         "region": "",
                         "definition": "/ɒn ə ˈʃuːstrɪŋ/  if you make a film, run a business etc on a shoestring, you spend verylittlemoney on it, but it is usually asuccess:",
                         "examples": [
-                            "dùng rất ít tiền",
-                            "▪ Nearly all of our research had to be conducted on a shoestring.",
-                            "▪ The paper started on a shoestring, but soon had a circulation of over 100,000 readers.",
                             "shoestring[adjective only before noun]using very little money::",
                             "▪ a shoestring budget"
                         ],
@@ -765,16 +792,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dùng rất ít tiền",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Nearly all of our research had to be conducted on a shoestring.",
+                                    "▪ The paper started on a shoestring, but soon had a circulation of over 100,000 readers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -791,25 +821,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈskɪmp ɒn/to not spend enough money onimportantmaterials, equipment etc, so that what you are doing or making isunsuccessfulor of bad quality:",
-                        "examples": [
-                            "hà tiện, bủn xỉn",
-                            "▪ There’s no point in skimping on essentials such as food and heating.",
-                            "▪ A company will never get anywhere by skimping on training and technology."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hà tiện, bủn xỉn",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ There’s no point in skimping on essentials such as food and heating.",
+                                    "▪ A company will never get anywhere by skimping on training and technology."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -831,23 +860,7 @@
                             "▪ It’s impossible to provide good nursing care on the cheap."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -877,9 +890,6 @@
                         "region": "",
                         "definition": "/ɪkˈstrævəgənt/  spending more money than you can afford on expensive things that you do not really need:",
                         "examples": [
-                            "tiêu xài phung phí",
-                            "▪ $400 on a dress! That’s a bit extravagant, isn’t it?",
-                            "▪ Rich and extravagant parents are spending more and more money on their children’s parties.",
                             "extravagantly[adverb]",
                             "▪ She put the money in to a savings account so she wasn’t tempted to spend it extravagantly."
                         ],
@@ -887,16 +897,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiêu xài phung phí",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ $400 on a dress! That’s a bit extravagant, isn’t it?",
+                                    "▪ Rich and extravagant parents are spending more and more money on their children’s parties."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -913,25 +926,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈspendˌθrɪft/ formalsomeone who spends money carelessly even when they know that they do cannot afford to:",
-                        "examples": [
-                            "kẻ hoang phí",
-                            "▪ I remember him as a charming but irresponsible spendthrift.",
-                            "▪ She was by no means a spendthrift, but somehow all the money disappeared anyway."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "kẻ hoang phí",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I remember him as a charming but irresponsible spendthrift.",
+                                    "▪ She was by no means a spendthrift, but somehow all the money disappeared anyway."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -948,25 +960,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌbɪg ˈspendəʳ/  a rich person who spends a lot of money, especially in order toimpressother people:",
-                        "examples": [
-                            "Kẻ hoang phí",
-                            "▪ I didn’t trust him at all. He was a big spender, that’s all.",
-                            "▪ This is the time of year when all the big spenders pour into Las Vegas hotels and casinos."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Kẻ hoang phí",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I didn’t trust him at all. He was a big spender, that’s all.",
+                                    "▪ This is the time of year when all the big spenders pour into Las Vegas hotels and casinos."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -998,26 +1009,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "phrasal verb cắt bớt",
-                        "examples": [
-                            "to do less of something or use something in smaller amounts",
-                            "_The government has announced plans to to cut backondefence spending by 10% next year.",
-                            "_I'm trying to cut downoncaffeine.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to do less of something or use something in smaller amounts",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The government has announced plans to to cut backondefence spending by 10% next year.",
+                                    "_I'm trying to cut downoncaffeine."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1034,28 +1043,57 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌkʌt ˈdaʊn/  to reduce the amount of money that you regularly spend:",
-                        "examples": [
-                            "cắt giảm ( chi phí )",
-                            "▪ We’ve had to cut down a lot since Craig lost his job - it’s been very hard for us.",
-                            "cut down on",
-                            "▪ She’s already cut down on going out and buying clothes, but she doesn’t have enough money to start paying off her debts.",
-                            "cut down somebody’s expenses/bills etc",
-                            "▪ The department has overspent this year and we will have to cut down our expenses."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cắt giảm ( chi phí )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ We’ve had to cut down a lot since Craig lost his job - it’s been very hard for us."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cut down on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ She’s already cut down on going out and buying clothes, but she doesn’t have enough money to start paying off her debts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cut down somebody’s expenses/bills etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The department has overspent this year and we will have to cut down our expenses."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1072,27 +1110,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "alsoeconomiseBritish /ɪˈkɒnəmaɪzǁɪˈkɑː-/to spend less money by buying only the things that you really need, or by buying cheaper things:",
-                        "examples": [
-                            "tiếu kiệm chi tiêu",
-                            "▪ Sorry, I can’t come out tonight - I’m trying to economize.",
-                            "▪ We’re economizing this year by having a cheaper vacation.",
-                            "economize onspend less money on something",
-                            "▪ Families on low incomes are having to economize on food and heating costs."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiếu kiệm chi tiêu",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Sorry, I can’t come out tonight - I’m trying to economize.",
+                                    "▪ We’re economizing this year by having a cheaper vacation."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "economize onspend less money on something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Families on low incomes are having to economize on food and heating costs."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1109,25 +1161,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌskrɪmp ən ˈseɪv/  to spend as little money as possible, only buying things you really need, because you have very little money and want to save it to use in the future:",
-                        "examples": [
-                            "chắt chiu tích góp",
-                            "▪ Chris’s parents scrimped and saved so that he could go to college.",
-                            "▪ I had hardly any money left and was scrimping and saving just to buy the bare necessities."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chắt chiu tích góp",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Chris’s parents scrimped and saved so that he could go to college.",
+                                    "▪ I had hardly any money left and was scrimping and saving just to buy the bare necessities."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1153,23 +1204,7 @@
                             "_I've had to tighten my belt since I stopped working full-time."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1198,27 +1233,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈskwɒndəʳǁˈskwɑːn-/  to spend all the money you have onunnecessarythings instead of saving it or using it carefully:",
-                        "examples": [
-                            "lãng phí ( tiền bạc )",
-                            "▪ In less than three years he had squandered the entire family fortune.",
-                            "▪ There was no money to pay the rent. They’d already squandered the little that they had.",
-                            "squander on",
-                            "▪ Here’s £50 but don’t just go and squander it on beer!"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lãng phí ( tiền bạc )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ In less than three years he had squandered the entire family fortune.",
+                                    "▪ There was no money to pay the rent. They’d already squandered the little that they had."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "squander on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Here’s £50 but don’t just go and squander it on beer!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1243,23 +1292,7 @@
                             "▪ He won £500,000 in the National Lottery, but he’s already blown the lot."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1272,26 +1305,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "alsoget through somethingBritish /ˌgəʊ ˈθruː, ˌget ˈθruː something/  to spend the money that you have morequicklythan expected, so that you havenothing left:",
-                        "examples": [
-                            "tiêu hết , xài hết",
-                            "▪ I got through all of my money in less than a month and had to get my parents to send me more.",
-                            "go through £100/$2000 etc",
-                            "▪ The hotel was really expensive. We went through $3000 in the first week."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiêu hết , xài hết",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I got through all of my money in less than a month and had to get my parents to send me more."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go through £100/$2000 etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The hotel was really expensive. We went through $3000 in the first week."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1303,30 +1350,29 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase]",
                         "usage": "",
                         "region": "",
                         "definition": "spend money like water/like there’s no tomorrow /spend ˌmʌni laɪk ˈwɔːtəʳ, laɪk ðeəʳz ˌnəʊ təˈmɒrəʊǁ-ˈmɔː-/  informal to spend a lot of money very quickly and carelessly without worrying how much you are spending or how long your money will last:",
-                        "examples": [
-                            "tiêu tiền như nước",
-                            "▪ Richard spends money like there’s no tomorrow! Where does he get it all from?",
-                            "▪ I don’t trust myself with a credit card - I spend money like water as it is."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tiêu tiền như nước",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Richard spends money like there’s no tomorrow! Where does he get it all from?",
+                                    "▪ I don’t trust myself with a credit card - I spend money like water as it is."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1358,27 +1404,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "prepositionMONEY",
-                        "examples": [
-                            "used to showsomethingfor which a payment is made",
-                            "_He spent eighty poundsona hat.",
-                            "_I've wasted a lot of moneyonthis car.",
-                            "_We made a big profitonthat deal.",
-                            "_How much interest are you payingonthe loan?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "used to showsomethingfor which a payment is made",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_He spent eighty poundsona hat.",
+                                    "_I've wasted a lot of moneyonthis car.",
+                                    "_We made a big profitonthat deal.",
+                                    "_How much interest are you payingonthe loan?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

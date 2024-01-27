@@ -42,23 +42,7 @@
                             "The ostrich is a flightless bird."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -91,52 +75,449 @@
                             "wild birds",
                             "The dawn was filled with the sound of birds.",
                             "a wooden bird cage",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a wild birdOur organization aims to protect wild birds.",
-                            "a bird of prey(= that hunts and eats small animals )A single bird of prey hovered overhead.",
-                            "a bird of passage[UK a bird which migrates (= moves from one area to another when the season changes)] chim khách",
-                            "a game bird(= that people shoot and eat)They hunt game birds such as ducks and pheasants.",
-                            "a water bird[any bird that lives near or on water] chim nước",
-                            "a seabird/ sea birdSea birds are often the victims of oil spills.",
-                            "a songbird(= that makes pleasant sounds in order to attract other birds )Hedges provide good protection for songbirds.",
-                            "a migratory bird(= that moves to different regions for the summer and winter )This route is taken by many migratory birds going south.",
-                            "a flightless bird(= that cannot fly )The emu is a large flightless Australian bird.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a flock of birds(= a large number of birds together )Suddenly a flock of birds flew up into the sky.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "bird song(= musical sounds that birds make )The forest is full of bird song at all times of the year.",
-                            "bird watching(= the activity of watching wild birds )One of his hobbies is bird watching.",
-                            "a bird watcherThe coast path is a paradise for bird watchers.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a bird fliesSome birds fly incredible distances.",
-                            "a bird soars(= flies very high in the sky )We watched birds soar in the blue sky above.",
-                            "a bird swoops down(= it suddenly flies down )The bird swoops down on its prey.",
-                            "a bird flaps its wings(= it moves its wings up and down )The baby birds were trying to flap their wings.",
-                            "a bird sings(= makes musical sounds )I woke up to hear the birds singing outside.",
-                            "a bird chirps/twitters(= makes short high sounds )Birds chirped to one another from different branches of the tree.",
-                            "a bird squawks(= makes a loud unpleasant sound )The bird in the cage started squawking.",
-                            "a bird builds a nestBy March many birds have already built nests.",
-                            "a bird nestsMany birds are nesting on the river banks.",
-                            "a bird lays its eggsThe bird lays a single egg on the ground.",
-                            "a bird pecks (at) something(= makes small movements with its head )Some birds were pecking at the remains of a sandwich.",
-                            "a bird perches(= stands on a something above the ground )Beautiful white birds perched on the tree's branches.",
-                            "a bird hops(= makes small jumping movements )A small bird was hopping across the grass.",
-                            "a bird migratesThe birds migrate from South America to North American breeding grounds."
+                            "a water bird[any bird that lives near or on water] chim nước"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a wild bird",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Our organization aims to protect wild birds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird of prey",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that hunts and eats small animals",
+                                "examples": [
+                                    "A single bird of prey hovered overhead."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird of passage[UK a bird which migrates",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "moves from one area to another when the season changes",
+                                "examples": [
+                                    "] chim khách"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a game bird",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that people shoot and eat",
+                                "examples": [
+                                    "They hunt game birds such as ducks and pheasants."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a seabird/ sea bird",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sea birds are often the victims of oil spills."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a songbird",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that makes pleasant sounds in order to attract other birds",
+                                "examples": [
+                                    "Hedges provide good protection for songbirds."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a migratory bird",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that moves to different regions for the summer and winter",
+                                "examples": [
+                                    "This route is taken by many migratory birds going south."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a flightless bird",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that cannot fly",
+                                "examples": [
+                                    "The emu is a large flightless Australian bird."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a flock of birds",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a large number of birds together",
+                                "examples": [
+                                    "Suddenly a flock of birds flew up into the sky."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bird song",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "musical sounds that birds make",
+                                "examples": [
+                                    "The forest is full of bird song at all times of the year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bird watching",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the activity of watching wild birds",
+                                "examples": [
+                                    "One of his hobbies is bird watching."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird watcher",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The coast path is a paradise for bird watchers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird flies",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Some birds fly incredible distances."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird soars",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "flies very high in the sky",
+                                "examples": [
+                                    "We watched birds soar in the blue sky above."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird swoops down",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it suddenly flies down",
+                                "examples": [
+                                    "The bird swoops down on its prey."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird flaps its wings",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it moves its wings up and down",
+                                "examples": [
+                                    "The baby birds were trying to flap their wings."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird sings",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes musical sounds",
+                                "examples": [
+                                    "I woke up to hear the birds singing outside."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird chirps/twitters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes short high sounds",
+                                "examples": [
+                                    "Birds chirped to one another from different branches of the tree."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird squawks",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes a loud unpleasant sound",
+                                "examples": [
+                                    "The bird in the cage started squawking."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird builds a nest",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "By March many birds have already built nests."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird nests",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many birds are nesting on the river banks."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird lays its eggs",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The bird lays a single egg on the ground."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird pecks",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "at",
+                                "examples": [
+                                    "something(= makes small movements with its head )Some birds were pecking at the remains of a sandwich."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird perches",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stands on a something above the ground",
+                                "examples": [
+                                    "Beautiful white birds perched on the tree's branches."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird hops",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "makes small jumping movements",
+                                "examples": [
+                                    "A small bird was hopping across the grass."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bird migrates",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The birds migrate from South America to North American breeding grounds."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -157,23 +538,7 @@
                             "Some poultry farmers keep turkeys and ducks as well as chickens."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -206,23 +571,7 @@
                             "any of a family of grey or brown water birds which swim on or under the water"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -237,23 +586,7 @@
                         "definition": "any of the typesof North American or Australian birds which copy the sounds made by other birds : chim nhại",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

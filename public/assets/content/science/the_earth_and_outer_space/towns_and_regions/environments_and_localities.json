@@ -41,25 +41,25 @@
                         "examples": [
                             "The house is set in beautiful surroundings near Lake Coniston.",
                             "I need to work in pleasant surroundings.",
-                            "The mountaintop provides a spectacular view of Innsbruck and its surroundings.",
-                            "sb’s surroundings",
-                            "It took me a few weeks to get used to my new surroundings.",
-                            "He switched on the light and examined his surroundings."
+                            "The mountaintop provides a spectacular view of Innsbruck and its surroundings."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sb’s surroundings",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It took me a few weeks to get used to my new surroundings.",
+                                    "He switched on the light and examined his surroundings."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -81,23 +81,7 @@
                             "Police are still searching the town and surrounding areas for the child."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -132,23 +116,7 @@
                             "The gymnastics team won the championship on home turf."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -165,23 +133,7 @@
                             "Detective McCready had taken over; he didn’t want us on his patch."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -211,31 +163,143 @@
                         "region": "",
                         "definition": "one of the areas of a town or city where a particular group of people live or aparticularactivity happens:khu",
                         "examples": [
-                            "Blaine works in the financial district.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a financial/business/commercial district(= where there are a lot of banks and other businesses )He works in San Francisco’s financial district.",
-                            "a shopping districtThe bomb exploded in a crowded shopping district.",
-                            "an entertainment district(= where there are a lot of bars, clubs etc )Visitors to Roppongi, Tokyo’s entertainment district, come to experience the latest fashions and have fun.",
-                            "a theatre districtUK,a theater districtUS: The restaurant is located in the middle of New York’s theater district.",
-                            "a residential district(= where people live rather than work )It is one of Paris’ most exclusive residential districts.",
-                            "a poor/wealthy district(= where a lot of people are poor/rich )He lived in one of London’s poorest districts.",
-                            "a slum district(= where poor people live in very bad conditions )Rats were running all over the slum districts.",
-                            "a fashionable district(= popular with rich or well-known people )Brompton became a fashionable district to live in."
+                            "Blaine works in the financial district."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a financial/business/commercial district",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "where there are a lot of banks and other businesses",
+                                "examples": [
+                                    "He works in San Francisco’s financial district."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shopping district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The bomb exploded in a crowded shopping district."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an entertainment district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "where there are a lot of bars, clubs etc",
+                                "examples": [
+                                    "Visitors to Roppongi, Tokyo’s entertainment district, come to experience the latest fashions and have fun."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a theatre district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "UK,a theater districtUS: The restaurant is located in the middle of New York’s theater district."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a residential district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "where people live rather than work",
+                                "examples": [
+                                    "It is one of Paris’ most exclusive residential districts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a poor/wealthy district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "where a lot of people are poor/rich",
+                                "examples": [
+                                    "He lived in one of London’s poorest districts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a slum district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "where poor people live in very bad conditions",
+                                "examples": [
+                                    "Rats were running all over the slum districts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashionable district",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "popular with rich or well-known people",
+                                "examples": [
+                                    "Brompton became a fashionable district to live in."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -261,23 +325,7 @@
                             "The cost of electricity has risen in our area."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -295,33 +343,15 @@
                             "region of:",
                             "For several years they lived in a remote region of Kenya.",
                             "Severe winter weather is expected in the northeast region of the country.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "regional[attri adj] relating to a particular region or area: vùng miền",
                             "local and regional government",
                             "regional variations in farming practice",
                             "a regionalaccent/ dialect/ newspaper",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "regionally[adv]",
                             "goods sold locally and regionally"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -341,23 +371,7 @@
                             "UN troops are unwilling to enter the battle zone."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -378,23 +392,7 @@
                             "the rugged moors of Brontë country."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -415,23 +413,7 @@
                             "Both sea fishing and fresh water angling are available in the locality."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -460,26 +442,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "an area in or around a town or city: vùng, nơi, khu",
-                        "examples": [
-                            "area of",
-                            "The family lives in Roxbury, a working-class area of Boston.",
-                            "poor/rich area",
-                            "Raul grew up in a poor area of Buenos Aires."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "area of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The family lives in Roxbury, a working-class area of Boston."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "poor/rich area",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Raul grew up in a poor area of Buenos Aires."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -502,23 +498,7 @@
                             "The Dahdah palace is in the old Jewish quarter of Damascus."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -532,26 +512,41 @@
                         "region": "",
                         "definition": "neighbourhood /  one of the parts of a town or city: hàng xóm, khu phố",
                         "examples": [
-                            "The Cranstons live in a very wealthy neighbourhood.",
-                            "neighbourhood of",
-                            "I grew up in a quiet neighborhood of Birmingham.",
-                            "in the neighbourhood/neighborhood",
-                            "Are there any good restaurants in the neighborhood?"
+                            "The Cranstons live in a very wealthy neighbourhood."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "neighbourhood of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I grew up in a quiet neighborhood of Birmingham."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the neighbourhood/neighborhood",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are there any good restaurants in the neighborhood?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -568,27 +563,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "part of a city that is officially divided from other parts because it is of a particular type: khu",
-                        "examples": [
-                            "residential/commercial zone: khu dân cư/ thương mại",
-                            "This is a residential zone -- no commercial buildings are allowed.",
-                            "pedestrian zonea zone where cars, motorcycles etc are not allowed :",
-                            "khu phố đi bộ",
-                            "Most of the town centre is now a pedestrian zone."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "residential/commercial zone: khu dân cư/ thương mại",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "This is a residential zone -- no commercial buildings are allowed.",
+                                    "pedestrian zonea zone where cars, motorcycles etc are not allowed :"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "khu phố đi bộ",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most of the town centre is now a pedestrian zone."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -624,9 +633,6 @@
                         "examples": [
                             "a local store, hospital etcis in the area where you live and that you are most likely to use:",
                             "Volunteers like Joyce go round local schools helping children with their reading problems.",
-                            "sb’s local school/cinema etc",
-                            "You can find all these books in your local library.",
-                            "Polzeath is our local beach, but there are better surfing beaches further away.",
                             "locally[adv] in the area near where you live or work:ở địa phương",
                             "We prefer to do all our shopping locally.",
                             "Do you work locally?"
@@ -635,16 +641,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "sb’s local school/cinema etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "You can find all these books in your local library.",
+                                    "Polzeath is our local beach, but there are better surfing beaches further away."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -666,23 +675,7 @@
                             "Homelessness is a problem that too many people ignore. Yet it’s happening on our own doorstep."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -699,23 +692,7 @@
                             "Most people want the new airport so long as it isn’t in their own backyard."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -746,24 +723,24 @@
                         "definition": "all the things that influence the way you live, work, and develop, such as the physical conditions you live in and the people around you: môi trường",
                         "examples": [
                             "Do girls learn better in an all-female environment?",
-                            "I didn’t feel that the neighborhood was a very safe environment for kids.",
-                            "working/ home environment",
-                            "We have tried to create a working environment in which everyone can develop their skills."
+                            "I didn’t feel that the neighborhood was a very safe environment for kids."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "working/ home environment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We have tried to create a working environment in which everyone can develop their skills."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

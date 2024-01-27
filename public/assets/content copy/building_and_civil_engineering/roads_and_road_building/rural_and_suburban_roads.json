@@ -1,0 +1,169 @@
+[
+    {
+        "id": "",
+        "name": "rural and suburban roads",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "lane",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a narrow road in the countryside, connecting villages or farms:",
+                        "examples": [
+                            "đường làng nhỏ",
+                            "The last stretch of road is a narrow lane bordered by trees.",
+                            "country lane",
+                            "We rode our bicycles along pretty country lanes."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "dirt road",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a narrow road with a dirt or soil surface:đường đất",
+                        "examples": [
+                            "A dirt road ran from the highway past the dump and into some trees.",
+                            "Rain fell continuously and turned the winding dirt road into a river of slippery mud."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "back road",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a small road which does not have much traffic on it : đường quê",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "main road",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a large road which goes from one town to another : con đường chính",
+                        "examples": [
+                            "Stick to the main roads and you won't get lost.",
+                            "They live on the main road out of town."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

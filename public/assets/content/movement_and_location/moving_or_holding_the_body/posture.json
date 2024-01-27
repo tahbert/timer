@@ -38,27 +38,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "the way you position your body when sitting or standing : dáng, tư thế",
-                        "examples": [
-                            "good/bad etc posture",
-                            "Poor posture can lead to muscular problems.",
-                            "She's got very good/bad posture.",
-                            "herupright posture",
-                            "He alwaysadopts/assumes(= moves into) the same posture for the cameras."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good/bad etc posture",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Poor posture can lead to muscular problems.",
+                                    "She's got very good/bad posture."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "herupright posture",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He alwaysadopts/assumes(= moves into) the same posture for the cameras."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -77,32 +91,143 @@
                         "definition": "the way sb is standing, sitting, or lying :",
                         "examples": [
                             "This is not a very comfortable position.",
-                            "Frankieshiftedhispositionso that his knees would not become cramped.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a comfortable positionShe wriggled into a more comfortable position.",
-                            "an awkward positionMy foot was in an awkward position.",
-                            "a sitting/kneeling/standing positionThe priest rose from his kneeling position by the bed.",
-                            "a foetal position(= in which you are curled up like a baby before it is born )I crawled into my bed and curled up in a foetal position.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "change/shift your positionHe shifted his position to get a better view of the stage.",
-                            "pull/drag/haul yourself into a positionShe pulled herself into a sitting position.",
-                            "assume/adopt a positionformal(= move your body into a particular position )The patient should adopt this position for five minutes every half hour.",
-                            "hold a position(= stay in a position )Pull in your tummy muscles and hold that position."
+                            "Frankieshiftedhispositionso that his knees would not become cramped."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a comfortable position",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She wriggled into a more comfortable position."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an awkward position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My foot was in an awkward position."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sitting/kneeling/standing position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The priest rose from his kneeling position by the bed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a foetal position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which you are curled up like a baby before it is born",
+                                "examples": [
+                                    "I crawled into my bed and curled up in a foetal position."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "change/shift your position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He shifted his position to get a better view of the stage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pull/drag/haul yourself into a position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She pulled herself into a sitting position."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "assume/adopt a positionformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "move your body into a particular position",
+                                "examples": [
+                                    "The patient should adopt this position for five minutes every half hour."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hold a position",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stay in a position",
+                                "examples": [
+                                    "Pull in your tummy muscles and hold that position."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -130,23 +255,7 @@
                             "Malcolm struck his usual pose: hands in pockets, shoulders hunched."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -160,18 +269,17 @@
                         "region": "",
                         "definition": "literary a position of the body :tư thế, điệu bộ, dáng dấp",
                         "examples": [
-                            "She lay sprawled across the sofa, in an attitudeofcomplete abandon.",
-                            "strike an attitudeformal to stand or sit with your body in a particular position:làm điệu bộ"
+                            "She lay sprawled across the sofa, in an attitudeofcomplete abandon."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "strike an attitudeformal to stand or sit with your body in a particular position:làm điệu bộ",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -213,23 +321,7 @@
                             "Keep the bottles in an upright position."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

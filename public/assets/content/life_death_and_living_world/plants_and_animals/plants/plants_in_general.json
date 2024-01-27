@@ -39,24 +39,24 @@
                         "region": "",
                         "definition": "if plants grow, they exist and develop in a natural way: mọc",
                         "examples": [
-                            "There were roses growing up against the wall of the cottage.",
-                            "a tree which will grow well in most types of soil",
-                            "grow wild(= grow without anyone looking after them)The plants grow wild by the river."
+                            "There were roses growing up against the wall of the cottage."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a tree which will grow well in most types of soil",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "grow wild(= grow without anyone looking after them)The plants grow wild by the river."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -90,20 +90,34 @@
                         "region": "",
                         "definition": "a very tall plant that has branches and leaves, and lives for many years :",
                         "examples": [
-                            "As a kid, I loved to climb trees.",
-                            "a cherry/ peach/ apple etc tree",
-                            "Weplanteda peachtreein the backyard.",
-                            "the trunk of an old oak tree(= the main central part, from which the branches grow )"
+                            "As a kid, I loved to climb trees."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cherry/ peach/ apple etc tree",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Weplanteda peachtreein the backyard."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the trunk of an old oak tree(= the main central part, from which the branches grow )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -128,28 +142,11 @@
                         "examples": [
                             "The railway track will have to be cleared of vegetation if it is to be used again.",
                             "Much of the region's native vegetation has been damaged by developers who are building hotels along the coast.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "vegetable[attri adj]formalrelating to plants in general, rather than animals or things that are not living →mineral: thực vật",
                             "decomposing vegetable matter"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -163,44 +160,326 @@
                         "region": "",
                         "definition": "a living thing that has leaves and roots and grows in earth, especially one that is smaller than a tree :",
                         "examples": [
-                            "Don’t forget to water the plants.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "rareMany rare plants were collected from India and China.",
-                            "commonThese plants are common in British gardens.",
-                            "wild plantsMany wild plants are in danger of dying out.",
-                            "garden plants(= plants that are grown in gardens )These butterflies feed on the flowers of several garden plants.",
-                            "a house plant(= a plant grown in a pot in the house )These make excellent house plants.",
-                            "a potted/pot plantBritish English(= a plant that is grown in a container )He leaves his house key under the potted plant on the porch.",
-                            "exotic/tropical plantsExotic plants can be grown in a greenhouse.",
-                            "medicinal plants(= plants that can be used in medicine )A lot of research into medicinal plants and traditional remedies has now been carried out.",
-                            "a trailing plant(= one that grows along the ground or hangs down )",
-                            "a tomato/potato/bean etc plantBean plants are easy to grow.",
-                            "poisonousWhat should you do if your child has eaten a poisonous plant?",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a plant growsThe plant grows to a height of about 20 inches.",
-                            "a plant thrives/flourishes(= grows well )A lot of plants thrive in partial shade.",
-                            "a plant flowersThe plants are flowering earlier this year.",
-                            "grow a plantIt is not an easy plant to grow.",
-                            "water a plantHe could see her watering the plants in her small garden.",
-                            "a plant withers(= becomes drier and starts to die )",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "plant life(= plants )All but the dirtiest of rivers support some plant life.",
-                            "plant materialThey feed on decaying plant material."
+                            "Don’t forget to water the plants."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "rare",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "Many rare plants were collected from India and China."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "common",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "These plants are common in British gardens."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wild plants",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many wild plants are in danger of dying out."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "garden plants",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "plants that are grown in gardens",
+                                "examples": [
+                                    "These butterflies feed on the flowers of several garden plants."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a house plant",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a plant grown in a pot in the house",
+                                "examples": [
+                                    "These make excellent house plants."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a potted/pot plantBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a plant that is grown in a container",
+                                "examples": [
+                                    "He leaves his house key under the potted plant on the porch."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "exotic/tropical plants",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Exotic plants can be grown in a greenhouse."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "medicinal plants",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "plants that can be used in medicine",
+                                "examples": [
+                                    "A lot of research into medicinal plants and traditional remedies has now been carried out."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a trailing plant",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that grows along the ground or hangs down",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a tomato/potato/bean etc plant",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Bean plants are easy to grow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "poisonous",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What should you do if your child has eaten a poisonous plant?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a plant grows",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The plant grows to a height of about 20 inches."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a plant thrives/flourishes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "grows well",
+                                "examples": [
+                                    "A lot of plants thrive in partial shade."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a plant flowers",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The plants are flowering earlier this year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow a plant",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It is not an easy plant to grow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "water a plant",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He could see her watering the plants in her small garden."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a plant withers",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "becomes drier and starts to die",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plant life",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "plants",
+                                "examples": [
+                                    "All but the dirtiest of rivers support some plant life."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plant material",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They feed on decaying plant material."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -221,43 +500,313 @@
                             "The main crops grown for export are coffee and rice.",
                             "The main crops were oats and barley.",
                             "crop production",
-                            "crops grown for market",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "grow a cropMany crops are grown from seed every year.",
-                            "plant a cropFarmers burn their fields in preparation for planting crops.",
-                            "harvest/bring in a cropBrazil's coffee crop begins to be harvested in May.",
-                            "produce a cropThe land is so poor that much of the seed will not produce a crop.",
-                            "rotate the crops(= regularly change the crops grown on a piece of land )Crops are sometimes rotated with grass.",
-                            "something destroys/damages a cropWhen disease destroyed the crop, famine followed.",
-                            "a crop fails(= does not grow or produce food properly )The drought meant the crops failed and food was scarce.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "the wheat/cereal/rice etc cropIn January farmers prepare the ground for the potato crop.",
-                            "a food cropThe demand for ethanol has reduced the amount of corn grown as a food crop.",
-                            "a cash crop(= grown to be sold rather than used )Cotton is grown as a cash crop in the savannah.",
-                            "an arable/agricultural crop(= grown on farm land )A lot of woodland has been cleared for arable crops.",
-                            "genetically modified crops(alsoGM crops) (= ones that have had their genetic structure changed )He argues that genetically modified crops are needed to avoid future famines.",
-                            "a staple crop(= an important one that forms a big part of people's diet )staple crops such as rice and wheat",
-                            "an export crop(= grown to be exported )Cocoa is the country's main export crop.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "crop productionThe area is mostly unsuitable for crop production.",
-                            "crop failure(= failure to grow or produce food )Ethiopia's 1989 crop failure was disastrous.",
-                            "crop damageThe storms caused crop damage across the country.",
-                            "crop rotation(= the practice of rotating crops )Crop rotation helps build up soil fertility."
+                            "crops grown for market"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "grow a crop",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Many crops are grown from seed every year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plant a crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Farmers burn their fields in preparation for planting crops."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "harvest/bring in a crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Brazil's coffee crop begins to be harvested in May."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "produce a crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The land is so poor that much of the seed will not produce a crop."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rotate the crops",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "regularly change the crops grown on a piece of land",
+                                "examples": [
+                                    "Crops are sometimes rotated with grass."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "something destroys/damages a crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "When disease destroyed the crop, famine followed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a crop fails",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "does not grow or produce food properly",
+                                "examples": [
+                                    "The drought meant the crops failed and food was scarce."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the wheat/cereal/rice etc crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In January farmers prepare the ground for the potato crop."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a food crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The demand for ethanol has reduced the amount of corn grown as a food crop."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cash crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "grown to be sold rather than used",
+                                "examples": [
+                                    "Cotton is grown as a cash crop in the savannah."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an arable/agricultural crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "grown on farm land",
+                                "examples": [
+                                    "A lot of woodland has been cleared for arable crops."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "genetically modified crops",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoGM crops",
+                                "examples": [
+                                    "(= ones that have had their genetic structure changed )He argues that genetically modified crops are needed to avoid future famines."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a staple crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an important one that forms a big part of people's diet",
+                                "examples": [
+                                    "staple crops such as rice and wheat"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an export crop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "grown to be exported",
+                                "examples": [
+                                    "Cocoa is the country's main export crop."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crop production",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The area is mostly unsuitable for crop production."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crop failure",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "failure to grow or produce food",
+                                "examples": [
+                                    "Ethiopia's 1989 crop failure was disastrous."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crop damage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The storms caused crop damage across the country."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crop rotation",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the practice of rotating crops",
+                                "examples": [
+                                    "Crop rotation helps build up soil fertility."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

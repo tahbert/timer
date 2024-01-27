@@ -47,23 +47,7 @@
                             "The berries are poisonous to birds."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -78,12 +62,6 @@
                         "definition": "toxic chemicals and waste are poisonous to people and the environment →toxin:độc",
                         "examples": [
                             "Lead is toxic to humans.",
-                            "highly toxic",
-                            "Crops were sprayed with highly toxic chemicals.",
-                            "toxic chemicals/substances/fumes/gases/ waste",
-                            "Toxic chemicals were spilled into the river.",
-                            "The site was used for the disposal of toxic waste.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "toxicity[ U ]độc tính",
                             "Tests of the chemical have shown that it has a high level of toxicity.",
                             "The toxicityofthe drug severely limits its use."
@@ -92,16 +70,36 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "highly toxic",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Crops were sprayed with highly toxic chemicals."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "toxic chemicals/substances/fumes/gases/ waste",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Toxic chemicals were spilled into the river.",
+                                    "The site was used for the disposal of toxic waste."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -125,23 +123,7 @@
                             "They died from inhaling noxious fumes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -154,21 +136,34 @@
                         "usage": "",
                         "region": "",
                         "definition": "hazardous substances are likely to harm people, animals, or the environment if they are not dealt with or got rid of carefully : nguy hiểm",
-                        "examples": [
-                            "hazardous waste/material/chemical",
-                            "Lead is one of the most hazardous substances known, causing cancer and nerve damage.",
-                            "The building is now unoccupied, and all radioactive or hazardous materials have been removed.",
-                            "hazardous nuclear waste"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hazardous waste/material/chemical",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Lead is one of the most hazardous substances known, causing cancer and nerve damage.",
+                                    "The building is now unoccupied, and all radioactive or hazardous materials have been removed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hazardous nuclear waste",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -197,23 +192,7 @@
                             "Terrorists plotted to release a deadly gas."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -230,23 +209,7 @@
                             "a venomous snake"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -280,34 +243,15 @@
                             "She was accused in 1974 of poisoning her second husband, Charles.",
                             "poison sb with sth",
                             "Helms attempted to poison his whole family with strychnine.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "poison[ T ] to put poison in sb's food or drink : bỏthuốc độc",
                             "He said that someone had poisoned his coffee.",
                             "He killed several people by poisoning their tea.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "poisoner[ C ] a person who has killed or harmed someone using poison :kẻđầu độc",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "poisoning[U] the act of giving poison to sb : đánh độc",
                             "An autopsy revealed no evidence of poisoning."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -337,38 +281,211 @@
                         "region": "",
                         "definition": "a substance that can cause death or serious illness if you eat it, drink it etc : thuốc độc, chất độc",
                         "examples": [
-                            "Belladonna and red arsenic aredeadly poisons.",
-                            "a box ofrat poison(= poison to kill rats )",
-                            "He swallowed some type of poison.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take/ swallow poisonHe committed suicide by taking poison.",
-                            "give sb poisonShe admitted two charges of giving poison to her daughter.",
-                            "administer poisonformal(= give it to someone )He could not have administered the poison that had put Mark in a coma.",
-                            "put poison in sthShe put poison in his wine.",
-                            "lace sth with poison(= put poison in something )He laced the emperor's tea with poison.",
-                            "put poison down(= put it somewhere to kill an animal )One way of getting rid of rats or mice is to put poison down.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a deadly poisonThe berries contain a deadly poison.",
-                            "a slow-acting/quick-acting poisonCyanide is a very strong, quick-acting poison.",
-                            "a virulent poison(= one that makes someone very ill or kills them )Scorpions produce a virulent poison.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a dose of poison(= an amount of poison )He had taken a massive dose of poison.",
-                            "a trace of poison(= a small amount of poison that is still present somewhere )Traces of the poison were found in the family car."
+                            "Belladonna and red arsenic aredeadly poisons."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take/ swallow poison",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He committed suicide by taking poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She admitted two charges of giving poison to her daughter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "administer poisonformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "give it to someone",
+                                "examples": [
+                                    "He could not have administered the poison that had put Mark in a coma."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put poison in sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She put poison in his wine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lace sth with poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put poison in something",
+                                "examples": [
+                                    "He laced the emperor's tea with poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "put poison down",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "put it somewhere to kill an animal",
+                                "examples": [
+                                    "One way of getting rid of rats or mice is to put poison down."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a deadly poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The berries contain a deadly poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a slow-acting/quick-acting poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Cyanide is a very strong, quick-acting poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a virulent poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that makes someone very ill or kills them",
+                                "examples": [
+                                    "Scorpions produce a virulent poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dose of poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an amount of poison",
+                                "examples": [
+                                    "He had taken a massive dose of poison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a trace of poison",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small amount of poison that is still present somewhere",
+                                "examples": [
+                                    "Traces of the poison were found in the family car."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a box ofrat poison(= poison to kill rats )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He swallowed some type of poison."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -390,23 +507,7 @@
                             "toxicologist[ C ] a person who studies or knows a lot about poisons :chuyên gia khoa chất độc"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -421,23 +522,7 @@
                         "definition": "specialized a substance which can cause an allergy (= condition of the body reacting badly to something) but which is not harmful to most people :chất gây dị ứng",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -454,23 +539,7 @@
                             "The viper paralyses its prey by injecting it with venom."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -505,7 +574,6 @@
                             "allergy to",
                             "an allergytowheat",
                             "Ihave an allergyto cats.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "allergic[pred adj] having an allergy :dị ứng",
                             "allergic to",
                             "I’m allergic to penicillin.",
@@ -516,23 +584,7 @@
                             "anallergic rash"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -555,23 +607,7 @@
                             "Some types of paint on toys can cause lead-poisoning in children."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

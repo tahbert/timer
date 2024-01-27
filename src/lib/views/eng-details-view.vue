@@ -183,8 +183,8 @@ const fetchData = async (url: string) => {
 
 const initTree = () => {
     // LATER: expand, highlight correct node,
-    // LATER: search collocation also
     const searchTerm = services.content.searchItem.name
+    console.log(searchTerm)
 
     const root = services.content.list.find((el) => el.isRoot)
     if (root) {
@@ -197,6 +197,16 @@ const initTree = () => {
                 data.expandedKeys.push(branch.id)
                 data.selectedKey = branch.id
                 return
+            } else {
+                group.children.forEach((branch) => {
+                    const collocation = branch.children.find((col) => col.name === searchTerm)
+                    if (collocation) {
+                        data.expandedKeys.push(group.id)
+                        data.expandedKeys.push(branch.id)
+                        data.expandedKeys.push(collocation.id)
+                        data.selectedKey = collocation.id
+                    }
+                })
             }
         })
     }

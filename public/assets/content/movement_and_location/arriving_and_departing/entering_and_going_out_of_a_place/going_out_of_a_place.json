@@ -43,23 +43,7 @@
                             "They got kicked out of the bar for starting a fight."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,23 +61,7 @@
                             "She lost her temper, started screaming, and was immediately shown the door."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -107,25 +75,25 @@
                         "region": "",
                         "definition": "to make sb leave a place or building by using force",
                         "examples": [
-                            "The manager threatened to have them ejected if there was any more trouble.",
-                            "eject sb from sth",
-                            "The demonstrators were ejected from the hall.",
-                            "Several demonstrators were ejected from the hall."
+                            "The manager threatened to have them ejected if there was any more trouble."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "eject sb from sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The demonstrators were ejected from the hall.",
+                                    "Several demonstrators were ejected from the hall."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -162,23 +130,7 @@
                             "I heard a voice from the cupboard shouting \"Let me out!\""
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -212,23 +164,7 @@
                             "Can you nipoutto the shop for me?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -243,37 +179,145 @@
                         "definition": "when you leave a room or building, especially a theatre stage",
                         "examples": [
                             "Theymadea quickexitwhen they saw the police approaching.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "make your exit(= to leave )And then, kissing them both goodbye, he made his exit.",
-                            "make a quick/hurried etc exitI chatted to a few people, then made a quick exit.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a quick/fast exit(= done more quickly than usual )I made a quick exit before the speeches began.",
-                            "a hurried/swift exit(= very quick )The family made a hurried exit, leaving many of their belongings behind.",
-                            "a dignified exit(= when someone leaves in a way that makes people respect them )Marco did his best to make a dignified exit, but with the amount he’d drunk, it proved difficult.",
-                            "an undignified exit(= when someone leaves in a way that is embarrassing or makes them look silly )She made a rather undignified exit, tripping down the step.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "exit[I or T]formalto leave a building or large vehicle:",
                             "I exited quickly before anyone could see me.",
-                            "Please exit the theatre by the side doors.",
-                            "exit from/through",
-                            "I exited through a side window.",
-                            "He exited the courtroom in a fury.",
-                            ""
+                            "Please exit the theatre by the side doors."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make your exit",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to leave",
+                                "examples": [
+                                    "And then, kissing them both goodbye, he made his exit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make a quick/hurried etc exit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I chatted to a few people, then made a quick exit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a quick/fast exit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "done more quickly than usual",
+                                "examples": [
+                                    "I made a quick exit before the speeches began."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hurried/swift exit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very quick",
+                                "examples": [
+                                    "The family made a hurried exit, leaving many of their belongings behind."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dignified exit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when someone leaves in a way that makes people respect them",
+                                "examples": [
+                                    "Marco did his best to make a dignified exit, but with the amount he’d drunk, it proved difficult."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an undignified exit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when someone leaves in a way that is embarrassing or makes them look silly",
+                                "examples": [
+                                    "She made a rather undignified exit, tripping down the step."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "exit[",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I or T]formalto leave a building or large vehicle:"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "exit from/through",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I exited through a side window.",
+                                    "He exited the courtroom in a fury."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -291,26 +335,41 @@
                         "region": "",
                         "definition": "to leave a room, house, or building, especially when you intend toreturnvery soon:ra ngoài",
                         "examples": [
-                            "I’m just going out for a minute, I won’t be long.",
-                            "go out of",
-                            "As she went out of the room she slammed the door.",
-                            "go out to do sth",
-                            "He’s just gone out to buy some bread."
+                            "I’m just going out for a minute, I won’t be long."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go out of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "As she went out of the room she slammed the door."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go out to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He’s just gone out to buy some bread."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -332,23 +391,7 @@
                             "I'm afraid Mr Taylor has just stepped out for a few minutes, but I'll tell him you called."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -377,24 +420,24 @@
                         "region": "",
                         "definition": "said when you want sb to leave theroom,houseetc immediately because you are angry with them or because there is some danger: biến ra ngoài",
                         "examples": [
-                            "Get out of here and leave me alone!",
-                            "get out of",
-                            "Get out! Just get out will you? I never want to see you again! get out of here!"
+                            "Get out of here and leave me alone!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get out of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Get out! Just get out will you? I never want to see you again! get out of here!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

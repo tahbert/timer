@@ -39,28 +39,43 @@
                         "region": "",
                         "definition": "a natural ability to do something very well, which you were born with : năng khiếu",
                         "examples": [
-                            "Winterson has great gifts as a writer.",
-                            "gift for",
-                            "He has a giftforlanguages.",
-                            "You can see that he has a gift for the game.",
-                            "He was a kind man, with a gift for forming lasting friendships.",
-                            "gift of",
-                            "She has therare giftof being able to laugh at herself."
+                            "Winterson has great gifts as a writer."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "gift for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He has a giftforlanguages.",
+                                    "You can see that he has a gift for the game.",
+                                    "He was a kind man, with a gift for forming lasting friendships."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gift of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She has therare giftof being able to laugh at herself."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -88,48 +103,350 @@
                             "sb’s abilities as a teacher/doctor etc",
                             "Harmon decided to create a business out of his abilities as a speaker.",
                             "He showed his abilities as a leader.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "high/low/average abilitya group of low ability pupils|Many of these students are of above average ability.|Children of high ability demand more absorbing tasks.",
-                            "great/considerable abilityHe was a young man of great ability.|These drawings required considerable ability on the part of the artist.",
                             "remarkable/outstanding/exceptional abilitya writer of remarkable ability|The company aims to select people of outstanding ability.|his exceptional ability as a swimmer",
-                            "mixed ability(= at different levels )a mixed ability class",
-                            "uncanny ability(= an unusual ability that is difficult to explain )He has an uncanny ability for spotting investment opportunities.",
-                            "natural ability(alsoinnate abilityformal) (= an ability that you are born with )He didn't have the natural ability of his brother.|Babies have an innate ability to do simple maths.",
-                            "physical/athletic abilityHe has considerable athletic ability.",
-                            "artistic/creative abilityYou do not need to have any artistic ability.",
-                            "musical abilityTim showed musical ability at an early age.",
-                            "acting abilityHer acting abilities were obvious straightaway.",
-                            "mental abilityThe exercises are supposed to help you improve your mental ability.",
-                            "intellectual/academic abilityNo one doubts his intellectual abilities.|A degree is evidence of your academic ability in a particular subject area.",
-                            "verbal/linguistic ability(= language skills )The test is intended to measure the children's linguistic ability.",
-                            "mathematical abilityThese students have a higher level of mathematical ability.",
-                            "proven ability(= that you have proved through your achievements )Companies often value the proven ability and reliability of older employees.",
                             "spelling/ reading/ writing etc abilitythe level of ability in spelling, reading etc",
                             "The children are divided into groups according to their reading ability.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have the ability to do something(alsopossess the ability to do somethingformal)She has the ability to make people feel relaxed.",
-                            "show/demonstrate the ability to do somethinga chance for candidates to demonstrate their abilities",
-                            "lack the ability to do somethingAs a young man, he lacked the ability to say no.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a level of ability/ability levelThe children were of the same age and ability level.",
-                            "a range of ability/ability rangeThere is a wide range of ability within the class.|Disruptive behaviour is more prominent in the lower ability range.",
-                            "a test of ability/an ability testExaminations are not always a good test of ability.|The class was given a verbal ability test.",
-                            "an ability group(= a group that students are taught in, based on their level of ability )Children are divided into different ability groups."
+                            "show/demonstrate the ability to do somethinga chance for candidates to demonstrate their abilities"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "high/low/average abilitya group of low ability pupils|",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Many of these students are of above average ability.|Children of high ability demand more absorbing tasks."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "great/considerable ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was a young man of great ability.|These drawings required considerable ability on the part of the artist."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mixed ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "at different levels",
+                                "examples": [
+                                    "a mixed ability class"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "uncanny ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an unusual ability that is difficult to explain",
+                                "examples": [
+                                    "He has an uncanny ability for spotting investment opportunities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "natural ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoinnate abilityformal",
+                                "examples": [
+                                    "(= an ability that you are born with )He didn't have the natural ability of his brother.|Babies have an innate ability to do simple maths."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "physical/athletic ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He has considerable athletic ability."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "artistic/creative ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You do not need to have any artistic ability."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "musical ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Tim showed musical ability at an early age."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acting ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Her acting abilities were obvious straightaway."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mental ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The exercises are supposed to help you improve your mental ability."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "intellectual/academic ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "No one doubts his intellectual abilities.|A degree is evidence of your academic ability in a particular subject area."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "verbal/linguistic ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "language skills",
+                                "examples": [
+                                    "The test is intended to measure the children's linguistic ability."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mathematical ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "These students have a higher level of mathematical ability."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "proven ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that you have proved through your achievements",
+                                "examples": [
+                                    "Companies often value the proven ability and reliability of older employees."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have the ability to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsopossess the ability to do somethingformal",
+                                "examples": [
+                                    "She has the ability to make people feel relaxed."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lack the ability to do something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "As a young man, he lacked the ability to say no."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a level of ability/ability level",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The children were of the same age and ability level."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a range of ability/ability range",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There is a wide range of ability within the class.|Disruptive behaviour is more prominent in the lower ability range."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a test of ability/an ability test",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Examinations are not always a good test of ability.|The class was given a verbal ability test."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an ability group",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a group that students are taught in, based on their level of ability",
+                                "examples": [
+                                    "Children are divided into different ability groups."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -146,25 +463,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "a natural ability to do sth easily and wellSYN talent: khả năng",
-                        "examples": [
-                            "facility for",
-                            "She has an amazing facility for languages.",
-                            "His facility for languages is astonishing."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "facility for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She has an amazing facility for languages.",
+                                    "His facility for languages is astonishing."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -182,46 +498,282 @@
                         "region": "",
                         "definition": "anaturalability to do something very well which can be developed with practice :tài năng",
                         "examples": [
-                            "Hehasa lot oftalent, and his work is fresh and interesting.",
-                            "talent for",
-                            "Sheshowedatalentfor acting at an early age.",
-                            "Porter has a talent for making a difficult subject understandable and interesting.",
-                            "Your brother isa man of many talents.",
-                            "There’s awealth of talentin English football.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have talentGreg has a real talent for drawing.",
-                            "show talentZach was the only one who showed any natural talent.",
-                            "use your talentsThey have been using their artistic talents to brighten up the school.",
-                            "develop your talentEducation allows people to develop their talents to the full.",
-                            "waste your talentsThey felt their son was wasting his talents and his time.",
-                            "sb’s talents flourish(= develop successfully )The school created an atmosphere in which young talent could flourish.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "great/considerable/exceptional talentHe had a great talent for making money.",
-                            "real talentShe has real talent and with a little help she could go far.",
-                            "natural talentRonaldo is a player of immense natural talent.",
-                            "raw talent(= used to describe someone with natural ability who has not had much training )He’s got lots of raw talent but he needs a good coach.",
-                            "a hidden talentHave a go – you may discover a hidden talent!",
-                            "musical/artistic/creative etc talentIt was at school that Brian’s musical talents were spotted.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a talent contest/show/competitionDon’t assume winning a talent contest is a passport to success.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a wealth of talent(= a large amount of talent )There’s a wealth of musical talent in New York and other large American cities.",
-                            "a pool of talent(= lots of talented people )Employers can draw on an enormous pool of talent in this area."
+                            "Hehasa lot oftalent, and his work is fresh and interesting."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have talent",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Greg has a real talent for drawing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "show talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Zach was the only one who showed any natural talent."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use your talents",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They have been using their artistic talents to brighten up the school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "develop your talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Education allows people to develop their talents to the full."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "waste your talents",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They felt their son was wasting his talents and his time."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s talents flourish",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "develop successfully",
+                                "examples": [
+                                    "The school created an atmosphere in which young talent could flourish."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "great/considerable/exceptional talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had a great talent for making money."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "real talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She has real talent and with a little help she could go far."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "natural talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ronaldo is a player of immense natural talent."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "raw talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used to describe someone with natural ability who has not had much training",
+                                "examples": [
+                                    "He’s got lots of raw talent but he needs a good coach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hidden talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Have a go – you may discover a hidden talent!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "musical/artistic/creative etc talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It was at school that Brian’s musical talents were spotted."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a talent contest/show/competition",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Don’t assume winning a talent contest is a passport to success."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a wealth of talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a large amount of talent",
+                                "examples": [
+                                    "There’s a wealth of musical talent in New York and other large American cities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pool of talent",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "lots of talented people",
+                                "examples": [
+                                    "Employers can draw on an enormous pool of talent in this area."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "talent for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sheshowedatalentfor acting at an early age.",
+                                    "Porter has a talent for making a difficult subject understandable and interesting.",
+                                    "Your brother isa man of many talents.",
+                                    "There’s awealth of talentin English football."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -239,27 +791,42 @@
                         "region": "",
                         "definition": "the natural ability, especially in learning a new subject or activity and become good at it: năng khiếu",
                         "examples": [
-                            "A trainee with normal aptitude can learn these techniques in a few months.",
-                            "aptitude for",
-                            "At an early age Susan showed an aptitude for languages.",
-                            "He has anatural aptitudefor teaching.",
-                            "aptitude test",
-                            "All applicants are given aptitude tests before being invited for interview."
+                            "A trainee with normal aptitude can learn these techniques in a few months."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "aptitude for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "At an early age Susan showed an aptitude for languages.",
+                                    "He has anatural aptitudefor teaching."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "aptitude test",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All applicants are given aptitude tests before being invited for interview."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -277,40 +844,195 @@
                         "region": "",
                         "definition": "1 the ability to do something wellOPP in: năng lực",
                         "examples": [
-                            "competence in",
-                            "Students will gain competence in a wide range of skills.",
-                            "competence of",
-                            "He questioned the competence of the government.",
-                            "professional/linguistic/technical etc competence",
-                            "Doctors have to constantly update their knowledge in order to maintain their professional competence.",
                             "2[C] (alsocompetency)formala skill needed to do a particular job: năng lực",
-                            "Typing is considered by most employers to be a basic competence.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have competenceOlder people often feel that they don't have any competence with computers.",
-                            "demonstrate/show competenceStudents have to demonstrate competence in maths and science.",
-                            "acquire/achieve/gain/develop competenceFirst you have to acquire competence in methods of research.",
-                            "lack competenceSome staff members lacked the competence to deal with technical problems.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "professional competenceThe courses will improve the skills and professional competence of the staff.",
-                            "technical/linguistic/managerial etc competenceThere are many careers that require a high degree of linguistic competence.",
-                            "social competenceThe first years of life are very important in a child's growth toward social competence.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a level/standard/degree of competenceThe trainees are expected to acquire a basic level of competence."
+                            "Typing is considered by most employers to be a basic competence."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have competence",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Older people often feel that they don't have any competence with computers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "demonstrate/show competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Students have to demonstrate competence in maths and science."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acquire/achieve/gain/develop competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "First you have to acquire competence in methods of research."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lack competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Some staff members lacked the competence to deal with technical problems."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "professional competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The courses will improve the skills and professional competence of the staff."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "technical/linguistic/managerial etc competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There are many careers that require a high degree of linguistic competence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "social competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The first years of life are very important in a child's growth toward social competence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a level/standard/degree of competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The trainees are expected to acquire a basic level of competence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "competence in",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Students will gain competence in a wide range of skills."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "competence of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He questioned the competence of the government."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "professional/linguistic/technical etc competence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Doctors have to constantly update their knowledge in order to maintain their professional competence."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -327,25 +1049,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "a natural ability to do sth very well, especially sth that needs imagination and creativity : tài, năng khiếu",
-                        "examples": [
-                            "have a flair for",
-                            "If you have a flair for languages, there are some good career opportunities in Europe.",
-                            "Irwin has real entrepreneurial flair."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a flair for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "If you have a flair for languages, there are some good career opportunities in Europe.",
+                                    "Irwin has real entrepreneurial flair."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -393,23 +1114,7 @@
                             "_a talented footballer/pianist"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -441,23 +1146,7 @@
                             "_a gifted dancer/musician"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -486,23 +1175,7 @@
                             "người kể chuyện bẩm sinh"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -515,25 +1188,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌhæv ən ˈæpttjuːd fɔːʳ ǁ-tuːd-/  to have a natural ability to learn a particular subject or skill very easily and quickly:",
-                        "examples": [
-                            "có năng khiếu trong",
-                            "▪ The school is for children who have an exceptional aptitude for math and science.",
-                            "Ngôi trường dành cho những học sinh có năng khiếu toán học và khoa học."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "có năng khiếu trong",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The school is for children who have an exceptional aptitude for math and science.",
+                                    "Ngôi trường dành cho những học sinh có năng khiếu toán học và khoa học."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -550,27 +1222,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌhæv ə ˈgɪft fɔːʳ/  have a gift for languages/ painting/ music/ dancing etc have a special natural ability to do something very well, especially something artistic:",
-                        "examples": [
-                            "có năng khiếu",
-                            "▪ Mozart had a gift for music even when he was very young.",
-                            "Mozart có năng khiếu âm nhạcthậm chí từ khi còn rất nhỏ.",
-                            "▪ As a director, he has a gift for inspiring his actors to give their best performances.",
-                            "Là một đạo diễn, anh ta có khiếu trong việc truyền cảm hứng để diễn viên hoàn thành xuất sắc nhất."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "có năng khiếu",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Mozart had a gift for music even when he was very young.",
+                                    "Mozart có năng khiếu âm nhạcthậm chí từ khi còn rất nhỏ.",
+                                    "▪ As a director, he has a gift for inspiring his actors to give their best performances.",
+                                    "Là một đạo diễn, anh ta có khiếu trong việc truyền cảm hứng để diễn viên hoàn thành xuất sắc nhất."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -587,29 +1258,43 @@
                         "usage": "",
                         "region": "",
                         "definition": "/bɔːʳn/",
-                        "examples": [
-                            "bẩm sinh",
-                            "born leader/ teacher/ writer etcsomeone who clearly has a natural ability to lead, teach etc well, so that it seems as if they do not need to be taught how to do it:",
-                            "lãnh đạo/ nhà giáo/ nhà văn bẩm sinh",
-                            "▪ When I read his first essays I knew that he was a born writer.",
-                            "Khi tôi đọc đoạn văn đầu tiên tôi biết ngay anh ấy là nhà văn bẩm sinh.",
-                            "▪ He seemed to be a born leader, someone who inspired confidence and loyalty.",
-                            "Anh ta có vẻ là nhà lãnh đạo bẩm sinh, một người truyền cảm hứng về sự tự tin và lòng trung thành."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "bẩm sinh",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "born leader/ teacher/ writer etcsomeone who clearly has a natural ability to lead, teach etc well, so that it seems as if they do not need to be taught how to do it:"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lãnh đạo/ nhà giáo/ nhà văn bẩm sinh",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ When I read his first essays I knew that he was a born writer.",
+                                    "Khi tôi đọc đoạn văn đầu tiên tôi biết ngay anh ấy là nhà văn bẩm sinh.",
+                                    "▪ He seemed to be a born leader, someone who inspired confidence and loyalty.",
+                                    "Anh ta có vẻ là nhà lãnh đạo bẩm sinh, một người truyền cảm hứng về sự tự tin và lòng trung thành."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -643,29 +1328,88 @@
                         "region": "",
                         "definition": "a very great ability, which only a few people have : thiên tài, tài thiên bẩm",
                         "examples": [
-                            "The film reveals Fellini’s genius.",
-                            "work/writer/man etc of genius",
-                            "Wynford was an architect of genius.",
-                            "Picasso was a painterof genius.",
-                            "a stroke of genius(= a very clever idea)",
-                            "At the time, his appointment seemed a stroke of genius.",
-                            "a work ofpure genius",
-                            "Could a computer ever achieve the genius of men like Newton and Einstein.",
-                            "Maurice was always entertaining, but there was a touch of genius in the way he talked that night.",
-                            "have a genius for (doing) sth",
-                            "Sandra will deal with it. That woman has a genius for organization.",
-                            "That womanhas a genius fororganization.",
-                            "Warhol’s genius for publicity"
+                            "The film reveals Fellini’s genius."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "work/writer/man etc of genius",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Wynford was an architect of genius.",
+                                    "Picasso was a painterof genius."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a stroke of genius(= a very clever idea)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "At the time, his appointment seemed a stroke of genius."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a work ofpure genius",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Could a computer ever achieve the genius of men like Newton and Einstein.",
+                                    "Maurice was always entertaining, but there was a touch of genius in the way he talked that night."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a genius for (doing) sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sandra will deal with it. That woman has a genius for organization.",
+                                    "That womanhas a genius fororganization."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Warhol’s genius for publicity",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",

@@ -47,23 +47,7 @@
                             "St. John Bosco is the patron saintofTurin."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -77,18 +61,17 @@
                         "region": "",
                         "definition": "(written abbFr) (the title of) a Christian priest, especially a Roman Catholic or Orthodox priest: cha",
                         "examples": [
-                            "Father O'Reilly",
                             "[as form of address]Are you giving a sermon, Father?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Father O'Reilly",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -115,23 +98,7 @@
                             "[as form of address]Good morning, Mother."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -144,20 +111,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "(the title of) the leader of the Roman Catholic Church :Giáo hoàng",
-                        "examples": [
-                            "Pope John Paul II",
-                            "The Pope will visit El Salvador this year.",
-                            "Pope John XXIII"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Pope John Paul II",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Pope will visit El Salvador this year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Pope John XXIII",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -180,18 +160,17 @@
                         "region": "",
                         "definition": "(written abbMsgr) a title used with the name of a Roman Catholic priest of high rank :đức ông",
                         "examples": [
-                            "Monsignor Healey",
                             "[as form of address]This way please, Monsignor."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Monsignor Healey",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",

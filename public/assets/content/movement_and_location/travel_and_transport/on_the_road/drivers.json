@@ -40,18 +40,17 @@
                         "examples": [
                             "Most of the bikers rode Harley-Davidsons.",
                             "We were overtaken by acrowd of bikers doing over 90 mph.",
-                            "2sb who rides a bicycle :",
-                            "trails for bikers and hikers"
+                            "2sb who rides a bicycle :"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "trails for bikers and hikers",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -74,38 +73,228 @@
                         "region": "",
                         "definition": "sb who regularly drives, or someone who is driving a car, train, etc at a particular time :người lái",
                         "examples": [
-                            "Many drivers suffer from backache.",
-                            "driver’s seat/door/side etc",
-                            "He got into the driver’s seat and started the engine.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a racing driver(= driving racing cars in competitions )world famous racing drivers like Lewis Hamilton",
-                            "a good driverHe thinks he’s a very good driver.",
-                            "a careful/safe driverSince I had the accident, I’m a much more careful driver.",
-                            "a bad driverThere are a lot of bad drivers on the roads.",
-                            "a dangerous driverSome young men tend to be dangerous drivers.",
-                            "a reckless driver(= taking risks and not worrying about the results )Reckless drivers should be given more severe punishments.",
-                            "a drunken/drunk driver(= who has drunk too much alcohol )Her husband was killed by a drunken driver.",
-                            "a hit-and-run driver(= in which a car driver hits sb and does not stop )The boy was in hospital after being knocked down by a hit-and-run driver.",
-                            "a learner driver(= who is learning to drive )Learner drivers spend a lot of money on driving lessons.",
-                            "an experienced driver(= who has a lot of experience of driving )Young drivers are ten times more likely to be killed on the road than experienced drivers.",
-                            "an inexperienced driver(= who does not have much experience of driving )Many accidents are caused by young or inexperienced drivers.",
-                            "a designated driverone person in a group who agrees not to drink alcohol in order to drive the other people to and from a place where they will drink alcohol",
-                            "Tom said he'd be the designated driver when we go out tonight."
+                            "Many drivers suffer from backache."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a racing driver",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "driving racing cars in competitions",
+                                "examples": [
+                                    "world famous racing drivers like Lewis Hamilton"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a good driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He thinks he’s a very good driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a careful/safe driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Since I had the accident, I’m a much more careful driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bad driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There are a lot of bad drivers on the roads."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a dangerous driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Some young men tend to be dangerous drivers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a reckless driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "taking risks and not worrying about the results",
+                                "examples": [
+                                    "Reckless drivers should be given more severe punishments."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a drunken/drunk driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "who has drunk too much alcohol",
+                                "examples": [
+                                    "Her husband was killed by a drunken driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hit-and-run driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which a car driver hits sb and does not stop",
+                                "examples": [
+                                    "The boy was in hospital after being knocked down by a hit-and-run driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a learner driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "who is learning to drive",
+                                "examples": [
+                                    "Learner drivers spend a lot of money on driving lessons."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an experienced driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "who has a lot of experience of driving",
+                                "examples": [
+                                    "Young drivers are ten times more likely to be killed on the road than experienced drivers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an inexperienced driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "who does not have much experience of driving",
+                                "examples": [
+                                    "Many accidents are caused by young or inexperienced drivers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "driver’s seat/door/side etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He got into the driver’s seat and started the engine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a designated driverone person in a group who agrees not to drink alcohol in order to drive the other people to and from a place where they will drink alcohol",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Tom said he'd be the designated driver when we go out tonight."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -125,24 +314,24 @@
                         "examples": [
                             "Motorists are developing the habit of buying a new car every other year.",
                             "Safety needs to be improved, not only for motorists but also for pedestrians.",
-                            "12,000 motorists were stopped for speeding in the police crackdown.",
-                            "the motoristall motorists as general",
-                            "The countryside is being destroyed for the benefit of the motorist."
+                            "12,000 motorists were stopped for speeding in the police crackdown."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the motoristall motorists as general",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The countryside is being destroyed for the benefit of the motorist."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -159,24 +348,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "sb who rides a motorcycle: người điều khiển xe máy",
-                        "examples": [
-                            "Three motorcyclists dressed in black rode past",
-                            "The President’s car arrived with its escort of police motorcyclists."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Three motorcyclists dressed in black rode past",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The President’s car arrived with its escort of police motorcyclists."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -198,23 +386,7 @@
                             "▪ The leading rider in this year’s motorcycle championship is Wayne Rainey."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -229,25 +401,24 @@
                         "definition": "especially British sb who rides a bicycle:người lái xe đạp",
                         "examples": [
                             "▪ Most cyclists in London have their bikes stolen eventually.",
-                            "▪ Cyclists are demanding more and safer cycle paths in the city.",
-                            "a keen cyclist",
-                            "▪ Heather, a keen cyclist, is hoping to raise £10,000 by riding her bike across Europe.",
-                            ""
+                            "▪ Cyclists are demanding more and safer cycle paths in the city."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a keen cyclist",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Heather, a keen cyclist, is hoping to raise £10,000 by riding her bike across Europe."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -281,26 +452,26 @@
                         "region": "",
                         "definition": "sb who drives a vehicle as a job :tài xế",
                         "examples": [
-                            "The limousine pulled up outside the church and the driver got out.",
-                            "a taxi/bus/truck etc driver",
-                            "Car drivers face a new daily charge to enter the capital.",
-                            "Harry asked the cab driver to stop outside the store for a couple of minutes while he bought a paper.",
-                            "a delivery driver(= delivering goods to a place )He’s a delivery driver for a pizza takeaway restaurant."
+                            "The limousine pulled up outside the church and the driver got out."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a taxi/bus/truck etc driver",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Car drivers face a new daily charge to enter the capital.",
+                                    "Harry asked the cab driver to stop outside the store for a couple of minutes while he bought a paper.",
+                                    "a delivery driver(= delivering goods to a place )He’s a delivery driver for a pizza takeaway restaurant."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -318,24 +489,24 @@
                         "region": "",
                         "definition": "sb whose job is to drive a car for sb else:tài xế (của ai)",
                         "examples": [
-                            "I’ll learn to drive and be some film star’s chauffeur.",
-                            "a chauffeur-driven Rolls Royce",
-                            "He was picked up by a chauffeur in a limousine."
+                            "I’ll learn to drive and be some film star’s chauffeur."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a chauffeur-driven Rolls Royce",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was picked up by a chauffeur in a limousine."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -353,27 +524,10 @@
                         "region": "",
                         "definition": "informalsb who drives a truck :",
                         "examples": [
-                            "Mexico has no limit on how many hours truckers can drive daily.",
-                            ""
+                            "Mexico has no limit on how many hours truckers can drive daily."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

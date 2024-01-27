@@ -44,23 +44,7 @@
                             "▪ The rapist was sentenced to five years in prison, but he could be free in 18 months."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -68,30 +52,30 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[non-attri]",
                         "usage": "",
                         "region": "",
                         "definition": "out/aʊt/  no longer in prison because you have been allowed to leave:ra tù",
                         "examples": [
-                            "▪ Peter could be out in as little as 3 years.",
-                            "get out",
-                            "▪ Her husband gets out of jail next week."
+                            "▪ Peter could be out in as little as 3 years."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get out",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Her husband gets out of jail next week."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -129,23 +113,7 @@
                             "▪ The Emancipation Proclamation, in 1863, set the American slaves free."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -159,24 +127,24 @@
                         "region": "",
                         "definition": "to let sb leave a place where they are being kept, especially a prison:thả",
                         "examples": [
-                            "Lusani hopes to be let out early.",
-                            "let sb out of",
-                            "She was let out of prison to attend her daughter’s funeral."
+                            "Lusani hopes to be let out early."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "let sb out of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She was let out of prison to attend her daughter’s funeral."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -198,8 +166,6 @@
                             "They released ten political prisoners last year.",
                             "Police arrested several men, who were later released.",
                             "The bears are eventually released into the wild.",
-                            "release somebody from something",
-                            "He was released from the hospital yesterday.",
                             "release[S or U] when sb is officially allowed to go free, after being kept somewhere :",
                             "Before release, the sea lions are fitted with electronic tracking devices.",
                             "The four men were greeted by jubilant relatives upon their release.",
@@ -212,16 +178,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "release somebody from something",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was released from the hospital yesterday."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -243,23 +211,7 @@
                             "I just kept praying that the man would let me go."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -275,27 +227,42 @@
                         "examples": [
                             "Many of these young offenders should have been freed a long time ago.",
                             "He expects to be freed quite soon.",
-                            "The terrorists have at last agreed to free the hostages.",
-                            "free sb from sth",
-                            "She was freed from prison last week.",
-                            "His supporters are demanding that he be freed from prison.",
-                            "free into",
-                            "The dolphins will be freed into the ocean once their injuries have healed."
+                            "The terrorists have at last agreed to free the hostages."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "free sb from sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She was freed from prison last week.",
+                                    "His supporters are demanding that he be freed from prison."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "free into",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The dolphins will be freed into the ocean once their injuries have healed."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -329,28 +296,41 @@
                         "region": "",
                         "definition": "/ˌluːsən ˈʌp/  informal if you loosen up, you become more relaxed and stop worrying about things: thư giản, thoải mái",
                         "examples": [
-                            "▪ Hey, loosen up! It’s not worth getting upset about something she said.",
-                            "Hey, hãy thư giản đi, nó không đáng để bạn buồn về những điều cô ấy nói đâu",
-                            "▪ Our drama teacher would do crazy things, just to get us to loosen up some.",
-                            "Giáo viên dạy kịch của chúng tôi làm những điều điên rồ chỉ để chúng tôi thoái mái hơn",
-                            "",
-                            "loosen upinformalto become more relaxed and stop worrying about things :I keep telling Mum that she needs to loosen up a bit.|Tom had had a few drinks and was beginning to loosen up.",
-                            ""
+                            "▪ Hey, loosen up! It’s not worth getting upset about something she said."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Hey, hãy thư giản đi, nó không đáng để bạn buồn về những điều cô ấy nói đâu",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Our drama teacher would do crazy things, just to get us to loosen up some."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Giáo viên dạy kịch của chúng tôi làm những điều điên rồ chỉ để chúng tôi thoái mái hơn",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "loosen upinformalto become more relaxed and stop worrying about things :I keep telling Mum that she needs to loosen up a bit.|Tom had had a few drinks and was beginning to loosen up."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -366,26 +346,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "get(sb/sth)outphrasal verb",
-                        "examples": [
-                            "to (help someone or something to) escape from or leave a place",
-                            "_I left the door open and the cat got out.",
-                            "_A team of commandoes got the hostages outfromthe rebel base.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to (help someone or something to) escape from or leave a place",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_I left the door open and the cat got out.",
+                                    "_A team of commandoes got the hostages outfromthe rebel base."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

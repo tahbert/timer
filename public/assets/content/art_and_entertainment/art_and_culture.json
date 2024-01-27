@@ -59,7 +59,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "very valuable works of art, especially ones that are very old",
+                        "definition": "very valuable works of art, especially ones that are very old: kho tàng",
                         "examples": [
                             "The exhibition shows treasures from ancient China.",
                             "The museum houses many priceless treasures."
@@ -72,15 +72,29 @@
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
                                 "examples": [
-                                    "Some of Spain’s most valuable art treasures are housed in El Prado.",
-                                    "stolen art treasures"
+                                    "Some of Spain’s most valuable art treasures are housed in El Prado."
                                 ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "stolen art treasures",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -96,50 +110,21 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "sth created as a result of effort, especially a painting, book, or piece of music",
+                        "definition": "sth created as a result of effort, especially a painting, book, or piece of music : tác phẩm",
                         "examples": [
                             "Her later works reflected her growing depression.",
                             "Some of the director’s best works were created during his neo-realist period.",
                             "the poetic works of Tagore",
-                            "the Collected Works of Shakespeare"
+                            "the Collected Works of Shakespeare",
+                            "work by",
+                            "It is another accomplished work by the artist.",
+                            "The museum has many works by Picasso as well as other modern painters.",
+                            "The collection contains works by Kahlo and Picasso.",
+                            "complete works of sball the things that someone has producedtoàn bộ tác phẩm của ai",
+                            "the complete works of William Shakespeare"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "work by",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "It is another accomplished work by the artist.",
-                                    "The museum has many works by Picasso as well as other modern painters.",
-                                    "The collection contains works by Kahlo and Picasso."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "complete works of sb",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "all the things that someone has produced",
-                                "examples": ["the complete works of William Shakespeare"],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -151,7 +136,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a work of art or a document that is not a copy, but is the one produced by the writer or artist: nguyên tác, nguyên bản",
+                        "definition": "a work of art or a document that is not a copy, but is the one produced by the writer or artist : nguyên tác, nguyên bản, bản gốc",
                         "examples": [
                             "The colours are much more striking in the original.",
                             "I’ll keep a copy of the contract, and give you the original.",
@@ -170,7 +155,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a painting, sculpture, poem, piece of music, or other product of the creative arts, especially one that most people agree is of very high quality",
+                        "definition": "a painting, sculpture, poem, piece of music, or other product of the creative arts, especially one that most people agree is of veryhighquality:tác phẩm nghệ thuật",
                         "examples": [
                             "From a single lump of clay, Torrence had produced a work of art.",
                             "The sketches were never meant to be works of art but are beautiful nonetheless.",
@@ -182,7 +167,7 @@
                     },
                     {
                         "id": "",
-                        "name": "masterpiece/masterwork",
+                        "name": "masterpiece",
                         "order": 1,
                         "icon": "",
                         "header": "branch",
@@ -190,7 +175,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a picture, sculpture, film etc that is of extremely high quality, especially one that is believed to be the best work of a particular artist",
+                        "definition": "/ masterwork a picture, sculpture, film etc that is ofextremelyhighquality, especially one that is believed to be the best work of a particular artist :kiệt tác",
                         "examples": [
                             "Adam Smith’s masterpiece ‘The Wealth of Nations’ was written in the 18th century.",
                             "Thirteen people helped Michelangelo create his masterpiece on the ceiling of the Sistine Chapel.",
@@ -223,11 +208,14 @@
                         "icon": "",
                         "header": "branch",
                         "frequency": "D",
-                        "partOfSpeech": "[C + singular/plural verb]",
+                        "partOfSpeech": "[C + sing/pl verb]",
                         "usage": "",
                         "region": "",
-                        "definition": "a group of painters, writers, poets, etc. whose work is similar, especially similar to that of a particular leader: trường phái",
-                        "examples": ["the Flemish School", "the Impressionist school of painting"],
+                        "definition": "a group of painters, writers, poets, etc. whose work is similar, especially similar to that of a particular leader : trường phái",
+                        "examples": [
+                            "the FlemishSchool",
+                            "the Impressionist schoolofpainting"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }
@@ -257,7 +245,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a short piece of writing, music etc taken from a particular book, piece of music etc: đoạn trích",
+                        "definition": "a short piece of writing, music etc taken from a particular book, piece of music etc : đoạn trích",
                         "examples": [],
                         "isEnabled": true,
                         "children": [
@@ -267,7 +255,7 @@
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -292,7 +280,10 @@
                         "usage": "",
                         "region": "",
                         "definition": "a short piece taken from a book, poem, piece of music etc",
-                        "examples": [],
+                        "examples": [
+                            "excerpt[ T ] mainly US",
+                            "This passage of text has been excerpted from her latest novel."
+                        ],
                         "isEnabled": true,
                         "children": [
                             {
@@ -301,7 +292,7 @@
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -309,23 +300,6 @@
                                 "examples": [
                                     "An excerpt of the speech appeared in the Sunday paper.",
                                     "An excerpt from her new thriller will appear in this weekend's magazine."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "excerpt",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "[T]",
-                                "usage": "[mainly US]",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "This passage of text has been excerpted from her latest novel."
                                 ],
                                 "isEnabled": true,
                                 "children": []
@@ -358,7 +332,7 @@
                         "partOfSpeech": "[adj]",
                         "usage": "",
                         "region": "",
-                        "definition": "describes sb who has a good education and knows a lot about art, literature, music etc",
+                        "definition": "describes sb who has a good education and knows a lot about art, literature, music etc: văn hóa",
                         "examples": [
                             "Sempaio is a highly cultured lawyer with a love of classical music.",
                             "The Art Nouveau Cafe is a popular meeting place for the city’s cultured classes."
@@ -413,16 +387,16 @@
                         "usage": "",
                         "region": "",
                         "definition": "UK /artsyUS  sb who is interested in or knows about art and culture - use this when you do not approve of people like this : ra vẻ nghệ sĩ",
-                        "examples": ["Jake’s having a party for all his arty friends"],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "arty-farty/artsy-fartsy",
+                                "name": "Jake’s having a party for all his arty friends.arty-farty/artsy-fartsy",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -453,7 +427,7 @@
                 "children": [
                     {
                         "id": "",
-                        "name": "aesthetic/esthetic [US]",
+                        "name": "aesthetic",
                         "order": 1,
                         "icon": "",
                         "header": "branch",
@@ -461,8 +435,10 @@
                         "partOfSpeech": "[adj]",
                         "usage": "",
                         "region": "",
-                        "definition": "describes an object or a work of art that shows great beauty: có tính thẩm mỹ",
-                        "examples": ["furniture which is both aesthetic and functional"],
+                        "definition": "/ estheticUS describes an object or a work of art that shows great beauty : có tính thẩm mỹ",
+                        "examples": [
+                            "furniture which is both aesthetic and functional"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }
@@ -492,7 +468,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a way of expressing ideas, for example in a painting, dance, piece of writing etc",
+                        "definition": "a way of expressing ideas, for example in a painting, dance, piece of writing etc:hình thức nghệ thuật, loại hình nghệ thuật",
                         "examples": [
                             "Ballet is a 400-year-old art form, born in the courts of Europe.",
                             "Lehr tries to help her students understand that theater is an expressive art form.",
@@ -512,16 +488,45 @@
                         "usage": "",
                         "region": "",
                         "definition": "art, music, theatre, film, literature etc especially produced by a particular society or a particular group in society: văn hoá",
-                        "examples": [
-                            "the Italian Ministry of Culture",
-                            "The magazine is devoted to rock music, fashion, and other aspects of youth culture.",
-                            "Johnson’s mother stressed intellectual and artistic achievement, while his father considered intellect and culture to be unmanly.",
-                            "You won't find much culture in this sleepy little town, I'm afraid!",
-                            "If it’s culture you’re looking for, the city has plenty of museums and art galleries.",
-                            "popular culture(= the music, books, films etc that are liked by a lot of people) văn hóa đại chúng"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
-                        "children": []
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "the Italian Ministry of Culture",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The magazine is devoted to rock music, fashion, and other aspects of youth culture.",
+                                    "Johnson’s mother stressed intellectual and artistic achievement, while his father considered intellect and culture to be unmanly.",
+                                    "You won't find much culture in this sleepy little town, I'm afraid!",
+                                    "If it’s culture you’re looking for, the city has plenty of museums and art galleries."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "popular culture(= the music, books, films etc that are liked by a lot of people) văn hóa đại chúng",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "id": "",
@@ -533,76 +538,31 @@
                         "partOfSpeech": "[P]",
                         "usage": "",
                         "region": "",
-                        "definition": "the various branches of creative activity, such as painting, music, literature, and dance, etc all considered together: nghệ thuật (nói chung)",
+                        "definition": "the various branches of creative activity, such as painting, music, literature, and dance, etc all considered together : nghệ thuật (nói chung)",
                         "examples": [
                             "Government funding for the arts has been reduced.",
                             "More government money is needed for the arts.",
-                            "public interest in the arts"
+                            "public interest in the arts",
+                            "the visual artscreative art whose products are to be appreciated by sight, such as painting, sculpture, and film-making (as contrasted with literature and music) nghệ thuật thị giác",
+                            "The approach to the visual arts has changed in the last two decades.",
+                            "the plastic artsart that involves producing objects such as sculpures or pots :the decline of the plastic arts in the fifth century",
+                            "the performing artsdance, music, or drama, done to entertain people :San Diego’s School for the Creative and Performing Arts"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "the visual arts",
+                                "name": "the decorative artsthe design and production of beautiful things for the home, such as furniture, pottery, and cloth : nghệ thuật trang trí",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "creative art whose products are to be appreciated by sight, such as painting, sculpture, and film-making (as contrasted with literature and music) nghệ thuật thị giác",
+                                "definition": "",
                                 "examples": [
-                                    "The approach to the visual arts has changed in the last two decades."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "the decorative arts",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "the design and production of beautiful things for the home, such as furniture, pottery, and cloth: nghệ thuật trang trí",
-                                "examples": ["The exhibition will also cover the decorative arts."],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "the plastic arts",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "art that involves producing objects such as sculpures or pots",
-                                "examples": [
-                                    "the decline of the plastic arts in the fifth century"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "the performing arts",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "dance, music, or drama, done to entertain people",
-                                "examples": [
-                                    "San Diego’s School for the Creative and Performing Arts"
+                                    "The exhibition will also cover the decorative arts."
                                 ],
                                 "isEnabled": true,
                                 "children": []
@@ -621,44 +581,28 @@
                         "region": "",
                         "definition": "A2  the making of objects, images, music, etc. that are beautiful or that express feelings: nghệ thuật",
                         "examples": [
-                            "the art of photography",
-                            "Can television and pop music really be considered art?",
-                            "I enjoyed the ballet, but it wasn't really great art."
+                            "artB2 [C] an creative activity through which people express particular ideas: nghệ thuật",
+                            "Drama is an art that is traditionally performed in a theatre.",
+                            "Do you regard film as entertainment or as an art?",
+                            "She is doing a course in the performing arts."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "performance art",
+                                "name": "the art of photography",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "a type of art that can combine acting, dance, and other actions to express an idea",
+                                "definition": "",
                                 "examples": [
-                                    "It will be a mixture of live performance art, music and poetry in an informal club setting."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "art",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "[C]",
-                                "usage": "",
-                                "region": "",
-                                "definition": "an creative activity through which people express particular ideas: nghệ thuật",
-                                "examples": [
-                                    "Drama is an art that is traditionally performed in a theatre.",
-                                    "Do you regard film as entertainment or as an art?",
-                                    "She is doing a course in the performing arts."
+                                    "Can television and pop music really be considered art?",
+                                    "I enjoyed the ballet, but it wasn't really great art.",
+                                    "performance arta type of art that can combine acting, dance, and other actions to express an idea :It will be a mixture of live performance art, music and poetry in an informal club setting."
                                 ],
                                 "isEnabled": true,
                                 "children": []
@@ -728,14 +672,44 @@
                         "definition": "relating to art, literature, music etc",
                         "examples": [
                             "The Principal feels that cultural education is very important.",
-                            "Baroque music was part of a broader cultural movement that affected all the arts.",
-                            "the city’s rich and varied cultural life",
-                            "Students need to have time for relaxation and cultural activities, as well as for academic work.",
-                            "In the later Middle Ages, Prague was an important cultural centre (= a place, usually a big city, where a lot of artistic and musical events happen ).",
-                            "a cultural desert/wasteland (= a place without museums, theatres, etc.)"
+                            "Baroque music was part of a broader cultural movement that affected all the arts."
                         ],
                         "isEnabled": true,
-                        "children": []
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "the city’s rich and variedcultural life",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Students need to have time for relaxation andcultural activities, as well as for academic work.",
+                                    "In the later Middle Ages, Prague was an importantcultural centre(= a place, usually a big city, where a lot of artistic and musical events happen )."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cultural desert/wasteland (= a place without museums, theatres, etc.)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "id": "",
@@ -747,7 +721,7 @@
                         "partOfSpeech": "[attri]",
                         "usage": "",
                         "region": "",
-                        "definition": "relating to art",
+                        "definition": "relating to art: nghệ thuật",
                         "examples": [
                             "The Czech Republic has a long artistic tradition.",
                             "In 1881 when the first moving pictures were shown to the public, it was hailed as an ‘artistic revolution’.",
@@ -785,15 +759,45 @@
                         "partOfSpeech": "[adj]",
                         "usage": "",
                         "region": "",
-                        "definition": "(of a person) having or revealing natural creative skill: có óc thẩm mĩ, nghệ thuật",
+                        "definition": "(of a person) having or revealing natural creative skill:có óc thẩm mĩ, nghệ thuật",
                         "examples": [
-                            "His friends are all artistic - they're painters, musicians and writers.",
-                            "She described her mother as ‘very intelligent and artistic’",
-                            "That’s a lovely picture - I never realized you were so artistic.",
-                            "my lack of artistic ability"
+                            "His friends are all artistic - they're painters, musicians and writers."
                         ],
                         "isEnabled": true,
-                        "children": []
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "She described her mother as ‘very intelligent and artistic’",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "That’s a lovely picture - I never realized you were so artistic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "my lack of artistic ability",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "id": "",
@@ -805,14 +809,29 @@
                         "partOfSpeech": "[adj]",
                         "usage": "",
                         "region": "",
-                        "definition": "having a lot of imagination and able to think of new and original ideas in art, music, or literature",
-                        "examples": [
-                            "We encourage the children to use their creative abilities",
-                            "Ed, you are so creative - where did you learn to draw like that?",
-                            "Davis was one of the most creative jazz musicians of our time."
-                        ],
+                        "definition": "having a lot of imagination and able to think of new and original ideas in art, music, or literature:sáng tạo ( mang tính nghệ thuật )",
+                        "examples": [],
                         "isEnabled": true,
-                        "children": []
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "We encourage the children to use their creative abilities",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Ed, you are so creative - where did you learn to draw like that?",
+                                    "Davis was one of the most creative jazz musicians of our time."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -837,11 +856,15 @@
                         "icon": "",
                         "header": "branch",
                         "frequency": "B1",
-                        "partOfSpeech": "[adj before noun]",
+                        "partOfSpeech": "[ before noun ]",
                         "usage": "",
                         "region": "",
-                        "definition": "describes art that expresses something about the lives and feelings of ordinary people in a particular group or country, especially those living in the countryside",
-                        "examples": ["folk art", "folk dancing"],
+                        "definition": "adjectivedân gian",
+                        "examples": [
+                            "describes artthat expresses something about the lives and feelings of ordinarypeople in a particular group or country, especially those living in the countryside",
+                            "_folk art",
+                            "_folk dancing"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }
@@ -849,7 +872,7 @@
             },
             {
                 "id": "",
-                "name": "people in the field",
+                "name": "people",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -871,7 +894,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "sb who creates things with great skill and imagination,especially a professional performer in music, dance, or the theatre",
+                        "definition": "sb who creates things with great skill and imagination,especially a professional performer in music, dance, or the theatre: nghệ sĩ",
                         "examples": [
                             "He described her as one of the greatest film artists of the 20th century.",
                             "The obituary described Nureyev as ‘a great dancer and a true artist’.",
@@ -885,7 +908,7 @@
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -898,18 +921,16 @@
                             },
                             {
                                 "id": "",
-                                "name": "performance artist",
+                                "name": "performance artistsbwho uses acting, dance and other actions to create art that expresses an idea :a one-man show by the French performance artist, Orlan",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
-                                "definition": "sb who uses acting, dance and other actions to create art that expresses an idea",
-                                "examples": [
-                                    "a one-man show by the French performance artist, Orlan"
-                                ],
+                                "definition": "",
+                                "examples": [],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -925,7 +946,7 @@
                         "partOfSpeech": "[C]",
                         "usage": "",
                         "region": "",
-                        "definition": "a person who represents an actor, artist or writer",
+                        "definition": "a person who represents an actor, artist or writer : trợ lý",
                         "examples": [],
                         "isEnabled": true,
                         "children": []

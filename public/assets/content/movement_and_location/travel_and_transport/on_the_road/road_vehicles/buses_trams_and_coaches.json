@@ -46,23 +46,7 @@
                             "The American(space)shuttle can beused many times to put payloads in space."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,61 +59,536 @@
                         "usage": "",
                         "region": "",
                         "definition": "a large vehicle that people pay to travel on",
-                        "examples": [
-                            "on a bus",
-                            "There were a lot of people on the bus.",
-                            "by bus",
-                            "The best way to get there is by bus.",
-                            "I took a bus to San Francisco.",
-                            "Buses run at 15 and 30 minutes past the hour.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "go/travel by busI usually go to work by bus.",
-                            "go on the bus/use the bus(= travel by bus )It's easier to go on the bus than to drive.",
-                            "get/take/catch a busCan we get a bus from here to Reading?",
-                            "ride a busAmerican English It was the first time Craig had ridden a bus downtown by himself.",
-                            "get on/off a busSeveral more passengers got on the bus.",
-                            "wait for a busWe were waiting for the bus for half an hour.",
-                            "miss the bus(= be too late to get on a bus )He woke up late and missed the bus.",
-                            "a bus goes/leavesThe last bus went ten minutes ago.",
-                            "a bus comes/arrivesI waited and waited but the bus didn't come.",
-                            "buses run(= go at regular times )The buses run less frequently on a Sunday.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a bus ride/journey/tripIt's a 20-minute bus ride into town.",
-                            "a bus stop(= a place where a bus stops for passengers )She got off at the next bus stop.",
-                            "a bus shelter(= a small covered area where you wait for a bus )Some kids had vandalized the bus shelter.",
-                            "a bus service(= a service that provides regular buses )It's a small village but there is a good bus service.",
-                            "a bus routeWe live very near a main bus route.",
-                            "a bus fare(= the money you pay for a bus journey )Can you lend me 50p for my bus fare?",
-                            "a bus ticketShe lost her bus ticket.",
-                            "a bus pass(= a card that allows you to make several bus journeys )Most of the students have a termly bus pass.",
-                            "a bus station(= a place where buses start and finish their journeys )Dad met me at the bus station.",
-                            "a bus lane(= a part of the road where only buses are allowed to drive )You can be fined for driving in a bus lane.",
-                            "a bus driverShe asked the bus driver where to get off for the Botanical Gardens.",
-                            "a bus timetableThe bus timetable changes on January 31st.",
-                            "a bus queueBritish English(= a line of people waiting for a bus )We were chatting while we stood in the bus queue.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a school busHurry up or you'll miss the school bus!",
-                            "a shuttle bus(= one that makes regular short journeys between two places )There's a shuttle bus between the hotel and the beach.",
-                            "a double-decker bus(= one with two levels for passengers )London used to be famous for its double-decker buses.",
-                            "an open-topped bus(= one without a roof, used for showing tourists a town etc )We took a tour on an open-topped bus.",
-                            "an articulated bus(alsobendy busBritish English) a very long bus that has a joint in the middle that allows it to go around corners : xe buýt hai khoang",
-                            "Articulated buses have been used in Europe for many years.",
-                            "a regular bus(= one that goes at regular times )Regular buses run to the airport."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go/travel by bus",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I usually go to work by bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go on the bus/use the bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "travel by bus",
+                                "examples": [
+                                    "It's easier to go on the bus than to drive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get/take/catch a bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Can we get a bus from here to Reading?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ride a bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "American English It was the first time Craig had ridden a bus downtown by himself."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get on/off a bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Several more passengers got on the bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "wait for a bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We were waiting for the bus for half an hour."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "miss the bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be too late to get on a bus",
+                                "examples": [
+                                    "He woke up late and missed the bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus goes/leaves",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The last bus went ten minutes ago."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus comes/arrives",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I waited and waited but the bus didn't come."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "buses run",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "go at regular times",
+                                "examples": [
+                                    "The buses run less frequently on a Sunday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus ride/journey/trip",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It's a 20-minute bus ride into town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus stop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where a bus stops for passengers",
+                                "examples": [
+                                    "She got off at the next bus stop."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus shelter",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small covered area where you wait for a bus",
+                                "examples": [
+                                    "Some kids had vandalized the bus shelter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus service",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a service that provides regular buses",
+                                "examples": [
+                                    "It's a small village but there is a good bus service."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We live very near a main bus route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus fare",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the money you pay for a bus journey",
+                                "examples": [
+                                    "Can you lend me 50p for my bus fare?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus ticket",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She lost her bus ticket."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus pass",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a card that allows you to make several bus journeys",
+                                "examples": [
+                                    "Most of the students have a termly bus pass."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus station",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where buses start and finish their journeys",
+                                "examples": [
+                                    "Dad met me at the bus station."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus lane",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a part of the road where only buses are allowed to drive",
+                                "examples": [
+                                    "You can be fined for driving in a bus lane."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She asked the bus driver where to get off for the Botanical Gardens."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus timetable",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The bus timetable changes on January 31st."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bus queueBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a line of people waiting for a bus",
+                                "examples": [
+                                    "We were chatting while we stood in the bus queue."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a school bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Hurry up or you'll miss the school bus!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shuttle bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that makes regular short journeys between two places",
+                                "examples": [
+                                    "There's a shuttle bus between the hotel and the beach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a double-decker bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one with two levels for passengers",
+                                "examples": [
+                                    "London used to be famous for its double-decker buses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an open-topped bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one without a roof, used for showing tourists a town etc",
+                                "examples": [
+                                    "We took a tour on an open-topped bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an articulated bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsobendy busBritish English",
+                                "examples": [
+                                    "a very long bus that has a joint in the middle that allows it to go around corners : xe buýt hai khoang"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a regular bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that goes at regular times",
+                                "examples": [
+                                    "Regular buses run to the airport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "on a bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were a lot of people on the bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "by bus",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The best way to get there is by bus.",
+                                    "I took a bus to San Francisco.",
+                                    "Buses run at 15 and 30 minutes past the hour.",
+                                    "Articulated buses have been used in Europe for many years."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -151,23 +610,7 @@
                             "San Diego has a well-used trolley system."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -184,23 +627,7 @@
                             "the red double-deckers in London"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -217,23 +644,7 @@
                             "The school uses a minibus to take teams to matches."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -266,23 +677,7 @@
                             "The tram takes visitors around the backlot of Universal Studios, where many famous movies were once made."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -311,44 +706,295 @@
                         "usage": "",
                         "region": "",
                         "definition": "USa bus with comfortable seats used for long journeys : xe khách, xe đò",
-                        "examples": [
-                            "by coach",
-                            "We went to Paris by coach.",
-                            "on a coach",
-                            "She’s going to Grimsby on a coach.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "an express coach(= travelling quickly without stopping much )Express coach services run throughout the day.",
-                            "a passenger coachThe company had thirty-five new passenger coaches.",
-                            "a tourist coachA huge number of tourist coaches visit the site.",
-                            "an air-conditioned coachTravel is by air-conditioned coach.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "go/travel by coachWe spent three days travelling by coach across France.",
-                            "get on/get off a coachA group of tourists were getting on the coach.",
-                            "board a coachformal(= get on one )When everyone was there, we boarded the coach for the journey home.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a coach tripThe two-night coach trip to Paris will cost £149.",
-                            "a coach tourHow about going on a coach tour around Europe this year?",
-                            "a coach excursion(= a relatively short coach journey to visit a place )There are coach excursions to the great classical site at Ephesus.",
-                            "a coach party(= a group of people who travel by coach )We’re organizing a coach party to the theatre.",
-                            "a coach driverHe worked as a part-time coach driver.",
-                            "a coach stationYou will go from Victoria Coach Station to Amsterdam.",
-                            "a coach serviceOur express coach service goes to the South of France and Costa Brava.",
-                            "coach travelThe advantage of coach travel is that it’s relatively cheap."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "an express coach",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "travelling quickly without stopping much",
+                                "examples": [
+                                    "Express coach services run throughout the day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a passenger coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The company had thirty-five new passenger coaches."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a tourist coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A huge number of tourist coaches visit the site."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an air-conditioned coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Travel is by air-conditioned coach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go/travel by coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We spent three days travelling by coach across France."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get on/get off a coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A group of tourists were getting on the coach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "board a coachformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get on one",
+                                "examples": [
+                                    "When everyone was there, we boarded the coach for the journey home."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach trip",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The two-night coach trip to Paris will cost £149."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach tour",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "How about going on a coach tour around Europe this year?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach excursion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a relatively short coach journey to visit a place",
+                                "examples": [
+                                    "There are coach excursions to the great classical site at Ephesus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach party",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a group of people who travel by coach",
+                                "examples": [
+                                    "We’re organizing a coach party to the theatre."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach driver",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He worked as a part-time coach driver."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach station",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You will go from Victoria Coach Station to Amsterdam."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coach service",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Our express coach service goes to the South of France and Costa Brava."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "coach travel",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The advantage of coach travel is that it’s relatively cheap."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "by coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We went to Paris by coach."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "on a coach",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She’s going to Grimsby on a coach."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

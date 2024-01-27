@@ -37,28 +37,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbdrove,drivenFORCE",
-                        "examples": [
-                            "[ T ] to force someone or something into a particular state, often an unpleasant one",
-                            "_In the course of history, love has driven men and womentostrange extremes."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,7 +52,6 @@
                         "region": "",
                         "definition": "verbbrought,broughtCAUSE",
                         "examples": [
-                            "to cause, result in or produce a state or condition",
                             "_[ + two objects ]She's brought us so much happiness over the years.",
                             "_[ + -ing verb ]The explosion brought the whole building crashingto the ground.",
                             "_Several trees were broughtdown(= made to fall) by the storm.",
@@ -86,11 +65,11 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to cause, result in or produce a state or condition",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -111,36 +90,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbhad,hadCAUSE",
-                        "examples": [
-                            "[ T ] to cause something to happen or someone to do something",
-                            "_[ + past participle ]We're having the house painted next month.",
-                            "_[ + infinitive without to ]If you wait, I'll have someone collect it for you.",
-                            "_[ + object + -ing verb ]The film soon had us crying.",
-                            "_Guy'll have it workingin no time.",
-                            "_She had her parentsdown(= invited them to stay) for a week in the summer.",
-                            "_We had the boatout(= went out in the boat) for the first time this week.",
-                            "_We often have friendsover/round",
-                            "(= invite them to come) on a Saturday night.",
-                            ""
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -152,31 +103,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbheld,heldMAKE HAPPEN",
-                        "examples": [
-                            "[ T ] to make something, especially a meeting or an election happen",
-                            "_Could we hold a meeting to discuss this tomorrow afternoon?",
-                            "_The election will be held on 8th of August.",
-                            "_I find it's almost impossible to hold a sensible conversation with her.",
-                            ""
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -205,32 +133,61 @@
                         "usage": "",
                         "region": "",
                         "definition": "/meɪk/  làm cho/làmnên/làm ra",
-                        "examples": [
-                            "make sb late/ill etc",
-                            "▪ Hurry up - you’re going to make me late for work.",
-                            "▪ Something I ate last night really made me sick.",
-                            "make sth safe/interesting/dirty etc",
-                            "▪ He could make things very difficult for us.",
-                            "▪ Engineers have been working throughout the night to make the bridge safe.",
-                            "▪ We gave the house a coat of paint to make it more attractive.",
-                            "make it easy/impossible/necessary etc (for sb) to do sth",
-                            "▪ The regulations should make it easier for patients to receive the treatment they need.",
-                            "▪ The increased costs made it impossible to continue producing the computers in the U.S."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make sb late/ill etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Hurry up - you’re going to make me late for work.",
+                                    "▪ Something I ate last night really made me sick."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make sth safe/interesting/dirty etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ He could make things very difficult for us.",
+                                    "▪ Engineers have been working throughout the night to make the bridge safe.",
+                                    "▪ We gave the house a coat of paint to make it more attractive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make it easy/impossible/necessary etc (for sb) to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The regulations should make it easier for patients to receive the treatment they need.",
+                                    "▪ The increased costs made it impossible to continue producing the computers in the U.S."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -247,26 +204,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make sth be in a particular condition, especially so that it is ready to be used:làm cho",
-                        "examples": [
-                            "have sth ready/organized/prepared etc",
-                            "▪ We’ll have your car ready by 3 o'clock.",
-                            "▪ I’m going to have the roof fixed as soon as I can afford it.",
-                            "▪ My parents had the little train all laid out under the tree on Christmas morning."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have sth ready/organized/prepared etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ We’ll have your car ready by 3 o'clock.",
+                                    "▪ I’m going to have the roof fixed as soon as I can afford it.",
+                                    "▪ My parents had the little train all laid out under the tree on Christmas morning."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -283,27 +239,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "formal to make sb/sth unable to do sth, work properly, cause any damage etc:làm cho",
-                        "examples": [
-                            "render sth useless/impossible/harmless etc",
-                            "▪ Both runways have been rendered useless by enemy bombings.",
-                            "▪ The angry exchange rendered future compromise impossible.",
-                            "render sb unconscious/helpless etc",
-                            "▪ Suddenly Packer struck a blow that rendered his victim unconscious."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "render sth useless/impossible/harmless etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Both runways have been rendered useless by enemy bombings.",
+                                    "▪ The angry exchange rendered future compromise impossible."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "render sb unconscious/helpless etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Suddenly Packer struck a blow that rendered his victim unconscious."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -320,25 +290,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "plunge sb/sth into to cause sb/sth to suddenly be in a very bad situation:gây ra/khiến cho",
-                        "examples": [
-                            "plunge sb/sth into debt/war/depression etc",
-                            "The government’s uncontrolled spending has plunged the country into debt.",
-                            "The growing hostility between the two parties is threatening to plunge the country into civil war."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "plunge sb/sth into debt/war/depression etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The government’s uncontrolled spending has plunged the country into debt.",
+                                    "The growing hostility between the two parties is threatening to plunge the country into civil war."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -355,25 +324,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "put sb in/into sthđặt ai vào trình trạng",
-                        "examples": [
-                            "put sb in a difficult/awkward/impossible situation/positionto do something that causes someone difficulties, embarrassment etc:đặt ai vào thế khó khăn/bất tiện/không thể",
-                            "The minister’s comments have put the prime minister into a very awkward position.",
-                            "I’m afraid I’ve been put into a rather embarrassing position."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "put sb in a difficult/awkward/impossible situation/positionto do something that causes someone difficulties, embarrassment etc:đặt ai vào thế khó khăn/bất tiện/không thể",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The minister’s comments have put the prime minister into a very awkward position.",
+                                    "I’m afraid I’ve been put into a rather embarrassing position."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -405,28 +373,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbbred,bredCAUSE",
-                        "examples": [
-                            "[ T ] to cause something to happen, usually something bad",
-                            "_Favouritism breedsresentment."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -439,24 +387,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "implementverb",
-                        "examples": [
-                            "to put a plan or system into operation",
-                            "_The changes to the national health system will be implemented next year."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to put a plan or system into operation",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The changes to the national health system will be implemented next year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -479,23 +426,7 @@
                             "_Who planted theserumours?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -510,23 +441,7 @@
                         "definition": "",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -538,29 +453,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbseeing,saw,seenMAKE CERTAIN",
-                        "examples": [
-                            "[ + ( that ) ]to make certain that something happens",
-                            "_See(that)you're ready by five, or there'll be trouble.",
-                            "_The receptionist said he'd see(that)she got the message."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -573,27 +467,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbCAUSE",
-                        "examples": [
-                            "to cause a reaction or result",
-                            "_The prime minister's speech produced an angry response from the opposition.",
-                            "_Her remarks produced an awkward silence.",
-                            "_If used on delicate skin, this cream may produce a stinging sensation.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to cause a reaction or result",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The prime minister's speech produced an angry response from the opposition.",
+                                    "_Her remarks produced an awkward silence.",
+                                    "_If used on delicate skin, this cream may produce a stinging sensation."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -611,9 +503,6 @@
                         "region": "",
                         "definition": "verbsent,sentCAUSE TO HAPPEN",
                         "examples": [
-                            "to cause someone or something to do a particular thing, or to cause something to happen",
-                            "_The explosion sent the crowdintoa panic.",
-                            "_Watching the television always sends meto sleep.",
                             "_[ + adjective ]UKHis untidiness sends her crazy/mad/wild.",
                             "_[ + -ing verb ]The announcement of the fall in profits sent the company's share price plummeting(= caused it to go down a lot) .",
                             "_The draught from the fan sent papers flyingall over the room."
@@ -622,16 +511,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to cause someone or something to do a particular thing, or to cause something to happen",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The explosion sent the crowdintoa panic.",
+                                    "_Watching the television always sends meto sleep."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -648,30 +540,29 @@
                         "usage": "",
                         "region": "",
                         "definition": "-ll-,US usuallyfulfillverbMAKE HAPPEN",
-                        "examples": [
-                            "to do something that is expected, hoped for or promised or to cause it to happen",
-                            "_A school fails if it does not fulfil theneeds/requirementsof its pupils.",
-                            "_At the age of 45, she finally fulfilled herambitionto run a marathon.",
-                            "_Zoos fulfil an importantfunctionin the protection of rare species.",
-                            "_He has failed to fulfil hisdutiesas a father.",
-                            "_We're looking for a very specific sort of person and this woman seems to fulfil all of ourcriteria.",
-                            "_So did the course fulfil all yourexpectations?",
-                            "_We're suing our suppliers for failing to fulfil their contract."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to do something that is expected, hoped for or promised or to cause it to happen",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_A school fails if it does not fulfil theneeds/requirementsof its pupils.",
+                                    "_At the age of 45, she finally fulfilled herambitionto run a marathon.",
+                                    "_Zoos fulfil an importantfunctionin the protection of rare species.",
+                                    "_He has failed to fulfil hisdutiesas a father.",
+                                    "_We're looking for a very specific sort of person and this woman seems to fulfil all of ourcriteria.",
+                                    "_So did the course fulfil all yourexpectations?",
+                                    "_We're suing our suppliers for failing to fulfil their contract."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -687,29 +578,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounCAUSE",
-                        "examples": [
-                            "[ S ] a first small event or problem which causes a much worse situation to develop",
-                            "_That small incident was the spark that set off the street riots.",
-                            ""
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -721,39 +591,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbputting,put,putCONDITION",
-                        "examples": [
-                            "[ T ] to cause someone or something to be in the stated condition or situation",
-                            "_Are you prepared to put your childrenat risk?",
-                            "_This puts meina very difficult position.",
-                            "_What has put youinsuch a bad mood?",
-                            "_This election is a chance for the country to put a new governmentin(= elect a new government) .",
-                            "_It's broken into so many pieces, it'll be impossible to put itback togetheragain (= repair it) .",
-                            "_Let's give her the chance to put her ideas into practice.",
-                            "_The terrorists were put on trial (= Their case was judged in a law court) six years after the bombing.",
-                            "_Wilson was putout(ofthe competition) (= was defeated) by Clarke in the second round.",
-                            "_[ + adjective ]How much did it cost to have the television putright(= repaired) ?",
-                            "_I originally thought he was Australian, but he soon put mestraight(= corrected me) and explained he was fromNew Zealand.",
-                            "_I know she's gone forever, but I just can't put her out of my mind/head (= forget her) .",
-                            "_He's putting me under pressure to change my mind."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -765,29 +604,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verb-rr-CAUSE EMOTION",
-                        "examples": [
-                            "[ T ] If something stirs you, it makes you feel a strong emotion",
-                            "_I was deeply stirred by her performance.",
-                            "_[ + object + to infinitive ]The speech stirred the crowdtotake action."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -802,30 +620,12 @@
                         "examples": [
                             "[ T ] to achieve something you were hoping for",
                             "_Lots of money, a luxury house, a fast car - Danny had realized all his ambitions by the age of 25.",
-                            "",
                             "realization,C2UK usuallyrealisationnounACHIEVEMENT",
                             "[ U ] when you achieve something you planned to do or hoped for",
-                            "_To win the Olympic gold medal was the realization of his life's dream.",
-                            ""
+                            "_To win the Olympic gold medal was the realization of his life's dream."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -837,24 +637,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "prepositionCAUSING",
-                        "examples": [
-                            "causing a particular feeling in a particular person",
-                            "_That's when I learned, to my horror, that she was coming here."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "causing a particular feeling in a particular person",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_That's when I learned, to my horror, that she was coming here."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -870,32 +669,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbsetting,set,setCONDITION",
-                        "examples": [
-                            "[ T ] to cause something or someone to be in the stated condition or situation",
-                            "_It is believed that the building was setalight/ablaze/on firedeliberately.",
-                            "_The new director has set a lot of changesin motionin our department.",
-                            "_[ + adjective]After years in prison, the men who had wrongfully been found guilty of the bombing were finally setfree.",
-                            "_If I've made a mistake, then it's up to me to set itright(= correct it) .",
-                            ""
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -907,33 +682,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbsetting,set,setESTABLISH",
-                        "examples": [
-                            "[ T ] to establish or cause to exist",
-                            "_The school has been criticized for failing to set highstandardsfor its students.",
-                            "_The government has set newlimitson spending.",
-                            "_Lewis has set a new worldrecord.",
-                            "_The court's decision has set a legalprecedent.",
-                            "_Parents should set a goodexampleto their children.",
-                            "_He's set himself thegoal/targetof making his first million by the time he's 30."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -945,29 +695,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "verb",
-                        "examples": [
-                            "[ T ] to encourage something to grow, develop or become active",
-                            "_The government plans to cut taxes in order to stimulate the economy.",
-                            ""
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -979,25 +708,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "associatesthwithsthphrasal verb",
-                        "examples": [
-                            "If problems or dangers are associated with a particular thing or action, they are caused by it",
-                            "_The cancer risks associated with smoking have been well documented.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "If problems or dangers are associated with a particular thing or action, they are caused by it",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The cancer risks associated with smoking have been well documented."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1032,24 +759,24 @@
                         "definition": "/bottom of  to be the basic cause of a problem or serious situation:là ngọn nguồn/gốc rễ",
                         "examples": [
                             "▪ Simple greed is at the root of most white-collar crime.",
-                            "▪ At the bottom of the country’s economic problems is its overwhelming debt.",
-                            "lie at the root/bottom of sth",
-                            "▪ Difficulties with the company’s overseas subsidiaries lie at the root of last year’s losses."
+                            "▪ At the bottom of the country’s economic problems is its overwhelming debt."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lie at the root/bottom of sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Difficulties with the company’s overseas subsidiaries lie at the root of last year’s losses."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1071,23 +798,7 @@
                             "Climate and geography are the underlying reasons for the region’s low level of economic development."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1122,23 +833,7 @@
                             "▪ Her restlessness was put down to excitement, and nobody realised she was seriously ill."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1157,23 +852,7 @@
                             "▪ The management attributed the success of the company to the new Marketing Director."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1203,25 +882,25 @@
                         "region": "",
                         "definition": "if something plays a part in something, it is one of several things that makes it happen or be successful: đóng vai trò",
                         "examples": [
-                            "▪ Many cases of breast cancer have genetic causes, but environmental substances may also play a part.",
-                            "play a part in",
-                            "▪ It is not yet known if weather conditions played a part in the accident.",
-                            "▪ The genius of the two designers has played a big part in the company’s recent success."
+                            "▪ Many cases of breast cancer have genetic causes, but environmental substances may also play a part."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "play a part in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ It is not yet known if weather conditions played a part in the accident.",
+                                    "▪ The genius of the two designers has played a big part in the company’s recent success."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1243,23 +922,7 @@
                             "▪ It is thought that the pilot’s negligence may have contributed to the disaster.Người ta cho rằng là do sự sơ suất của phi công đã gây ra tai nạn"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1277,23 +940,7 @@
                             "▪ Alcohol is a contributory factor in at least 50% of the violent crimes reported.Rượu là một yếu tố góp phần ít nhất 50% cho các tội phạm bạo lực"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1327,23 +974,7 @@
                             "Nobody knows what set the riot off."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1358,24 +989,24 @@
                         "definition": "/sparkC2  if a small action or event triggers or sparks serious trouble or changes, it causes them to happen very quickly:kích hoạt (gây ra điều gì)",
                         "examples": [
                             "Even the smallest diplomatic incident can trigger a major international conflict.",
-                            "The assassination of Archduke Francis Ferdinand sparked the First World War.",
-                            "trigger/spark off sth",
-                            "Riots, sparked off by the arrest of seven student leaders, have spread to other universities."
+                            "The assassination of Archduke Francis Ferdinand sparked the First World War."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "trigger/spark off sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Riots, sparked off by the arrest of seven student leaders, have spread to other universities."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1397,23 +1028,7 @@
                             "Both countries claimed the same area, precipitating a border war."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1445,27 +1060,10 @@
                         "examples": [
                             "I wish you wouldn’t slam the door. It makes the floor shake.",
                             "Accidents don’t always just happen - people can make them happen.",
-                            "Gravity is the force that makes the planets move around the sun.",
-                            ""
+                            "Gravity is the force that makes the planets move around the sun."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1480,46 +1078,282 @@
                         "definition": "to make something happen, especially something unpleasant:gây ra",
                         "examples": [
                             "Heavy traffic is causing delays on the freeway.",
-                            "The fire caused £15,000 worth of damage.",
-                            "cause sth for sb",
-                            "The oil spill is causing problems for coastal fisheries.",
-                            "cause concern/uncertainty/embarrassment etc",
-                            "The policy changes have caused great uncertainty for the workforce.",
-                            "I’m sorry if Icausedanyconfusion.",
-                            "cause sb trouble/problems etc",
-                            "You’ve caused us all a lot of unnecessary worry.",
-                            "Sorry, I didn’t mean tocause offence(= offend you ).",
-                            "cause sth to do sth",
-                            "The power failure caused the whole computer system to shut down.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "cause a problemThe heavy rain has been causing serious problems on the roads.",
-                            "cause troubleI decided not to complain because I didn’t want to cause trouble.",
-                            "cause damageA fire had broken out and caused severe damage to the roof.",
-                            "cause (a) diseaseScientists are trying to find out what causes the disease.",
-                            "cause injuryRugby is one of the sports that are most likely to cause injury.",
-                            "cause painThe infection can cause severe pain.",
-                            "cause deathThe famine caused the death of up to 400,000 people.",
-                            "cause (a) delayBad weather caused delays at many airports.",
-                            "cause an accident75% of accidents are caused by speeding.",
-                            "cause chaos/disruptionFloods caused chaos across much of the country.",
-                            "cause concern/alarmEnvironmental issues are causing widespread concern.",
-                            "cause confusionTeachers say the reforms will cause confusion in schools.",
-                            "cause offence/embarrassment(= offend/embarrass someone )How can I refuse the invitation without causing offence?"
+                            "The fire caused £15,000 worth of damage."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cause a problem",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The heavy rain has been causing serious problems on the roads."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause trouble",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I decided not to complain because I didn’t want to cause trouble."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause damage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A fire had broken out and caused severe damage to the roof."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a",
+                                "examples": [
+                                    "diseaseScientists are trying to find out what causes the disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause injury",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Rugby is one of the sports that are most likely to cause injury."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause pain",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The infection can cause severe pain."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause death",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The famine caused the death of up to 400,000 people."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a",
+                                "examples": [
+                                    "delayBad weather caused delays at many airports."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause chaos/disruption",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Floods caused chaos across much of the country."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause concern/alarm",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Environmental issues are causing widespread concern."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause confusion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Teachers say the reforms will cause confusion in schools."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause offence/embarrassment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "offend/embarrass someone",
+                                "examples": [
+                                    "How can I refuse the invitation without causing offence?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause sth for sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The oil spill is causing problems for coastal fisheries."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause concern/uncertainty/embarrassment etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The policy changes have caused great uncertainty for the workforce.",
+                                    "I’m sorry if Icausedanyconfusion."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause sb trouble/problems etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You’ve caused us all a lot of unnecessary worry.",
+                                    "Sorry, I didn’t mean tocause offence(= offend you )."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause sth to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The power failure caused the whole computer system to shut down.",
+                                    "cause an accident75% of accidents are caused by speeding."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1537,28 +1371,42 @@
                         "region": "",
                         "definition": "to be the particular reason for a problem or difficulty:là nguyên nhân",
                         "examples": [
-                            "▪ After a long investigation into the fire, faulty wiring was found to be the cause.",
-                            "be the cause of",
-                            "▪ It’s too early to say whether this virus is actually the cause of the disease.",
-                            "▪ An explosion on board appears to be the cause of the crash.",
-                            "be the leading/main cause of sth",
-                            "▪ The study showed that drug use is the leading cause of crime and violence.",
-                            ""
+                            "▪ After a long investigation into the fire, faulty wiring was found to be the cause."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be the cause of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ It’s too early to say whether this virus is actually the cause of the disease.",
+                                    "▪ An explosion on board appears to be the cause of the crash."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be the leading/main cause of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The study showed that drug use is the leading cause of crime and violence."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1576,27 +1424,42 @@
                         "region": "",
                         "definition": "to be the person or thing that causes something bad to happen, for example a mistake, a problem, or a serious accident:chịu trách nhiệm",
                         "examples": [
-                            "▪ The number of workplace accidents is increasing, but it is not clear who or what is responsible.",
-                            "be responsible for",
-                            "▪ Heart disease was responsible for most of the deaths.",
-                            "▪ He was clearly responsible for the deaths and must be punished.",
-                            "be largely/mainly responsible for sth",
-                            "▪ Inflation was largely responsible for the economic crisis."
+                            "▪ The number of workplace accidents is increasing, but it is not clear who or what is responsible."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be responsible for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Heart disease was responsible for most of the deaths.",
+                                    "▪ He was clearly responsible for the deaths and must be punished."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be largely/mainly responsible for sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Inflation was largely responsible for the economic crisis."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1616,27 +1479,10 @@
                         "examples": [
                             "▪ Workers fear that the company’s reorganization will result in layoffs.",
                             "▪ Months of secret talks with the rebels finally resulted in the release of the hostages.",
-                            "▪ If left untreated, the condition will eventually result in blindness.",
-                            ""
+                            "▪ If left untreated, the condition will eventually result in blindness."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1655,23 +1501,7 @@
                             "▪ A lot of hard work by ordinary citizens eventually brought the changes about."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1689,23 +1519,7 @@
                             "The President’s frequent cancellations have given rise to concerns about his health."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1724,23 +1538,7 @@
                             "The bank has offered a reward for information leading to the arrest of the robbers."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1748,7 +1546,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[T]",
                         "usage": "",
                         "region": "",
@@ -1756,28 +1554,10 @@
                         "examples": [
                             "▪ The white walls and mirrors helped to create an illusion of space.",
                             "▪ Margot’s outburst created an unpleasant atmosphere and most of the guests left early.",
-                            "▪ The end of the cold war helped create a situation in which more countries than ever have access to nuclear weapons.",
-                            "creation[U] B2",
-                            "▪ The government’s main economic aim has been the creation of wealth."
+                            "▪ The end of the cold war helped create a situation in which more countries than ever have access to nuclear weapons."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1795,23 +1575,7 @@
                             "Delicious food and wonderful company made for a very enjoyable evening."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1841,43 +1605,247 @@
                         "region": "",
                         "definition": "a person, event, or thing that makes something happen →effect:nguyên nhân",
                         "examples": [
-                            "Doctors cannot find a cure for the illness until they have identified the cause.",
-                            "cause of",
-                            "Breast cancer is the leading cause of death for American women in their 40s.",
-                            "It’s our job to establish the cause of the fire.",
-                            "►Do not say ‘the cause for something’. Saythe cause of something.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a common cause of sthAlcohol is the most common cause of road accidents.",
-                            "the main/primary cause of somethingSmoking is the main cause of lung disease.",
-                            "a major/leading cause of somethingIn this country, debt is a major cause of homelessness.|Drug abuse is the leading cause of crime and violence.",
-                            "a direct/indirect causeGovernment policies are the direct cause of the problems facing the economy.",
-                            "the root cause(= the most basic cause )People often deal with the symptoms rather than the root cause of a problem.",
-                            "the fundamental/underlying cause(= the root cause )The underlying cause of insomnia is often anxiety.",
-                            "the probable/likely causeThe probable cause of the fire was faulty wiring.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "discover/find the causeAn investigation has failed to discover the cause of the epidemic.",
-                            "determine/establish/identify the cause(= discover definitely what it is )A team of experts is at the scene of the accident, trying to determine the cause.",
-                            "investigate the causePolice are still investigating the cause of the fire.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the cause of deathA snake bite was the cause of death.",
-                            "die of/from natural causes(= die of illness, old age etc, not because of an accident or crime )He died from natural causes, believed to be a heart attack.",
-                            "cause and effect(= the idea that one thing directly causes another )What happened was simply a question of cause and effect.",
-                            ""
+                            "Doctors cannot find a cure for the illness until they have identified the cause."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a common cause of sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Alcohol is the most common cause of road accidents."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the main/primary cause of something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Smoking is the main cause of lung disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a major/leading cause of something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In this country, debt is a major cause of homelessness.|Drug abuse is the leading cause of crime and violence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a direct/indirect cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Government policies are the direct cause of the problems facing the economy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the root cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the most basic cause",
+                                "examples": [
+                                    "People often deal with the symptoms rather than the root cause of a problem."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the fundamental/underlying cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the root cause",
+                                "examples": [
+                                    "The underlying cause of insomnia is often anxiety."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the probable/likely cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The probable cause of the fire was faulty wiring."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "discover/find the cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "An investigation has failed to discover the cause of the epidemic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "determine/establish/identify the cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "discover definitely what it is",
+                                "examples": [
+                                    "A team of experts is at the scene of the accident, trying to determine the cause."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "investigate the cause",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Police are still investigating the cause of the fire."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the cause of death",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A snake bite was the cause of death."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "die of/from natural causes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "die of illness, old age etc, not because of an accident or crime",
+                                "examples": [
+                                    "He died from natural causes, believed to be a heart attack."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause and effect",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the idea that one thing directly causes another",
+                                "examples": [
+                                    "What happened was simply a question of cause and effect."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Breast cancer is the leading cause of death for American women in their 40s.",
+                                    "It’s our job to establish the cause of the fire.",
+                                    "►Do not say ‘the cause for something’. Saythe cause of something."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1904,23 +1872,7 @@
                             "▪ Race should never be a deciding factor in a hiring decision.Chủng tộc không bao giờ là yếu tố quyết định trong quyết định tuyển dụng một ai."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1945,23 +1897,7 @@
                             "▪ There’s no reason to doubt what she says.Không có lí do gì để nghi ngờ những điều cô ấy nói"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1982,23 +1918,7 @@
                             "▪ Many of our attitudes to the issue of race have their origins in the colonialism of days gone by.Nhiều thái độ của chúng ta đối với vấn đề chủng tộc có nguồn gốc từ chủ nghĩa thực dân của ngày trước"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -2018,23 +1938,7 @@
                             "▪ We need to get to the root of the problem.Chúng ta cần tìm ra căn nguyên của vấn đề"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -2053,23 +1957,7 @@
                             "▪ The surge in new housing construction ought to provide a stimulus to the economy.Đợt sóng dâng lên trong công trình xây dựng nhà của có thể kích thích phát triển kinh tế"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -2090,23 +1978,7 @@
                             "▪ The Surgeon General’s speech will give new impetus to the anti-smoking campaign.Bài phát biểu của Bác si Surgeon sẽ tạo động lực cho chiến dịch chống hút thuốc."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -2137,10 +2009,6 @@
                         "definition": "formal to deliberately encourage people to cause trouble, fight, argue etc:kích động/xúi giục/khuyến khích",
                         "examples": [
                             "▪ Four men were arrested for inciting the riot.",
-                            "incite sb to sth",
-                            "▪ She was charged with inciting the crowd to violence.",
-                            "incite sb to do sth",
-                            "▪ Tribal leaders are accused of inciting their followers to attack rival tribes.",
                             "incitement[U]",
                             "▪ By publishing the book they were guilty of incitement to racial hatred."
                         ],
@@ -2148,16 +2016,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "incite sb to sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ She was charged with inciting the crowd to violence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "incite sb to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Tribal leaders are accused of inciting their followers to attack rival tribes."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -2176,24 +2063,24 @@
                         "definition": "if sth provokes an angry situation or a reaction, they cause it, usually deliberately: kích động/xúi giục",
                         "examples": [
                             "▪ The new laws have provoked violent demonstrations in some towns.",
-                            "▪ The ambassador’s offensive remarks provoked widespread criticism.",
-                            "provoke sb to sth",
-                            "▪ The judge ruled that Becker provoked her husband to attack her so she could shoot him."
+                            "▪ The ambassador’s offensive remarks provoked widespread criticism."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "provoke sb to sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The judge ruled that Becker provoked her husband to attack her so she could shoot him."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -2216,23 +2103,7 @@
                             "▪ He was accused of trying to stir rebellion up among the peasants."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

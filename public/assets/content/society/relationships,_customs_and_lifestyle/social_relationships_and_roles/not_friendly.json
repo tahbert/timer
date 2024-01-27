@@ -37,24 +37,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "The service at the hotel was bad and the staff weren’t very friendly.",
-                        "examples": [
-                            "not friendly to/ towards",
-                            "The other girls weren’t friendly towards her."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "not friendly to/ towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The other girls weren’t friendly towards her."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -72,9 +71,6 @@
                         "definition": "It’s very difficult to work with Lindsay - she’s so .",
                         "examples": [
                             "I’m sorry if I sounded unfriendly on the phone - I was just tired.",
-                            "unfriendly to/ towards",
-                            "The other girls weren’t openly unfriendly towards her, but they never invited her along with them.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "unfriendliness[U noun]",
                             "The fact that he didn’t invite you had more to do with insecurity than unfriendliness."
                         ],
@@ -82,16 +78,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "unfriendly to/ towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The other girls weren’t openly unfriendly towards her, but they never invited her along with them."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -111,12 +109,8 @@
                         "examples": [
                             "His manner all evening was cold and unfriendly.",
                             "Next time she saw Harry he wasn’t rude to her, just very cold.",
-                            "cold to",
-                            "She was oddly cold to him, and I wondered what had happened.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "coldly[adv]",
                             "He looked at me coldly, but said nothing.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "coldness[ U ] [C2]",
                             "It was the coldness of her manner that struck me."
                         ],
@@ -124,16 +118,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "cold to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She was oddly cold to him, and I wondered what had happened."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -156,23 +152,7 @@
                             "I'll have to cook them a meal or they'll think I'm inhospitable."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -187,31 +167,61 @@
                         "definition": "very unfriendly, and ready to argue with sb, criticize them, or fight with them: hằn học, thù địch",
                         "examples": [
                             "There was a crowd of hostile demonstrators waiting outside her door.",
-                            "hostile to/ towards",
-                            "He was hostile towards me when I arrived, and the situation did not improve over the next few days.",
-                            "openly hostile",
-                            "Several of the neighbors had become openly hostile to one another.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "hostility[U noun] [C2]",
                             "I thought I detected a little hostility in his voice.",
                             "open hostilitynot hiding hostile feelings",
-                            "Her cool politeness had given way to open hostility.",
-                            "They showedopen(= obvious) hostilityto/ towardstheir new neighbours."
+                            "Her cool politeness had given way to open hostility."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "They showedopen",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "obvious",
+                                "examples": [
+                                    "hostilityto/ towardstheir new neighbours."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hostile to/ towards",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was hostile towards me when I arrived, and the situation did not improve over the next few days."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "openly hostile",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Several of the neighbors had become openly hostile to one another."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -232,7 +242,6 @@
                             "I can’t understand why he’s being so antagonistic.",
                             "antagonistic towards/ to",
                             "Why are Kate and John so antagonistic towards each other?",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "antagonism[U noun]",
                             "antagonistic between",
                             "The antagonism between her two grown sons was almost too much for Celia to bear.",
@@ -240,23 +249,7 @@
                             "The judge’s antagonism towards the defendant was clear to everyone."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -274,23 +267,7 @@
                             "I tried to be pleasant to her but she gave me the cold shoulder."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -318,24 +295,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "Unfriendly relations between the two countries nearly led to war.",
-                        "examples": [
-                            "on unfriendly termswith an unfriendly relationship",
-                            "They’ve been on unfriendly terms ever since their argument."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "on unfriendly termswith an unfriendly relationship",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They’ve been on unfriendly terms ever since their argument."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -357,23 +333,7 @@
                             "When Bill finally arrived, nearly an hour late, he got a rather cool reception."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -391,23 +351,7 @@
                             "Our relationship became very strained because I had refused to lend him money."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -424,23 +368,7 @@
                             "After their quarrel, things between Maria and her father were rather frosty."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -458,23 +386,7 @@
                             "When the company began to lose money, things turned sour between the directors."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -486,24 +398,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "She used to get on well with her neighbours but now things aren’t very friendly.",
-                        "examples": [
-                            "not on friendly termswith an unfriendly relationship",
-                            "They haven’t been on friendly terms ever since their argument."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "not on friendly termswith an unfriendly relationship",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They haven’t been on friendly terms ever since their argument."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -535,24 +446,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "I don’t like going to that bar - it’s .",
-                        "examples": [
-                            "unfriendly to/ towards",
-                            "The city has a reputation for being unfriendly to minorities."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "unfriendly to/ towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The city has a reputation for being unfriendly to minorities."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -568,24 +478,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "I don’t like going to that bar - it’s not very friendly.",
-                        "examples": [
-                            "not friendly to/ towards",
-                            "The city has a reputation for being not friendly to minorities."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "not friendly to/ towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The city has a reputation for being not friendly to minorities."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -603,24 +512,24 @@
                         "region": "",
                         "definition": "making you feel that you are not wanted:",
                         "examples": [
-                            "The entrance to the factory is cold, bare, and unwelcoming.",
-                            "unwelcoming to/ towards",
-                            "The new fence is just one example of the city’s attempt to make public spaces unwelcoming to the homeless."
+                            "The entrance to the factory is cold, bare, and unwelcoming."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "unwelcoming to/ towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The new fence is just one example of the city’s attempt to make public spaces unwelcoming to the homeless."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -638,24 +547,24 @@
                         "region": "",
                         "definition": "unfriendly and difficult to feel relaxed in:",
                         "examples": [
-                            "The tribe has lived for generations in the inhospitable mountain regions of the country.",
-                            "inhospitable to/towards",
-                            "The brokerage firm has always been extremely inhospitable to women."
+                            "The tribe has lived for generations in the inhospitable mountain regions of the country."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "inhospitable to/towards",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The brokerage firm has always been extremely inhospitable to women."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -672,24 +581,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a place or situation that is impersonal lacks the normal friendly relations between people who work or do business together, as if such feelings were considered unimportant:",
-                        "examples": [
-                            "They just handed over the keys and walked out - it was all so impersonal",
-                            "I had no desire to work for a large, impersonal organization."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "They just handed over the keys and walked out - it was all so impersonal",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I had no desire to work for a large, impersonal organization."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -711,23 +619,7 @@
                             "The wood-panelled den looked dark and forbidding."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -762,23 +654,7 @@
                             "She seemed cold and distant."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -792,27 +668,10 @@
                         "region": "",
                         "definition": "sb who is quiet and shy, and does not enjoy being with other people : người hướng nội",
                         "examples": [
-                            "----------------------------------------------------------------------------------------------------------------",
                             "introverted/ introvert[adj]thinking a lot about your own interests, problems etc, and not liking to be with other people : hướng nội"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -827,29 +686,10 @@
                         "definition": "unfriendly and not wanting to talk to other people or spend time with them, especially because you think you are better than them: xa rời, lánh xa, cách biệt",
                         "examples": [
                             "Barbara remained aloof behind the barrier of her menu.",
-                            "The organization is controlled by aloof intellectuals who do not take an interest in the ordinary members.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "aloofness[U noun]",
-                            "Sam had a certain aloofness that made people afraid to approach him."
+                            "The organization is controlled by aloof intellectuals who do not take an interest in the ordinary members."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -867,23 +707,7 @@
                             "Because she was so shy, people often thought she was antisocial."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -901,23 +725,7 @@
                             "He was well-liked by the senior members of the firm, even though his colleagues found him standoffish and arrogant."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -936,23 +744,7 @@
                             "As a boss I found him rather unapproachable."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

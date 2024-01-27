@@ -45,23 +45,7 @@
                             "a pharmaceutical company/product/journal"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -78,29 +62,92 @@
                             "Prescriptioncharges(= the standard amount of money you pay for any medicine prescribed by a doctor) are rising in June.",
                             "prescription for",
                             "a prescription for sleeping pills",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "give sb a prescriptionDr. Kleinert gave me a prescription for some sleeping tablets.",
-                            "write a prescription(alsowrite out a prescription)I'll write you a prescription for some skin cream.",
-                            "make up a prescription(alsofill a prescriptionUS) (= give a patient the drugs that a doctor says they need )You can get the prescription made up at a chemist's.",
-                            "I got the prescription filled on the way home.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a doctor's prescriptionMost of these drugs require a doctor's prescription.",
-                            "a repeat prescription(= one that you have regularly )I went to the surgery to pick up a repeat prescription."
+                            "I got the prescription filled on the way home."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give sb a prescription",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Dr. Kleinert gave me a prescription for some sleeping tablets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "write a prescription",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsowrite out a prescription",
+                                "examples": [
+                                    "I'll write you a prescription for some skin cream."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make up a prescription",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsofill a prescriptionUS",
+                                "examples": [
+                                    "(= give a patient the drugs that a doctor says they need )You can get the prescription made up at a chemist's."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a doctor's prescription",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Most of these drugs require a doctor's prescription."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a repeat prescription",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that you have regularly",
+                                "examples": [
+                                    "I went to the surgery to pick up a repeat prescription."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -126,23 +173,7 @@
                             "►Do not say that you ‘drink medicine’. Say that youtake medicine."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -159,23 +190,7 @@
                             "pharmacist[C] [B2] a person who is trained to prepare medicines and who works in a hospital or shop :dược sĩ"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -189,32 +204,126 @@
                         "region": "",
                         "definition": "a medicine to treat a health problem, especially a small problem such as a cold, using plants or other natural methods: thuốc",
                         "examples": [
-                            "I tried some herbal remedies such as drinking camomile tea, but none of them worked.",
-                            "remedy for",
-                            "Salt water is a good home remedy for a sore throat.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a cold/cough/flu remedyMost cold remedies have little effect.",
-                            "a herbal remedyHe brought with him a bottle of his own herbal remedy for hayfever.",
-                            "a natural remedyShe began to look into alternative methods of treatment, such as natural remedies and hypnotherapy.",
-                            "a home remedy(= one that you make at home )Home remedies for colds include honey and lemon.",
-                            "a traditional/folk remedyFish oil has been used as a folk remedy since the eighteenth century.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take a remedyHave you tried taking herbal remedies?"
+                            "I tried some herbal remedies such as drinking camomile tea, but none of them worked."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a cold/cough/flu remedy",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Most cold remedies have little effect."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a herbal remedy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He brought with him a bottle of his own herbal remedy for hayfever."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a natural remedy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She began to look into alternative methods of treatment, such as natural remedies and hypnotherapy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a home remedy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that you make at home",
+                                "examples": [
+                                    "Home remedies for colds include honey and lemon."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a traditional/folk remedy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Fish oil has been used as a folk remedy since the eighteenth century."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a remedy",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Have you tried taking herbal remedies?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "remedy for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Salt water is a good home remedy for a sore throat."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -246,23 +355,7 @@
                             "The bigdrug companiesmake huge profits."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -276,34 +369,177 @@
                         "region": "",
                         "definition": "medicine or drugs given to someone who is ill :",
                         "examples": [
-                            "He takes medication for his diabetes.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take medicationAre you taking any medication?",
-                            "be on medication (for sth)(= be taking a type of medicine )He's on medication for his blood pressure.",
-                            "prescribe medication(= arrange for sb to take a particular type of medicine )Doctors should always explain the reasons for prescribing any medication.",
-                            "give medication(alsoadminister medicationformal)Teachers are not allowed to administer medication.",
-                            "use medicationThe leaflet tells you how to use the medication correctly.",
-                            "stop a medication(= stop taking a medication )I stopped the medication when I found out I was pregnant.",
-                            "come off a medication(= stop taking a medication )Coming off the medication made him more aggressive.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "over-the-counter medication(= one that you can buy without a doctor's order )There are many over-the-counter medications available for headaches.",
-                            "prescribed medication(= one for which you need a doctor's order )What happens if the patient does not take their prescribed medication?",
-                            "regular medication(= one that someone takes often )He is on regular medication to prevent fits."
+                            "He takes medication for his diabetes."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take medication",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Are you taking any medication?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be on medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for sth",
+                                "examples": [
+                                    "(= be taking a type of medicine )He's on medication for his blood pressure."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "prescribe medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "arrange for sb to take a particular type of medicine",
+                                "examples": [
+                                    "Doctors should always explain the reasons for prescribing any medication."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoadminister medicationformal",
+                                "examples": [
+                                    "Teachers are not allowed to administer medication."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The leaflet tells you how to use the medication correctly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "stop a medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stop taking a medication",
+                                "examples": [
+                                    "I stopped the medication when I found out I was pregnant."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "come off a medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stop taking a medication",
+                                "examples": [
+                                    "Coming off the medication made him more aggressive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "over-the-counter medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that you can buy without a doctor's order",
+                                "examples": [
+                                    "There are many over-the-counter medications available for headaches."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "prescribed medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one for which you need a doctor's order",
+                                "examples": [
+                                    "What happens if the patient does not take their prescribed medication?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "regular medication",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that someone takes often",
+                                "examples": [
+                                    "He is on regular medication to prevent fits."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -337,35 +573,177 @@
                         "region": "",
                         "definition": "a measured amount ofa medicine or a drug that you should take: liều dùng",
                         "examples": [
-                            "The label says to take one dose three times a day.",
-                            "dose of",
-                            "Never exceed therecommended doseof painkillers.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a high/large doseHigh doses of the drug can have bad side effects.",
-                            "a low/small doseTreatment should be started with a small dose.",
-                            "a daily doseThe study shows that a daily dose of aspirin may reduce the risk of developing bowel cancer.",
-                            "the recommended dose(= recommended by medical experts )The current recommended dose is 250 mg a day.",
-                            "a lethal/fatal dose(= an amount that kills you )She took a lethal dose of painkillers.",
-                            "a single doseThe medicine is given as a single dose.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take a dose of sthHe had taken his usual dose of sleeping pills.",
-                            "give sb a doseA nurse came in to give me a dose of antibiotics.",
-                            "exceed the dose(= take more of a medicine than is recommended )You should take care not to exceed the recommended dose of paracetamol."
+                            "The label says to take one dose three times a day."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a high/large dose",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "High doses of the drug can have bad side effects."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a low/small dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Treatment should be started with a small dose."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a daily dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The study shows that a daily dose of aspirin may reduce the risk of developing bowel cancer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the recommended dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "recommended by medical experts",
+                                "examples": [
+                                    "The current recommended dose is 250 mg a day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a lethal/fatal dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an amount that kills you",
+                                "examples": [
+                                    "She took a lethal dose of painkillers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a single dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The medicine is given as a single dose."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a dose of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had taken his usual dose of sleeping pills."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb a dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A nurse came in to give me a dose of antibiotics."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "exceed the dose",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take more of a medicine than is recommended",
+                                "examples": [
+                                    "You should take care not to exceed the recommended dose of paracetamol."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "dose of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Never exceed therecommended doseof painkillers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -382,25 +760,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "especially British Englishan amount of medicine or medical treatment that you have regularly for a specific period of time",
-                        "examples": [
-                            "course of injections/drugs/treatment etc",
-                            "My doctor'sputmeona courseofantibiotics.",
-                            "She needed a six-month course of physiotherapy after she broke her leg."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "course of injections/drugs/treatment etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "My doctor'sputmeona courseofantibiotics.",
+                                    "She needed a six-month course of physiotherapy after she broke her leg."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -429,23 +806,7 @@
                             "The dosage should be reduced to 0.5 mg."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -476,23 +837,7 @@
                         "definition": "a small container which pills are carried in : hộp đựng thuốc",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -526,23 +871,7 @@
                             "We are trying to cut the price ofprescription drugs."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -556,18 +885,17 @@
                         "region": "",
                         "definition": "drugs that are bought over the counter are bought in a shop without first visiting a doctor:ngoài tiệm, không theo toa",
                         "examples": [
-                            "You can buy most cold remedies over the counter.",
-                            "over-the-counter medicines"
+                            "You can buy most cold remedies over the counter."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "over-the-counter medicines",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -591,23 +919,7 @@
                         "definition": "a non-prescription drug is one that you can buy in a shop without a written order from a doctor",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -624,23 +936,7 @@
                             "These drugs are only availableonprescription (= with a prescription from a doctor) ."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -669,24 +965,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a small tube-shaped container with medicine inside that you swallow whole :bao con nhộng",
-                        "examples": [
-                            "a bottle of 500 capsules of vitamin C",
-                            "I advised her to take four to six garlic capsules a day for the duration of the treatment."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a bottle of 500 capsules of vitamin C",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I advised her to take four to six garlic capsules a day for the duration of the treatment."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -704,27 +999,132 @@
                         "region": "",
                         "definition": "a small piece of medicine that you swallow : viên thuốc",
                         "examples": [
-                            "She managed to swallow the pill with a sip of water.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take a pill(= use it by swallowing it )Have you taken your pills?",
-                            "swallow a pillHe swallowed a handful of pills.",
-                            "pop a pillinformal(= take one too easily, without thinking about it seriously )Some people just pop a pill to get a good night's sleep.",
-                            "a doctor prescribes pills(= tells sb to take them )Her doctor just prescribed more pills and told her to take it easy.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a sleeping pillI took a sleeping pill and tried to go back to sleep.",
-                            "malaria pills(= pills that prevent malaria )",
-                            "vitamin pillsa bottle ofvitamin pills",
-                            "diet pills(= pills that are said to help you become thinner )"
+                            "She managed to swallow the pill with a sip of water."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take a pill",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "use it by swallowing it",
+                                "examples": [
+                                    "Have you taken your pills?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "swallow a pill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He swallowed a handful of pills."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pop a pillinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "take one too easily, without thinking about it seriously",
+                                "examples": [
+                                    "Some people just pop a pill to get a good night's sleep."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a doctor prescribes pills",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "tells sb to take them",
+                                "examples": [
+                                    "Her doctor just prescribed more pills and told her to take it easy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sleeping pill",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I took a sleeping pill and tried to go back to sleep."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "malaria pills",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "pills that prevent malaria",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "diet pills",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "pills that are said to help you become thinner",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "vitamin pillsa bottle ofvitamin pills",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -747,34 +1147,160 @@
                         "region": "",
                         "definition": "a small round hard piece of medicine which you swallow:",
                         "examples": [
-                            "a five-day course of tablets",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "take a tablet(= swallow it )Have you taken your tablets?",
-                            "be on tabletsspoken(= be taking tablets )He's on tablets for his heart.",
-                            "swallow a tabletHe took his own life by swallowing more than 500 tablets.",
-                            "a doctor prescribes tablets(= tells someone to take them )Dr Preston arrived and prescribed some pain-relieving tablets.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a sleeping tabletSleeping tablets can be addictive.",
-                            "a headache/indigestion etc tabletDo you want a headache tablet?",
-                            "a paracetamol/quinine/iron etc tabletShe's on iron tablets for her anaemia.",
-                            "a vitamin tabletAre all these vitamin tablets really necessary?",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "in tablet formAlthough this drug is available in tablet form it is often prescribed as a powder."
+                            "a five-day course of tablets"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take a tablet",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "swallow it",
+                                "examples": [
+                                    "Have you taken your tablets?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be on tabletsspoken",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be taking tablets",
+                                "examples": [
+                                    "He's on tablets for his heart."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "swallow a tablet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He took his own life by swallowing more than 500 tablets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a doctor prescribes tablets",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "tells someone to take them",
+                                "examples": [
+                                    "Dr Preston arrived and prescribed some pain-relieving tablets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sleeping tablet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sleeping tablets can be addictive."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a headache/indigestion etc tablet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Do you want a headache tablet?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a paracetamol/quinine/iron etc tablet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She's on iron tablets for her anaemia."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a vitamin tablet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are all these vitamin tablets really necessary?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in tablet form",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Although this drug is available in tablet form it is often prescribed as a powder."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -808,27 +1334,10 @@
                         "region": "",
                         "definition": "eye/ ear etc drops liquid medicine given in very small amounts : thuốc nhỏ",
                         "examples": [
-                            "Remember — if you 're using eye drops for your hay fever, leave your contact lenses out.",
-                            ""
+                            "Remember — if you 're using eye drops for your hay fever, leave your contact lenses out."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -845,23 +1354,7 @@
                             "This steroid is sometimes givenbyinjection."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -894,23 +1387,7 @@
                             "eye ointment"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -928,23 +1405,7 @@
                             "antiseptic cream"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -978,23 +1439,7 @@
                             "▪ The disease can be easily cured with a simple course of antibiotics."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -42,23 +42,7 @@
                             "Female lions do not have manes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -71,24 +55,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "describes the sex that does not produce babies or eggs or fruit",
-                        "examples": [
-                            "a male giraffe",
-                            "The male parts of the flower are the stamens and the anthers."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a male giraffe",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The male parts of the flower are the stamens and the anthers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -122,39 +105,194 @@
                         "region": "",
                         "definition": "a group ofanimalsorplantsthat are all similar and can breed together to produce young animals or plants of the same type: loài",
                         "examples": [
-                            "Seven species of birds of prey have been observed.",
-                            "[figurative humorous]Women film directors in Hollywood are a rare species.",
-                            "species of",
-                            "There are over forty species of bird living on the island.",
-                            "Scientists have discovered a new species of Eucalyptus tree.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "endangered(= used about a species of which there are very few still alive, so that it may soon not exist )The park is a sanctuary for 41 endangered species.",
-                            "protectedElephants are a protected species in Indonesia.",
-                            "rareThe area contains many rare species of plants.",
-                            "commonHere you will see most of the common species of African wildlife.",
-                            "extinct(= no longer existing )About a hundred species are becoming extinct every day.",
-                            "new(= not known about before, or not existing before )A new species of spider has been discovered in a field in Cambridgeshire.",
-                            "native(= having always been in a particular country )Desert broom is a species native to Arizona.",
-                            "bird/animal/plant speciesYou can see many different bird species on the canal.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a species is found somewhereThis species is found only in the Southern Hemisphere.",
-                            "a species lives somewhere(= used about animals )Many rainforest species cannot live anywhere else.",
-                            "a species grows somewhere(= used about plants )The species grows wild in Europe."
+                            "Seven species of birds of prey have been observed."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "endangered",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used about a species of which there are very few still alive, so that it may soon not exist",
+                                "examples": [
+                                    "The park is a sanctuary for 41 endangered species."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "protected",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Elephants are a protected species in Indonesia."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rare",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The area contains many rare species of plants."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "common",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Here you will see most of the common species of African wildlife."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "extinct",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "no longer existing",
+                                "examples": [
+                                    "About a hundred species are becoming extinct every day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "new",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not known about before, or not existing before",
+                                "examples": [
+                                    "A new species of spider has been discovered in a field in Cambridgeshire."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "native",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "having always been in a particular country",
+                                "examples": [
+                                    "Desert broom is a species native to Arizona."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bird/animal/plant species",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can see many different bird species on the canal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a species is found somewhere",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This species is found only in the Southern Hemisphere."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a species lives somewhere",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used about animals",
+                                "examples": [
+                                    "Many rainforest species cannot live anywhere else."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a species grows somewhere",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used about plants",
+                                "examples": [
+                                    "The species grows wild in Europe."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -172,26 +310,26 @@
                         "region": "",
                         "definition": "a type of animal that is kept as a pet or on a farm: giống",
                         "examples": [
-                            "Most dairy herds today are of Friesian or Holstein breeds.",
-                            "breed of",
-                            "What breed of dog is that? I’ve never seen one like it before.",
-                            "It’s a very unusual breed of goat, dating back to the time of Cleopatra.",
-                            "Spaniels are my favourite breed of dog."
+                            "Most dairy herds today are of Friesian or Holstein breeds."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "breed of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "What breed of dog is that? I’ve never seen one like it before.",
+                                    "It’s a very unusual breed of goat, dating back to the time of Cleopatra.",
+                                    "Spaniels are my favourite breed of dog."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -209,25 +347,25 @@
                         "region": "",
                         "definition": "a type of plant or animal that is different from another similar type:loài , chủng loại",
                         "examples": [
-                            "South American growers use the best US seed varieties.",
-                            "variety of",
-                            "This is a new variety of apple; we’re selling it for the first time.",
-                            "It may be possible to create varieties of fish that have resistance to common diseases."
+                            "South American growers use the best US seed varieties."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "variety of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "This is a new variety of apple; we’re selling it for the first time.",
+                                    "It may be possible to create varieties of fish that have resistance to common diseases."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -244,26 +382,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "a type of plant, animal, bacteria etc that has one particular feature that makes it different from others of the same type - use this in scientific or technical contexts: giống",
-                        "examples": [
-                            "strain of",
-                            "A pure-bred strain of barley is required in the production of this whisky.",
-                            "A particularly hardy strain of the virus can make you ill for over a week.",
-                            "Scientists have discovered a new strainofthe virus which is much more dangerous."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "strain of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A pure-bred strain of barley is required in the production of this whisky.",
+                                    "A particularly hardy strain of the virus can make you ill for over a week.",
+                                    "Scientists have discovered a new strainofthe virus which is much more dangerous."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

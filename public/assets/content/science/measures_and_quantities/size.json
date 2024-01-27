@@ -33,7 +33,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -43,23 +43,7 @@
                             "The publicity photos are 8 by 10 inches."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,27 +56,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "to be a particular size, length, or amount:đo được",
-                        "examples": [
-                            "measure 10 metres/6 feet etc",
-                            "The tree in the backyard measures 30 feet in height.",
-                            "Put the soil into a sack measuring 50 centimetres across.",
-                            "measure 10 m by 15 m/5 cm by 20 cm etc",
-                            "The foam seat pad measures 19 by 22 inches and is a quarter-inch thick."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "measure 10 metres/6 feet etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The tree in the backyard measures 30 feet in height.",
+                                    "Put the soil into a sack measuring 50 centimetres across."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "measure 10 m by 15 m/5 cm by 20 cm etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The foam seat pad measures 19 by 22 inches and is a quarter-inch thick."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -114,23 +112,7 @@
                             "St Anne’s Wood isn’t very big - it only covers a few miles."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -148,23 +130,7 @@
                             "The irrigation system extends over the whole country but is difficult to maintain."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -195,38 +161,143 @@
                         "definition": "kích cỡ",
                         "examples": [
                             "What size is that shirt?",
-                            "Your desk is exactly the same size as mine.",
-                            "the size of",
-                            "The price will depend on the size and quality of the carpet.",
-                            "(be) the size ofthe same size as sth else",
-                            "Fire has destroyed an area of forest the size of Luxembourg.",
-                            "(be) twice/half/three times etc the size oftwice as big, half as big etc as something else",
-                            "The seeds are very small, about half the size of a grain of salt.",
-                            "of different/various sizes",
-                            "There were several pieces of wood of different sizes.",
-                            "double/triple etc in size",
-                            "Cover the dough and allow it to rise until it has doubled in size.",
-                            "grow/increase/shrink etc in size",
-                            "The black spots on her skin seemed to be slowly increasing in size.",
-                            "vary/differ/range etc in size",
-                            "The American states vary enormously in size, from very large to very small.",
-                            "(of) this/that sizeas big as this one or that one",
-                            "In a class this size, there will always be a few problems."
+                            "Your desk is exactly the same size as mine."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the size of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The price will depend on the size and quality of the carpet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "(be) the size ofthe same size as sth else",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Fire has destroyed an area of forest the size of Luxembourg."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "(be) twice/half/three times etc the size oftwice as big, half as big etc as something else",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The seeds are very small, about half the size of a grain of salt."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "of different/various sizes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were several pieces of wood of different sizes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "double/triple etc in size",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Cover the dough and allow it to rise until it has doubled in size."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow/increase/shrink etc in size",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The black spots on her skin seemed to be slowly increasing in size."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "vary/differ/range etc in size",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The American states vary enormously in size, from very large to very small."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "(of) this/that sizeas big as this one or that one",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In a class this size, there will always be a few problems."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -249,23 +320,7 @@
                             "We need to know how big the rooms are."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -280,25 +335,25 @@
                         "definition": "the height, width, and length of an object, building etc - use this especially to give exact measurements:kích thước, khổ, cỡ",
                         "examples": [
                             "The dimensions are printed on the side of the box.",
-                            "a building of vast dimensions (= size).",
-                            "dimensions of",
-                            "What are the dimensions of the dining-room table?",
-                            "Please specify the dimensions (= the height, length and width)ofthe room."
+                            "a building of vast dimensions (= size)."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "dimensions of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "What are the dimensions of the dining-room table?",
+                                    "Please specify the dimensions (= the height, length and width)ofthe room."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -317,25 +372,25 @@
                         "definition": "the length or size of sth:phạm vi, quy mô",
                         "examples": [
                             "The extent of the Red Creek ranch is enormous.",
-                            "They opened out the nets to theirfull extent.",
-                            "in extent",
-                            "The region is over 10,000 square kilometres in extent.",
-                            "The principality measured about 16,500 kilometres in extent."
+                            "They opened out the nets to theirfull extent."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in extent",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The region is over 10,000 square kilometres in extent.",
+                                    "The principality measured about 16,500 kilometres in extent."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

@@ -46,23 +46,7 @@
                             "an epidemic of cholera"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,20 +59,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "when a lot of people suddenly start to get an illness at the same time:sự bùng phát",
-                        "examples": [
-                            "outbreak of",
-                            "Doctors are very concerned about an outbreak of tuberculosis in an East London School.",
-                            "an outbreakofcholera/ food poisoning"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "outbreak of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Doctors are very concerned about an outbreak of tuberculosis in an East London School."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an outbreakofcholera/ food poisoning",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -116,23 +113,7 @@
                             "the AIDS pandemic"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -168,51 +149,433 @@
                             "She suffers from a rare disease of the brain.",
                             "His father died of heart disease.",
                             "She contracted the disease while she was abroad on holiday.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have a diseaseHow long have you had the disease?",
-                            "suffer from a diseaseAbout three million people suffer from the disease.",
-                            "catch/get a disease(alsocontract a diseaseformal)He caught the disease while travelling in Africa.",
-                            "develop a diseaseA few years ago, she developed a serious lung disease.",
-                            "pass on a disease(alsotransmit a diseaseformal)They may pass the disease on to their children.",
-                            "cause a diseaseSmoking is probably the major factor causing heart disease.",
-                            "prevent a diseaseIt has been claimed that fibre in the diet could help prevent many serious diseases.",
-                            "treat a diseaseThe disease can be treated with antibiotics.",
-                            "cure a diseaseThe plant was believed to cure diseases in humans and cattle.",
-                            "fight (a) disease(= try to stop it continuing )Some bacteria help the human body fight disease.",
-                            "a disease spreadsThe government have no idea how far the disease has spread.",
-                            "-------------------------------------------------------------------------------------------------------------------",
                             "commoncommon childhood diseases",
-                            "rareShe suffers from a rare bone disease.",
-                            "seriousvaccines against serious diseases like hepatitis and meningitis",
-                            "fatal/deadly(= that causes death )If left untreated, the disease can be fatal.|Thousands of children are struck down by this deadly disease every year.",
-                            "incurable(= that cannot be cured )Diseases that were once thought incurable can be treated with antibiotics.",
-                            "infectious/contagious(= that spreads quickly from one person to another )The disease is highly contagious.",
-                            "a skin/brain/lung etc diseaseThe fumes have caused skin diseases among the villagers.",
-                            "heart/liver/kidney diseaseHe is being treated for kidney disease.",
-                            "a hereditary/inherited disease(= that is passed from parent to child )Parents are offered screening for some hereditary diseases.",
-                            "a sexually-transmitted disease(= that is spread by having sex )There was a worrying rise in the number of sexually-transmitted diseases.",
-                            "a degenerative disease(= that gradually gets worse )She was suffering from a degenerative disease that confined her to a wheelchair.",
-                            "a chronic disease(= continuing for a long time and not possible to cure )Chronic disease is sometimes seen as an inevitable part of being old.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a cure for a diseaseThere is no known cure for this disease.",
-                            "an outbreak of a disease(= when a disease appears in a number of people or animals )There has been an outbreak of the disease in Wales.",
-                            "the spread of a diseaseKnowing the facts about AIDS can prevent the spread of the disease.",
-                            "the symptoms of a disease(= physical signs that someone has a disease )To begin with, there are often no symptoms of the disease."
+                            "seriousvaccines against serious diseases like hepatitis and meningitis"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a disease",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "How long have you had the disease?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer from a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "About three million people suffer from the disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "catch/get a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsocontract a diseaseformal",
+                                "examples": [
+                                    "He caught the disease while travelling in Africa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "develop a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A few years ago, she developed a serious lung disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pass on a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsotransmit a diseaseformal",
+                                "examples": [
+                                    "They may pass the disease on to their children."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cause a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Smoking is probably the major factor causing heart disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "prevent a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It has been claimed that fibre in the diet could help prevent many serious diseases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The disease can be treated with antibiotics."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cure a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The plant was believed to cure diseases in humans and cattle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fight",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a",
+                                "examples": [
+                                    "disease(= try to stop it continuing )Some bacteria help the human body fight disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a disease spreads",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The government have no idea how far the disease has spread."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "rare",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She suffers from a rare bone disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fatal/deadly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that causes death",
+                                "examples": [
+                                    "If left untreated, the disease can be fatal.|Thousands of children are struck down by this deadly disease every year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "incurable",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that cannot be cured",
+                                "examples": [
+                                    "Diseases that were once thought incurable can be treated with antibiotics."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "infectious/contagious",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that spreads quickly from one person to another",
+                                "examples": [
+                                    "The disease is highly contagious."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a skin/brain/lung etc disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The fumes have caused skin diseases among the villagers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "heart/liver/kidney disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He is being treated for kidney disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a hereditary/inherited disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that is passed from parent to child",
+                                "examples": [
+                                    "Parents are offered screening for some hereditary diseases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sexually-transmitted disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that is spread by having sex",
+                                "examples": [
+                                    "There was a worrying rise in the number of sexually-transmitted diseases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a degenerative disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that gradually gets worse",
+                                "examples": [
+                                    "She was suffering from a degenerative disease that confined her to a wheelchair."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chronic disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "continuing for a long time and not possible to cure",
+                                "examples": [
+                                    "Chronic disease is sometimes seen as an inevitable part of being old."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cure for a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There is no known cure for this disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an outbreak of a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when a disease appears in a number of people or animals",
+                                "examples": [
+                                    "There has been an outbreak of the disease in Wales."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the spread of a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Knowing the facts about AIDS can prevent the spread of the disease."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the symptoms of a disease",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "physical signs that someone has a disease",
+                                "examples": [
+                                    "To begin with, there are often no symptoms of the disease."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -234,23 +597,7 @@
                             "health problems"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -264,46 +611,330 @@
                         "region": "",
                         "definition": "a health problem that you are suffering from which makes you feel ill: đau ốm bệnh tật.",
                         "examples": [
-                            "She died yesterday after a long illness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "serious/severeHis illness is more severe than the doctors first thought.",
-                            "minor(= not serious )He suffered a succession of minor illnesses.",
-                            "fatal(= causing death quite quickly )She developed a fatal illness.",
-                            "life-threatening(= likely to cause death )Doctors say that his illness isn’t life-threatening.",
-                            "terminal(= causing death eventually, and not possible to cure )At that point the illness was thought to be terminal.",
-                            "incurable(= not possible to cure )The films tells the sad story of a young boy with an incurable illness.",
-                            "acute(= becoming serious very quickly )A lot of illnesses can be either acute or chronic.",
-                            "chronic(= that lasts a long time, and cannot be cured )Diabetes is an example of a chronic illness.",
-                            "a long/short illnessShe nursed him through his long illness.|Arthur died following a short illness.",
-                            "a debilitating illness(= that makes you very weak )His last years were ruined by a debilitating illness.",
-                            "a childhood illnessMeasles is a common childhood illness.",
-                            "a mental/psychiatric illnessWe provide specialist care for young people with mental illnesses.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have an illnessWhen did you first find out that you had the illness?",
-                            "suffer from an illnessShe suffers from a rare illness.",
-                            "get/develop an illnessShe developed the illness when she was in her 50s.",
-                            "contract an illnessformal(= get an illness by catching it from another person )He contracted the illness while he was working abroad.",
-                            "recover from an illnessIt took several months for him to recover from his illness.",
-                            "be diagnosed with an illness(= be found by doctors to have an illness )Her husband had just been diagnosed with a terminal illness.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "the symptoms of an illnessSymptoms of the illness include vomiting and severe headaches.",
-                            "COMMON ERRORS",
-                            "►Do not say 'a heavy illness'. Saya serious illnessora severe illness."
+                            "She died yesterday after a long illness."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "serious/severe",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "His illness is more severe than the doctors first thought."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "minor",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not serious",
+                                "examples": [
+                                    "He suffered a succession of minor illnesses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fatal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "causing death quite quickly",
+                                "examples": [
+                                    "She developed a fatal illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "life-threatening",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "likely to cause death",
+                                "examples": [
+                                    "Doctors say that his illness isn’t life-threatening."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "terminal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "causing death eventually, and not possible to cure",
+                                "examples": [
+                                    "At that point the illness was thought to be terminal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "incurable",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not possible to cure",
+                                "examples": [
+                                    "The films tells the sad story of a young boy with an incurable illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acute",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "becoming serious very quickly",
+                                "examples": [
+                                    "A lot of illnesses can be either acute or chronic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "chronic",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that lasts a long time, and cannot be cured",
+                                "examples": [
+                                    "Diabetes is an example of a chronic illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a long/short illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She nursed him through his long illness.|Arthur died following a short illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a debilitating illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that makes you very weak",
+                                "examples": [
+                                    "His last years were ruined by a debilitating illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a childhood illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Measles is a common childhood illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mental/psychiatric illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We provide specialist care for young people with mental illnesses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "When did you first find out that you had the illness?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer from an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She suffers from a rare illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get/develop an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She developed the illness when she was in her 50s."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "contract an illnessformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "get an illness by catching it from another person",
+                                "examples": [
+                                    "He contracted the illness while he was working abroad."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "recover from an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It took several months for him to recover from his illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be diagnosed with an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be found by doctors to have an illness",
+                                "examples": [
+                                    "Her husband had just been diagnosed with a terminal illness."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the symptoms of an illness",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Symptoms of the illness include vomiting and severe headaches."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -324,23 +955,7 @@
                             "I’ve had a bit of stomach trouble."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -353,26 +968,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "a problem that affects someone’s health permanently or over a long period of time: căn bệnh (kéo dài)",
-                        "examples": [
-                            "a medical condition such as asthma",
-                            "People with your condition should not smoke.",
-                            "suffer from a condition",
-                            "Diane suffers from a rare heart condition which means she has to take drugs all the time."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a medical condition such as asthma",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "People with your condition should not smoke."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer from a condition",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Diane suffers from a rare heart condition which means she has to take drugs all the time."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -390,37 +1019,211 @@
                         "region": "",
                         "definition": "an illness that prevents part of your body from working properly or affects the way you behave, especially one that is permanent or continues for a long time: rối loại",
                         "examples": [
-                            "He suffers from a rare disorder of the liver.",
-                            "a disorder of the brain/liver/digestive system etc",
-                            "The hospital specializes in treating disorders of the brain.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a genetic disorder(= caused by a gene from your parents )Progeria is a genetic disorder which accelerates ageing.",
-                            "a mental/psychiatric/psychological disorder(= affecting the mind )He was diagnosed with a severe psychiatric disorder.",
-                            "a blood/brain/liver etc disorderShe suffers from a rare brain disorder.",
-                            "an eating disorder(= in which someone stops eating a normal amount of food )Eating disorders can be very difficult to treat.",
-                            "a personality disorder(= that stops someone behaving in a normal way )The study suggested that 84% of prisoners have a personality disorder.",
-                            "a common/rare disorderAcne is a very common skin disorder.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have a disorderThe singer admitted she had an eating disorder.",
-                            "suffer from a disorderPeople who are suffering from psychological disorders often fail to get treatment.",
-                            "develop a disorderWomen are 30% more likely to develop the disorder than men.",
-                            "treat a disorderThe drug is used to treat lung disorders.",
-                            "a disorder affects somebody/somethingMany genetic disorders affect only girls or only boys."
+                            "He suffers from a rare disorder of the liver."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a genetic disorder",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "caused by a gene from your parents",
+                                "examples": [
+                                    "Progeria is a genetic disorder which accelerates ageing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mental/psychiatric/psychological disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "affecting the mind",
+                                "examples": [
+                                    "He was diagnosed with a severe psychiatric disorder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a blood/brain/liver etc disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She suffers from a rare brain disorder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an eating disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which someone stops eating a normal amount of food",
+                                "examples": [
+                                    "Eating disorders can be very difficult to treat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a personality disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "that stops someone behaving in a normal way",
+                                "examples": [
+                                    "The study suggested that 84% of prisoners have a personality disorder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a common/rare disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Acne is a very common skin disorder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The singer admitted she had an eating disorder."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer from a disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "People who are suffering from psychological disorders often fail to get treatment."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "develop a disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Women are 30% more likely to develop the disorder than men."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat a disorder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The drug is used to treat lung disorders."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a disorder affects somebody/something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many genetic disorders affect only girls or only boys."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a disorder of the brain/liver/digestive system etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The hospital specializes in treating disorders of the brain."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -460,23 +1263,7 @@
                             "Patients with incurable illnesses are brought to the hospice, where they are given the best possible care."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -496,23 +1283,7 @@
                             "a chronic invalid"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -528,8 +1299,6 @@
                         "examples": [
                             "Two years ago, his mother developed terminal cancer.",
                             "St Helen’s Hospice cares for people with terminal illnesses.",
-                            "the terminal stagesthe last stages of a disease that is killing themgiai đoạn cuối",
-                            "Many of the patients are in the terminal stages of the disease.",
                             "terminally[adv]",
                             "Her father is terminally ill."
                         ],
@@ -537,16 +1306,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the terminal stagesthe last stages of a disease that is killing themgiai đoạn cuối",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Many of the patients are in the terminal stages of the disease."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -567,23 +1338,7 @@
                             "life-threatening diseases such as cancer"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -613,26 +1368,26 @@
                         "region": "",
                         "definition": "when you suddenly begin to have an illness that you often have, especially when this only continues for a short time:",
                         "examples": [
-                            "Malaria often doesn’t go away completely, and a patient may suffer from repeated attacks over several years.",
-                            "attack of",
-                            "One of my students suddenly had an attack of asthma and I didn’t know what to do.",
-                            "I had a bad attack of flu at Christmas.",
-                            "He died aftersufferinga severe asthmaattack."
+                            "Malaria often doesn’t go away completely, and a patient may suffer from repeated attacks over several years."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "attack of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "One of my students suddenly had an attack of asthma and I didn’t know what to do.",
+                                    "I had a bad attack of flu at Christmas.",
+                                    "He died aftersufferinga severe asthmaattack."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -654,23 +1409,7 @@
                             "The patient may experience bouts of nausea as a result of the treatment."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -688,23 +1427,7 @@
                             "I feel like I’m getting a touch of flu."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -734,24 +1457,24 @@
                         "region": "",
                         "definition": "an amount or experience of an disease: trận",
                         "examples": [
-                            "She's got a nasty doseofflu.",
-                            "a bad/mild dose of fluBritish English(= making you feel very ill or only slightly ill )",
-                            "Davehad a bad dose of flu."
+                            "She's got a nasty doseofflu."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a bad/mild dose of fluBritish English(= making you feel very ill or only slightly ill )",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Davehad a bad dose of flu."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -773,23 +1496,7 @@
                             "the coroner recorded a verdict of death by industrial disease"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -806,23 +1513,7 @@
                             "If there are no complications, the doctor says that she'll be able to come home within two weeks."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -852,32 +1543,143 @@
                         "region": "",
                         "definition": "informalan illness that people catch very easily from each other but that isnotveryserious:bệnh lây nhiễm",
                         "examples": [
-                            "Gemima’s been off school with a tummy bug this week.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "a nasty/horrible bugIt was a really nasty bug.",
-                            "a stomach bug(alsoa tummy bugmore informal)He’s off school with a stomach bug.",
-                            "a flu bugWe’ve all had a horrible flu bug.",
-                            "a 24-hour/2-day etc bugThe doctor says it’s just a 24-hour bug.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have a bugTwo of us had a nasty bug on holiday.",
-                            "catch/get a bugSix out of ten travellers get a stomach bug abroad.",
-                            "pick up a bug(= catch one )He seems to pick up every bug going.",
-                            "a bug is going around(= a lot of people have it )A lot of staff are off because there’s a bug going round."
+                            "Gemima’s been off school with a tummy bug this week."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a nasty/horrible bug",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It was a really nasty bug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a stomach bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa tummy bugmore informal",
+                                "examples": [
+                                    "He’s off school with a stomach bug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a flu bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We’ve all had a horrible flu bug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a 24-hour/2-day etc bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The doctor says it’s just a 24-hour bug."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Two of us had a nasty bug on holiday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "catch/get a bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Six out of ten travellers get a stomach bug abroad."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pick up a bug",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "catch one",
+                                "examples": [
+                                    "He seems to pick up every bug going."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bug is going around",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a lot of people have it",
+                                "examples": [
+                                    "A lot of staff are off because there’s a bug going round."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -896,24 +1698,24 @@
                         "definition": "formal n illness that affects a particular part of your body, especially one that is not serious: ốm",
                         "examples": [
                             "The medicine was supposed to cure all kinds of ailments, ranging from colds to back pains.",
-                            "The most commonly reported ailment among VDU operators is eye-strain.",
-                            "minor ailmentốm vặt",
-                            "Patients who often complain of minor ailments might have something more important on their minds."
+                            "The most commonly reported ailment among VDU operators is eye-strain."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "minor ailmentốm vặt",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Patients who often complain of minor ailments might have something more important on their minds."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -932,24 +1734,24 @@
                         "definition": "medicalan illness that affects a particular part of your body, especially one that is not very serious - used especially by doctors or in medical books:căn bệnh; chứng bệnh",
                         "examples": [
                             "The cream is normally used for treating minor skin complaints.",
-                            "Hay fever is a common complaint in spring and summer.",
-                            "a minor skin complaint",
-                            "Deakin suffers from a back complaint called arachnoiditis."
+                            "Hay fever is a common complaint in spring and summer."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a minor skin complaint",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Deakin suffers from a back complaint called arachnoiditis."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -986,44 +1788,330 @@
                             "The baby had an ear infection.",
                             "If you don’t clean the wound properly you could get an infection.",
                             "infection of/ in",
-                            "an infection of the bladder",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "serious/severeHe was admitted to hospital with a serious infection.",
-                            "slight/minor(= not serious )She’s suffering from a slight infection.",
-                            "nastyinformal(= a serious infection )He’s got a really nasty infection.",
-                            "acutemedical(= a serious infection that develops suddenly )The disease usually occurs as an acute infection of the throat.",
-                            "an ear/eye infectionShe was given antibiotics for an ear infection.",
-                            "a chest infection(= an infection in the lungs )I’ve got a bad cough, but the doctor says it isn’t a chest infection.",
-                            "a throat/kidney etc infectionHe developed a severe throat infection.",
-                            "a bacterial/viral/fungal infection(= caused by bacteria, a virus, or a fungus )Antibiotics are not effective against viral infections.",
-                            "a secondary infectionmedical(= an additional infection that happens as a result of the main illness )Often, scratching the skin because it is itchy results in secondary infection.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "have an infectionI think you’ve got an infection, so you need to rest.",
-                            "suffer from an infectionHe was suffering from an infection of the lungs.",
-                            "get/ develop an infectionShe got a nasty throat infection which meant she couldn’t sing.",
-                            "treat an infectionAntibiotics are used to treat the infection.",
-                            "fight/combat an infectionA new drug is being developed to combat the infection.",
-                            "spread an infection(alsotransmit an infectionformal)Pregnant women can transmit the infection to their unborn child.",
-                            "an infection spreadsThe infection spread to her chest.",
-                            "an infection clears up(= goes away )Although the infection cleared up, he still felt weak.",
-                            "be exposed to an infectionHe was exposed to the infection while he was travelling in India.",
-                            "-------------------------------------------------------------------------------------------------------------------",
-                            "the source of an infectionDoctors are trying to locate the source of the infection."
+                            "an infection of the bladder"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "serious/severe",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was admitted to hospital with a serious infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "slight/minor",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not serious",
+                                "examples": [
+                                    "She’s suffering from a slight infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "nastyinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a serious infection",
+                                "examples": [
+                                    "He’s got a really nasty infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "acutemedical",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a serious infection that develops suddenly",
+                                "examples": [
+                                    "The disease usually occurs as an acute infection of the throat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an ear/eye infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She was given antibiotics for an ear infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chest infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an infection in the lungs",
+                                "examples": [
+                                    "I’ve got a bad cough, but the doctor says it isn’t a chest infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a throat/kidney etc infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He developed a severe throat infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a bacterial/viral/fungal infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "caused by bacteria, a virus, or a fungus",
+                                "examples": [
+                                    "Antibiotics are not effective against viral infections."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a secondary infectionmedical",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an additional infection that happens as a result of the main illness",
+                                "examples": [
+                                    "Often, scratching the skin because it is itchy results in secondary infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think you’ve got an infection, so you need to rest."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "suffer from an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was suffering from an infection of the lungs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get/ develop an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She got a nasty throat infection which meant she couldn’t sing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "treat an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Antibiotics are used to treat the infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fight/combat an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A new drug is being developed to combat the infection."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "spread an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsotransmit an infectionformal",
+                                "examples": [
+                                    "Pregnant women can transmit the infection to their unborn child."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an infection spreads",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The infection spread to her chest."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an infection clears up",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "goes away",
+                                "examples": [
+                                    "Although the infection cleared up, he still felt weak."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be exposed to an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was exposed to the infection while he was travelling in India."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the source of an infection",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Doctors are trying to locate the source of the infection."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1045,23 +2133,7 @@
                             "It is estimated that over thirty million people are now infected with the virus."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1096,23 +2168,7 @@
                             "acute arthritis"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1129,23 +2185,7 @@
                             "Many illnesses which once killed are today curable."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

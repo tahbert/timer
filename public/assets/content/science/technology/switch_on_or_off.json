@@ -43,23 +43,7 @@
                             "Clean or replace the air filter before attempting to start the engine."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -72,27 +56,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make sth start working, for example by pressing a button - use this about things that useelectricity, for example lights, televisions, or computers:bật",
-                        "examples": [
-                            "switch on sth/switch sth on",
-                            "Will you switch on the television?",
-                            "I switched on the radio to listen to the news.",
-                            "Do you mind if I switch the light on?",
-                            "Exhaust fumes come into the car when I switch on the air conditioner."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "switch on sth/switch sth on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Will you switch on the television?",
+                                    "I switched on the radio to listen to the news.",
+                                    "Do you mind if I switch the light on?",
+                                    "Exhaust fumes come into the car when I switch on the air conditioner."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -109,21 +92,34 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ get sth goingC2",
-                        "examples": [
-                            "get a car/engine/machine etc started/goingto succeed in making a car etc start after having some difficulty:khởi động được cái gì",
-                            "I couldn’t get my car started this morning.",
-                            "He rebuilt the engine and finally got it going.",
-                            "It took the repairman an hour to get the washing machine going again"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "get a car/engine/machine etc started/goingto succeed in making a car etc start after having some difficulty:khởi động được cái gì",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I couldn’t get my car started this morning.",
+                                    "He rebuilt the engine and finally got it going."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "It took the repairman an hour to get the washing machine going again",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -145,26 +141,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make sth start working, for example by turning atapor pressing abutton- use this about things that useelectricity,gas, orwater:bật",
-                        "examples": [
-                            "turn on sth/turn sth on",
-                            "He went into the bathroom and turned on the shower.",
-                            "Use timers to turn on indoor lights while you are away.",
-                            "Do you want me to turn the lights on?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "turn on sth/turn sth on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He went into the bathroom and turned on the shower.",
+                                    "Use timers to turn on indoor lights while you are away.",
+                                    "Do you want me to turn the lights on?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -181,26 +176,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make a light, radio etc start working:bật",
-                        "examples": [
-                            "put the light/ radio/ TV/ kettle etc on",
-                            "Eva put the kettle on to make a cup of coffee.",
-                            "Put the light on, then we can see what we’re doing.",
-                            "It was so cold I put the heating back on."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "put the light/ radio/ TV/ kettle etc on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Eva put the kettle on to make a cup of coffee.",
+                                    "Put the light on, then we can see what we’re doing.",
+                                    "It was so cold I put the heating back on."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -217,26 +211,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "to do sth to make a piece of equipment that warns you about sth start: bậtbáo hiệu, cảnh báo",
-                        "examples": [
-                            "set off sth/ set sth off",
-                            "Someone accidentally set off the fire alarm.",
-                            "Smoke alarms can be set off by smoke from cigarettes, cooking, and fireplaces",
-                            "The alarm is so sensitive that the slightest movement will set it off."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "set off sth/ set sth off",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Someone accidentally set off the fire alarm."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "Smoke alarms can be set off by smoke from cigarettes, cooking, and fireplaces",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The alarm is so sensitive that the slightest movement will set it off."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -258,23 +266,7 @@
                             "The smoke activated the sprinkler system."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -282,7 +274,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[VP]",
                         "usage": "",
                         "region": "",
@@ -292,23 +284,7 @@
                             "She pulled the lever that set the pump going and waited for the water."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -326,23 +302,7 @@
                             "Somebody pushed the alarm button."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -359,23 +319,7 @@
                             "The Speaker of the House threw the switch for the Christmas tree lights in front of the Capitol building."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -404,25 +348,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make sth stop working, for example by pressing a button - use this about things that useelectricity, for example, lights, televisions, or computers: đóng công tắc",
-                        "examples": [
-                            "switch off sth/ switch sth off",
-                            "Always switch off your computer when you’ve finished.",
-                            "It’s OK - I switched the TV off before I went out."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "switch off sth/ switch sth off",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Always switch off your computer when you’ve finished.",
+                                    "It’s OK - I switched the TV off before I went out."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -439,25 +382,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make sth stop working, for example by pressing a button or turning a tap - use this about things that useelectricity,gas, orwater:tắt",
-                        "examples": [
-                            "turn off sth/ turn sth off",
-                            "Would you turn off the heater before you go to bed?",
-                            "You forgot to turn the oven off!"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "turn off sth/ turn sth off",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Would you turn off the heater before you go to bed?",
+                                    "You forgot to turn the oven off!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -479,23 +421,7 @@
                             "We had to stop the pump and unblock it."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -512,23 +438,7 @@
                             "If you want it to stop, just press the red button."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -541,25 +451,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "to switch a light off:tắt đèn",
-                        "examples": [
-                            "put out sth/ put sth out",
-                            "Norma put out the light and went to sleep.",
-                            "Could you put the lamp out in the bedroom, please?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "put out sth/ put sth out",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Norma put out the light and went to sleep.",
+                                    "Could you put the lamp out in the bedroom, please?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -580,23 +489,7 @@
                             "Don’t forget to turn out the lights when you go to bed, okay Annie?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -614,23 +507,7 @@
                             "The Department of Energy shut down the reactor because of safety considerations."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -648,23 +525,7 @@
                             "I was getting a lot of crank calls, so I started unplugging my phone at night."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -681,23 +542,7 @@
                             "Once a car has started, the engine would continue to run even if you disconnected the battery."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -727,26 +572,41 @@
                         "region": "",
                         "definition": "if sth is on, it is working - use this about lights, machines, and other things that use electricity, gas, or water:bật ,mở",
                         "examples": [
-                            "Is the heating on? I’m freezing.",
-                            "leave sth on",
-                            "Did you leave the kitchen light on?",
-                            "keep sth on",
-                            "In the winter, I keep the gas fire on all day."
+                            "Is the heating on? I’m freezing."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "leave sth on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Did you leave the kitchen light on?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "keep sth on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In the winter, I keep the gas fire on all day."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -769,23 +629,7 @@
                             "Have you checked that the power is switched on?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -803,23 +647,7 @@
                             "Is the switch turned on?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -838,23 +666,7 @@
                             "Nick left the engine running to warm it up, while he buckled the children into their car seats"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -872,23 +684,7 @@
                             "The washing machine’s going, I can hear it."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -903,27 +699,10 @@
                         "definition": "if amachineor piece ofequipmentisworking,it has been switched on and is doing what it is supposed to do:đang hoạt động",
                         "examples": [
                             "You mustn’t open the lid while the sterilizer is working.",
-                            "You can hear the pump in the refrigerator when it’s working.",
-                            ""
+                            "You can hear the pump in the refrigerator when it’s working."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -941,23 +720,7 @@
                             "He left the car ticking over while he dashed into the house."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -991,23 +754,7 @@
                             "I don’t think anyone’s at home. All the lights are off."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1025,23 +772,7 @@
                             "He didn’t realize the microphone was switched off."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1059,23 +790,7 @@
                             "The machine is only turned off for a few minutes at a time."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1093,23 +808,7 @@
                             "All the lights in the house were out."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1127,23 +826,7 @@
                             "When the power was disconnected, he carefully removed the back of the computer."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1157,24 +840,24 @@
                         "region": "",
                         "definition": "(of atelephone)not been put back correctly or has been arranged so you cannot receive any calls:ngắt kết nối",
                         "examples": [
-                            "I’ve been trying to call her for about half an hour. I think her phone must be off the hook.",
-                            "take the phone off the hook",
-                            "I locked the door and took the phone off the hook so no one could disturb me."
+                            "I’ve been trying to call her for about half an hour. I think her phone must be off the hook."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take the phone off the hook",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I locked the door and took the phone off the hook so no one could disturb me."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1212,23 +895,7 @@
                             "Every so often, our TV just goes on by itself."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1242,24 +909,24 @@
                         "region": "",
                         "definition": "switch onB1//ˌswɪtʃ, ˌtɜːʳn ˈɒn/  if a machine, light etcswitches on, it starts working - use this about things that use electricity:mở lên, bật công tắc",
                         "examples": [
-                            "Clap your hands twice, and the light switches on.",
-                            "switch/ turn itself on",
-                            "Water softening systems turn themselves on at night to clean the system."
+                            "Clap your hands twice, and the light switches on."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "switch/ turn itself on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Water softening systems turn themselves on at night to clean the system."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1293,24 +960,24 @@
                         "region": "",
                         "definition": "/ switch offB1 if a machine, light etcswitchesorturns off,it stops working - use this about things that use electricity:tắt",
                         "examples": [
-                            "The bulb inside the refrigerator switches off when you close the door.",
-                            "switch/turn itself off: tự tắt/đóng",
-                            "If an automatic can opener fails to turn itself off, food is probably jamming the cutter."
+                            "The bulb inside the refrigerator switches off when you close the door."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "switch/turn itself off: tự tắt/đóng",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "If an automatic can opener fails to turn itself off, food is probably jamming the cutter."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1332,23 +999,7 @@
                             "After the 30-car train passed, the flashing red lights went off and the arms blocking traffic went up."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1362,24 +1013,24 @@
                         "region": "",
                         "definition": "/ shut off if a machineshuts offorshuts down,it stops operating:tắt, ngừng vận hành",
                         "examples": [
-                            "The pump automatically shuts down when no water is flowing.",
-                            "shut itself down/off",
-                            "Something caused the computer to switch itself off."
+                            "The pump automatically shuts down when no water is flowing."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "shut itself down/off",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Something caused the computer to switch itself off."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1396,24 +1047,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "if a light goes out, it stops shining, for example because it is broken or because there is no electricity: mất điện, tắt đi",
-                        "examples": [
-                            "Suddenly all the lights went out",
-                            "The street lights have a light sensor that makes them automatically go out at dawn."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Suddenly all the lights went out",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The street lights have a light sensor that makes them automatically go out at dawn."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

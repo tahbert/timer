@@ -44,23 +44,7 @@
                             "The real estate agent showed them house after house, but they couldn’t find one they liked."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -79,23 +63,7 @@
                             "In the afternoon, we were shown around the Kennedy Space Center."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -109,27 +77,26 @@
                         "region": "",
                         "definition": "to show sb a building or place on an official tour: chỉ đường, hướng dẫn",
                         "examples": [
-                            "conduct around",
-                            "The visitors were conducted around the factory by senior managers.",
-                            "An officer was sent to conduct the journalists around the shattered building.",
                             "conducted tour[C] an organized trip in which an official guide shows people a place:",
-                            "We went on a conducted tour of the castle.",
-                            ""
+                            "We went on a conducted tour of the castle."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "conduct around",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The visitors were conducted around the factory by senior managers.",
+                                    "An officer was sent to conduct the journalists around the shattered building."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -141,7 +108,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase]",
                         "usage": "",
                         "region": "",
@@ -151,23 +118,7 @@
                             "▪ Officials were taken on a tour of the one-time maximum security prison."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -197,33 +148,111 @@
                         "region": "",
                         "definition": "instructions on how to get to a place:chỉ đường",
                         "examples": [
-                            "I checked the directions and turned left as I was told to.",
-                            "directions to",
-                            "The letter contained a wedding invitation and directions to the church.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "give sb directionsLuke's given me directions to his house.",
-                            "A very helpful womangavemedirectionsto the police station.",
-                            "follow directionsYou can't get lost if you follow my directions.",
-                            "If you follow these directions you’ll have no problem finding the house.",
-                            "ask (sb) for directionsLet's stop and ask someone for directions.",
-                            "get directions(= ask someone for directions )I went into a petrol station to get directions.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "clear/goodHis directions were very clear and easy to follow."
+                            "I checked the directions and turned left as I was told to."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give sb directions",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Luke's given me directions to his house."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "follow directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can't get lost if you follow my directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "sb",
+                                "examples": [
+                                    "for directionsLet's stop and ask someone for directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ask someone for directions",
+                                "examples": [
+                                    "I went into a petrol station to get directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clear/good",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "His directions were very clear and easy to follow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "directions to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The letter contained a wedding invitation and directions to the church.",
+                                    "A very helpful womangavemedirectionsto the police station.",
+                                    "If you follow these directions you’ll have no problem finding the house."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -257,24 +286,24 @@
                         "region": "",
                         "definition": "to find a place that you are trying to go to: tìm",
                         "examples": [
-                            "▪ Did you manage to find the house without too much trouble?",
-                            "be easy to find",
-                            "▪ The Blue Moon is easy to find: get off Highway 78 at 23rd Avenue and go right."
+                            "▪ Did you manage to find the house without too much trouble?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "be easy to find",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The Blue Moon is easy to find: get off Highway 78 at 23rd Avenue and go right."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -292,26 +321,41 @@
                         "region": "",
                         "definition": "to get to a place by finding the right way to go: tìm ra lối, tìm ra đường",
                         "examples": [
-                            "▪ I couldn’t find my way out of the building.",
-                            "find your way to",
-                            "▪ It was my first visit to New York, but I managed to find my way to their apartment without any problem.",
-                            "find your own wayfind your way without anyone’s help : tự tìm ra lối",
-                            "▪ Thanks, it’s not necessary for you to get up. I can find my own way out."
+                            "▪ I couldn’t find my way out of the building."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "find your way to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ It was my first visit to New York, but I managed to find my way to their apartment without any problem."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "find your own wayfind your way without anyone’s help : tự tìm ra lối",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Thanks, it’s not necessary for you to get up. I can find my own way out."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -345,26 +389,41 @@
                         "region": "",
                         "definition": "to manage to get to a place, either by remembering the way from previous journeys, or by going the way you think is right:tìm đường",
                         "examples": [
-                            "▪ Unable to find our way, we stopped at a local hotel to ask directions.",
-                            "find your way to/home/out/back etc",
-                            "▪ Somehow, I managed to find my way out of the forest.",
-                            "find your own waywithout anyone else’s help",
-                            "▪ If I take you there, do you think you’ll be able to find your own way back?"
+                            "▪ Unable to find our way, we stopped at a local hotel to ask directions."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "find your way to/home/out/back etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Somehow, I managed to find my way out of the forest."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "find your own waywithout anyone else’s help",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ If I take you there, do you think you’ll be able to find your own way back?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -405,23 +464,7 @@
                             "navigator[C] a person in a vehicle who decides on the direction in which the vehicle travels"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -450,20 +493,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌwɪtʃ ˈweɪ/ spokenuse this to ask someone the general direction that something is in, that someone is travelling in etc:",
-                        "examples": [
-                            "đường nào",
-                            "▪ Which way are you going? Maybe we can share a cab.",
-                            "▪ ‘Excuse me, which way is the Natural History Museum?’ ‘That way. Keep walking and you’ll see it on the left.’"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "đường nào",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Which way are you going? Maybe we can share a cab."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "▪ ‘Excuse me, which way is the Natural History Museum?’ ‘That way. Keep walking and you’ll see it on the left.’",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -485,24 +541,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌwɪtʃ dˈrekʃən/  use this when you when you want to know exact details about which direction something is in, about which direction someone is travelling in etc:",
-                        "examples": [
-                            "hướng nào",
-                            "▪ Which direction do we take once we reach the top of the hill?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hướng nào",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Which direction do we take once we reach the top of the hill?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -519,26 +574,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "ask sb how to get to/ask sb the way//ˌɑːsk somebody haʊ tə get tuː, ˌɑːsk somebody ðə ˈweɪ, ˌɑːsk ðə ˈweɪǁˌæsk-/  to ask someone the way to a place, especially when you have already started your journey:",
-                        "examples": [
-                            "hỏi đường",
-                            "▪ He looked suspicious when we asked him how to get to the border.",
-                            "▪ Maggie stopped the first person she saw and asked them the way to the hospital.",
-                            "▪ I’ve got no idea where we are - we’ll have to stop and ask the way."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hỏi đường",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ He looked suspicious when we asked him how to get to the border.",
+                                    "▪ Maggie stopped the first person she saw and asked them the way to the hospital.",
+                                    "▪ I’ve got no idea where we are - we’ll have to stop and ask the way."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -554,26 +608,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌhaʊ duː aɪ ˈget/ spoken used especially when you know that someone knows the way to that place: làm sao để đến",
-                        "examples": [
-                            "how do I get to",
-                            "▪ How do I get to the station from here?",
-                            "how do I get there/back/home etc",
-                            "▪ I’ve got her address but how do I get there?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "how do I get to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ How do I get to the station from here?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "how do I get there/back/home etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I’ve got her address but how do I get there?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -594,23 +662,7 @@
                             "▪ ‘Is this the right way to the Science Museum?’ ‘No, you’re going in the wrong direction.’"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -623,26 +675,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌɑːsk fəʳ dˈrekʃənzǁˌæsk-/  to ask for instructions on how to get somewhere, either before you start a journey or after you have started it:",
-                        "examples": [
-                            "hỏi hướng",
-                            "▪ Some people stopped as they passed, asking for directions.",
-                            "ask for directions to",
-                            "▪ I asked for directions to the town hall and made my way there on foot."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hỏi hướng",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Some people stopped as they passed, asking for directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask for directions to",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ I asked for directions to the town hall and made my way there on foot."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -664,23 +730,7 @@
                             "▪ Excuse me, buddy - do you know the way to the beach?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -710,39 +760,196 @@
                         "region": "",
                         "definition": "the road, path etc that you must follow in order to get to a place:đường",
                         "examples": [
-                            "The road was blocked, so we came back a different way.",
-                            "be the way",
-                            "Are you sure this is the way?",
-                            "way to/into/home etc",
-                            "Is this the way to Grand Central Station?",
-                            "I think this is the quickest way into town.",
-                            "Do you think you can find the way home by yourself?",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the quickest wayShe knew the quickest way to the hospital.",
-                            "the right wayAre you sure this is the right way?",
-                            "the wrong wayHe had ended up going the wrong way down a one-way street.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "ask sb the wayHe asked me the way to the police station.",
-                            "tell sb the wayCan you tell me the way to the nearest post office, please?",
-                            "show sb the wayIf you can show me the way, I’ll take you by car.",
-                            "know the wayDo you know the way to Birkleigh?",
-                            "lose your wayHe lost his way in the fog.",
-                            "find your wayI managed to find my way home."
+                            "The road was blocked, so we came back a different way."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the quickest way",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She knew the quickest way to the hospital."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the right way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are you sure this is the right way?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the wrong way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had ended up going the wrong way down a one-way street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "ask sb the way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He asked me the way to the police station."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tell sb the way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Can you tell me the way to the nearest post office, please?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "show sb the way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If you can show me the way, I’ll take you by car."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "know the way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Do you know the way to Birkleigh?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lose your way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He lost his way in the fog."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "find your way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I managed to find my way home."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be the way",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are you sure this is the way?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "way to/into/home etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Is this the way to Grand Central Station?",
+                                    "I think this is the quickest way into town.",
+                                    "Do you think you can find the way home by yourself?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -758,26 +965,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "especially spokenif you ask or tell sb how to get somewhere, you ask or tell them the way to a place:",
-                        "examples": [
-                            "how to get to",
-                            "▪ Can you tell me how to get to the Piazza Venezia?",
-                            "how to get there/back/homm",
-                            "▪ Come with me. I know how to get there."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "how to get to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Can you tell me how to get to the Piazza Venezia?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "how to get there/back/homm",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Come with me. I know how to get there."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -794,37 +1015,271 @@
                         "usage": "",
                         "region": "",
                         "definition": "the way from one place to another, especially a way that is used regularly and can be shown on a map: tuyến đường (bản đồ)",
-                        "examples": [
-                            "route to/from",
-                            "What’s the best route to Cambridge?",
-                            "take/follow a route(= use a route )",
-                            "We weren’t sure about which route we should take.",
-                            "the most direct route home",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a direct routeThe motorway is the most direct route.",
-                            "the best routeLet's look at the map and work out the best route.",
-                            "the quickest/shortest routeWe took the shortest route back to the hotel.",
-                            "a roundabout route(alsoa circuitous routeformal) (= one that is not at all direct )Sorry we're late. We took a rather circuitous route.",
-                            "the scenic route(= a route that is not direct but goes through beautiful country )I decided to take the scenic route.",
-                            "a northerly/southerly etc routeShe followed the northerly route across Spain to Bilbao.",
-                            "the same routeHe had intended to return by the same route.",
-                            "a different routeIs this a different route than the one we took before?",
-                            "an alternative route(= one that you can use instead )Holiday-makers bound for South Wales are advised to find an alternative route.",
-                            "an escape route(= a way of leaving a building or place in an emergency such as a fire )Check that your escape route is clear.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "follow a routeAre we following the right route?",
-                            "take a routeThey had been forced to take a longer route.",
-                            "plan your routeWe studied the map and planned our route."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a direct route",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The motorway is the most direct route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the best route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Let's look at the map and work out the best route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the quickest/shortest route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We took the shortest route back to the hotel."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a roundabout route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa circuitous routeformal",
+                                "examples": [
+                                    "(= one that is not at all direct )Sorry we're late. We took a rather circuitous route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the scenic route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a route that is not direct but goes through beautiful country",
+                                "examples": [
+                                    "I decided to take the scenic route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a northerly/southerly etc route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She followed the northerly route across Spain to Bilbao."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the same route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He had intended to return by the same route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a different route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Is this a different route than the one we took before?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an alternative route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that you can use instead",
+                                "examples": [
+                                    "Holiday-makers bound for South Wales are advised to find an alternative route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an escape route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a way of leaving a building or place in an emergency such as a fire",
+                                "examples": [
+                                    "Check that your escape route is clear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "follow a route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are we following the right route?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They had been forced to take a longer route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "plan your route",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We studied the map and planned our route."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "route to/from",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What’s the best route to Cambridge?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take/follow a route(= use a route )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We weren’t sure about which route we should take."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the most direct route home",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -847,27 +1302,27 @@
                         "region": "",
                         "definition": "a way of getting somewhere that is shorter than the usual way:đường tắt",
                         "examples": [
-                            "Taxi-drivers know all the short cuts.",
-                            "take a short cutuse a short cut",
-                            "Let’s take a short cut across the field.",
-                            "Taxi-drivers know all the short cuts.",
-                            "Carlos decided totakeashort-cuthome.",
-                            "We were late for the game, but found a short cut through the fields."
+                            "Taxi-drivers know all the short cuts."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "take a short cutuse a short cut",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Let’s take a short cut across the field.",
+                                    "Taxi-drivers know all the short cuts.",
+                                    "Carlos decided totakeashort-cuthome.",
+                                    "We were late for the game, but found a short cut through the fields."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -901,25 +1356,25 @@
                         "region": "",
                         "definition": "khả năng định hướng, tìm đường",
                         "examples": [
-                            "When night came we lost all sense of direction and were soon completely lost.",
-                            "good/bad/excellent etc sense of direction",
-                            "I can’t believe you got us back to the hotel - you’ve got a really good sense of direction.",
-                            "Which way is it? - Ihaveno/a lousy sense of direction!"
+                            "When night came we lost all sense of direction and were soon completely lost."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good/bad/excellent etc sense of direction",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I can’t believe you got us back to the hotel - you’ve got a really good sense of direction.",
+                                    "Which way is it? - Ihaveno/a lousy sense of direction!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -953,26 +1408,41 @@
                         "region": "",
                         "definition": "tell sb how to get to/",
                         "examples": [
-                            "▪ He knows how to get here. I told him the way myself.",
-                            "tell b the way to sth",
-                            "▪ Graham can tell you the way to Yvonne’s house.",
-                            "tell sb the way out/here/there etc",
-                            "▪ Excuse me, could you tell me the way out, please?"
+                            "▪ He knows how to get here. I told him the way myself."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tell b the way to sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Graham can tell you the way to Yvonne’s house."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tell sb the way out/here/there etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Excuse me, could you tell me the way out, please?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -990,24 +1460,24 @@
                         "region": "",
                         "definition": "to give sbwrittenorspokeninstructions about how to get to a place:",
                         "examples": [
-                            "▪ He got into the car and began to give directions.",
-                            "give sb directions/give directions to sb",
-                            "▪ I’m not surprised you couldn’t find your way here if Peter gave you directions!"
+                            "▪ He got into the car and began to give directions."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "give sb directions/give directions to sb",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I’m not surprised you couldn’t find your way here if Peter gave you directions!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1025,24 +1495,24 @@
                         "region": "",
                         "definition": "to show sb how to get to a place, especially by going there with them: chỉ đường cho ai",
                         "examples": [
-                            "▪ I’ll send someone with you to show you the way.",
-                            "show sb the way to",
-                            "▪ She asked a scruffy-looking little boy to show her the way to the police station."
+                            "▪ I’ll send someone with you to show you the way."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "show sb the way to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ She asked a scruffy-looking little boy to show her the way to the police station."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1059,27 +1529,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "formalto show sb the way to a place, especially by telling them where it is or pointing to it:chỉ dẫn",
-                        "examples": [
-                            "direct sb behind/towards/out etc",
-                            "A steward directed us behind the stage and towards the dressing rooms.",
-                            "direct sb to sth",
-                            "Could you direct metothe airport?",
-                            "Go and ask the patrolman - he’ll direct you to the freeway."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "direct sb behind/towards/out etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A steward directed us behind the stage and towards the dressing rooms."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "direct sb to sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Could you direct metothe airport?",
+                                    "Go and ask the patrolman - he’ll direct you to the freeway."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1116,23 +1600,7 @@
                             "Let me take youtoyour room."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1147,40 +1615,10 @@
                         "definition": "1 to show the way to a group of people, animals, vehicles, etc. by going in front of them: dẫn đường",
                         "examples": [
                             "I don't know the way, so you'd better lead.",
-                            "If you lead in the jeep, we'll follow behind on the horses.",
-                            "2[T usually + adv/prep] to take sb somewhere, by going with them:",
-                            "lead sb to/through/along etc",
-                            "Our guide seemed to be leading us towards a wooded area in the distance.",
-                            "He led Julia through the house to his study.",
-                            "She led them down the hall.",
-                            "The waiter led us to our table.",
-                            "Our guide led us through the mountains.",
-                            "lead the way",
-                            "In silence, Roland led the way back to the car.",
-                            "You've been there before - why don't you lead the way?",
-                            "3[ T usually + adv/prep ] to take hold of a person or an animal, or of something fastened to them, and take them somewhere:",
-                            "She took the child by the hand and led him upstairs to bed.",
-                            "He led the horse out of the stable.",
-                            "The police officer took her arm and led her gently away."
+                            "If you lead in the jeep, we'll follow behind on the horses."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1193,27 +1631,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "to take someone to a place, such as a table in a restaurant or a hotel room, and leave them there:",
-                        "examples": [
-                            "show sb to sth",
-                            "Could you show this gentleman to his table please.",
-                            "I stood in the foyer, waiting to be shown to my apartment.",
-                            "Could you show Dr Sanchez into the living room?",
-                            "The waiter showed ustoour table."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "show sb to sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Could you show this gentleman to his table please.",
+                                    "I stood in the foyer, waiting to be shown to my apartment.",
+                                    "Could you show Dr Sanchez into the living room?",
+                                    "The waiter showed ustoour table."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1230,26 +1667,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "to make a group of people move to where you want them to go, especially in a kind, helpful and careful way : dẫn",
-                        "examples": [
-                            "shepherd sb up/along/to etc",
-                            "The police officer shepherded everyone away and padlocked the church gates.",
-                            "We expected to be asked to sit down, but instead we were shepherded out to an open patio at the back of the house.",
-                            "He shepherded the old people towards the dining room."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "shepherd sb up/along/to etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The police officer shepherded everyone away and padlocked the church gates.",
+                                    "We expected to be asked to sit down, but instead we were shepherded out to an open patio at the back of the house.",
+                                    "He shepherded the old people towards the dining room."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1266,27 +1702,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "to take sb to a place such as a room or building, especially as part of your job:dẫn",
-                        "examples": [
-                            "usher sb into/to/towards etc",
-                            "At the front door stood two smart young men, who ushered the guests into the house.",
-                            "Smiling, Smart ushered her to a waiting car outside.",
-                            "She ushered usintoher office and offered us a coffee.",
-                            "Officials quickly ushered the protestersoutof the hall."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "usher sb into/to/towards etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "At the front door stood two smart young men, who ushered the guests into the house.",
+                                    "Smiling, Smart ushered her to a waiting car outside.",
+                                    "She ushered usintoher office and offered us a coffee.",
+                                    "Officials quickly ushered the protestersoutof the hall."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1303,25 +1738,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "to take sb through or to a placethat you know very well, showing them the way:dẫn",
-                        "examples": [
-                            "guide sb to/through/along etc",
-                            "Sammler was a huge help, guiding me through the dangers of the city streets.",
-                            "The shop assistant guided metothe shelf where the gardening books were displayed."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "guide sb to/through/along etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Sammler was a huge help, guiding me through the dangers of the city streets.",
+                                    "The shop assistant guided metothe shelf where the gardening books were displayed."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1358,23 +1792,7 @@
                             "If you take the road on the left, you'll come to the post office."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1403,28 +1821,43 @@
                         "region": "",
                         "definition": "1formal to show sb how to get to somewhere:dẫn ai",
                         "examples": [
-                            "Would you like me to accompany you to your room?",
-                            "2formal to go with sb to a social event or to an entertainment: hộ tống",
-                            "\"May I accompany you to the ball?\" he asked her.",
-                            "I have two tickets for the theatre on Saturday evening - would you like to accompany me",
-                            "Children under 14 must be accompanied by an adult.",
-                            "Wherever her husband went, she would accompany him.",
-                            "RegisterIn everyday English, people usually saygo withorcome withsomeone rather thanaccompanysomeone:"
+                            "Would you like me to accompany you to your room?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "2formal to go with sb to a social event or to an entertainment: hộ tống",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "\"May I accompany you to the ball?\" he asked her."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "I have two tickets for the theatre on Saturday evening - would you like to accompany me",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Children under 14 must be accompanied by an adult.",
+                                    "Wherever her husband went, she would accompany him.",
+                                    "RegisterIn everyday English, people usually saygo withorcome withsomeone rather thanaccompanysomeone:"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1445,23 +1878,7 @@
                             "He offered to walk her home/tothe station."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1479,23 +1896,7 @@
                             "Shecame withme to church."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1509,10 +1910,6 @@
                         "region": "",
                         "definition": "to take sb to a place and make sure they cannot escape or that they arrive there safely :",
                         "examples": [
-                            "escort somebody to/into/out etc",
-                            "▪The prisoner was escorted into the room by two police officers.",
-                            "▪The guards escorted them to a waiting helicopter.",
-                            "▪After he was sacked, he was escorted discreetly from the building by two senior managers.",
                             "escort[C orr U] a person or group who escorts someone somewhere :",
                             "▪The agreement says weapons inspectors will be accompanied by Iraqi escorts.",
                             "armed/military/police escort",
@@ -1524,16 +1921,20 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "escort somebody to/into/out etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪The prisoner was escorted into the room by two police officers.",
+                                    "▪The guards escorted them to a waiting helicopter.",
+                                    "▪After he was sacked, he was escorted discreetly from the building by two senior managers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "",
+        "name": "hockey",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "equipment",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "puck",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a small hard rubber disc which is used instead of a ball in ice hockey : bóng khúc côn cầu trên băng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "parts of the field",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "the boards",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the wooden fence surrounding the ice surface in ice hockey : tường gỗ",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "penalty box",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "in ice hockey , an area where players must sit when they are given a penalty :",
+                        "examples": [
+                            "The two combatants then trundle off to the penalty box and the ‘real’ game resumes."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

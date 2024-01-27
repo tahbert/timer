@@ -40,23 +40,7 @@
                         "definition": "informalsb who is very interested in fashion and who likes the very newest styles",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -71,23 +55,7 @@
                         "definition": "a very famous fashion model",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -101,8 +69,6 @@
                         "region": "",
                         "definition": "someone whose job is to show clothes, hair styles etc by wearing them at fashion shows or for photographs :người mẫu",
                         "examples": [
-                            "a top fashion model",
-                            "She's going out with amalemodel.",
                             "model[I or T] to wear clothes at a fashion show or in magazine photographs in order to show them to people : làm người mẫu",
                             "She’s modeling Donna Karan’s fall collection.",
                             "Claire modelled for a few years when she was in her twenties.",
@@ -113,16 +79,18 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a top fashion model",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She's going out with amalemodel."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -163,23 +131,7 @@
                             "Jill’s new hairstyle doesn’t really suit her."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -211,25 +163,7 @@
                         "examples": [
                             "magazines about fashion and beauty",
                             "the London College of Fashion",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "keep up with fashion(= make sure that you know about the most recent fashions )Lucy likes to keep up with the latest fashions.",
-                            "fashion-conscious(= very interested in the latest fashions, and always wanting to wear fashionable clothes)Fashion-conscious people can’t get enough of these new designs.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the latest fashionThey sell all the latest fashions.",
-                            "men’s/women’s fashionsMen’s fashions have not changed much in 50 years.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the fashion industryLondon is the centre of the British fashion industry.",
-                            "the fashion worldSmall women are often overlooked by the fashion world.",
-                            "a fashion showCalvin Klein’s fashion show featured suits and sportswear.",
-                            "a fashion modelFashion models are usually very tall.",
-                            "a fashion designerHer favourite fashion designers include Giorgio Armani and Gianfranco Ferre.",
-                            "fashion designHe went to St Martin’s School of Art to study fashion design.",
-                            "a fashion house(= a company that produces new and expensive styles of clothes )fashion houses such as Armani and Hugo Boss",
-                            "a fashion magazineShe’s the editor of a leading fashion magazine.",
                             "fashion photographya book of Lang’s fashion photography",
-                            "a fashion photographerLater he worked as a fashion photographer for Vogue.",
-                            "a fashion shoot(= an occasion when photographs are taken of fashion models)She was asked to star with top model Naomi Campbell in a fashion shoot.",
-                            "a fashion shopWe walked around Milan’s famous fashion shops.",
                             "COMMON ERRORS",
                             "►Do not say'the last fashion'. Saythe latest fashion."
                         ],
@@ -237,16 +171,256 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "keep up with fashion",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "make sure that you know about the most recent fashions",
+                                "examples": [
+                                    "Lucy likes to keep up with the latest fashions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fashion-conscious",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very interested in the latest fashions, and always wanting to wear fashionable clothes",
+                                "examples": [
+                                    "Fashion-conscious people can’t get enough of these new designs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the latest fashion",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They sell all the latest fashions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "men’s/women’s fashions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Men’s fashions have not changed much in 50 years."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the fashion industry",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "London is the centre of the British fashion industry."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the fashion world",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Small women are often overlooked by the fashion world."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion show",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Calvin Klein’s fashion show featured suits and sportswear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion model",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Fashion models are usually very tall."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion designer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Her favourite fashion designers include Giorgio Armani and Gianfranco Ferre."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fashion design",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He went to St Martin’s School of Art to study fashion design."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion house",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a company that produces new and expensive styles of clothes",
+                                "examples": [
+                                    "fashion houses such as Armani and Hugo Boss"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion magazine",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She’s the editor of a leading fashion magazine."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion photographer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Later he worked as a fashion photographer for Vogue."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion shoot",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an occasion when photographs are taken of fashion models",
+                                "examples": [
+                                    "She was asked to star with top model Naomi Campbell in a fashion shoot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fashion shop",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We walked around Milan’s famous fashion shops."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -284,23 +458,7 @@
                             "Mobile phones make a big fashion statement."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -318,23 +476,7 @@
                             "Kenzo's summer/winter collection"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -353,23 +495,7 @@
                             "In 1960, Pierre Cardin became the first couturier to design men's clothes."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -400,23 +526,7 @@
                         "definition": "the long, narrow stage that models walk along in a fashion show:sàn diễn thờitrang",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -447,23 +557,7 @@
                         "definition": "a show for the public where models wear new styles of clothes",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -39,26 +39,41 @@
                         "region": "",
                         "definition": "a group of words that begins with a capital letter, ends with a full stop, and includes a verb: câu",
                         "examples": [
-                            "His voice dropped at the end of the sentence.",
-                            "in a sentence",
-                            "It’s difficult to sum it up in one sentence.",
-                            "short/simple/full/complex etc sentence",
-                            "In a few short sentences, Quinn explained what he had done."
+                            "His voice dropped at the end of the sentence."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "in a sentence",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It’s difficult to sum it up in one sentence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "short/simple/full/complex etc sentence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In a few short sentences, Quinn explained what he had done."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -92,28 +107,43 @@
                         "region": "",
                         "definition": "a short sentence that contains advice, or says what is usually true in a particular situation. Sayings have usually been used for a long time: tục ngữ, châm ngôn",
                         "examples": [
-                            "‘You’re only as old as you feel’ -- that’s one of my favourite sayings.",
-                            "old/famous/well-known saying",
-                            "The more often you play the flute, the better you’ll get. Remember the old saying, practice makes perfect.",
-                            "How many times have we heard the famous saying, ‘Physician heal thyself’?",
-                            "as the sayinggoes according to a saying",
-                            "What followed, as the saying goes, shook the world.",
-                            "Like father, like son, as the saying goes -- by the time Tim was eight, he was already a budding entrepreneur."
+                            "‘You’re only as old as you feel’ -- that’s one of my favourite sayings."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "old/famous/well-known saying",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The more often you play the flute, the better you’ll get. Remember the old saying, practice makes perfect.",
+                                    "How many times have we heard the famous saying, ‘Physician heal thyself’?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "as the sayinggoes according to a saying",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What followed, as the saying goes, shook the world.",
+                                    "Like father, like son, as the saying goes -- by the time Tim was eight, he was already a budding entrepreneur."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -138,23 +168,7 @@
                             "In reply, he quoted a Sanskrit proverb: ‘Forgiveness is the ornament of the brave’."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -169,10 +183,6 @@
                         "definition": "a phrase that is used so often that it seems boring, annoying, or silly: lời nói sáo, rập khuôn",
                         "examples": [
                             "It’s a cliché, I know, but the game isn’t over till the final whistle blows.",
-                            "old/tired cliché",
-                            "At the risk of repeating an old cliché, what doesn’t kill you makes you stronger.",
-                            "become a cliché",
-                            "It’s become a cliché to say that presidential candidates are being marketed like bars of soap or boxes of cereal.",
                             "clichéd[adj] C2",
                             "Without sounding too clichéd about it, there should be more to life than that.",
                             "Poor production, dreary guitar chords and clichéd lyrics -- this latest album is truly awful."
@@ -181,16 +191,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "old/tired cliché",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "At the risk of repeating an old cliché, what doesn’t kill you makes you stronger."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "become a cliché",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It’s become a cliché to say that presidential candidates are being marketed like bars of soap or boxes of cereal."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -208,26 +237,41 @@
                         "region": "",
                         "definition": "a phrase that is so clearly true that it has no useful meaning and is therefore annoying, especially because the person using it seems insincere and unsympathetic: vô vị tẻ nhạt",
                         "examples": [
-                            "The management tried to satisfy staff with some platitudes about the need to make sacrifices for the benefit of the company.",
-                            "empty platitudeone that is meaningless",
-                            "The marriage counsellor could only offer us a string of empty platitudes.",
-                            "mouth/spout platitudes",
-                            "Mr Gringold droned on, mouthing the usual platitudes about motivation and self-reliance."
+                            "The management tried to satisfy staff with some platitudes about the need to make sacrifices for the benefit of the company."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "empty platitudeone that is meaningless",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The marriage counsellor could only offer us a string of empty platitudes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "mouth/spout platitudes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Mr Gringold droned on, mouthing the usual platitudes about motivation and self-reliance."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -246,26 +290,41 @@
                         "definition": "a short phrase that is easy to remember, especially one that is used by advertisers, politicians, or entertainers: khẩu hiệu",
                         "examples": [
                             "Bloomingdale’s has as its slogan ‘Like no other store in the world’.",
-                            "Young men risked their lives to daub buildings with anti-government slogans.",
-                            "slogan of",
-                            "‘Liberte, egalite, fraternite’ was the slogan of the French Revolution.",
-                            "advertising/marketing/campaign slogan",
-                            "They’ve come up with a new advertising slogan for the product."
+                            "Young men risked their lives to daub buildings with anti-government slogans."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "slogan of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "‘Liberte, egalite, fraternite’ was the slogan of the French Revolution."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "advertising/marketing/campaign slogan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They’ve come up with a new advertising slogan for the product."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -287,23 +346,7 @@
                             "His catchphrases like'What a peach of a shot' and ‘That’s a dream of a pass’ are now part of tennis language."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -323,23 +366,7 @@
                             "The Mortimer family motto is inscribed above the door -- ‘Humilitas’."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -369,7 +396,6 @@
                         "region": "",
                         "definition": "a group of words that has a subject and a verb and that is part of a sentence: mệnh đề",
                         "examples": [
-                            "main clausethe clause that describes the main action",
                             "We will go to the theatre tonight [main clause] if we can get tickets [subordinate clause].",
                             "subordinate clause/dependent clausea clause that is not the main clause",
                             "In the sentence ‘Can you tell me what time it is?’ ‘Can you tell me’ is the main clause, and ‘what time it is’ is a subordinate clause."
@@ -378,11 +404,11 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "main clausethe clause that describes the main action",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -405,25 +431,24 @@
                         "region": "",
                         "definition": "a small group of words which together form a single unit in a sentence - used in technical contexts: cụm từ",
                         "examples": [
-                            "The phrase ‘a big black dog’ is the subject of the sentence.",
-                            "noun/adverb/verb etc phrase",
-                            "‘A bottle of whisky' is a noun phrase, and ’really rather foolishly' is an adverb phrase.",
-                            ""
+                            "The phrase ‘a big black dog’ is the subject of the sentence."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "noun/adverb/verb etc phrase",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "‘A bottle of whisky' is a noun phrase, and ’really rather foolishly' is an adverb phrase."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -457,37 +482,144 @@
                         "region": "",
                         "definition": "a group of words that have a particular meaning when used together, or which sb uses on a particular occasion : cụm từ",
                         "examples": [
-                            "Who first used the phrase ‘survival of the fittest’?",
-                            "in sb’s phraseaccording to a phrase which someone used",
-                            "The battle of El Alamein was, in Churchill’s phrase, \"the end of the beginning'.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a famous/well-known phraseWe all hear the phrase \"greenhouse gasses\", but do you know what it really means?",
-                            "a memorable phraseWho was it who used that memorable phrase \"a monumental error of judgement\"?",
-                            "a colourful phrase(= interesting or rude )His conversation is full of colourful phrases.",
-                            "a well-turned phrase(= skilfully invented or chosen )She creates lifelike characters with a few well-turned phrases.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "use a phrase",
-                            "I was criticized for using the phrase ‘gay lifestyles’.",
-                            "His campaign is, to use one of his favourite phrases, ‘as dead as Elvis’.",
-                            "coin a phraseinvent a phrase",
-                            "Who first coined the phrase \"Iron Curtain'?",
-                            "turn of phrasea particular phrase or word that someone uses",
-                            "The head of the bank described the salary cuts as ‘peanuts’, a turn of phrase which angered many bank workers."
+                            "Who first used the phrase ‘survival of the fittest’?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a famous/well-known phrase",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We all hear the phrase \"greenhouse gasses\", but do you know what it really means?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a memorable phrase",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Who was it who used that memorable phrase \"a monumental error of judgement\"?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a colourful phrase",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "interesting or rude",
+                                "examples": [
+                                    "His conversation is full of colourful phrases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a well-turned phrase",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "skilfully invented or chosen",
+                                "examples": [
+                                    "She creates lifelike characters with a few well-turned phrases."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in sb’s phraseaccording to a phrase which someone used",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The battle of El Alamein was, in Churchill’s phrase, \"the end of the beginning'."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use a phrase",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I was criticized for using the phrase ‘gay lifestyles’.",
+                                    "His campaign is, to use one of his favourite phrases, ‘as dead as Elvis’."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "coin a phraseinvent a phrase",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Who first coined the phrase \"Iron Curtain'?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "turn of phrasea particular phrase or word that someone uses",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The head of the bank described the salary cuts as ‘peanuts’, a turn of phrase which angered many bank workers."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -505,35 +637,144 @@
                         "region": "",
                         "definition": "a word or group of words with a particular meaning :cách diễn đạt",
                         "examples": [
-                            "The old-fashioned expression ‘in the family way’ means ‘pregnant’.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a common expression'Pig out' is a common expression meaning 'to eat a lot'.",
-                            "an old-fashioned/outdated expressionThe old-fashioned expression 'in the family way' means to be pregnant.",
-                            "an idiomatic expression(= an idiom )Try to avoid using idiomatic expressions in an essay.",
-                            "a figurative expression(= one in which words are not used with their literal meaning )Many figurative expressions equate anger with heat.",
-                            "a coarse/vulgar expression(= one that is rude )He came out with some vulgar expressions that I couldn’t possibly repeat.",
-                            "an American/English etc expressionShe remembered the American expression her mother had always used: 'Life’s a breeze'.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "pardon/forgive the expression(= used when you have said a word or phrase that might offend someone )After the climb, we were absolutely knackered, if you’ll pardon the expression.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "use an expression",
-                            "I don’t normally use that expression myself, but I’ve heard other people use it sometimes.",
-                            "He said he didn’t care -- well actually he used a rude expression that I can’t repeat!"
+                            "The old-fashioned expression ‘in the family way’ means ‘pregnant’."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a common expression'",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Pig out' is a common expression meaning 'to eat a lot'."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an old-fashioned/outdated expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The old-fashioned expression 'in the family way' means to be pregnant."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an idiomatic expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an idiom",
+                                "examples": [
+                                    "Try to avoid using idiomatic expressions in an essay."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a figurative expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one in which words are not used with their literal meaning",
+                                "examples": [
+                                    "Many figurative expressions equate anger with heat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a coarse/vulgar expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is rude",
+                                "examples": [
+                                    "He came out with some vulgar expressions that I couldn’t possibly repeat."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "American/English etc expressionShe remembered the American expression her mother had always used: 'Life’s a breeze'."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pardon/forgive the expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used when you have said a word or phrase that might offend someone",
+                                "examples": [
+                                    "After the climb, we were absolutely knackered, if you’ll pardon the expression."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "use an expression",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I don’t normally use that expression myself, but I’ve heard other people use it sometimes.",
+                                    "He said he didn’t care -- well actually he used a rude expression that I can’t repeat!"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -571,23 +812,7 @@
                             "When I said we spent the night together, it was just a figure of speech. I didn’t sleep with her."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -602,28 +827,10 @@
                         "definition": "a group of words that are used together and have a special meaning that you cannot guess from the meanings of each separate word: thành ngữ",
                         "examples": [
                             "‘Full of beans’ is an idiom which means lively and energetic.",
-                            "In Hollywood, white stars are adopting black idioms, dress styles and manners.",
-                            "idiomatic[adj]",
-                            "Some idiomatic phrases don’t translate literally, so you have to find an equivalent."
+                            "In Hollywood, white stars are adopting black idioms, dress styles and manners."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -636,26 +843,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "specialized",
-                        "examples": [
-                            "1( alsocollocate) a word or phrase which is often used with another word or phrase, in a way that sounds correct to people who have spoken the language all their lives, but might not be expected from the meaning :kết hợp ngữ",
-                            "In the phrase 'a hard frost', 'hard' is a collocation of 'frost' and 'strong' would not sound natural.",
-                            "2the combination of words formed when two or more words are often used together in a way that sounds correct :kết hợp ngữ",
-                            "The phrase 'a hard frost' is a collocation."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "1( alsocollocate) a word or phrase which is often used with another word or phrase, in a way that sounds correct to people who have spoken the language all their lives, but might not be expected from the meaning :kết hợp ngữ",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "In the phrase 'a hard frost', 'hard' is a collocation of 'frost' and 'strong' would not sound natural."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "2the combination of words formed when two or more words are often used together in a way that sounds correct :kết hợp ngữ",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The phrase 'a hard frost' is a collocation."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

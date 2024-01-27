@@ -40,53 +40,396 @@
                         "definition": "a public road in a city or town that has houses, shops etc on one or both sides :",
                         "examples": [
                             "We moved to Center Street when I was young.",
-                            "She lives just a few streets away.",
-                            "a car parkedon the other side of the street",
-                            "There were stores on both sides of the street.",
-                            "Wall Street is a famous financial center in New York.",
-                            "the streets of London/Paris/Istanbul etc : đường phố ...",
-                            "Pablo loved wandering through the streets of Barcelona.",
-                            "in/on the streets : trên đường phố",
-                            "We need more police on the streets.",
-                            "along/down/up the street",
-                            "Victoria can’t walk down the street without someone recognizing her.",
-                            "I walked on further down the street .",
-                            "Someone just moved in across the street .",
-                            "live in a streetUK/on a streetUS",
-                            "She had lived in the same street in London all her life.",
-                            "sb’s streetthe street where someone lives",
-                            "Our street was just a row of brick terraced houses.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "busy(= with a lot of traffic or people )The house faces onto a busy street.",
-                            "crowded(= with a lot of people )The streets get very crowded at weekends.",
-                            "quiet(= with very few people )It was late and the streets were quiet.",
-                            "empty/deserted(= with no people )As he walked home, the street was deserted.",
-                            "narrowan old city with quaint narrow streets",
-                            "the main street(= the biggest street in a town or village )They drove slowly along the main street.",
-                            "the high streetBritish English(= the main street with shops )I bought this coat at a shop on the high street.",
-                            "a shopping streetBritish English(= with a lot of shops )This is one of Europe’s most elegant shopping streets.",
-                            "a residential street(= with houses, not shops )a quiet residential street",
-                            "a one-way street(= in which you can only drive in one direction )He was caught driving the wrong way down a one-way street.",
-                            "a side/back street(= a small quiet street near the main street )The restaurant is tucked away in a side street.",
-                            "winding streets(= streets that turn in many directions )We spent hours exploring the town’s winding streets.",
-                            "cobbled streets(= with a surface made from round stones )The cobbled streets were closed to cars.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "cross the street(= walk to the other side )She crossed the street and walked into the bank.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a street corner(= a place where streets meet)Youths were standing around on street corners.",
-                            "a street light/lampIt was getting dark, and the street lamps were already on.",
-                            "street crime/violence(= when people are attacked in the street)Young men are most likely to be victims of street crime.",
-                            "street clothes(= ordinary clothes, not a special uniform or costume)She changed into her street clothes and left the theatre."
+                            "She lives just a few streets away."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "busy",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of traffic or people",
+                                "examples": [
+                                    "The house faces onto a busy street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "crowded",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of people",
+                                "examples": [
+                                    "The streets get very crowded at weekends."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "quiet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with very few people",
+                                "examples": [
+                                    "It was late and the streets were quiet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "empty/deserted",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with no people",
+                                "examples": [
+                                    "As he walked home, the street was deserted."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the main street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the biggest street in a town or village",
+                                "examples": [
+                                    "They drove slowly along the main street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the high streetBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the main street with shops",
+                                "examples": [
+                                    "I bought this coat at a shop on the high street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a shopping streetBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a lot of shops",
+                                "examples": [
+                                    "This is one of Europe’s most elegant shopping streets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a residential street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with houses, not shops",
+                                "examples": [
+                                    "a quiet residential street"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a one-way street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in which you can only drive in one direction",
+                                "examples": [
+                                    "He was caught driving the wrong way down a one-way street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a side/back street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a small quiet street near the main street",
+                                "examples": [
+                                    "The restaurant is tucked away in a side street."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "winding streets",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "streets that turn in many directions",
+                                "examples": [
+                                    "We spent hours exploring the town’s winding streets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cobbled streets",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a surface made from round stones",
+                                "examples": [
+                                    "The cobbled streets were closed to cars."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cross the street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "walk to the other side",
+                                "examples": [
+                                    "She crossed the street and walked into the bank."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a street corner",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a place where streets meet",
+                                "examples": [
+                                    "Youths were standing around on street corners."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a street light/lamp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It was getting dark, and the street lamps were already on."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "street crime/violence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "when people are attacked in the street",
+                                "examples": [
+                                    "Young men are most likely to be victims of street crime."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "street clothes",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "ordinary clothes, not a special uniform or costume",
+                                "examples": [
+                                    "She changed into her street clothes and left the theatre."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a car parkedon the other side of the street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were stores on both sides of the street.",
+                                    "Wall Street is a famous financial center in New York.",
+                                    "the streets of London/Paris/Istanbul etc : đường phố ...",
+                                    "Pablo loved wandering through the streets of Barcelona."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in/on the streets : trên đường phố",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We need more police on the streets."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "along/down/up the street",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Victoria can’t walk down the street without someone recognizing her.",
+                                    "I walked on further down the street .",
+                                    "Someone just moved in across the street ."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "live in a streetUK/on a streetUS",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She had lived in the same street in London all her life."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s streetthe street where someone lives",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Our street was just a row of brick terraced houses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "narrowan old city with quaint narrow streets",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -118,23 +461,7 @@
                             "high street banks/shops/stores etc"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -152,23 +479,7 @@
                             "It took us almost an hour to find her house in a narrow little back street."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -185,23 +496,7 @@
                             "If the car park’s full you might find a space in one of the side streets."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -234,23 +529,7 @@
                             "Turn left into Badgerly Crescent."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -267,23 +546,7 @@
                             "Fran lives at 37 Appian Close."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -297,28 +560,28 @@
                         "region": "",
                         "definition": "/ boulevard awideroad often withtreesalong each side of it, especially one that is long and straight - often used instreetnames,boulevardisused especially in street names in the US, France etc. In the UK, streets are usually calledavenuerather thanboulevard:đại lộ",
                         "examples": [
-                            "She lives in a large house on Acacia Avenue.",
-                            "New York’s 5th Avenue",
-                            "The apartment is located on Jackson Boulevard.",
-                            "New Delhi, with its elegant wide avenues and impressive government buildings, is a complete contrast with Old Delhi.",
-                            "There are plans to replace the old highway with a broad tree-lined boulevard.",
-                            "the busy avenue in front of the cathedral|He lived on Park Avenue.",
-                            "the world-famous Sunset Boulevard in Los Angeles."
+                            "She lives in a large house on Acacia Avenue."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "New York’s 5th Avenue",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The apartment is located on Jackson Boulevard.",
+                                    "New Delhi, with its elegant wide avenues and impressive government buildings, is a complete contrast with Old Delhi.",
+                                    "There are plans to replace the old highway with a broad tree-lined boulevard.",
+                                    "the busy avenue in front of the cathedral|He lived on Park Avenue.",
+                                    "the world-famous Sunset Boulevard in Los Angeles."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -330,7 +593,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "usage": "",
                         "region": "",
                         "definition": "(alsoSt.) written abbreviation for street, used in writing after the name of a street",
@@ -338,23 +601,7 @@
                             "My address is 19 East Norwood St."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -371,23 +618,7 @@
                             "She was found dead at her home in Maple Drive."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -416,27 +647,26 @@
                         "usage": "",
                         "region": "",
                         "definition": "a large open area in the centre of a town or city, usually in the shape of a square, or the buildings surrounding it : quảng trường",
-                        "examples": [
-                            "main/market/town square",
-                            "The hotel is just off the main square of Sorrento.",
-                            "She lives in Hanover Square.",
-                            "Are they still living at 6 Eaton Square?",
-                            "A band were playinginthe town square."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "main/market/town square",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The hotel is just off the main square of Sorrento.",
+                                    "She lives in Hanover Square.",
+                                    "Are they still living at 6 Eaton Square?",
+                                    "A band were playinginthe town square."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -475,23 +705,7 @@
                             "Honey, this is a dead end - you’ll have to turn around."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -509,23 +723,7 @@
                             "Women in white aprons gossiped in the alley between the apartment blocks."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

@@ -47,23 +47,7 @@
                             "The space between the old building and the Morgan mansion has been converted into a marble-paved court, with plantings and a fountain."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -76,28 +60,57 @@
                         "usage": "",
                         "region": "",
                         "definition": "/gæp/  a space between two objects or surfaces from which there is something missing:",
-                        "examples": [
-                            "gap in",
-                            "▪ Freddie managed to squeeze through a gap in the fence and run away.",
-                            "gap between",
-                            "▪ Melanie’s dentist says that as she gets older the gap between her two front teeth will disappear.",
-                            "fill/fill in a gap",
-                            "▪ Melianthus is a good plant for filling in gaps in flower borders."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "gap in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Freddie managed to squeeze through a gap in the fence and run away."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gap between",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Melanie’s dentist says that as she gets older the gap between her two front teeth will disappear."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fill/fill in a gap",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Melianthus is a good plant for filling in gaps in flower borders."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -115,25 +128,25 @@
                         "region": "",
                         "definition": "/ˈəʊpənɪŋ/  a space through which something can pass or through which you can see:",
                         "examples": [
-                            "▪ Now there is just a gap where the buildings used to stand.",
-                            "opening in",
-                            "▪ ‘It’s only Fred,’ said Joyce, looking through an opening in the curtains.",
-                            "▪ The dog darted through an opening in the hedge, chasing a rabbit."
+                            "▪ Now there is just a gap where the buildings used to stand."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "opening in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ ‘It’s only Fred,’ said Joyce, looking through an opening in the curtains.",
+                                    "▪ The dog darted through an opening in the hedge, chasing a rabbit."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -177,24 +190,11 @@
                             "The hedgetakes uptoo muchspace.",
                             "sense/feeling of space(= the feeling that a place is large and empty, so you can move around easily )",
                             "In small homes, a single colour scheme can create a sense of space.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "smallThere was only a small space between the car and the wall.",
-                            "narrowNathan stood in the doorway, filling the narrow space.",
-                            "a confined/enclosed space(= small and enclosed )It was difficult being together in such a confined space.",
-                            "an empty spaceAnother day we returned to find an empty space where the TV should have been.",
-                            "a blank space(= on a page, wall etc )Write your refund request in the blank space on Line 9.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "clear/make a spaceJack cleared a space for his newspaper on the table.",
-                            "leave a spaceLeave a space for the title at the top.",
-                            "fit in/into a spaceDecide what kind of table and chairs will fit best into the space.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "2 area for particular purpose[ uncountable and countable ] an area, especially one used for a particular purpose :",
                             "a supermarket with 700 freeparking spaces",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "storage/cupboard/shelf space",
                             "We really do need more storage space.",
                             "Our apartment is small, and doesn’t have much storage space.",
-                            "the factory’sfloor space(= the size of the available floor area )",
                             "greenspacewhere there are grass and trees",
                             "The city would be unbearable in the summer without its green spaces.",
                             "open spacespace where there are no buildings",
@@ -209,15 +209,151 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "small",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "There was only a small space between the car and the wall."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "narrow",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Nathan stood in the doorway, filling the narrow space."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a confined/enclosed space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "small and enclosed",
+                                "examples": [
+                                    "It was difficult being together in such a confined space."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an empty space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Another day we returned to find an empty space where the TV should have been."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a blank space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "on a page, wall etc",
+                                "examples": [
+                                    "Write your refund request in the blank space on Line 9."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "clear/make a space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Jack cleared a space for his newspaper on the table."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leave a space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Leave a space for the title at the top."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fit in/into a space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Decide what kind of table and chairs will fit best into the space."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the factory’sfloor space",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the size of the available floor area",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -257,23 +393,7 @@
                             "leg-room/head-room(= space for your legs or head in a vehicle )"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -290,23 +410,7 @@
                             "I enjoy flying Air Canada, because they give you plenty of leg room."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -324,23 +428,7 @@
                             "▪ In October the museums and art galleries are less crowded, and there’s more elbow room in restaurants."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -353,24 +441,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "/floor space the area of the floor of a room, especially the area that can be used:",
-                        "examples": [
-                            "The workshop is quite big but there’s not much floorspace",
-                            "There was just enough floor space for a desk, a chair, and a filing cabinet."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "The workshop is quite big but there’s not much floorspace",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "There was just enough floor space for a desk, a chair, and a filing cabinet."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -403,26 +490,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˌmeɪk ˈruːm/  to remove or move someone or something in order to provide space for another person or thing:",
-                        "examples": [
-                            "make room for",
-                            "▪ The theater was torn down in the early '80s, to make room for the Horton Plaza Shopping Center.",
-                            "▪ The campers made room for us around the fire.",
-                            "▪ There are two more people coming -- can you make room for them to sit down?"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make room for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The theater was torn down in the early '80s, to make room for the Horton Plaza Shopping Center.",
+                                    "▪ The campers made room for us around the fire.",
+                                    "▪ There are two more people coming -- can you make room for them to sit down?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -444,23 +530,7 @@
                             "▪ The gardener was clearing a space so he could plant the young seedlings."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -474,24 +544,24 @@
                         "region": "",
                         "definition": "/ˌmeɪk ˈweɪ/  if a crowd makes way for someone or something, it divides to make a space for that person or thing to pass:",
                         "examples": [
-                            "▪ If you can all make way please, so we can get through.",
-                            "make way for",
-                            "▪ The onlookers stepped back to make way for the ambulance to pass."
+                            "▪ If you can all make way please, so we can get through."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "make way for",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The onlookers stepped back to make way for the ambulance to pass."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -519,7 +589,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[transitive verb not in progressive or passive]",
                         "usage": "",
                         "region": "",
@@ -530,23 +600,7 @@
                             "▪ I’ll have to throw out some clothes - the closet can’t take any more."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -554,7 +608,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[transitive verb]",
                         "usage": "",
                         "region": "",
@@ -565,23 +619,7 @@
                             "▪ The gas tank on a small car should hold at least six gallons."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -600,23 +638,7 @@
                             "The new concert hall seats 1500 people."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -631,23 +653,7 @@
                         "definition": "",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -678,27 +684,10 @@
                         "definition": "a  when there is only just enough space for things or people to fit: chật, đông, khít",
                         "examples": [
                             "It was a tight squeeze, but everything eventually fitted into my suitcase.",
-                            "Put the spare bed in here - it will be a tight squeeze but it’s only temporary.",
-                            ""
+                            "Put the spare bed in here - it will be a tight squeeze but it’s only temporary."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -716,23 +705,7 @@
                             "I’ve never been very good at reversing into tight parking spaces."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -750,23 +723,7 @@
                             "I couldn’t wait to move out of my cramped apartment."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -802,23 +759,7 @@
                             "▪ the vast expanse of the Pacific Ocean"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -835,23 +776,7 @@
                             "If you would like more information, mark this box."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -871,23 +796,7 @@
                             "_The chairman said that he would now take questionsfrom thefloor (= from the audience) ."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -899,29 +808,8 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounEMPTY PLACE",
-                        "examples": [
-                            "[ U ] that which is around everything that exists and which is continuous in all directions",
-                            "_He was absent-mindedlystaring/gazing intospace (= looking, but seeing nothing) .",
-                            "_Virtual Reality aims to give us artificial worlds to explore, outside normal space and time."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -935,27 +823,27 @@
                         "region": "",
                         "definition": "/ˈweɪ/noun(FREE SPACE)",
                         "examples": [
-                            "C2the space needed for a particular movement or action:",
-                            "\"Sorry, am I in your way? I'll move.\"",
-                            "I couldn't see the stage because there was a pillar in the way(= between me and the stage).",
-                            "Please make way so the ambulance can get by.",
-                            "The best thing you can do if you're near to a tornado is get out of its way.",
-                            "figurativeShe's determined to succeed and she won't let anything get/stand in her way(= prevent her)."
+                            "C2the space needed for a particular movement or action:"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "\"Sorry, am I in your way? I'll move.\"",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I couldn't see the stage because there was a pillar in the way(= between me and the stage).",
+                                    "Please make way so the ambulance can get by.",
+                                    "The best thing you can do if you're near to a tornado is get out of its way.",
+                                    "figurativeShe's determined to succeed and she won't let anything get/stand in her way(= prevent her)."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

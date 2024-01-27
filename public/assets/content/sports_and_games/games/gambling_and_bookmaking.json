@@ -40,20 +40,34 @@
                         "definition": "sb who gambles, especially someone who gambles a lot and cannot stop:con bạc",
                         "examples": [
                             "Jack was a great drinker and gambler.",
-                            "De Niro plays Sam ‘Ace’ Rothstein, a professional gambler.",
-                            "compulsive gamblersb who cannot stop gambling heavy gambler someone who gambles a lot : tay nghiện cờ bạc nặng",
-                            "It was rumoured that he was a heavy gambler and lost large sums in Monte Carlo.",
-                            "a self-help group forcompulsivegamblers"
+                            "De Niro plays Sam ‘Ace’ Rothstein, a professional gambler."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "compulsive gamblersb who cannot stop gambling heavy gambler someone who gambles a lot : tay nghiện cờ bạc nặng",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It was rumoured that he was a heavy gambler and lost large sums in Monte Carlo."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a self-help group forcompulsivegamblers",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -79,23 +93,7 @@
                             "All the tipsters were wrong about the gold medal winner."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -112,23 +110,7 @@
                             "UK bookmakers, casinos and betting shops make billions of pounds every year."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -145,23 +127,7 @@
                             "Tertiary colleges have closed regular courses to train croupiers and dealers for the casinos."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -194,9 +160,6 @@
                             "Eddie loved to gamble, and would spend most evenings at the roulette table.",
                             "Their religion forbids them to drink or gamble.",
                             "I like to gamble when I play cards - it makes it more interesting.",
-                            "gamble on",
-                            "Jack loves gambling on the horses.",
-                            "He gamblesonthe horses (= horse races) .",
                             "gamble away[M]waste a lot of money by gambling",
                             "Roger gambled away all his money in a Las Vegas casino.",
                             "She inherited $50,000 but gambled it away.",
@@ -206,16 +169,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "gamble on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Jack loves gambling on the horses.",
+                                    "He gamblesonthe horses (= horse races) ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -233,29 +199,59 @@
                         "region": "",
                         "definition": "to risk money on the result of a race, game, competition, or other future event : cược",
                         "examples": [
-                            "How much do you want to bet?",
-                            "bet (sb) that",
-                            "He bet me £10 that I wouldn’t do it.",
-                            "bet (sth) on sth",
-                            "She bet all her money on a horse that came last.",
-                            "Jerry bet $1000 on the game.",
-                            "bet against",
-                            "I wouldn’t bet against him winning the championship this year."
+                            "How much do you want to bet?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "bet (sb) that",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He bet me £10 that I wouldn’t do it."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bet (sth) on sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She bet all her money on a horse that came last.",
+                                    "Jerry bet $1000 on the game."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bet against",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I wouldn’t bet against him winning the championship this year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -274,24 +270,24 @@
                         "definition": "to gamble money on a particular horse, team, or person that you think will win a particular competition:cá cược",
                         "examples": [
                             "We backed a horse named Travelling Light that finished first at 10-1.",
-                            "The horse I backed came in last.",
-                            "back sth/sb to win sth",
-                            "Uncle Barry backed Arsenal to win the FA Cup."
+                            "The horse I backed came in last."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "back sth/sb to win sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Uncle Barry backed Arsenal to win the FA Cup."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -313,23 +309,7 @@
                             "You’re allowed to play cards in the bar, but not for money."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -343,25 +323,25 @@
                         "region": "",
                         "definition": "UK informal to gamble a small amount of money, especially on the result of a horse race - use this especially about sb who does not gamble very often: cược (vặt)",
                         "examples": [
-                            "I’m not a heavy gambler, but I like to have a flutter from time to time.",
-                            "have a flutter on",
-                            "I had a little flutter on the Grand National and won £5.",
-                            "Aunty Paula likes tohavea bit of a flutteronthe horses."
+                            "I’m not a heavy gambler, but I like to have a flutter from time to time."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a flutter on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I had a little flutter on the Grand National and won £5.",
+                                    "Aunty Paula likes tohavea bit of a flutteronthe horses."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -379,25 +359,25 @@
                         "region": "",
                         "definition": "to try to win money by guessing who will win a race or game:cá cược",
                         "examples": [
-                            "I don’t bet very often.",
-                            "have a bet on sth",
-                            "We usually have a bet on the Grand Prix.",
-                            "Are you going to have a bet on the race?"
+                            "I don’t bet very often."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a bet on sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We usually have a bet on the Grand Prix.",
+                                    "Are you going to have a bet on the race?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -418,23 +398,7 @@
                             "He playsthe horses/the stock market."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -467,33 +431,93 @@
                             "a £50 bet",
                             "bet on",
                             "A few of ushadabeton who’d get married first.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "place/put/lay a bet on sthShe placed a bet on a horse called Beethoven.",
                             "Heplaced/puta betonthe grey horse.",
                             "I put $20 on the Cowboys to win.",
                             "He put £50 on Middlesborough to beat Manchester United at odds of 3-1.",
                             "I think I’ll put a bet on the next race.",
-                            "take a bet(= accept sb’s money as part of a bet)",
                             "They're taking bets on the result of the election now.",
                             "Bookmakers are alreadytaking betson the outcome.",
-                            "win a betFrance won the game and I won my bet.",
-                            "lose a betIf I have a bet, I always lose it.",
-                            "make a bet(= risk money on the way a situation will develop in future)",
                             "If you want to make money on the stockmarket, you have to start making bets."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "place/put/lay a bet on sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "She placed a bet on a horse called Beethoven."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take a bet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "accept sb’s money as part of a bet",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "win a bet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "France won the game and I won my bet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lose a bet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If I have a bet, I always lose it."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "make a bet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "risk money on the way a situation will develop in future",
                                 "examples": [],
                                 "isEnabled": true,
                                 "children": []
@@ -506,24 +530,23 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[P]",
                         "usage": "",
                         "region": "",
                         "definition": "an amount of money that has been won : tiền thắng cược, tiền trúng",
                         "examples": [
-                            "What are you going to spend your winnings on?",
-                            "lottery winnings"
+                            "What are you going to spend your winnings on?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lottery winnings",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -563,23 +586,7 @@
                         "definition": "/ fruit machineUK  a machine that you try to win money from by putting coins into it and operating it, often by pressing a button or pulling a handle : máy đánh bạc",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -594,23 +601,7 @@
                         "definition": "a small container for shaking dice : hộp lắc",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -627,23 +618,7 @@
                             "a lottery scratchcard"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -657,25 +632,25 @@
                         "region": "",
                         "definition": "a small block of wood, plastic etc that has six sides with a different number of spots on each side, used in games: súc sắc",
                         "examples": [
-                            "We need two dice to play the game.",
-                            "throw/ roll the dice",
-                            "It’s your turn to roll the dice.",
-                            "Youroll/throwthe dice and whoever gets the highest score goes first."
+                            "We need two dice to play the game."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "throw/ roll the dice",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "It’s your turn to roll the dice.",
+                                    "Youroll/throwthe dice and whoever gets the highest score goes first."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -692,25 +667,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "a small plastic disc used to represent a particular amount of money in gambling : thẻ tiền",
-                        "examples": [
-                            "a poker chip",
-                            "That was a mercenary term for a poker game with fake chips, one just played for relaxation.",
-                            "figurativeThe hostages are being held as abargainingchip by terrorist organizations."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a poker chip",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "That was a mercenary term for a poker game with fake chips, one just played for relaxation.",
+                                    "figurativeThe hostages are being held as abargainingchip by terrorist organizations."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -748,23 +722,7 @@
                             "I lost a lot of money on the dogs last night."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -781,23 +739,7 @@
                             "I heard that he won a lot of money on the Superbowl a few years ago."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -826,20 +768,33 @@
                         "usage": "",
                         "region": "",
                         "definition": "a game used to make money for a state or a charity in which people buy tickets with a series of numbers on them. If their number is picked by chance, they win money or a prize : xổ số",
-                        "examples": [
-                            "a lottery ticket",
-                            "Do you really thinkwinning the lotterywould make you happy?",
-                            "national/state lottery"
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a lottery ticket",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Do you really thinkwinning the lotterywould make you happy?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "national/state lottery",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -865,23 +820,7 @@
                             "Betting can be as addictive as drinking or smoking"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -905,23 +844,7 @@
                             "The police raided a number of illegalgambling dens(= places for illegal gambling)."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -938,23 +861,7 @@
                             "Vera won £20 at bingo."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -971,23 +878,7 @@
                             "The site offers slots, roulette and animated card games including poker and blackjack."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1020,23 +911,7 @@
                             "‘I was the school bookmaker, worked in betting shops and racecourses,’ he says."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1053,23 +928,7 @@
                             "Doesn’t that club have a casino upstairs?"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1086,23 +945,7 @@
                             "He went down to the bookmaker's/ bookie's in Chesterton Road to place a bet on the race."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

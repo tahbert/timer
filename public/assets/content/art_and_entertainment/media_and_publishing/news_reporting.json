@@ -39,53 +39,396 @@
                         "region": "",
                         "definition": "information about something that has happened recently :",
                         "examples": [
-                            "I hope to have some good news for you soon.",
-                            "sb’s newswhat someone has been doing recently",
-                            "Sit down and tell me all your news.",
-                            "news that",
-                            "We are delighted at the news that our daughter is expecting a baby.",
-                            "news on",
-                            "What’s the latest news on your university application?",
-                            "news of/about",
-                            "Everyone is shocked by the news of the arrests.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "good newsHe’s feeling much better, so that’s good news.",
-                            "great/wonderful newsThey're getting married? That's wonderful news!",
-                            "welcome news(= good news that makes you happy )The lower interest rates will be welcome news to home owners.",
-                            "bad news‘I’m afraid I have bad news,’ said Jackson.|Have you heard the terrible news about Simon?",
-                            "terrible news(= very bad )",
-                            "the latest newsMom sent a letter with all the latest news.",
-                            "old news(= news that you have already heard )She wasn’t surprised; it was old news to her.",
-                            "important newsI've got some important news to tell you.",
-                            "the big newsinformal(= an important piece of news )The big news is that Polly and Richard are going to get married.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have some news (for sb)I could tell by his face that he had some news.",
-                            "tell sb the newsJack called him to tell him the good news.",
-                            "break the news (to sb)(= tell someone some bad news )Two policemen came to the door to break the news about her husband.",
-                            "hear (the/my etc) news(= tell a lot of people the news )After she had the baby, her husband made phone calls to spread the happy news.",
-                            "hear the news(= hear about something that has happened )She was really upset when she heard the news.",
-                            "welcome the newsformal(= say that you are pleased about some news )Environmental groups welcomed the news that the area would be protected.",
-                            "greet the news with surprise/delight etcformal(= react to the news in a particular way )Fans greeted the news of the victory with a loud cheer.",
-                            "news spreads(= a lot of people find out the news from other people )News spreads fast in a small town.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a piece of news(alsoa bit of newsBritish English)Leo thought about this piece of news carefully.",
-                            "the good news is …/the bad news is ...(= used to introduce a piece of good and bad news )The good news is that most stores have the game in stock; the bad news is that it's not cheap.",
-                            ""
+                            "I hope to have some good news for you soon."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good news",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "He’s feeling much better, so that’s good news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "great/wonderful news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They're getting married? That's wonderful news!"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "welcome news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "good news that makes you happy",
+                                "examples": [
+                                    "The lower interest rates will be welcome news to home owners."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "bad news‘",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I’m afraid I have bad news,’ said Jackson.|Have you heard the terrible news about Simon?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "terrible news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "very bad",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the latest news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Mom sent a letter with all the latest news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "old news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "news that you have already heard",
+                                "examples": [
+                                    "She wasn’t surprised; it was old news to her."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "important news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I've got some important news to tell you."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the big newsinformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "an important piece of news",
+                                "examples": [
+                                    "The big news is that Polly and Richard are going to get married."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have some news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "for sb",
+                                "examples": [
+                                    "I could tell by his face that he had some news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "tell sb the news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Jack called him to tell him the good news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "break the news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "to sb",
+                                "examples": [
+                                    "(= tell someone some bad news )Two policemen came to the door to break the news about her husband."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hear",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the/my etc",
+                                "examples": [
+                                    "news(= tell a lot of people the news )After she had the baby, her husband made phone calls to spread the happy news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hear the news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "hear about something that has happened",
+                                "examples": [
+                                    "She was really upset when she heard the news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "welcome the newsformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "say that you are pleased about some news",
+                                "examples": [
+                                    "Environmental groups welcomed the news that the area would be protected."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "greet the news with surprise/delight etcformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "react to the news in a particular way",
+                                "examples": [
+                                    "Fans greeted the news of the victory with a loud cheer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "news spreads",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a lot of people find out the news from other people",
+                                "examples": [
+                                    "News spreads fast in a small town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a piece of news",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa bit of newsBritish English",
+                                "examples": [
+                                    "Leo thought about this piece of news carefully."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the good news is …/the bad news is ...",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "used to introduce a piece of good and bad news",
+                                "examples": [
+                                    "The good news is that most stores have the game in stock; the bad news is that it's not cheap."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sb’s newswhat someone has been doing recently",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Sit down and tell me all your news."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "news that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We are delighted at the news that our daughter is expecting a baby."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "news on",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What’s the latest news on your university application?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "news of/about",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Everyone is shocked by the news of the arrests."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -103,25 +446,25 @@
                         "region": "",
                         "definition": "spokenthe most recent news:tin mới nhất",
                         "examples": [
-                            "Have you heard the latest? Phil’s going out with Judy!",
-                            "the latest about/on",
-                            "Oh, I haven’t told you the latest about my car!",
-                            "What’s the latest on the election?"
+                            "Have you heard the latest? Phil’s going out with Judy!"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the latest about/on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Oh, I haven’t told you the latest about my car!",
+                                    "What’s the latest on the election?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -140,25 +483,24 @@
                         "definition": "the most recent changes in an important situation - used especially in news programmes on television or radio:diễn biến",
                         "examples": [
                             "The President said today that he was watching developments in Asia with great interest.",
-                            "There are no new developments to report at this stage.",
-                            "further developmentsmore developments",
-                            "We’ll be keeping you informed of any further developments throughout the day.",
-                            ""
+                            "There are no new developments to report at this stage."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "further developmentsmore developments",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "We’ll be keeping you informed of any further developments throughout the day."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -191,24 +533,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "a meeting held by a person or group at which they answer questions from people who write or present news reports : cuộc họp báo",
-                        "examples": [
-                            "hold a press conference",
-                            "The Green Party held a press conference the next day."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "hold a press conference",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The Green Party held a press conference the next day."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -227,24 +568,24 @@
                         "definition": "a meeting at which someone, especially someone famous or important, speaks to people who work for newspapers or news programmes: cuộc họp báo",
                         "examples": [
                             "The chairman told a news conference that some members of staff would lose their jobs.",
-                            "Shecalleda news conference to give her side of the story.",
-                            "at/in a news conference",
-                            "At a news conference yesterday, the two men described their ordeal."
+                            "Shecalleda news conference to give her side of the story."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "at/in a news conference",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "At a news conference yesterday, the two men described their ordeal."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -299,23 +640,7 @@
                             "We’ve got thenews headlinescoming up at half past twelve."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -328,25 +653,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "the important points of the news, printed in big letters on the front page of a newspaper or read at the beginning of a news broadcast: những tin chính",
-                        "examples": [
-                            "the eight o'clock headlines",
-                            "I just have time to glance at the headlines before I leave for work.",
-                            "This is the six o'clock news. First, the headlines ..."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the eight o'clock headlines",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I just have time to glance at the headlines before I leave for work.",
+                                    "This is the six o'clock news. First, the headlines ..."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -369,23 +693,7 @@
                             "All the shows started late because of the news bulletin about the bombing."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -404,23 +712,7 @@
                             "the latest update on the rescue effort"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -437,23 +729,7 @@
                             "Tonight’s top story: unemployment is at a 20 year low."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -493,23 +769,7 @@
                             "media reports of the food shortages"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -527,35 +787,194 @@
                             "a front-page story",
                             "story about/on",
                             "There have been a lot of stories in the papers recently about contaminated food.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a headline-grabbing story",
-                            "a big story(= a report about something important )He had promised the newspaper a big story on a major celebrity.",
-                            "the lead/top story(= the most important story in a newspaper or news programme )The floods were the lead story on the news that evening.",
-                            "a front-page storyThe Times published a front-page story about the scandal.",
-                            "a cover story(= the main story in a magazine, mentioned on the cover )Hello magazine did a cover story on her last year.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "do a story(= write and then print or broadcast it )I went to Iraq to do a story on the war.",
-                            "print/publish a storyThe News of the World decided not to print the story.",
-                            "run a story(= print it or broadcast it )There wasn't enough definite information to run the story.",
-                            "cover a story(= report on it )Her family complained about the way that journalists had covered the story.",
-                            "break a story(= report on it for the first time )The Daily Mail was the paper which broke the story.",
-                            "leak a story(= secretly tell a reporter about it )We may never know who leaked the story to the press.",
-                            "a story breaks(= it is reported for the first time )I still remember the shock when that story broke."
+                            "a headline-grabbing story"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a big story",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a report about something important",
+                                "examples": [
+                                    "He had promised the newspaper a big story on a major celebrity."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the lead/top story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the most important story in a newspaper or news programme",
+                                "examples": [
+                                    "The floods were the lead story on the news that evening."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a front-page story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The Times published a front-page story about the scandal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cover story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the main story in a magazine, mentioned on the cover",
+                                "examples": [
+                                    "Hello magazine did a cover story on her last year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "do a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "write and then print or broadcast it",
+                                "examples": [
+                                    "I went to Iraq to do a story on the war."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "print/publish a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The News of the World decided not to print the story."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "run a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "print it or broadcast it",
+                                "examples": [
+                                    "There wasn't enough definite information to run the story."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cover a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "report on it",
+                                "examples": [
+                                    "Her family complained about the way that journalists had covered the story."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "break a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "report on it for the first time",
+                                "examples": [
+                                    "The Daily Mail was the paper which broke the story."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "leak a story",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "secretly tell a reporter about it",
+                                "examples": [
+                                    "We may never know who leaked the story to the press."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a story breaks",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it is reported for the first time",
+                                "examples": [
+                                    "I still remember the shock when that story broke."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -573,22 +992,51 @@
                         "region": "",
                         "definition": "a short report that is part of a news programme or newspaper, magazine etc: mục tin, mẩu tin,",
                         "examples": [
-                            "The next item will be of special interest to viewers who are dog-owners.",
-                            "news item",
-                            "The news item announcing the verdict was much smaller than the item that announced his arrest.",
-                            "item on/about",
-                            "There’s an item about the robbery on page seven.",
-                            "I turned the page, and saw a small item about Muhammad Ali"
+                            "The next item will be of special interest to viewers who are dog-owners."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "news item",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The news item announcing the verdict was much smaller than the item that announced his arrest."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "item on/about",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There’s an item about the robbery on page seven."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "I turned the page, and saw a small item about Muhammad Ali",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -612,18 +1060,17 @@
                         "definition": "an important or exciting news story that is printed in one newspaper or shown on one television station before any of the others know about it : tin xốt dẻo",
                         "examples": [
                             "It was his first major scoop and he promised not to reveal the source of his information.",
-                            "The paper managed to secure a major scoop and broke the scandal to the world.",
-                            "a journalist looking for a scoop"
+                            "The paper managed to secure a major scoop and broke the scandal to the world."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a journalist looking for a scoop",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -646,29 +1093,43 @@
                         "region": "",
                         "definition": "an important or surprising piece of news that is printed in only one newspaper or broadcast by only one news programme, especially because sb has let them use the information before anyone else: tin độc quyền",
                         "examples": [
-                            "a New York Post exclusive about the Kennedy marriage",
-                            "Michael Jackson has promised the network an exclusive.",
-                            "We have exclusives that you won’t find on other networks.",
-                            "world exclusivesth that has never been reported anywhere before",
-                            "The newspaper has a reputation for good reporting and world exclusives.",
                             "exclusive[attri] độc quyền",
-                            "At the end of the programme we have an exclusive interview with Senator Goldwater.",
-                            ""
+                            "At the end of the programme we have an exclusive interview with Senator Goldwater."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a New York Post exclusive about the Kennedy marriage",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Michael Jackson has promised the network an exclusive.",
+                                    "We have exclusives that you won’t find on other networks."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "world exclusivesth that has never been reported anywhere before",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The newspaper has a reputation for good reporting and world exclusives."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -704,12 +1165,6 @@
                         "examples": [
                             "The company is running a series of advertisements in national newspapers.",
                             "Channel 4 is running a series on the unfairness of the legal system.",
-                            "run a storyif a newspaper or news programmeruns a story,it reports a particular event, especially sth that people did not previously know about:đưa tin",
-                            "The Editor decided not to run the story until all the facts were known.",
-                            "USA Today did not run the story until Ashe had made his announcement.",
-                            "All the newspapers ran (= printed) stories about the new peace talks.",
-                            "A local TV station ran her story.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "run[I] C1 if a program runs on television, it is shown. If a story runs in a newspaper or magazine, it is printed : được đưa tin",
                             "The series ran for 20 episodes and was extremely popular.",
                             "Conan Doyle’s stories ran in ‘The Strand’ magazine."
@@ -718,16 +1173,21 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "run a storyif a newspaper or news programmeruns a story,it reports a particular event, especially sth that people did not previously know about:đưa tin",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The Editor decided not to run the story until all the facts were known.",
+                                    "USA Today did not run the story until Ashe had made his announcement.",
+                                    "All the newspapers ran (= printed) stories about the new peace talks.",
+                                    "A local TV station ran her story."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -747,31 +1207,76 @@
                         "examples": [
                             "This is Gavin Williams, reporting from the United Nations in New York.",
                             "We aim to report the news as fairly as possible.",
-                            "The incident was widely reported in the national press.",
-                            "report on",
-                            "The Times sent her to Bangladesh to report on the floods.",
-                            "report that",
-                            "Journalists in Cairo reported that seven people had been shot.",
-                            "report doing sth",
-                            "Witnesses reported seeing three people flee the scene.",
-                            "be reported to be/have done sthreported in a newspaper or news programme",
-                            "He was reliably reported to be drunk at the White House reception.",
-                            "She is reported to have thrown a glass of wine at her former boss."
+                            "The incident was widely reported in the national press."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "report on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The Times sent her to Bangladesh to report on the floods."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "report that",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Journalists in Cairo reported that seven people had been shot."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "report doing sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Witnesses reported seeing three people flee the scene."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "be reported to be/have done sthreported in a newspaper or news programme",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was reliably reported to be drunk at the White House reception.",
+                                    "She is reported to have thrown a glass of wine at her former boss."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -792,23 +1297,7 @@
                             "This morning's newspapers all carry the same story on their front page."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -822,24 +1311,24 @@
                         "region": "",
                         "definition": "to report the details of an event or a series of events for a newspaper or news programme: đưa tin",
                         "examples": [
-                            "He was sent to Northern Ireland to cover the peace talks.",
-                            "a magazine covering women’s issues",
-                            "She's covering the American election for BBC television."
+                            "He was sent to Northern Ireland to cover the peace talks."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a magazine covering women’s issues",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "She's covering the American election for BBC television."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -877,23 +1366,7 @@
                             "At that time, events in Chile were very much in the news."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -909,18 +1382,17 @@
                         "examples": [
                             "Twenty years ago, environmental issues rarely made the news.",
                             "The hoax made national news, and people were talking about it for weeks afterwards.",
-                            "You made the news recently when you rescued a young boy from drowning -- can you tell us a bit about that?",
-                            "Twenty years ago environmental issues rarely made the news"
+                            "You made the news recently when you rescued a young boy from drowning -- can you tell us a bit about that?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Twenty years ago environmental issues rarely made the news",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -948,23 +1420,7 @@
                             "Larson’s handling of the case made national headlines last year."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -997,23 +1453,7 @@
                             "the news/sports desk"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1028,23 +1468,7 @@
                         "definition": "in a parliament or other place where laws are made, the upper part of a room where reporters sit to watch what is happening below : khu vực dành cho báo chí",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1059,23 +1483,7 @@
                         "definition": "the office in a newspaper or broadcasting company where news is received and news reports are written : phòng biên tập tin tức",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1105,23 +1513,7 @@
                         "definition": "the UK informala period in the summer when newspapers print stories that are not very serious because there is not much political news : giai đoạn báo chí thiếu tin, đăng chuyện dớ dẩn",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1136,23 +1528,7 @@
                         "definition": "a public statement given to the press to publish if they wish : thông cáo báo chí",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1175,23 +1551,7 @@
                             "Leach had no difficulty getting press coverage for his stunts."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1221,18 +1581,17 @@
                         "region": "",
                         "definition": "important or interesting enough to be reported in newspapers, on the radio, or on television :",
                         "examples": [
-                            "Nothing newsworthy ever happens around here. It's so boring.",
-                            "newsworthy events"
+                            "Nothing newsworthy ever happens around here. It's so boring."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "newsworthy events",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",

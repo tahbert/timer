@@ -42,23 +42,7 @@
                             "a bank or similar organization which gives mortgages to people, especially so that they can buy a house or apartment"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -75,30 +59,13 @@
                             "quyền sởhữu( bất động sảnhợp pháp)",
                             "legal ownership and control of a building or piece of land for an unlimited time",
                             "_Who owns the freeholdof/onthe property?",
-                            "",
                             "freeholdadjective đã có người sở hữu",
                             "_Are those flats freehold or leasehold?",
                             "freeholdernoun[ C ] người sở hữu( bất động sảnhợp pháp)",
                             "an owner of a particular building or piece of land"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -115,41 +82,214 @@
                             "They’vetaken outa 30-yearmortgage(= they will pay for their house over a period of 30 years ).",
                             "We decided to use Fred’s redundancy money topay offthemortgage(= pay back all the money we borrowed for a mortgage ).",
                             "Mortgage ratesare set to rise again in the spring.",
-                            "She was having trouble meeting hermortgage payments.",
-                            "2a large amount of money that someone borrows from a bank or company to buy a house : khoản vay thế chấp",
-                            "Nick told me the mortgage on his apartment is worth about $90,000.",
-                            "Anyonetaking outamortgageshould be aware that interest rates can go up at any time.",
-                            "It took my parents nearly thirty years topay offtheirmortgage.",
-                            "If you earn £20,000 per year, then you may be able to get a mortgage of £60,000.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a mortgageThey have a mortgage on a small house in North London.",
-                            "take out a mortgage(= borrow money to buy a house )We took out a 25-year mortgage.",
-                            "get a mortgageWe couldn't get a mortgage.",
-                            "pay/repay a mortgageIf I lose my job, we won't be able to pay the mortgage.",
-                            "pay off a mortgage(= finish paying all the money you owe )They paid off their mortgage five years early.",
-                            "fall/get behind with the mortgage(= be unable to pay enough money each month )He fell behind with the mortgage when he lost his job.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "big/highThey both need to work full-time because their mortage is so big.",
-                            "cheap(= with a low interest rate )Homebuyers are eager to take advantage of the cheap mortgages on offer.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a mortgage paymentIf interest rates go down, your mortgage payments will fall.",
-                            "the mortgage rate(= the rate of interest you will pay on a mortgage )You need to shop around for a good mortgage rate.",
-                            "a mortgage lender(= a bank that provides mortgages )Nearly all mortgage lenders plan to raise their interest rates."
+                            "She was having trouble meeting hermortgage payments."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a mortgage",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They have a mortgage on a small house in North London."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take out a mortgage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "borrow money to buy a house",
+                                "examples": [
+                                    "We took out a 25-year mortgage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get a mortgage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We couldn't get a mortgage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pay/repay a mortgage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If I lose my job, we won't be able to pay the mortgage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "pay off a mortgage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "finish paying all the money you owe",
+                                "examples": [
+                                    "They paid off their mortgage five years early."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "fall/get behind with the mortgage",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "be unable to pay enough money each month",
+                                "examples": [
+                                    "He fell behind with the mortgage when he lost his job."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "big/high",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They both need to work full-time because their mortage is so big."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "cheap",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "with a low interest rate",
+                                "examples": [
+                                    "Homebuyers are eager to take advantage of the cheap mortgages on offer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mortgage payment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "If interest rates go down, your mortgage payments will fall."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the mortgage rate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the rate of interest you will pay on a mortgage",
+                                "examples": [
+                                    "You need to shop around for a good mortgage rate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a mortgage lender",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a bank that provides mortgages",
+                                "examples": [
+                                    "Nearly all mortgage lenders plan to raise their interest rates."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "2a large amount of money that someone borrows from a bank or company to buy a house : khoản vay thế chấp",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Nick told me the mortgage on his apartment is worth about $90,000.",
+                                    "Anyonetaking outamortgageshould be aware that interest rates can go up at any time.",
+                                    "It took my parents nearly thirty years topay offtheirmortgage.",
+                                    "If you earn £20,000 per year, then you may be able to get a mortgage of £60,000."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -161,30 +301,28 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "usage": "",
                         "region": "",
                         "definition": "ra giá",
-                        "examples": [
-                            "to state that you would like to buy something, especially a house, at a particular price",
-                            "_They were asking one hundred and eighty thousand for the place, so I put in an offer of one hundred and seventy.",
-                            "_I've made an offerona house in the town centre.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to state that you would like to buy something, especially a house, at a particular price",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_They were asking one hundred and eighty thousand for the place, so I put in an offer of one hundred and seventy.",
+                                    "_I've made an offerona house in the town centre."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -201,24 +339,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "verbcầm cố; thế chấp",
-                        "examples": [
-                            "to borrow money to buy a house or apartment",
-                            "_The house was mortgagedup to the hilt(= The full value of the house had been borrowed) ."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to borrow money to buy a house or apartment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The house was mortgagedup to the hilt(= The full value of the house had been borrowed) ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -239,23 +376,7 @@
                             "an area of land that someone owns or rents"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -263,29 +384,28 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ I or T ]",
                         "usage": "",
                         "region": "",
                         "definition": "verbtái thế chấp; tái cầm cố",
-                        "examples": [
-                            "to arrange a secondmortgage(= an agreement with a bankor similar organization in which you borrow money to buy property)or increase the first mortgage, especially in order to get more money",
-                            "_Robin decided to remortgage his house to pay off his debts."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to arrange a secondmortgage(= an agreement with a bankor similar organization in which you borrow money to buy property)or increase the first mortgage, especially in order to get more money",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_Robin decided to remortgage his house to pay off his debts."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -306,23 +426,7 @@
                             "a person who is buying a house or an apartment"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -330,30 +434,28 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "usage": "",
                         "region": "",
                         "definition": "ra giá",
-                        "examples": [
-                            "to state that you would like to buy something, especially a house, at a particular price",
-                            "_They were asking one hundred and eighty thousand for the place, so I put in an offer of one hundred and seventy.",
-                            "_I've made an offerona house in the town centre.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "to state that you would like to buy something, especially a house, at a particular price",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_They were asking one hundred and eighty thousand for the place, so I put in an offer of one hundred and seventy.",
+                                    "_I've made an offerona house in the town centre."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -375,23 +477,7 @@
                             "money paid by the owner of a building or apartment to the person who owns the land on which it has been built"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -405,25 +491,24 @@
                         "definition": "available for sale",
                         "examples": [
                             "_Weputour house on the market as soon as house prices started to rise.",
-                            "_This is one of the best televisions on the market.",
-                            "_The pictures would sell for half a million on theopen",
-                            "market (= if offered for sale without a fixed price) .",
-                            ""
+                            "_This is one of the best televisions on the market."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "_The pictures would sell for half a million on theopen",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "market (= if offered for sale without a fixed price) ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -440,24 +525,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounchủ sởhữunhà",
-                        "examples": [
-                            "a person who owns their house or apartment",
-                            "_The new law will benefit many homeowners."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a person who owns their house or apartment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The new law will benefit many homeowners."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -469,32 +553,12 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "usage": "",
                         "region": "",
                         "definition": "nounLEGAL RIGHTquyền, yêu sách (nhất là đối với quyền sở hữu tài sản)",
-                        "examples": [
-                            "[ U ] the legal right to own a piece of land or a building",
-                            "_If you wish to sell the property, you will first have to prove your titletoit."
-                        ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -502,7 +566,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "usage": "",
                         "region": "",
                         "definition": "UK đãcó người trả giá",
@@ -510,23 +574,7 @@
                             "If a house is under offer, someone has already suggested a particular price at which theywould be willing to buy it."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -543,23 +591,7 @@
                             "a person who wishes to buy, or is buying a house or other form of place to live in"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -576,23 +608,7 @@
                             "a business that arranges the selling, renting or management of homes, land and buildings for their owners"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -606,27 +622,10 @@
                         "region": "",
                         "definition": "nounchủ hộ( có thể là chủ sở hữu hay chỉ là quản lý ngôi nhà )",
                         "examples": [
-                            "the person who owns or is in charge of a house",
-                            ""
+                            "the person who owns or is in charge of a house"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -643,37 +642,194 @@
                             "Property priceshave shot up recently.",
                             "theproperty market",
                             "a sign saying ‘Private Property. Keep Out.’",
-                            "property taxes",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "buy/sell (a) propertyBuying a property is a complicated business.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "detachedespecially British English(= not joined to another house )It is a modern detached property with five bedrooms.",
-                            "semi-detachedBritish English(= joined to one other house )This semi-detached property is located in one of the most sought-after areas of the town.",
-                            "a three-bedroom/four-bedroom etc propertyFour-bedroom properties are usually ideal for families.",
-                            "a desirable propertyIt is a desirable property with a south-facing garden.",
-                            "commercial property(= buildings used by businesses )The bombs caused damage to commercial property.",
-                            "residential property(= buildings that people live in )The site proposed for the factory is too near to residential property.",
-                            "private propertyThe land on the other side of the gate is private property.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "property pricesProperty prices are much lower here than in London.",
-                            "the property marketThere were no signs of an upturn in the property market.",
-                            "a property ownerIt makes sense for property owners to extend their houses rather than move.",
-                            ""
+                            "property taxes"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "buy/sell",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a",
+                                "examples": [
+                                    "propertyBuying a property is a complicated business."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "detachedespecially British English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "not joined to another house",
+                                "examples": [
+                                    "It is a modern detached property with five bedrooms."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "semi-detachedBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "joined to one other house",
+                                "examples": [
+                                    "This semi-detached property is located in one of the most sought-after areas of the town."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a three-bedroom/four-bedroom etc property",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Four-bedroom properties are usually ideal for families."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a desirable property",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It is a desirable property with a south-facing garden."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "commercial property",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "buildings used by businesses",
+                                "examples": [
+                                    "The bombs caused damage to commercial property."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "residential property",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "buildings that people live in",
+                                "examples": [
+                                    "The site proposed for the factory is too near to residential property."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "private property",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The land on the other side of the gate is private property."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "property prices",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Property prices are much lower here than in London."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the property market",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There were no signs of an upturn in the property market."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a property owner",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It makes sense for property owners to extend their houses rather than move."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -685,29 +841,28 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ C ]",
                         "usage": "",
                         "region": "",
                         "definition": "nounchủsởhữunhà",
-                        "examples": [
-                            "a person who owns their house or apartment",
-                            "_The new law will benefit many homeowners."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a person who owns their house or apartment",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_The new law will benefit many homeowners."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -719,7 +874,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ C usually plural ]",
                         "usage": "",
                         "region": "",
@@ -728,23 +883,7 @@
                             "a document which states and proves a person's legal right to own a piece of land or a building"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -761,23 +900,7 @@
                             "someone who owns land, often a lot of land"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -794,23 +917,7 @@
                             "US forestate agent"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -823,24 +930,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounmainly USbất động sản",
-                        "examples": [
-                            "property in the form of land or buildings",
-                            "_We're going to buy a piece of real estate."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "property in the form of land or buildings",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_We're going to buy a piece of real estate."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -852,7 +958,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ C ]",
                         "usage": "",
                         "region": "",
@@ -861,23 +967,7 @@
                             "the person who owns or is in charge of a house"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -894,23 +984,7 @@
                             "_She was born into a wealthy landowningfamily."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -924,27 +998,10 @@
                         "region": "",
                         "definition": "nounngười quản lý nhà đất; nhân viên quản lý nhà đất",
                         "examples": [
-                            "US forestate agent",
-                            ""
+                            "US forestate agent"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -963,23 +1020,7 @@
                             "_a realty company"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -987,7 +1028,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[ C ]",
                         "usage": "",
                         "region": "",
@@ -996,23 +1037,7 @@
                             "someone who owns land, often a lot of land"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1037,23 +1062,7 @@
                             "liquid assets(= money or things that can easily be changed into money) tài sản có tình thanh khoản cao"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

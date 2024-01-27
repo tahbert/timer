@@ -42,23 +42,7 @@
                             "Our parents are pretty easy-going, and they don’t mind if we stay out late."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -74,27 +58,26 @@
                         "examples": [
                             "He doesn’t have the right personality to be an army officer, he’s too soft.",
                             "If you appear to be soft, people take advantage of you.",
-                            "soft on",
-                            "They accused the government of being too soft on crime.",
-                            "She thinks I'm too softonthe kids when they misbehave.",
-                            "No politician wants to seemsoft on crime.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "softly[adv] [B1]"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "soft on",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They accused the government of being too soft on crime.",
+                                    "She thinks I'm too softonthe kids when they misbehave.",
+                                    "No politician wants to seemsoft on crime."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -112,26 +95,41 @@
                         "region": "",
                         "definition": "not strict enough, especially through laziness or carelessness: lỏng lẻo, không chặt chẽ",
                         "examples": [
-                            "The report criticizes the lax security at many prisons.",
-                            "lax about",
-                            "I think the school has been too lax about bad behaviour in the past.",
-                            "----------------------------------------------------------------------------------------------------------------",
-                            "laxity[U noun] formal:She accused Henry of moral laxity."
+                            "The report criticizes the lax security at many prisons."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "laxity[",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "U noun] formal:She accused Henry of moral laxity."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lax about",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think the school has been too lax about bad behaviour in the past."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -168,28 +166,11 @@
                             "a tender look/ smile.",
                             "Her voice was tender and soft.",
                             "a slow, tender kiss",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "tenderly[adv]",
                             "tenderness[U noun]"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -203,34 +184,94 @@
                         "region": "",
                         "definition": "hiền lành, dịu dàng, hoà nhã; nhẹ nhàng",
                         "examples": [
-                            "kind and careful in the way you behave or do things, so that you do not hurt or damage anyone or anything",
-                            "My father was a professional boxer, but at home with the family he was always quiet and gentle.",
-                            "a sweet, gentle girl who wouldn’t hurt a fly",
-                            "Arthur was a very gentle, caring person.",
-                            "a gentle voice/ smile/ touch",
-                            "‘Where does it hurt?’ she asked in a gentle voice.",
-                            "gentle with",
-                            "Be gentle with the baby.",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "gently[adv]in a gentle way :",
                             "to smile/ laugh/ blow gently",
-                            "‘You go back to bed now,’ he said gently.",
                             "She kissed me gently on the cheek."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "‘",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "You go back to bed now,’ he said gently."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "kind and careful in the way you behave or do things, so that you do not hurt or damage anyone or anything",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "My father was a professional boxer, but at home with the family he was always quiet and gentle."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sweet, gentle girl who wouldn’t hurt a fly",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Arthur was a very gentle, caring person."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gentle voice/ smile/ touch",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "‘Where does it hurt?’ she asked in a gentle voice."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "gentle with",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Be gentle with the baby."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -250,27 +291,10 @@
                         "examples": [
                             "He has asoft heartbeneath that cold exterior.",
                             "a soft kiss",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "softly[adv] [B1]"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -286,23 +310,7 @@
                             "a soft-hearted woman"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -319,23 +327,7 @@
                             "a loyal and tenderhearted friend"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -372,30 +364,13 @@
                             "You can actually accomplish a lot more by gentlepersuasion.",
                             "After a littlegentle persuasion, she agreed to go back to her family.",
                             "Melt the butter over agentle heat(= low heat ).",
-                            "----------------------------------------------------------------------------------------------------------------",
                             "gently[adv]in a gentle way :",
                             "He lifted the baby gently out of its cot.",
                             "Gently cook the peppers for 10–15 minutes.",
                             "The road curved gently upwards."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

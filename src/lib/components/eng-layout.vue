@@ -279,39 +279,10 @@ const filters = computed(() => {
 
     findFiles(data.topics)
 
+    results.sort((a, b) => a.frequency.localeCompare(b.frequency))
+
     return results
 })
-
-// const filters = computed(() => {
-//     const results = [] as Array<EngSearchModel>
-
-//     const findFiles = (nodes: Array<EngTopicModel>) => {
-//         nodes.map((node) => {
-//             if (node.type === "folder") {
-//                 findFiles(node.children)
-//             } else {
-//                 const search = node.search?.find((el) =>
-//                     el.name.toLowerCase().includes(data.filterText)
-//                 )
-//                 if (search) {
-//                     results.push(
-//                         EngSearchModel.fromJson({
-//                             id: node.id,
-//                             name: search.name,
-//                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
-//                             path: node.path,
-//                             frequency: search.frequency,
-//                         })
-//                     )
-//                 }
-//             }
-//         })
-//     }
-
-//     findFiles(data.topics)
-
-//     return results
-// })
 
 // drawer
 // -----------------------------------------------------------------------------

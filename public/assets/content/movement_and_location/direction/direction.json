@@ -51,23 +51,7 @@
                             "The aircraft was almost ten miles off course."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -81,59 +65,386 @@
                         "region": "",
                         "definition": "the way sb/sth moves, faces, or is aimed : hướng",
                         "examples": [
-                            "Whichdirectiondid theygo in?",
-                            "in the right/wrong direction",
-                            "We’re going in the right direction now - I can see the main road up ahead.",
-                            "in the opposite direction",
-                            "Bill marched off angrily in the opposite direction.",
-                            "from opposite directions",
-                            "Tornadoes usually form when rising warm, moist air rotates, as winds from opposite directions collide.",
-                            "in the direction of sth",
-                            "The suspects were last seen heading in the direction of Miami.",
-                            "in sb’s direction",
-                            "Tony glanced in her direction and their eyes met.",
-                            "The girls pointedin the opposite direction.",
-                            "On seeing me, Mauricechanged directionand went along the wharf instead.",
-                            "As shots rang out, the crowd ran screamingin all directions.",
-                            "from the direction of sth",
-                            "There was a loud scream from the direction of the children’s pool.",
-                            "in a southerly/easterly etc direction",
-                            "Continue in a southerly direction until you reach the road.",
-                            "RegisterIn everyday English, people usually usewhich way ...?when asking where something is rather than using the noundirection:",
-                            "Whichdirectiondid they go in?➔Which waydid they go? | Whichdirectionis north?➔Which wayis north?",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "go in a directionI can give you a lift if you're going in my direction.",
-                            "move/head in a directionWe followed the other passengers heading in the direction of passport control.",
-                            "look/glance in a directionShe looked in the direction that Jeremy was pointing.",
-                            "face (in) a directionThe men were facing the direction from which they expected the attack.",
-                            "change direction(= start to go in a different direction )Suddenly the birds changed direction.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the right/wrong directionAre you sure this is the right direction for Shipton?",
-                            "the opposite directionThe car crashed into a truck that was coming in the opposite direction.",
-                            "a southerly/westerly etc directionA strong wind was blowing from an easterly direction.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "in each/every direction(alsoin all directions)At the top of the tower there are splendid views in every direction.",
-                            "in both directionsThe traffic in both directions on the motorway wasn't moving at all.",
-                            "in different directionsThey said goodbye and walked off in different directions.",
-                            "in the general direction of something(= approximately where something is )He pointed in the general direction of the village.",
-                            "in a clockwise/anticlockwise direction(= like or unlike the movement of the hands of a clock )All movement on a roundabout is in a clockwise direciton.",
-                            "a sense of direction(= the ability to judge which way you should be going )Do you have a good sense of direction?",
-                            "the direction of movement/travel/flow etcIt was hard work rowing against the direction of flow."
+                            "Whichdirectiondid theygo in?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go in a direction",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I can give you a lift if you're going in my direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "move/head in a direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We followed the other passengers heading in the direction of passport control."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "look/glance in a direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She looked in the direction that Jeremy was pointing."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "face",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in",
+                                "examples": [
+                                    "a directionThe men were facing the direction from which they expected the attack."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "change direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "start to go in a different direction",
+                                "examples": [
+                                    "Suddenly the birds changed direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the right/wrong direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Are you sure this is the right direction for Shipton?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the opposite direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The car crashed into a truck that was coming in the opposite direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a southerly/westerly etc direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A strong wind was blowing from an easterly direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in each/every direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoin all directions",
+                                "examples": [
+                                    "At the top of the tower there are splendid views in every direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in both directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The traffic in both directions on the motorway wasn't moving at all."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in different directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They said goodbye and walked off in different directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the general direction of something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "approximately where something is",
+                                "examples": [
+                                    "He pointed in the general direction of the village."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in a clockwise/anticlockwise direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "like or unlike the movement of the hands of a clock",
+                                "examples": [
+                                    "All movement on a roundabout is in a clockwise direciton."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sense of direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the ability to judge which way you should be going",
+                                "examples": [
+                                    "Do you have a good sense of direction?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the direction of movement/travel/flow etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It was hard work rowing against the direction of flow."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the right/wrong direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We’re going in the right direction now - I can see the main road up ahead."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the opposite direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Bill marched off angrily in the opposite direction."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "from opposite directions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Tornadoes usually form when rising warm, moist air rotates, as winds from opposite directions collide."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in the direction of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The suspects were last seen heading in the direction of Miami."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in sb’s direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Tony glanced in her direction and their eyes met.",
+                                    "The girls pointedin the opposite direction.",
+                                    "On seeing me, Mauricechanged directionand went along the wharf instead.",
+                                    "As shots rang out, the crowd ran screamingin all directions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "from the direction of sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There was a loud scream from the direction of the children’s pool."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "in a southerly/easterly etc direction",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Continue in a southerly direction until you reach the road.",
+                                    "RegisterIn everyday English, people usually usewhich way ...?when asking where something is rather than using the noundirection:",
+                                    "Whichdirectiondid they go in?➔Which waydid they go? | Whichdirectionis north?➔Which wayis north?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -156,25 +467,24 @@
                             "Which wayis north?",
                             "Walkthis way.",
                             "A big Mercedes was comingthe other way(= from the opposite direction ).",
-                            "He left the house, looking carefully both ways.",
-                            "the right/wrong way",
-                            "Are you sure we’re going the right way? I don’t remember seeing that church before.",
-                            ""
+                            "He left the house, looking carefully both ways."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the right/wrong way",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Are you sure we’re going the right way? I don’t remember seeing that church before."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -219,23 +529,7 @@
                             "a south-facing garden"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -254,23 +548,7 @@
                             "The cabin looks east, so we get the morning sun."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -297,23 +575,7 @@
                             "The riverside path leads visitors to a small chapel."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

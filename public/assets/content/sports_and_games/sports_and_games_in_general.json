@@ -48,23 +48,7 @@
                             "Olympian[ C ] mainly US a competitor in the Olympic Games"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -82,23 +66,7 @@
                             "Paralympian[C] sb who competes in the Paralympic Games"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -129,26 +97,41 @@
                         "definition": "to take part in a game or sport - use this especially about games in which you try to win against another person or team:tham gia ,chơi",
                         "examples": [
                             "Karl loves basketball and plays almost every weekend.",
-                            "Every Sunday we play Monopoly or some other board game.",
-                            "play in",
-                            "I’m playing in a tennis match this Sunday.",
-                            "play football/tennis/golf/baseball etc",
-                            "It’s been a long time since I played hockey."
+                            "Every Sunday we play Monopoly or some other board game."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "play in",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I’m playing in a tennis match this Sunday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "play football/tennis/golf/baseball etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It’s been a long time since I played hockey."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -165,25 +148,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "especiallyspokenuse this especially when talking about sports that arenotteamsports:",
-                        "examples": [
-                            "tập luyện, chơi (môn thể thao không phải đồng đội)",
-                            "I do aerobics twice a week.",
-                            "He used to do karate when he was in college."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "tập luyện, chơi (môn thể thao không phải đồng đội)",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I do aerobics twice a week.",
+                                    "He used to do karate when he was in college."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -200,25 +182,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "use this about sports whose names end in ‘-ing’:chơi , đi",
-                        "examples": [
-                            "go climbing/swimming/running/riding etc",
-                            "John goes running every morning.",
-                            "Make sure whoever you go climbing with is a safe and trustworthy partner."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "go climbing/swimming/running/riding etc",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "John goes running every morning.",
+                                    "Make sure whoever you go climbing with is a safe and trustworthy partner."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -255,28 +236,75 @@
                             "He picked up the newspaper and turned to the sports pages.",
                             "Why is there so much sport on TV?",
                             "I always hated sport at school.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "play sportUK/ play sportsespecially USMy ambition was to play sport at the highest level.",
-                            "Today’s kids need to spend less time watching television, and more time playing sports.",
-                            "do sportUK,do sportsUS I did a lot of sport at school.We don’t do much sport at my school.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "competitive sport(s)(= in which people compete and try to win)Competitive sport teaches valuable lessons which last for life.",
-                            "professional sport(s)(= which people are paid to do)The kind of money involved in professional sport makes cheating inevitable."
+                            "Today’s kids need to spend less time watching television, and more time playing sports."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "play sport",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "UK/ play sportsespecially USMy ambition was to play sport at the highest level."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "do sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "UK,do sportsUS I did a lot of sport at school.We don’t do much sport at my school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "competitive sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "s",
+                                "examples": [
+                                    "(= in which people compete and try to win)Competitive sport teaches valuable lessons which last for life."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "professional sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "s",
+                                "examples": [
+                                    "(= which people are paid to do)The kind of money involved in professional sport makes cheating inevitable."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -314,40 +342,215 @@
                             "Motorcycle racing can be a dangerous sport.",
                             "My favourite sports are tennis and swimming.",
                             "All students are encouraged to take part in a sport.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a team sportI liked playing team sports such as football and rugby.",
-                            "an individual sportYou have to be mentally tough to compete in individual sports.",
-                            "a spectator sport(= one that people enjoy watching )Football is the most popular spectator sport.",
-                            "a contact sport(= one in which players have physical contact with each other) môn thể thao đối khángPeople get hurt in contact sports, but they also have fun.",
-                            "an extreme sport(= one that is dangerous) môn thể thao nguy hiểmMany teenagers are attracted to extreme sports such as snowboarding.",
-                            "a winter sport(= skiing, ice skating etc )More and more people are taking up winter sports.",
-                            "a minority sport(= one that very few people do)Minority sports rarely feature on TV.",
                             "field sportsUKsports that happen in the countryside, such as hunting, shooting, and fishing:các môn thể thao ngoài trời",
                             "blood sport[C usually P] any sport that involves animals being killed or hurt to make the people watching or taking part feel excitement : môn thể thao đẫm máu",
                             "winter sportssports that are done on snow or ice : các môn thể thao mùa đông",
                             "water sportssports which take place on or in water các môn thể thao dưới nước",
-                            "Popular water sports include swimming, surfing and water-skiing.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "take up a sport(= start doing it)I took up the sport six years ago.",
-                            "compete in a sport(= do that sport in competitions)She competed in various sports when she was young.",
-                            "take part in a sportStudents are encouraged to take part in a sport of some kind.",
-                            "play a sportWhich sports do you play at school?",
-                            "do a sportI think everyone should do at least one sport, in order to keep fit."
+                            "Popular water sports include swimming, surfing and water-skiing."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a team sport",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I liked playing team sports such as football and rugby."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an individual sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You have to be mentally tough to compete in individual sports."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a spectator sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that people enjoy watching",
+                                "examples": [
+                                    "Football is the most popular spectator sport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a contact sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one in which players have physical contact with each other",
+                                "examples": [
+                                    "môn thể thao đối khángPeople get hurt in contact sports, but they also have fun."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an extreme sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is dangerous",
+                                "examples": [
+                                    "môn thể thao nguy hiểmMany teenagers are attracted to extreme sports such as snowboarding."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a winter sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "skiing, ice skating etc",
+                                "examples": [
+                                    "More and more people are taking up winter sports."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a minority sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that very few people do",
+                                "examples": [
+                                    "Minority sports rarely feature on TV."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take up a sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "start doing it",
+                                "examples": [
+                                    "I took up the sport six years ago."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "compete in a sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "do that sport in competitions",
+                                "examples": [
+                                    "She competed in various sports when she was young."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take part in a sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Students are encouraged to take part in a sport of some kind."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "play a sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Which sports do you play at school?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "do a sport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I think everyone should do at least one sport, in order to keep fit."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -371,43 +574,231 @@
                             "The game of golf was invented in Scotland.",
                             "Chadwick suggested that baseball evolved from the English game of rounders.",
                             "The children played a gameofcops and robbers.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "play a gameThey explained how to play the game.",
-                            "have a gameBritish English They were having a game of pool.",
                             "do/play games",
                             "The girls at King Edward’s play all sorts of games - basketball, hockey, tennis, to name just a few.",
                             "We used to love playing games like chess or backgammon.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a computer/video gameHe was up all night playing computer games.",
-                            "a card gameBridge is a card game for four people.",
                             "a board/ball gameboard games such as Monopoly and Scrabble",
-                            "a team gameI wasn't very good at team games when I was at school.",
-                            "a party gameWhat's your favourite party game?",
-                            "a league game(= played as part of a league competition)There's a big league game against Chelsea on Saturday.",
-                            "a cup game(= played as part of a cup competition)He hopes to play in the cup game on Wednesday.",
-                            "a playoff gameAmerican English(= one of a series of games played by the best teams in a competition to decide the final winner )This is the first of their five playoff games.",
-                            "a play-off gameBritish English(= played to decide the winner after a previous game ended with both teams having equal points )",
-                            "an indoor gameThere is a hall for indoor games and social functions.",
-                            "an outdoor gameOutdoor games are affected by the weather.",
                             "the national gamethe most popular game in a country",
-                            "In Wales, rugby is the national game.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the rules of the gameIt's against the rules of the game to pick up the ball."
+                            "In Wales, rugby is the national game."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "play a game",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
+                                "examples": [
+                                    "They explained how to play the game."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "have a game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "British English They were having a game of pool."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a computer/video game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was up all night playing computer games."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a card game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Bridge is a card game for four people."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a team game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I wasn't very good at team games when I was at school."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a party game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "What's your favourite party game?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a league game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "played as part of a league competition",
+                                "examples": [
+                                    "There's a big league game against Chelsea on Saturday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a cup game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "played as part of a cup competition",
+                                "examples": [
+                                    "He hopes to play in the cup game on Wednesday."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a playoff gameAmerican English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one of a series of games played by the best teams in a competition to decide the final winner",
+                                "examples": [
+                                    "This is the first of their five playoff games."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a play-off gameBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "played to decide the winner after a previous game ended with both teams having equal points",
                                 "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an indoor game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "There is a hall for indoor games and social functions."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an outdoor game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Outdoor games are affected by the weather."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the rules of the game",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "It's against the rules of the game to pick up the ball."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -442,27 +833,153 @@
                         "definition": "relating to sportthuộc thể thao",
                         "examples": [
                             "Here is a list of the sports clubs in your area.",
-                            "Heavy rain has flooded the sports field: all fixtures have been cancelled for a month.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a sports teamA lot of schools have their own sports teams.",
-                            "a sports clubShe joined her local sports club.",
-                            "a sports field/groundThe village has its own sports field.",
-                            "a sports eventIs this country able to stage a major sports event?",
-                            "a sports fan(= someone who enjoys watching sport )He was a big sports fan.",
-                            "a sports personality(= someone who is famous for playing sport )The event will be opened by a well-known sports personality.",
-                            "a sports injuryThe clinic specializes in treating sports injuries.",
-                            "sports facilitiesAll our holiday camps have wonderful sports facilities.",
-                            "sports equipmenta new online store selling all kinds of sports equipment"
+                            "Heavy rain has flooded the sports field: all fixtures have been cancelled for a month."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a sports team",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A lot of schools have their own sports teams."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports club",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She joined her local sports club."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports field/ground",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The village has its own sports field."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports event",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Is this country able to stage a major sports event?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports fan",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who enjoys watching sport",
+                                "examples": [
+                                    "He was a big sports fan."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports personality",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who is famous for playing sport",
+                                "examples": [
+                                    "The event will be opened by a well-known sports personality."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a sports injury",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The clinic specializes in treating sports injuries."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sports facilities",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All our holiday camps have wonderful sports facilities."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sports equipmenta new online store selling all kinds of sports equipment",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -497,23 +1014,7 @@
                             "a sporting goods store"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -546,23 +1047,7 @@
                             "Guy wasn't really the sporty type."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -579,23 +1064,7 @@
                             "a tall athletic man"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -624,25 +1093,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "skilful use of your feet when playing a sport",
-                        "examples": [
-                            "good/neat/fancy etc footwork",
-                            "The England keeper revealed some fancy footwork in the victory over Nottingham Forest.",
-                            "And that's a marvellous bit of footwork there from Ponti as he takes the ball from Garcia."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "good/neat/fancy etc footwork",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "The England keeper revealed some fancy footwork in the victory over Nottingham Forest.",
+                                    "And that's a marvellous bit of footwork there from Ponti as he takes the ball from Garcia."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -661,9 +1129,6 @@
                         "definition": "to change to a different team or to make sb do this: chuyển nhượng",
                         "examples": [
                             "He was transferred for a fee of £8 million.",
-                            "transfer to",
-                            "Some very high-profile British players have transferredtoclubs abroad.",
-                            "He threatened to give up football if his club didn't transfer him (= sell him to another team) .",
                             "transfer[C] a player who has moved from one sports team to another : cầu thủ mới chuyển nhượng",
                             "They've a new transferfromTottenham playing for them."
                         ],
@@ -671,16 +1136,19 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "transfer to",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Some very high-profile British players have transferredtoclubs abroad.",
+                                    "He threatened to give up football if his club didn't transfer him (= sell him to another team) ."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -697,24 +1165,23 @@
                         "usage": "",
                         "region": "",
                         "definition": "acting as one of the possible substitutes in a sports match : ngồi trên ghế dự bị",
-                        "examples": [
-                            "Robson will again be on the bench",
-                            "He was injured, and spent the last few weeks of the seasononthe bench."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "Robson will again be on the bench",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "He was injured, and spent the last few weeks of the seasononthe bench."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -735,23 +1202,7 @@
                             "The longer and faster your run-up is, the higher you can jump."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -784,23 +1235,7 @@
                             "Woodson received a penalty."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }

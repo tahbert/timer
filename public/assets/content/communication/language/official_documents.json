@@ -33,7 +33,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adj]",
                         "usage": "",
                         "region": "",
@@ -43,23 +43,7 @@
                             "This passport is invalid. Look at the expiry date."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -67,30 +51,30 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adjective/adverb phrase]",
                         "usage": "",
                         "region": "",
                         "definition": "/ˌaʊt əv ˈdeɪt/  a ticket, passport etc that is out of date cannot be used because the time during which it could be used has passed: hết hạn",
                         "examples": [
-                            "▪ Are you aware that your passport is out of date?",
-                            "days/months/years out of date hết hạn vài ngày, vài tháng, vài năm",
-                            "▪ He tried to get on the train using a pass that was months out of date."
+                            "▪ Are you aware that your passport is out of date?"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "days/months/years out of date hết hạn vài ngày, vài tháng, vài năm",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ He tried to get on the train using a pass that was months out of date."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -102,7 +86,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adjective phrase]",
                         "usage": "",
                         "region": "",
@@ -111,23 +95,7 @@
                             "▪ If the contract has not been signed by witnesses, it is considered null and void."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -156,47 +124,347 @@
                         "usage": "",
                         "region": "",
                         "definition": "information about something that is written down or stored on computer, film etc so that it can be looked at in the future: hồ sơ",
-                        "examples": [
-                            "record of",
-                            "I try to keep a record of everything I spend.",
-                            "According to official records, five people were killed last year near that road junction.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the records show sthOfficial records show that 44 businesses have stopped trading in the last 12 months.",
-                            "keep a recordTeachers keep a record of students’ progress.",
-                            "maintain a recordformal The directors are responsible for maintaining adequate accounting records.",
-                            "place/put something on record(= officially say something or write it down )I wish to put on record my objection to the scheme.",
-                            "access records(alsohave/gain access to records) (= be able to look at them )Every citizen has the right to access their medical records.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a written recordWhere written records do survive, they are incomplete.",
-                            "historical recordsUsing historical records, we have produced an image of the temple.",
-                            "official recordsThis has been the wettest winter since official records began.",
-                            "an accurate recordMany hospitals did not keep accurate records.",
-                            "a detailed recordEdwardian travellers left detailed records of their journeys.",
-                            "a proper recordFailure to maintain proper records would be a criminal offence.",
-                            "confidential recordsThey were transferring confidential student records onto computer.",
-                            "a permanent recordYou will have a permanent record of your work.",
-                            "medical/hospital/health etc recordsThe hospital could not find my mother’s medical records.|Patients’ hospital records are kept on a database.",
-                            "financial recordsThe company’s financial records must be up-to-date.",
-                            "public records(= records of births, deaths etc, that the public are allowed to look at )He found the information while examining public records.",
-                            "police recordsViolent assaults rose 39 percent, according to police records.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the biggest/highest etc on recordLast summer was one of the hottest on record.",
-                            "a matter of public recordformal(= something that has been written down so that anyone can know it )His salary is a matter of public record."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the records show sth",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Official records show that 44 businesses have stopped trading in the last 12 months."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "keep a record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Teachers keep a record of students’ progress."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "maintain a recordformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The directors are responsible for maintaining adequate accounting records."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "place/put something on record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "officially say something or write it down",
+                                "examples": [
+                                    "I wish to put on record my objection to the scheme."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "access records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsohave/gain access to records",
+                                "examples": [
+                                    "(= be able to look at them )Every citizen has the right to access their medical records."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a written record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Where written records do survive, they are incomplete."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "historical records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Using historical records, we have produced an image of the temple."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "official records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This has been the wettest winter since official records began."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an accurate record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Many hospitals did not keep accurate records."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a detailed record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Edwardian travellers left detailed records of their journeys."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a proper record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Failure to maintain proper records would be a criminal offence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "confidential records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They were transferring confidential student records onto computer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a permanent record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You will have a permanent record of your work."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "medical/hospital/health etc records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The hospital could not find my mother’s medical records.|Patients’ hospital records are kept on a database."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "financial records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The company’s financial records must be up-to-date."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "public records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "records of births, deaths etc, that the public are allowed to look at",
+                                "examples": [
+                                    "He found the information while examining public records."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "police records",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Violent assaults rose 39 percent, according to police records."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the biggest/highest etc on record",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Last summer was one of the hottest on record."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a matter of public recordformal",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "something that has been written down so that anyone can know it",
+                                "examples": [
+                                    "His salary is a matter of public record."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "record of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I try to keep a record of everything I spend.",
+                                    "According to official records, five people were killed last year near that road junction."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -218,23 +486,7 @@
                             "The Public Record Office is a central repository for all government archives."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -250,22 +502,51 @@
                         "examples": [
                             "Have you signed thehotel register?",
                             "Police want anational registerof DNA samples.",
-                            "Teachers were reminded that school attendance registers were actually legal documents.",
-                            "electoral registera list of the names and addresses of all the people who are old enough to votedanh sách bầu cử",
-                            "Why are there 1 million people missing from the electoral register?",
-                            "register of",
-                            "To find out about her family history, she looked through the register of births, marriages, and deaths.",
-                            "the official register of births, deaths, and marriages"
+                            "Teachers were reminded that school attendance registers were actually legal documents."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "electoral registera list of the names and addresses of all the people who are old enough to votedanh sách bầu cử",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Why are there 1 million people missing from the electoral register?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "register of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "To find out about her family history, she looked through the register of births, marriages, and deaths."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the official register of births, deaths, and marriages",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -288,24 +569,24 @@
                         "region": "",
                         "definition": "an official written record of something, especially a journey in a ship or plane: sổ lộ trình",
                         "examples": [
-                            "He complained to a senior officer, who made a note in the ship’s log.",
-                            "log of",
-                            "Alice had to write up a detailed log of the trip, complete with scientific data."
+                            "He complained to a senior officer, who made a note in the ship’s log."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "log of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Alice had to write up a detailed log of the trip, complete with scientific data."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -323,20 +604,34 @@
                         "region": "",
                         "definition": "a historical record in which events are recorded in the order in which they happened: biên niên sử",
                         "examples": [
-                            "Chronicles written by Roman scholars can give us a good idea of how their political system worked.",
-                            "chronicle of",
-                            "The report is a chronicle of the history of the Party since its formation.",
-                            "a chronicle of his life during the war years"
+                            "Chronicles written by Roman scholars can give us a good idea of how their political system worked."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "chronicle of",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The report is a chronicle of the history of the Party since its formation."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a chronicle of his life during the war years",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -375,30 +670,109 @@
                         "region": "",
                         "definition": "an official document that states that a fact or facts are true : giấy chứng nhận",
                         "examples": [
-                            "birth/death/marriage certificate(= giving details of someone’s birth, death, or marriage )",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a medical certificateYou can get a medical certificate that shows which vaccinations you've had.",
-                            "a birth certificateIn order to get a passport, you'll need your birth certificate.",
-                            "a marriage certificateHe found a copy of his parents' marriage certificate.",
-                            "a death certificateAccording to his death certificate, he died aged 44.",
-                            "a share certificate(= proving what shares someone owns )She kept official letters and share certificates in a locked case.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "issue a certificate(= officially provide one )The certificate will be issued upon payment of the fee."
+                            "birth/death/marriage certificate(= giving details of someone’s birth, death, or marriage )"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "a medical certificate",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "You can get a medical certificate that shows which vaccinations you've had."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a birth certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "In order to get a passport, you'll need your birth certificate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a marriage certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He found a copy of his parents' marriage certificate."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a death certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "According to his death certificate, he died aged 44."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a share certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "proving what shares someone owns",
+                                "examples": [
+                                    "She kept official letters and share certificates in a locked case."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "issue a certificate",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "officially provide one",
+                                "examples": [
+                                    "The certificate will be issued upon payment of the fee."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -425,23 +799,7 @@
                             "photo ID/ identification(an identity document that includes a photograph of the holder)"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -456,23 +814,7 @@
                         "definition": "/ identity cardB1 a card with your name, date of birth, and photograph on it, that proves who you are : thẻ căn cước",
                         "examples": [],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -486,40 +828,340 @@
                         "region": "",
                         "definition": "UK/licenseUS  an official document giving you permission to own or do sth for a period of time →permit:",
                         "examples": [
-                            "The dealers applied for an export licence.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a licenceCafé Metropole does not yet have a license to sell liquor.",
-                            "hold a licenceBritish English(= have a licence )Police said that the man did not hold a firearms licence.",
-                            "get/gain/obtain a licenceNew private pilots must fly for at least fifty hours before getting their licences.",
-                            "apply for a licenceA doctor who moves to another state must apply for a license to practice medicine there.",
-                            "grant/issue a licenceHe was granted his flying instructor’s licence.",
-                            "renew a licenceThe licence must be renewed yearly.",
-                            "lose your licenceThe police caught him driving while drunk and he will now lose his licence.",
-                            "a licence runs out(alsoa licence expiresformal) (= it ends )Her driver’s license had expired.",
-                            "take away sb’s licence(alsorevoke somebody's licenceformal)The doctor had his license revoked after he was found to be on drugs.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "types of licence",
-                            "a driving licenceBritish English,a driver's licenseAmerican English 80 percent of 18 year olds had a driver’s license.",
-                            "a pilot’s licenceShe became the youngest woman to hold a pilot’s licence.",
-                            "a television licenceBritish English(= which allows you to use your television and pays for public television programmes )Buying a television means you will need a television licence.",
-                            "a marriage licence(= a licence that allows two people to marry each other )We went to get a marriage licence.",
-                            "a fishing/hunting licence(= a licence that allows you to fish/hunt )He renewed his hunting license.",
-                            "an import/export licenceAn export licence was issued in August last year.",
-                            "a provisional licenceBritish English(= a temporary driving licence before you get your full licence )Learner drivers need to obtain a provisional licence.",
-                            "a full licence(= one that is not temporary and has no restrictions )They offer insurance cover for drivers over 25 and under 70 years of age with a full licence.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "the licence holderBritish English(= the person who has a licence )the licence holder of a public house",
-                            "a licence fee(= money you have to pay to get a licence )The BBC is funded by a licence fee which all television owners have to pay."
+                            "The dealers applied for an export licence."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a licence",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Café Metropole does not yet have a license to sell liquor."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "hold a licenceBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "have a licence",
+                                "examples": [
+                                    "Police said that the man did not hold a firearms licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get/gain/obtain a licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "New private pilots must fly for at least fifty hours before getting their licences."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "apply for a licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A doctor who moves to another state must apply for a license to practice medicine there."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grant/issue a licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He was granted his flying instructor’s licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renew a licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The licence must be renewed yearly."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "lose your licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The police caught him driving while drunk and he will now lose his licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a licence runs out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa licence expiresformal",
+                                "examples": [
+                                    "(= it ends )Her driver’s license had expired."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "take away sb’s licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsorevoke somebody's licenceformal",
+                                "examples": [
+                                    "The doctor had his license revoked after he was found to be on drugs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a driving licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "British English,a driver's licenseAmerican English 80 percent of 18 year olds had a driver’s license."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a pilot’s licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She became the youngest woman to hold a pilot’s licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a television licenceBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "which allows you to use your television and pays for public television programmes",
+                                "examples": [
+                                    "Buying a television means you will need a television licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a marriage licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a licence that allows two people to marry each other",
+                                "examples": [
+                                    "We went to get a marriage licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fishing/hunting licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a licence that allows you to fish/hunt",
+                                "examples": [
+                                    "He renewed his hunting license."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an import/export licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "An export licence was issued in August last year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a provisional licenceBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a temporary driving licence before you get your full licence",
+                                "examples": [
+                                    "Learner drivers need to obtain a provisional licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a full licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is not temporary and has no restrictions",
+                                "examples": [
+                                    "They offer insurance cover for drivers over 25 and under 70 years of age with a full licence."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the licence holderBritish English",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "the person who has a licence",
+                                "examples": [
+                                    "the licence holder of a public house"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a licence fee",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "money you have to pay to get a licence",
+                                "examples": [
+                                    "The BBC is funded by a licence fee which all television owners have to pay."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "types of licence",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
@@ -544,35 +1186,161 @@
                         "examples": [
                             "I have an Irish passport.",
                             "They need to check that your passport is in order.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have/hold a passportI have a Canadian passport.",
-                            "apply for a passportYou can apply for an Italian passport if your parents are Italian.",
-                            "get a passport(alsoobtain a passportformal)It took quite a long time to get a new passport.",
-                            "renew a passportI'd forgotten to renew my passport.",
-                            "travel on a passportThe men were convicted of travelling on a false passport.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a British/American etc passportShe was born in India but has a British passport.",
-                            "a valid passport(= one that is officially acceptable )For travel abroad, you must have a valid passport.",
-                            "a false/forged passport(alsoa fake passportinformal)He used a false passport to enter Kenya.",
-                            "---------------------------------------------------------------------------------------------------------------------",
                             "a passport photograph/photo",
-                            "a passport holder(= someone who has a passport )British passport holders must obtain a visa before entering the country.",
                             "a passport applicationthe processing of passport applications"
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have/hold a passport",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I have a Canadian passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "apply for a passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You can apply for an Italian passport if your parents are Italian."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get a passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoobtain a passportformal",
+                                "examples": [
+                                    "It took quite a long time to get a new passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "renew a passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I'd forgotten to renew my passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "travel on a passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The men were convicted of travelling on a false passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "British/American etc passportShe was born in India but has a British passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a valid passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "one that is officially acceptable",
+                                "examples": [
+                                    "For travel abroad, you must have a valid passport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a false/forged passport",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoa fake passportinformal",
+                                "examples": [
+                                    "He used a false passport to enter Kenya."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a passport holder",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "someone who has a passport",
+                                "examples": [
+                                    "British passport holders must obtain a visa before entering the country."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -590,41 +1358,262 @@
                         "region": "",
                         "definition": "an official document that allows you to do something or go somewhere : giấy phép",
                         "examples": [
-                            "She has managed to obtain a temporary residence permit.",
-                            "permit for",
-                            "A permit is required for fishing in the canal.",
-                            "permit to do sth",
-                            "Do you need a permittowork here?",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "have a permitDo you have a resident's parking permit?",
-                            "need/require a permitEU citizens no longer need a permit to work in the UK.",
-                            "get a permitYou have to get a special permit in order to visit the Saiq plateau.",
-                            "issue a permitUp to ten fishing permits are issued each day.",
-                            "obtain a permit(= more formal than 'get' )Hunters are required to obtain a permit.",
-                            "apply for a permitFarmers must apply for permits to use the new chemicals.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a work permitShe had problems getting a work permit for the States.",
-                            "a parking permitYou’ll need to apply for a residential parking permit.",
-                            "a travel permitPalestinians have to obtain a travel permit for travel between the West Bank and the Gaza Strip.",
-                            "a residence permit(alsoresidency permitespecially American English) (= one that allows you to live in a country )Residence permits will be limited to five years.",
-                            "an export permitAn export permit is required for the export of this timber.",
-                            "a gun permitMore than 300,000 civilians, in a country of 6 million, have gun permits.",
-                            "a fishing permitTo fish you’ll need a rod licence and a fishing permit."
+                            "She has managed to obtain a temporary residence permit."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "have a permit",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Do you have a resident's parking permit?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "need/require a permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "EU citizens no longer need a permit to work in the UK."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get a permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You have to get a special permit in order to visit the Saiq plateau."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "issue a permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Up to ten fishing permits are issued each day."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "obtain a permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "more formal than 'get'",
+                                "examples": [
+                                    "Hunters are required to obtain a permit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "apply for a permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Farmers must apply for permits to use the new chemicals."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a work permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She had problems getting a work permit for the States."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a parking permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "You’ll need to apply for a residential parking permit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a travel permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Palestinians have to obtain a travel permit for travel between the West Bank and the Gaza Strip."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a residence permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoresidency permitespecially American English",
+                                "examples": [
+                                    "(= one that allows you to live in a country )Residence permits will be limited to five years."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an export permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "An export permit is required for the export of this timber."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a gun permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "More than 300,000 civilians, in a country of 6 million, have gun permits."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a fishing permit",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "To fish you’ll need a rod licence and a fishing permit."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "permit for",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A permit is required for fishing in the canal."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "permit to do sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Do you need a permittowork here?"
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -657,26 +1646,25 @@
                         "usage": "",
                         "region": "",
                         "definition": "a paper or set of papers with written or printed information, especially of an official type : văn kiện, tài liệu",
-                        "examples": [
-                            "official/confidential/legaldocuments",
-                            "They are charged with usingforgeddocuments.",
-                            "Several secret documents went missing from the government’s Infomation department.",
-                            "Your birth certificate is an important document, which should be kept safe at all times."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "official/confidential/legaldocuments",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "A2",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "They are charged with usingforgeddocuments.",
+                                    "Several secret documents went missing from the government’s Infomation department.",
+                                    "Your birth certificate is an important document, which should be kept safe at all times."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -710,41 +1698,262 @@
                         "region": "",
                         "definition": "an official mark put on your passport that gives you permission to temporarily enter or leave a foreign country :",
                         "examples": [
-                            "I was still in New York, trying to get a visa to visit Russia.",
-                            "on a ... visa",
-                            "We travelled to Argentinaona tourist visa.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "apply for a visaI applied for a visa to visit China.",
-                            "get a visa(alsoobtain a visaformal)He was having difficulties getting a visa.",
-                            "give sb a visa(alsogrant somebody a visaformal)She has been granted a special visa.",
-                            "refuse/deny somebody a visaThe Lebanese embassy refused him a visa.",
-                            "somebody's visa expires/runs out(= it ends )I had 14 days to leave the country because my visa had expired.",
-                            "extend/renew somebody's visa(= allow a visa to apply to a longer time )He hoped that his visa might be extended.",
-                            "overstay your visa(= stay longer than you are allowed to )Two women in the group had overstayed their visas.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a tourist/travel/visitor's visaHe applied for a tourist visa.",
-                            "a work/student visaThey'd sent their daughter abroad on a student visa.",
-                            "an entry/exit visaAll foreigners need an entry visa.",
-                            "a transit visa(= a visa that allows you to pass through a particular country )Transit visas will be issued at the airport.",
-                            "a 14-day/six-month etc visaSpecial 10-day visas were issued to cover the time of the conference.",
-                            "---------------------------------------------------------------------------------------------------------------------",
-                            "a visa applicationU.S. immigration authorities have turned down their visa application.",
-                            "the visa requirementsCheck the visa requirements with your travel agent."
+                            "I was still in New York, trying to get a visa to visit Russia."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "apply for a visa",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "B1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "I applied for a visa to visit China."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get a visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsoobtain a visaformal",
+                                "examples": [
+                                    "He was having difficulties getting a visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "give sb a visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "alsogrant somebody a visaformal",
+                                "examples": [
+                                    "She has been granted a special visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "refuse/deny somebody a visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The Lebanese embassy refused him a visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "somebody's visa expires/runs out",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "it ends",
+                                "examples": [
+                                    "I had 14 days to leave the country because my visa had expired."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "extend/renew somebody's visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "allow a visa to apply to a longer time",
+                                "examples": [
+                                    "He hoped that his visa might be extended."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "overstay your visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "stay longer than you are allowed to",
+                                "examples": [
+                                    "Two women in the group had overstayed their visas."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a tourist/travel/visitor's visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He applied for a tourist visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a work/student visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They'd sent their daughter abroad on a student visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "an entry/exit visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "All foreigners need an entry visa."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a transit visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a visa that allows you to pass through a particular country",
+                                "examples": [
+                                    "Transit visas will be issued at the airport."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a 14-day/six-month etc visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Special 10-day visas were issued to cover the time of the conference."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a visa application",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "U.S. immigration authorities have turned down their visa application."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the visa requirements",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Check the visa requirements with your travel agent."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "on a ... visa",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We travelled to Argentinaona tourist visa."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -786,27 +1995,10 @@
                             "valid/ˈvæl.ɪd/adjective có giá trị; có hiệu lực; hợp lệ",
                             "A ticket or other document is valid if it is based on or used according to a set of official",
                             "conditions which often include a time limit",
-                            "_My passport is valid for another two years.",
-                            ""
+                            "_My passport is valid for another two years."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -823,23 +2015,7 @@
                             "Acceptable forms of ID include a current passport or a birth certificate."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -868,28 +2044,41 @@
                         "usage": "",
                         "region": "",
                         "definition": "especially UK/fine printUS all the rules and details relating to a contract or agreement : phần chữ in nhỏ",
-                        "examples": [
-                            "the small print/ fine print",
-                            "A close study of the small print will reveal that many of these insurance policies do not cover the cost of repairing storm damage.",
-                            "read/check the small print",
-                            "Always read the small print before you sign anything.",
-                            "I’m afraid you can’t cancel your contract now. You should have read the small print.",
-                            ""
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "the small print/ fine print",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "A close study of the small print will reveal that many of these insurance policies do not cover the cost of repairing storm damage."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "read/check the small print",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Always read the small print before you sign anything.",
+                                    "I’m afraid you can’t cancel your contract now. You should have read the small print."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -908,25 +2097,25 @@
                         "definition": "a small detail in a set of rules or a law, especially one on which a decision is based: các chi tiết nhỏ",
                         "examples": [
                             "The vote was declared invalid because of a technicality.",
-                            "The case against him had to be dropped because of a legal technicality.",
-                            "on a technicalitybecause of a technicality",
-                            "Baxter was released on a technicality because his ‘offence’ was committed in the city, and only a city judge had the authority to sign the warrant.",
-                            "The proposal was rejected on a technicality(= because of a technicality )."
+                            "The case against him had to be dropped because of a legal technicality."
                         ],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "on a technicalitybecause of a technicality",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "Baxter was released on a technicality because his ‘offence’ was committed in the city, and only a city judge had the authority to sign the warrant.",
+                                    "The proposal was rejected on a technicality(= because of a technicality )."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -959,25 +2148,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/ˈɑːʳtɪkəl/  one of the parts, usuallynumbered, of awrittenlaw or legal agreement:",
-                        "examples": [
-                            "điều lệ",
-                            "▪ Article 1 of the constitution guarantees freedom of religion.",
-                            "▪ The country signed the treaty but then violated each of its 143 articles."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "điều lệ",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Article 1 of the constitution guarantees freedom of religion.",
+                                    "▪ The country signed the treaty but then violated each of its 143 articles."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -994,25 +2182,24 @@
                         "usage": "",
                         "region": "",
                         "definition": "/klɔːz/  a part of awrittenlaw or legal document, concerning a particular point or idea:",
-                        "examples": [
-                            "điều khoản",
-                            "▪ I was told that this clause would be removed from the contract.",
-                            "▪ Courts ruled that prayer in school violates a clause of the First Amendment."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "điều khoản",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "D",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ I was told that this clause would be removed from the contract.",
+                                    "▪ Courts ruled that prayer in school violates a clause of the First Amendment."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -1051,23 +2238,7 @@
                             "a renewable passport/contract"
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1084,23 +2255,7 @@
                             "Foreign workers bringing dependents could obtain only one non-renewable two-year visa."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -1139,23 +2294,7 @@
                             "_[ + to infinitive ]They're the firm of architects whowonthe contracttodesign theNationalMuseumextension."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -1168,26 +2307,40 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounLAWShiến pháp",
-                        "examples": [
-                            "(a written document which forms) the set of political principles by which a state or organization is governed, especially in relation to the rights of the people it governs",
-                            "_Britain has nowrittenconstitution.",
-                            "_The ConstitutionoftheUnited States",
-                            "_Under(= As part of) the union constitution, a new committee must be elected each year."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "(a written document which forms) the set of political principles by which a state or organization is governed, especially in relation to the rights of the people it governs",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "C1",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "_Britain has nowrittenconstitution."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "_The ConstitutionoftheUnited States",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Under(= As part of) the union constitution, a new committee must be elected each year."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }

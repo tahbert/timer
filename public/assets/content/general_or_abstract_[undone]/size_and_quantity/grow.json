@@ -33,16 +33,12 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[intransitive verb]",
                         "usage": "",
                         "region": "",
                         "definition": "/dɪˈveləp/  if a child, plant, or animal develops, it gradually changes into the form it will have as an adult:",
                         "examples": [
-                            "phát triển",
-                            "▪ The baby develops very quickly during the first few weeks of pregnancy.",
-                            "develop into phát triển thành",
-                            "▪ In less that 12 weeks the chicks will develop into adult birds.",
                             "development [uncountable noun] sự phát triển",
                             "▪ All the children are weighed and measured regularly to check their development."
                         ],
@@ -50,16 +46,35 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "phát triển",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ The baby develops very quickly during the first few weeks of pregnancy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "develop into phát triển thành",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ In less that 12 weeks the chicks will develop into adult birds."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -71,23 +86,12 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[intransitive verb]",
                         "usage": "",
                         "region": "",
                         "definition": "/grəʊ/  to become bigger and more developed over a period of time:",
                         "examples": [
-                            "lớn lên, tăng trưởng, phát triển, trưởng thành",
-                            "▪ Tom has really grown since I last saw him.",
-                            "▪ The fish are kept in tanks until they have grown enough to be released into the river.",
-                            "grow one metre/two centimetres/six inches etc tăng trưởng 1 mét, 2 cm, 6 inch",
-                            "▪ Amy grew 6 inches last year.",
-                            "grow into lớn lên thành",
-                            "▪ Within a few years, these saplings will grow into tall trees.",
-                            "grow to ten inches/two metres/70 feet etc tăng trưởng đạt 10 inch, 2 mét, 70 feet",
-                            "▪ The Eastern White Pine often grows to 200 feet.",
-                            "grow to a height/length/width etc of tăng trưởng đạt tới một độ cao, độ lớn, độ rộng",
-                            "▪ Sunflowers can grow to a height of ten feet.",
                             "growth [uncountable noun] sư tăng trưởng",
                             "▪ A healthy diet is necessary for a child’s normal growth."
                         ],
@@ -95,16 +99,87 @@
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lớn lên, tăng trưởng, phát triển, trưởng thành",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Tom has really grown since I last saw him.",
+                                    "▪ The fish are kept in tanks until they have grown enough to be released into the river."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow one metre/two centimetres/six inches etc tăng trưởng 1 mét, 2 cm, 6 inch",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Amy grew 6 inches last year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow into lớn lên thành",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Within a few years, these saplings will grow into tall trees."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow to ten inches/two metres/70 feet etc tăng trưởng đạt 10 inch, 2 mét, 70 feet",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The Eastern White Pine often grows to 200 feet."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "grow to a height/length/width etc of tăng trưởng đạt tới một độ cao, độ lớn, độ rộng",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Sunflowers can grow to a height of ten feet."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -116,31 +191,45 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase]",
                         "usage": "",
                         "region": "",
                         "definition": "/ˌget ˈtɔːləʳ, ˈbɪgəʳ/  to grow and become taller, especially in ashortperiod of time:",
-                        "examples": [
-                            "lớn lên , cao lên",
-                            "▪ Eleanor’s getting bigger, isn’t she? I hardly recognised her.",
-                            "get bigger and bigger/ taller and taller ngày càng lớn, ngày càng cao",
-                            "▪ The grass got taller and taller over the summer."
-                        ],
+                        "examples": [],
                         "isEnabled": true,
                         "children": [
                             {
                                 "id": "",
-                                "name": "",
+                                "name": "lớn lên , cao lên",
                                 "order": 1,
                                 "icon": "",
                                 "header": "collocation",
-                                "frequency": "",
+                                "frequency": "U",
                                 "partOfSpeech": "",
                                 "usage": "",
                                 "region": "",
                                 "definition": "",
-                                "examples": [],
+                                "examples": [
+                                    "▪ Eleanor’s getting bigger, isn’t she? I hardly recognised her."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "get bigger and bigger/ taller and taller ngày càng lớn, ngày càng cao",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The grass got taller and taller over the summer."
+                                ],
                                 "isEnabled": true,
                                 "children": []
                             }
@@ -152,7 +241,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[intransitive phrasal verb]",
                         "usage": "",
                         "region": "",
@@ -162,23 +251,7 @@
                             "▪ In May the plants all start to shoot up."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -186,7 +259,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[intransitive phrasal verb]",
                         "usage": "",
                         "region": "",
@@ -196,23 +269,7 @@
                             "▪ The weeds keep coming up year after year."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -220,7 +277,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[verb phrase]",
                         "usage": "",
                         "region": "",
@@ -230,23 +287,7 @@
                             "▪ If the tumour is not removed, it will increase in size and may cause a blockage."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -254,7 +295,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[intransitive verb]",
                         "usage": "",
                         "region": "",
@@ -264,23 +305,7 @@
                             "▪ In the hot weather the fruit matured quickly."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             },
@@ -304,7 +329,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adjective]",
                         "usage": "",
                         "region": "",
@@ -315,23 +340,7 @@
                             "▪ The shrubs were transplanted fully grown from other parts of the country."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -339,7 +348,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adjective only before noun]",
                         "usage": "",
                         "region": "",
@@ -350,23 +359,7 @@
                             "▪ Soon the skin of the pupa splits open, and the fully-formed adult butterfly emerges."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     },
                     {
                         "id": "",
@@ -374,7 +367,7 @@
                         "order": 1,
                         "icon": "",
                         "header": "branch",
-                        "frequency": "",
+                        "frequency": "U",
                         "partOfSpeech": "[adjective]",
                         "usage": "",
                         "region": "",
@@ -384,23 +377,7 @@
                             "▪ A hen is a mature female chicken, more than ten months old."
                         ],
                         "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
+                        "children": []
                     }
                 ]
             }
