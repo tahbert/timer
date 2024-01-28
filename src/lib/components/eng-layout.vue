@@ -251,38 +251,90 @@ const filters = computed(() => {
     const results = [] as Array<EngSearchModel>
 
     const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
-        nodes.map((node) => {
+        nodes.forEach((node) => {
             const currentKeys = [...parentKeys, node.id] // Add current node's id to the keys
 
             if (node.type === "folder") {
                 findFiles(node.children, currentKeys)
             } else {
-                const search = node.search?.find((el) =>
+                const matchingSearchItems = node.search?.filter((el) =>
                     el.name.toLowerCase().includes(data.filterText)
                 )
 
-                if (search) {
-                    results.push(
-                        EngSearchModel.fromJson({
-                            id: node.id,
-                            name: search.name,
-                            topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
-                            path: node.path,
-                            frequency: search.frequency,
-                            keys: currentKeys, // Add keys property
-                        })
-                    )
+                if (matchingSearchItems && matchingSearchItems.length > 0) {
+                    matchingSearchItems.forEach((search) => {
+                        results.push(
+                            EngSearchModel.fromJson({
+                                id: node.id,
+                                name: search.name,
+                                topic: search.contentPath
+                                    .split("/", 2)
+                                    .join("/")
+                                    .replace("/", " → "),
+                                path: node.path,
+                                contentPath: search.contentPath,
+                                frequency: search.frequency,
+                                keys: currentKeys, // Add keys property
+                            })
+                        )
+                    })
                 }
             }
         })
     }
 
+    // Call the findFiles function with your data structure
     findFiles(data.topics)
 
-    results.sort((a, b) => a.frequency.localeCompare(b.frequency))
+    results.sort((a, b) => {
+        const frequencyComparison = a.frequency.localeCompare(b.frequency)
+        if (frequencyComparison === 0) {
+            return a.name.length - b.name.length
+        }
+
+        return frequencyComparison
+    })
 
     return results
 })
+
+// const filters = computed(() => {
+//     const results = [] as Array<EngSearchModel>
+
+//     const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
+//         nodes.map((node) => {
+//             const currentKeys = [...parentKeys, node.id] // Add current node's id to the keys
+
+//             if (node.type === "folder") {
+//                 findFiles(node.children, currentKeys)
+//             } else {
+//                 const search = node.search?.find((el) =>
+//                     el.name.toLowerCase().includes(data.filterText)
+//                 )
+
+//                 if (search) {
+//                     results.push(
+//                         EngSearchModel.fromJson({
+//                             id: node.id,
+//                             name: search.name,
+//                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
+//                             path: node.path,
+//                             contentPath: search.contentPath,
+//                             frequency: search.frequency,
+//                             keys: currentKeys, // Add keys property
+//                         })
+//                     )
+//                 }
+//             }
+//         })
+//     }
+
+//     findFiles(data.topics)
+
+//     results.sort((a, b) => a.frequency.localeCompare(b.frequency))
+
+//     return results
+// })
 
 // drawer
 // -----------------------------------------------------------------------------

@@ -6,6 +6,7 @@ interface Params {
     name: string
     topic: string
     path: string
+    contentPath: string
     frequency: string
     keys: Array<string>
 }
@@ -15,6 +16,7 @@ export class EngSearchModel {
     name: string
     topic: string
     path: string
+    contentPath: string
     frequency: string
     keys: Array<string>
 
@@ -23,6 +25,7 @@ export class EngSearchModel {
         this.name = params.name
         this.topic = params.topic
         this.path = params.path
+        this.contentPath = params.contentPath
         this.frequency = params.frequency
         this.keys = params.keys
     }
@@ -33,6 +36,7 @@ export class EngSearchModel {
             name: json?.name || "",
             topic: json?.topic || "",
             path: json?.path || "",
+            contentPath: json?.contentPath || "",
             frequency: json?.frequency || "",
             keys: json?.keys || ([] as Array<string>),
         })

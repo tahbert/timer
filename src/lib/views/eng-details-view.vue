@@ -182,33 +182,30 @@ const fetchData = async (url: string) => {
 }
 
 const initTree = () => {
-    // LATER: expand, highlight correct node,
-    const searchTerm = services.content.searchItem.name
-    console.log(searchTerm)
+    const contentPath = services.content.searchItem.contentPath
+    const levels = contentPath.split("/")
+    data.expandedKeys = [] // reset
 
     const root = services.content.list.find((el) => el.isRoot)
     if (root) {
         data.expandedKeys.push(root.id)
 
-        root.children.forEach((group) => {
-            const branch = group.children.find((branch) => branch.name === searchTerm)
+        const group = root.children.find((group) => group.name === levels[1])
+        if (group) {
+            data.expandedKeys.push(group.id)
+
+            const branch = group.children.find((branch) => branch.name === levels[2])
             if (branch) {
-                data.expandedKeys.push(group.id)
                 data.expandedKeys.push(branch.id)
                 data.selectedKey = branch.id
-                return
-            } else {
-                group.children.forEach((branch) => {
-                    const collocation = branch.children.find((col) => col.name === searchTerm)
-                    if (collocation) {
-                        data.expandedKeys.push(group.id)
-                        data.expandedKeys.push(branch.id)
-                        data.expandedKeys.push(collocation.id)
-                        data.selectedKey = collocation.id
-                    }
-                })
+
+                const col = branch.children.find((col) => col.name === levels[3])
+                if (col) {
+                    data.expandedKeys.push(col.id)
+                    data.selectedKey = col.id
+                }
             }
-        })
+        }
     }
 }
 
@@ -232,6 +229,15 @@ watch(
     (id) => {
         if (id) {
             fetchData(`/assets/content/${route.params.id}.json`)
+        }
+    }
+)
+
+watch(
+    () => services.content.searchItem.contentPath,
+    (contentPath) => {
+        if (contentPath) {
+            initTree()
         }
     }
 )

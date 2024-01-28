@@ -2,7 +2,11 @@
     "files": [],
     "compilerOptions": {
         "target": "es2021",
-        "lib": ["ES2021.String"]
+        "lib": ["ES2021.String"],
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["./src/*"]
+        }
     },
     "references": [
         {
