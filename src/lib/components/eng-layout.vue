@@ -158,7 +158,46 @@
                 v-model:selected="data.selectedKey"
                 v-model:expanded="data.expandedKeys"
                 @update:selected="onSelectedUpdate"
-            />
+                ><template v-slot:default-header="item">
+                    <div
+                        class="row items-center justify-between"
+                        style="width: 100%"
+                    >
+                        <div>
+                            <span>{{ item.node.displayName }}</span>
+                            <q-icon
+                                v-if="item.node.isVerified"
+                                name="fal fa-badge-check"
+                                size="xs"
+                                color="green-7"
+                            >
+                                <q-tooltip class="text-white bg-dark"
+                                    >This topic is verified</q-tooltip
+                                >
+                            </q-icon>
+                            <q-icon
+                                v-if="item.node.isSafe"
+                                name="fal fa-check-circle"
+                                size="xs"
+                                color="green-7"
+                                ><q-tooltip class="text-white bg-dark"
+                                    >This topic is safe to learn</q-tooltip
+                                >
+                            </q-icon>
+                        </div>
+                        <q-chip
+                            :label="item.node.count"
+                            color="grey-1"
+                            size="sm"
+                            dense
+                            square
+                            ><q-tooltip class="text-white bg-dark"
+                                >{{ item.node.count }} entris in this topics</q-tooltip
+                            ></q-chip
+                        >
+                    </div>
+                </template>
+            </q-tree>
         </q-drawer>
 
         <q-page-container>

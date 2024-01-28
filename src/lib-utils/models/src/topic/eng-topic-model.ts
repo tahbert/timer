@@ -8,6 +8,7 @@ interface Params {
     displayName?: string
     type: string
     order: number
+    count: number
     path: string
     isDone: boolean
     search?: Array<EngTopicSearchModel>
@@ -21,6 +22,7 @@ export class EngTopicModel {
     displayName?: string
     type: string
     order: number
+    count: number
     path: string
     isDone: boolean
     search?: Array<EngTopicSearchModel>
@@ -33,6 +35,7 @@ export class EngTopicModel {
         this.displayName = params.displayName
         this.type = params.type
         this.order = params.order
+        this.count = params.count
         this.path = params.path
         this.isDone = params.isDone
         this.search = params.search
@@ -47,10 +50,19 @@ export class EngTopicModel {
             displayName: json?.displayName || "",
             type: json?.type || "file",
             order: json?.order || 1,
+            count: json?.count || 0,
             path: json?.path || 1,
             isDone: json?.isDone || true,
             search: json?.search || ([] as Array<EngTopicSearchModel>),
             children: json?.children || ([] as Array<EngTopicModel>),
         })
+    }
+
+    public get isVerified() {
+        return this.name.includes("[verified]")
+    }
+
+    public get isSafe() {
+        return this.name.includes("[safe]")
     }
 }

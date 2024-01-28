@@ -185,7 +185,6 @@ const initTree = () => {
     const contentPath = services.content.searchItem.contentPath
     const levels = contentPath.split("\\")
     data.expandedKeys = [] // reset
-    console.log(levels)
 
     const root = services.content.list.find((el) => el.isRoot)
     if (root) {
