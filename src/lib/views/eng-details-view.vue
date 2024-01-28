@@ -183,8 +183,9 @@ const fetchData = async (url: string) => {
 
 const initTree = () => {
     const contentPath = services.content.searchItem.contentPath
-    const levels = contentPath.split("/")
+    const levels = contentPath.split("\\")
     data.expandedKeys = [] // reset
+    console.log(levels)
 
     const root = services.content.list.find((el) => el.isRoot)
     if (root) {
@@ -200,6 +201,7 @@ const initTree = () => {
                 data.selectedKey = branch.id
 
                 const col = branch.children.find((col) => col.name === levels[3])
+
                 if (col) {
                     data.expandedKeys.push(col.id)
                     data.selectedKey = col.id
