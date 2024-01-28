@@ -48,7 +48,7 @@
                         </template>
                         <template
                             v-slot:append
-                            v-if="filters.length !== 0 && filters.length < 1000"
+                            v-if="filters.length !== 0 && filters.length <= data.filterMax"
                         >
                             <q-chip
                                 :label="filters.length"
@@ -63,7 +63,7 @@
                         v-if="data.filterState"
                         fit
                     >
-                        <q-list v-if="filters.length > 0">
+                        <q-list v-if="filters.length > 0 && filters.length < data.filterMax">
                             <q-item
                                 v-for="(item, index) in filters"
                                 :key="index"
@@ -81,6 +81,16 @@
                                         dense
                                         square
                                 /></q-item-section>
+                            </q-item>
+                        </q-list>
+                        <q-list v-if="filters.length === data.filterMax">
+                            <q-item
+                                dense
+                                clickable
+                            >
+                                <q-item-section
+                                    >Too many items, please search more specific</q-item-section
+                                >
                             </q-item>
                         </q-list>
                         <q-list v-else>
@@ -199,6 +209,7 @@ const data = reactive({
 
     filterText: "",
     filterState: false,
+    filterMax: 1000,
 
     topics: [] as Array<EngTopicModel>,
     tempSelectedKey: "",
@@ -248,7 +259,8 @@ const onSearchOutsideClick = (event: Event) => {
 }
 
 const filters = computed(() => {
-    const results = [] as Array<EngSearchModel>
+    let results = [] as Array<EngSearchModel>
+    let resultsCount = 0
 
     const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
         nodes.forEach((node) => {
@@ -263,20 +275,26 @@ const filters = computed(() => {
 
                 if (matchingSearchItems && matchingSearchItems.length > 0) {
                     matchingSearchItems.forEach((search) => {
-                        results.push(
-                            EngSearchModel.fromJson({
-                                id: node.id,
-                                name: search.name,
-                                topic: search.contentPath
-                                    .split("/", 2)
-                                    .join("/")
-                                    .replace("/", " → "),
-                                path: node.path,
-                                contentPath: search.contentPath,
-                                frequency: search.frequency,
-                                keys: currentKeys, // Add keys property
-                            })
-                        )
+                        if (resultsCount < data.filterMax) {
+                            results.push(
+                                EngSearchModel.fromJson({
+                                    id: node.id,
+                                    name: search.name,
+                                    topic: search.contentPath
+                                        .split("/", 2)
+                                        .join("/")
+                                        .replace("/", " → "),
+                                    path: node.path,
+                                    contentPath: search.contentPath,
+                                    frequency: search.frequency,
+                                    keys: currentKeys, // Add keys property
+                                })
+                            )
+                            resultsCount++
+                        } else {
+                            // If the threshold is reached, break out of the loop
+                            return
+                        }
                     })
                 }
             }
@@ -284,7 +302,9 @@ const filters = computed(() => {
     }
 
     // Call the findFiles function with your data structure
-    findFiles(data.topics)
+    if (data.filterText.length > 0) {
+        findFiles(data.topics)
+    }
 
     results.sort((a, b) => {
         const frequencyComparison = a.frequency.localeCompare(b.frequency)
@@ -299,39 +319,58 @@ const filters = computed(() => {
 })
 
 // const filters = computed(() => {
-//     const results = [] as Array<EngSearchModel>
+//     let results = [] as Array<EngSearchModel>
 
 //     const findFiles = (nodes: Array<EngTopicModel>, parentKeys: Array<string> = []) => {
-//         nodes.map((node) => {
+//         nodes.forEach((node) => {
 //             const currentKeys = [...parentKeys, node.id] // Add current node's id to the keys
 
 //             if (node.type === "folder") {
 //                 findFiles(node.children, currentKeys)
 //             } else {
-//                 const search = node.search?.find((el) =>
+//                 const matchingSearchItems = node.search?.filter((el) =>
 //                     el.name.toLowerCase().includes(data.filterText)
 //                 )
 
-//                 if (search) {
-//                     results.push(
-//                         EngSearchModel.fromJson({
-//                             id: node.id,
-//                             name: search.name,
-//                             topic: node.name.replace(/\[.*?\]/g, "").replace(/_/g, " "),
-//                             path: node.path,
-//                             contentPath: search.contentPath,
-//                             frequency: search.frequency,
-//                             keys: currentKeys, // Add keys property
-//                         })
-//                     )
+//                 if (matchingSearchItems && matchingSearchItems.length > 0) {
+//                     matchingSearchItems.forEach((search) => {
+//                         results.push(
+//                             EngSearchModel.fromJson({
+//                                 id: node.id,
+//                                 name: search.name,
+//                                 topic: search.contentPath
+//                                     .split("/", 2)
+//                                     .join("/")
+//                                     .replace("/", " → "),
+//                                 path: node.path,
+//                                 contentPath: search.contentPath,
+//                                 frequency: search.frequency,
+//                                 keys: currentKeys, // Add keys property
+//                             })
+//                         )
+//                     })
 //                 }
+//             }
+
+//             if (results.length > 20) {
+//                 console.log(results.length)
 //             }
 //         })
 //     }
 
-//     findFiles(data.topics)
+//     // Call the findFiles function with your data structure
+//     if (data.filterText.length > 0) {
+//         findFiles(data.topics)
+//     }
 
-//     results.sort((a, b) => a.frequency.localeCompare(b.frequency))
+//     results.sort((a, b) => {
+//         const frequencyComparison = a.frequency.localeCompare(b.frequency)
+//         if (frequencyComparison === 0) {
+//             return a.name.length - b.name.length
+//         }
+
+//         return frequencyComparison
+//     })
 
 //     return results
 // })
