@@ -1,0 +1,179 @@
+[
+    {
+        "id": "",
+        "name": "borrowers and lenders",
+        "order": 1,
+        "icon": "",
+        "header": "root",
+        "frequency": "",
+        "partOfSpeech": "",
+        "usage": "",
+        "region": "",
+        "definition": "",
+        "examples": [],
+        "isEnabled": true,
+        "children": [
+            {
+                "id": "",
+                "name": "a person or organization that borrows money",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "borrower",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who has borrowed money and has not yet paid it all back →lender:",
+                        "examples": [
+                            "Most borrowers pay 7% interest.",
+                            "Building societies are encouraging new borrowers."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "debtor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a person, group, or organization that owes moneyOPP creditor :con nợ",
+                        "examples": [
+                            "▪ Some of the debtors cannot afford to pay these high interest rates.",
+                            "▪ Usually, both creditors and debtors are excluded from the sale."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a debtor company/country",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Debtor countries cannot develop to their full potential while continuing to pay off such massive foreign debts."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "a person or organization that lends money",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "lender",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a person or organization that lends money:",
+                        "examples": [
+                            "▪ Despite competition from the building societies, banks are still the biggest lenders in Britain.",
+                            "▪ Mexico has borrowed heavily from private banks, the World Bank, and other international lenders.",
+                            "▪ Newspaper ads can be helpful in finding the lender with the most favourable interest rates."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "mortgage/housing lenderan organization that lends people money to buy a house, flat etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Prudential is the fourth largest mortgage lender in the US."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "creditor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a person, bank, or company that you owe money toOPP debtor: chủ nợ",
+                        "examples": [
+                            "▪ The failed company is currently in talks with its creditors.",
+                            "▪ He died owing his creditors over $20 million.",
+                            "▪ When George inherited some money, the first thing he did was to pay his creditors.",
+                            "▪ The UN warned creditors to ease Brazil’s debt burden or see the country go bankrupt."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "loan-shark",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "informaldisapproving a person or small business that lends money, at extremely high interest rates : kẻ cho vay nặng lãi",
+                        "examples": [
+                            "His father killed himself after getting deeply in debt to a loan-shark.",
+                            "These loan-sharks target the vulnerable, the people who are least able to pay the money back."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

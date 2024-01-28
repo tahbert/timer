@@ -89,16 +89,16 @@
                                 clickable
                             >
                                 <q-item-section
-                                    >Too many items, please search more specific</q-item-section
+                                    >Too many entries, please search more specific</q-item-section
                                 >
                             </q-item>
                         </q-list>
-                        <q-list v-else>
+                        <q-list v-if="filters.length === 0">
                             <q-item
                                 dense
                                 clickable
                             >
-                                <q-item-section>No item found!</q-item-section>
+                                <q-item-section>No entry found!</q-item-section>
                             </q-item>
                         </q-list>
                     </q-card>
@@ -147,8 +147,9 @@
             :width="data.dragIndicator[0]"
         >
             <q-tree
+                v-if="!data.loading"
                 ref="treeRef"
-                :nodes="data.topics"
+                :nodes="services.topic.list"
                 node-key="id"
                 label-key="displayName"
                 accordion
@@ -198,6 +199,10 @@
                     </div>
                 </template>
             </q-tree>
+            <q-inner-loading
+                :showing="data.loading"
+                color="primary"
+            />
         </q-drawer>
 
         <q-page-container>
@@ -233,8 +238,8 @@ import {
     appRouteDefinitions,
     EngSearchModel,
     EngContentService,
+    EngTopicService,
 } from "@/lib-utils"
-import topics from "@/assets/json/topics.json"
 import frequency from "@/assets/json/frequency.json"
 
 const router = useRouter()
@@ -242,6 +247,7 @@ const treeRef = ref<InstanceType<typeof QTree>>()
 const search = ref<HTMLElement | null>(null)
 
 const data = reactive({
+    loading: false,
     isDrawerOpen: false,
     isDrawerDraging: false,
     dragIndicator: [500, 0],
@@ -250,7 +256,6 @@ const data = reactive({
     filterState: false,
     filterMax: 1000,
 
-    topics: [] as Array<EngTopicModel>,
     tempSelectedKey: "",
     selectedKey: "",
     expandedKeys: [] as Array<string>,
@@ -259,6 +264,7 @@ const data = reactive({
 })
 
 const services = reactive({
+    topic: EngTopicService.getInstance(),
     content: EngContentService.getInstance(),
 })
 
@@ -337,7 +343,7 @@ const filters = computed(() => {
     }
 
     if (data.filterText.length > 0) {
-        findFiles(data.topics)
+        findFiles(services.topic.list)
     }
 
     results.sort((a, b) => {
@@ -413,7 +419,7 @@ const onSelectedUpdate = (value: string) => {
         return { node: result }
     }
 
-    const { node: currentFile } = findCurrentFile(data.topics, data.selectedKey)
+    const { node: currentFile } = findCurrentFile(services.topic.list, data.selectedKey)
 
     if (currentFile?.type === "file") {
         router.push({
@@ -467,9 +473,22 @@ const buildTopics = (
     })
 }
 
+const fetchData = async (url: string) => {
+    data.loading = true
+    try {
+        const response = await fetch(url)
+        const json: Array<EngTopicModel> = await response.json()
+        services.topic.list = buildTopics(json)
+    } catch (error) {
+        console.log(error)
+    } finally {
+        data.loading = false
+    }
+}
+
 onMounted(() => {
-    data.topics = buildTopics(topics)
     data.frequency = frequency
+    fetchData(`/assets/topics/topics.json`)
     document.addEventListener("click", onSearchOutsideClick)
 })
 

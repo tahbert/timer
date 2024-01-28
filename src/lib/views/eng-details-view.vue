@@ -105,7 +105,7 @@
         </div>
         <q-inner-loading
             :showing="data.loading"
-            color="dark"
+            color="primary"
         />
     </q-page>
 </template>
@@ -183,6 +183,7 @@ const fetchData = async (url: string) => {
 
 const initTree = () => {
     const contentPath = services.content.searchItem.contentPath
+    data.isAllExpanded = false
     const levels = contentPath.split("\\")
     data.expandedKeys = [] // reset
 
