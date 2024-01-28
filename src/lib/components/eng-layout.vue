@@ -34,7 +34,7 @@
                         v-model="data.filterText"
                         dense
                         filled
-                        debounce="300"
+                        debounce="500"
                         clearable
                         @update:model-value="onSearchUpdate"
                         @focus="onSearchFocus"
