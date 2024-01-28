@@ -619,53 +619,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "the Ten Commandments",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "in the Bible, the rules of behaviour which God gave toIsraelthrough Moses: Mười điều răn",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "Epistle",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "one of the letters written to the early Christians by the apostles :thưgửi các tín hữu",
-                        "examples": [
-                            "St Paul's Epistle to the Romans"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "Mary",
                 "order": 1,
                 "icon": "",
@@ -737,6 +690,53 @@
                         "region": "",
                         "definition": "a name for the mother of Christ : Đức mẹ đồng trinh.",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "the Ten Commandments",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "in the Bible, the rules of behaviour which God gave toIsraelthrough Moses: Mười điều răn",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "Epistle",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "one of the letters written to the early Christians by the apostles :thưgửi các tín hữu",
+                        "examples": [
+                            "St Paul's Epistle to the Romans"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

@@ -559,7 +559,103 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "when chemicals slowly damage sth",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "corrode",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[intransitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/kəˈrəʊd/  if metal corrodes, it decays by becoming weak and changing its colour, especially because it has not been protected from the damaging effects of chemicals: bị ăn mòn",
+                        "examples": [
+                            "By the time they found the wreckage of the plane, it had already started to corrode."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "corrode",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if a chemical corrodes sth metal, it damages it and makes it gradually disappear or become weaker: ăn mòn",
+                        "examples": [
+                            "Salt corrodes metal.",
+                            "If the batteries leak, they can corrode the case of your flashlight.",
+                            "The pipework was badly corroded in places.",
+                            "corrosion[U] the gradual destruction of metal by the effect of water, chemicals etc or a substance such as rust produced by this process :",
+                            "The problem is how to protect the metal surface from corrosion.",
+                            "They are sprayed with oil to prevent corrosion.",
+                            "Check for signs of corrosion.",
+                            "The crash happened as a result of corrosion to the airplane’s fuselage.",
+                            "corrosive[adj]",
+                            "a bottle of corrosive acid",
+                            "That chemical is highly corrosive, so be careful."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "rust",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if sth made of iron rusts, it is gradually damaged by a chemical reaction with water and turns red-brown in colour: gỉ sét",
+                        "examples": [
+                            "The iron crosses that marked the graves had rusted badly over the years.",
+                            "rust[U]"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "rust away",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The underside of the car had virtually rusted away."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -794,23 +890,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "reaction",
@@ -829,102 +909,6 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "when chemicals slowly damage sth",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "corrode",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[intransitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/kəˈrəʊd/  if metal corrodes, it decays by becoming weak and changing its colour, especially because it has not been protected from the damaging effects of chemicals: bị ăn mòn",
-                        "examples": [
-                            "By the time they found the wreckage of the plane, it had already started to corrode."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "corrode",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if a chemical corrodes sth metal, it damages it and makes it gradually disappear or become weaker: ăn mòn",
-                        "examples": [
-                            "Salt corrodes metal.",
-                            "If the batteries leak, they can corrode the case of your flashlight.",
-                            "The pipework was badly corroded in places.",
-                            "corrosion[U] the gradual destruction of metal by the effect of water, chemicals etc or a substance such as rust produced by this process :",
-                            "The problem is how to protect the metal surface from corrosion.",
-                            "They are sprayed with oil to prevent corrosion.",
-                            "Check for signs of corrosion.",
-                            "The crash happened as a result of corrosion to the airplane’s fuselage.",
-                            "corrosive[adj]",
-                            "a bottle of corrosive acid",
-                            "That chemical is highly corrosive, so be careful."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "rust",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if sth made of iron rusts, it is gradually damaged by a chemical reaction with water and turns red-brown in colour: gỉ sét",
-                        "examples": [
-                            "The iron crosses that marked the graves had rusted badly over the years.",
-                            "rust[U]"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "rust away",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The underside of the car had virtually rusted away."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
                     }
                 ]
             }

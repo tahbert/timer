@@ -426,122 +426,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "weak",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjectiveBELOW STANDARD yếu",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "below standard; not good enough, especially in ability, skill or quality",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_He was always weakat/inlanguages but strong at/in science.",
-                                    "_Our quiz team is a bit weakonsport.",
-                                    "_In the end I think the film was spoilt by a weak story line."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "amateur",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounnghiệp dư",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "disapprovingsomeone who does not have much skill in what they do",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "U",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I won't be giving them any more work - they're a bunch of amateurs."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "hopeless",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjective không có năng lực",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "completely without skill at a particular activity",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I'm hopelessatsports.",
-                                    "_He's a hopeless cook."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "very good at sth",
                 "order": 1,
                 "icon": "",
@@ -1118,6 +1002,122 @@
                         "examples": [],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "weak",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjectiveBELOW STANDARD yếu",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "below standard; not good enough, especially in ability, skill or quality",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_He was always weakat/inlanguages but strong at/in science.",
+                                    "_Our quiz team is a bit weakonsport.",
+                                    "_In the end I think the film was spoilt by a weak story line."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "amateur",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounnghiệp dư",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "disapprovingsomeone who does not have much skill in what they do",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I won't be giving them any more work - they're a bunch of amateurs."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "hopeless",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjective không có năng lực",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "completely without skill at a particular activity",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I'm hopelessatsports.",
+                                    "_He's a hopeless cook."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

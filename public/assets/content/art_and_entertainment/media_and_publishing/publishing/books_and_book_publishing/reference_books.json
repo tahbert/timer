@@ -287,58 +287,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "yearbook",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(annualUS) a book published every year by a school or other organization, that gives various facts about the events and achievements of the previous or present year : niên giám",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "directory",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a book or list of names, facts etc, usually arranged in alphabetical order :",
-                        "examples": [
-                            "a business directory",
-                            "a directory of hotels",
-                            "Look up their number in the telephone directory.",
-                            "I couldn’t find your number in the telephone directory.",
-                            "a new business directory"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "giving instructions",
                 "order": 1,
                 "icon": "",
@@ -453,6 +401,58 @@
                             "a free guide to financial planning",
                             "guide for",
                             "A guide for hospital staff will be published shortly, covering everything from simple hygiene to security regulations."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "yearbook",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(annualUS) a book published every year by a school or other organization, that gives various facts about the events and achievements of the previous or present year : niên giám",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "directory",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a book or list of names, facts etc, usually arranged in alphabetical order :",
+                        "examples": [
+                            "a business directory",
+                            "a directory of hotels",
+                            "Look up their number in the telephone directory.",
+                            "I couldn’t find your number in the telephone directory.",
+                            "a new business directory"
                         ],
                         "isEnabled": true,
                         "children": []

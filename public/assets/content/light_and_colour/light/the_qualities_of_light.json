@@ -273,39 +273,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "be a trick of the light",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to be a visual effect caused by the light, making something appear different",
-                        "examples": [
-                            "For a moment I thought you had a patch of grey hairs, but it's just a trick of the light."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "not bright enough",
                 "order": 1,
                 "icon": "",
@@ -598,6 +565,39 @@
                         "definition": "low lighting is fairly dark, so that a place seemspleasantandrelaxing- use this about the light in rooms or buildings, not the light outside:mờmờ",
                         "examples": [
                             "For our anniversary, let’s go to a restaurant with low lights and soft music."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "be a trick of the light",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to be a visual effect caused by the light, making something appear different",
+                        "examples": [
+                            "For a moment I thought you had a patch of grey hairs, but it's just a trick of the light."
                         ],
                         "isEnabled": true,
                         "children": []

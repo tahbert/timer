@@ -512,7 +512,126 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "contradictary",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "self-contradictory",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formal containing two opposite statements or ideas that cannot both be true :tự mâu thuẫn",
+                        "examples": [
+                            "He is described as a Texas oil millionaire and environmentalist, which might appear to be self-contradictory."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "contradictory",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "two statements, beliefs etc that are contradictory are different and therefore cannot both be true or correct : trái ngược nhau, mâu thuẫn nhau",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "contradictory messages/statements/demands etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The public is being fed contradictory messages about the economy."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "contradict",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if one statement, story etc contradicts another, the facts in it are different so that both statements cannot be true : mẫu thuẫn với",
+                        "examples": [
+                            "The witness statementscontradict each otherand the facts remain unclear."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "contradiction",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a difference between two statements, beliefs, or ideas about something that means they cannot both be true : sự mâu thuẫn, trái ngược",
+                        "examples": [
+                            "apparent contradictionsin the defendant’s testimony",
+                            "contradiction between",
+                            "a contradiction between the government’s ideas and its actual policy"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "contradict",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "contradict yourselfto say sth that is the opposite of what you said before: tự mâu thuẫn",
+                        "examples": [
+                            "Within five minutes he had contradicted himself twice."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -657,125 +776,6 @@
                             "to make something appear stupid or wrong, or to spoil something",
                             "_His repeated lack of promotion makes nonsense of",
                             "the theory that if you work hard you'll be successful."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "contradictary",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "self-contradictory",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formal containing two opposite statements or ideas that cannot both be true :tự mâu thuẫn",
-                        "examples": [
-                            "He is described as a Texas oil millionaire and environmentalist, which might appear to be self-contradictory."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "contradictory",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "two statements, beliefs etc that are contradictory are different and therefore cannot both be true or correct : trái ngược nhau, mâu thuẫn nhau",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "contradictory messages/statements/demands etc",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The public is being fed contradictory messages about the economy."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "contradict",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if one statement, story etc contradicts another, the facts in it are different so that both statements cannot be true : mẫu thuẫn với",
-                        "examples": [
-                            "The witness statementscontradict each otherand the facts remain unclear."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "contradiction",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a difference between two statements, beliefs, or ideas about something that means they cannot both be true : sự mâu thuẫn, trái ngược",
-                        "examples": [
-                            "apparent contradictionsin the defendant’s testimony",
-                            "contradiction between",
-                            "a contradiction between the government’s ideas and its actual policy"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "contradict",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "contradict yourselfto say sth that is the opposite of what you said before: tự mâu thuẫn",
-                        "examples": [
-                            "Within five minutes he had contradicted himself twice."
                         ],
                         "isEnabled": true,
                         "children": []

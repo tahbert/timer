@@ -522,56 +522,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "vomit",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[UK informal]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ sick food or other substances that come up from your stomach and through your mouth when you vomit : chất nôn mửa",
-                        "examples": [
-                            "The car seat was covered with vomit.",
-                            "Morrison died after choking on his own vomit."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a pool of sick on the floor",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "as though you're going to vomit",
                 "order": 1,
                 "icon": "",
@@ -633,6 +583,56 @@
                                     "Janir took a sip of the medicine and gagged at the vile taste.",
                                     "Joe gagged on his first cigarette, red-faced and choking."
                                 ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "vomit",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[UK informal]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ sick food or other substances that come up from your stomach and through your mouth when you vomit : chất nôn mửa",
+                        "examples": [
+                            "The car seat was covered with vomit.",
+                            "Morrison died after choking on his own vomit."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a pool of sick on the floor",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
                                 "isEnabled": true,
                                 "children": []
                             }

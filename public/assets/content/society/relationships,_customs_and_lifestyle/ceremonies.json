@@ -15,91 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "protocol",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the system of rules for behaviour on official occasions: nghi thức ngoại giao, lễ tân",
-                        "examples": [
-                            "According to protocol, he was to arrive at the meeting exactly five minutes early."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "commemorate",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[T verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to do sth to show that you remember and respect an important event in the past or sb who did sth important in the past, especially sb who is now dead: tưởng niệm",
-                        "examples": [
-                            "The annual parade commemorates the soldiers who died in the two World Wars.",
-                            "The book will be published in October to commemorate the 100th anniversary of Morris’s death."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "open",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[T verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "If sb, usually sb important, opens a building or place or event, they officially state that it is ready to be used or to start operating : khai trương",
-                        "examples": [
-                            "The new hospital will beofficiallyopened by the mayor on Tuesday."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "opening",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C usually singular ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a ceremony at the beginning of an event or activity : lễ khai mạc, lễ khánh thành",
-                        "examples": [
-                            "Theofficialopeningofthe new school will take place next month."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a special event that is part of a tradition",
                 "order": 1,
                 "icon": "",
@@ -195,59 +110,6 @@
                             "The body cannot be buried until the funeral rites have been performed.",
                             "perform a rite",
                             "The Batak chieftains perform the traditional initiation rite."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "procession",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a group of people or vehicles that move slowly along in a line, especially as part of a public ceremony: đám rước, đám diễu hành",
-                        "examples": [
-                            "We were held up by a long funeral procession.",
-                            "The children were eager to take part in the carnival procession.",
-                            "a wedding/ funeral procession.",
-                            "The festival will open with a procession led by the mayor."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "the red carpet",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CS noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a long, red floor covering that is put down for an important guest to walk on when they visit somewhere and receive a special official welcome, or a special welcome of this type : thảm đỏ",
-                        "examples": [
-                            "The minister was given the red carpettreatment."
                         ],
                         "isEnabled": true,
                         "children": []
@@ -376,6 +238,128 @@
                         "definition": "an occasion when prizes, qualifications, etc. are formally given to those who have won or achieved them : lễ trao (giải, chứng chỉ, etc)",
                         "examples": [
                             "The presentation of prizes and certificates will take place in the main hall."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "protocol",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the system of rules for behaviour on official occasions: nghi thức ngoại giao, lễ tân",
+                        "examples": [
+                            "According to protocol, he was to arrive at the meeting exactly five minutes early."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "commemorate",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[T verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to do sth to show that you remember and respect an important event in the past or sb who did sth important in the past, especially sb who is now dead: tưởng niệm",
+                        "examples": [
+                            "The annual parade commemorates the soldiers who died in the two World Wars.",
+                            "The book will be published in October to commemorate the 100th anniversary of Morris’s death."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "open",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[T verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "If sb, usually sb important, opens a building or place or event, they officially state that it is ready to be used or to start operating : khai trương",
+                        "examples": [
+                            "The new hospital will beofficiallyopened by the mayor on Tuesday."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "opening",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C usually singular ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a ceremony at the beginning of an event or activity : lễ khai mạc, lễ khánh thành",
+                        "examples": [
+                            "Theofficialopeningofthe new school will take place next month."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "procession",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a group of people or vehicles that move slowly along in a line, especially as part of a public ceremony: đám rước, đám diễu hành",
+                        "examples": [
+                            "We were held up by a long funeral procession.",
+                            "The children were eager to take part in the carnival procession.",
+                            "a wedding/ funeral procession.",
+                            "The festival will open with a procession led by the mayor."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "the red carpet",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CS noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a long, red floor covering that is put down for an important guest to walk on when they visit somewhere and receive a special official welcome, or a special welcome of this type : thảm đỏ",
+                        "examples": [
+                            "The minister was given the red carpettreatment."
                         ],
                         "isEnabled": true,
                         "children": []

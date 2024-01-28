@@ -381,7 +381,89 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "not here",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "clear up",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "phrasal verbinformal",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "If the weather clears up, the cloud and rain disappears",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I hope it clears up in time for the picnic."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "patch up",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ M ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "patchsthupphrasal verb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to try to improve a relationship after there have been problems",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Jackie and Bill are still trying to patch up their marriage.",
+                                    "_Did you manage to patchthingsupwithJackie after your row?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -535,88 +617,6 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not here",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "clear up",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "phrasal verbinformal",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "If the weather clears up, the cloud and rain disappears",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I hope it clears up in time for the picnic."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "patch up",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ M ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "patchsthupphrasal verb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to try to improve a relationship after there have been problems",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Jackie and Bill are still trying to patch up their marriage.",
-                                    "_Did you manage to patchthingsupwithJackie after your row?"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
                     }
                 ]
             }

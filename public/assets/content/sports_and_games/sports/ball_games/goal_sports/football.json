@@ -258,126 +258,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "relegate",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK If a football team is relegated, it is moved down to a lower division: đẩy xuống hạng",
-                        "examples": [
-                            "relegation[ U ] UK the act of moving a football team to a lower division",
-                            "Southamptonfacerelegation if they lose again."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "relegate sth/sb to sth",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "We were relegated to the Fourth Division last year.",
-                                    "If Southampton lose again they may be relegatedfromthe Premier Leaguetothe First Division."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "kickabout",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK informal when a group of people kick a ball to each other for pleasure : đá bóng ma",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "transfer list",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK a football or rugby team's list of players that are available to be sold : danh sách cầu thủ sẵn sàng chuyển nhượng",
-                        "examples": [
-                            "The club's top goalkeeper isonthe transfer list."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "promote",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK if a sports team is promoted, they play in a better group of teams the next year",
-                        "examples": [
-                            "promotion[U]UKwhen a sports team moves into a better group of teams"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "promote sb to sth",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "They have been promoted to the First Division."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "events",
                 "order": 1,
                 "icon": "",
@@ -647,6 +527,126 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "relegate",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK If a football team is relegated, it is moved down to a lower division: đẩy xuống hạng",
+                        "examples": [
+                            "relegation[ U ] UK the act of moving a football team to a lower division",
+                            "Southamptonfacerelegation if they lose again."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "relegate sth/sb to sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We were relegated to the Fourth Division last year.",
+                                    "If Southampton lose again they may be relegatedfromthe Premier Leaguetothe First Division."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "kickabout",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK informal when a group of people kick a ball to each other for pleasure : đá bóng ma",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "transfer list",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK a football or rugby team's list of players that are available to be sold : danh sách cầu thủ sẵn sàng chuyển nhượng",
+                        "examples": [
+                            "The club's top goalkeeper isonthe transfer list."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "promote",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK if a sports team is promoted, they play in a better group of teams the next year",
+                        "examples": [
+                            "promotion[U]UKwhen a sports team moves into a better group of teams"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "promote sb to sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "They have been promoted to the First Division."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

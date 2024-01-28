@@ -522,7 +522,125 @@
             },
             {
                 "id": "",
-                "name": "",
+                "name": "people",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "disc jockey",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(abbDJ) sb whose job is to play the music on a radio show or in a club where you can dance",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "qualities",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "musical",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "having a pleasant sound like music :",
+                        "examples": [
+                            "a sweet musical voice"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "combination of notes",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "chord",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a combination of several musical notes that are played at the same time and sound pleasant together: hợp âm",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "harmony",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C usually P or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a pleasant musical sound made by different notes being played or sung at the same time: hòa âm",
+                        "examples": [
+                            "The harmonies in her symphonies are wonderfully rich.",
+                            "All first year music students are required to take a class in harmony.",
+                            "It is a simple melody with complex harmonies.",
+                            "three-part harmonies",
+                            "the gorgeous vocal harmonies on ‘Mexicali Rose’",
+                            "in harmony",
+                            "a choir singing in perfect harmony"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -679,87 +797,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "people",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "disc jockey",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(abbDJ) sb whose job is to play the music on a radio show or in a club where you can dance",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "qualities",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "musical",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[attri]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "having a pleasant sound like music :",
-                        "examples": [
-                            "a sweet musical voice"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "the charts",
@@ -968,60 +1006,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "combination of notes",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "chord",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a combination of several musical notes that are played at the same time and sound pleasant together: hợp âm",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "harmony",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C usually P or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a pleasant musical sound made by different notes being played or sung at the same time: hòa âm",
-                        "examples": [
-                            "The harmonies in her symphonies are wonderfully rich.",
-                            "All first year music students are required to take a class in harmony.",
-                            "It is a simple melody with complex harmonies.",
-                            "three-part harmonies",
-                            "the gorgeous vocal harmonies on ‘Mexicali Rose’",
-                            "in harmony",
-                            "a choir singing in perfect harmony"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

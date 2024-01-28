@@ -727,48 +727,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "shake",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbshook,shakenGET RID OF",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "cut",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbcutting,cut,cutREMOVE",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "not here",
                 "order": 1,
                 "icon": "",
@@ -839,6 +797,48 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "shake",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbshook,shakenGET RID OF",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "cut",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbcutting,cut,cutREMOVE",
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

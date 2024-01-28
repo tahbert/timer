@@ -1144,7 +1144,74 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "types of medals",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "gold",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "( alsogold medal) a small disc of gold which is given to the person who wins a competition, especially in a sport",
+                        "examples": [
+                            "He's running so well, surely he'll take the gold."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "silver",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C or U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "( alsosilver medal ) a small disc of silver, or a metal that looks like silver, which is given to the person who comes second in a competition, especially in a sport",
+                        "examples": [
+                            "Britain won (a) silver/a silver medal in the javelin."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "bronze",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "( alsobronze ˈ medal) a small round piece of bronze given to a person who finishes third in a competition",
+                        "examples": [
+                            "Hegota bronze in the high jump."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1764,73 +1831,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "types of medals",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "gold",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "( alsogold medal) a small disc of gold which is given to the person who wins a competition, especially in a sport",
-                        "examples": [
-                            "He's running so well, surely he'll take the gold."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "silver",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C or U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "( alsosilver medal ) a small disc of silver, or a metal that looks like silver, which is given to the person who comes second in a competition, especially in a sport",
-                        "examples": [
-                            "Britain won (a) silver/a silver medal in the javelin."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "bronze",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "( alsobronze ˈ medal) a small round piece of bronze given to a person who finishes third in a competition",
-                        "examples": [
-                            "Hegota bronze in the high jump."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

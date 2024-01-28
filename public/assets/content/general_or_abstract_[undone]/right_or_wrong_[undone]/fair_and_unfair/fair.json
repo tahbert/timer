@@ -15,71 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "clean",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "done in a fair or legal way",
-                        "examples": [
-                            "a good cleanfight/ contest"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "do justice",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "tosb/sth(alsodosb/sthjustice)",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to treat someone or something in a way that is fair and shows their true qualities",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "This postcard doesn't do justice to the wonderful scenery."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "when a situation or decision is fair",
                 "order": 1,
                 "icon": "",
@@ -413,6 +348,71 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "clean",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "done in a fair or legal way",
+                        "examples": [
+                            "a good cleanfight/ contest"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "do justice",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "tosb/sth(alsodosb/sthjustice)",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to treat someone or something in a way that is fair and shows their true qualities",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "This postcard doesn't do justice to the wonderful scenery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

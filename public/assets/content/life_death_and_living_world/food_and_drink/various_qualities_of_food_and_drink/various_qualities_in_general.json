@@ -86,56 +86,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "unsliced",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "not sliced (= cut into thin flat pieces):nguyên miếng, nguyên ổ",
-                        "examples": [
-                            "unsliced bread"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "instant",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[attri adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(of food or drink) dried, usually in the form of a powder, and can be prepared very quickly by adding hot water : ăn liền",
-                        "examples": [
-                            "instant coffee/ soup/ noodles"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "made at home or bought from a shop",
                 "order": 1,
                 "icon": "",
@@ -537,7 +487,7 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -549,6 +499,40 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "unsliced",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "not sliced (= cut into thin flat pieces):nguyên miếng, nguyên ổ",
+                        "examples": [
+                            "unsliced bread"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "instant",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[attri adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(of food or drink) dried, usually in the form of a powder, and can be prepared very quickly by adding hot water : ăn liền",
+                        "examples": [
+                            "instant coffee/ soup/ noodles"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "white",

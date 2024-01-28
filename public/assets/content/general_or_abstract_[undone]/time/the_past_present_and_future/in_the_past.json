@@ -2785,45 +2785,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "once upon a time",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "usage": "",
-                        "region": "",
-                        "definition": "ngày xửa ngày xưa",
-                        "examples": [
-                            "once upon a time",
-                            "used at the beginning of children's stories to mean 'a long time ago'",
-                            "_Once upon a time there was a beautiful young princess with long golden hair.",
-                            "once upon a time",
-                            "used in a slightly literary way when referring to something that happened in",
-                            "the past, especially when showing that you feel sorry that it no longer happens",
-                            "_Once upon a time people knew the difference between",
-                            "right and wrong, but nowadays nobody seems to care."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "words for describing news or information that is recent",
                 "order": 1,
                 "icon": "",
@@ -2936,6 +2897,45 @@
                         "examples": [
                             "▪ Visit www.sportsfanatic.com for up-to-the-minute results and sports news.",
                             "▪ A computer link with Wall Street gives traders up-to-the-minute market data worldwide."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "once upon a time",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "usage": "",
+                        "region": "",
+                        "definition": "ngày xửa ngày xưa",
+                        "examples": [
+                            "once upon a time",
+                            "used at the beginning of children's stories to mean 'a long time ago'",
+                            "_Once upon a time there was a beautiful young princess with long golden hair.",
+                            "once upon a time",
+                            "used in a slightly literary way when referring to something that happened in",
+                            "the past, especially when showing that you feel sorry that it no longer happens",
+                            "_Once upon a time people knew the difference between",
+                            "right and wrong, but nowadays nobody seems to care."
                         ],
                         "isEnabled": true,
                         "children": []

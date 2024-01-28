@@ -889,37 +889,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "classmate",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb who is in the same class as you at school :",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a student of a particular year",
                 "order": 1,
                 "icon": "",
@@ -1197,6 +1166,37 @@
                         "examples": [
                             "Everyone else in the class hated him because they thought he was a real swot."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "classmate",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who is in the same class as you at school :",
+                        "examples": [],
                         "isEnabled": true,
                         "children": []
                     }

@@ -15,58 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "powder",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to put powder on sth, especially your skin :thoa phấn, đánh phấn",
-                        "examples": [
-                            "She waspowderingherface.",
-                            "Powder the baby's bottom to stop it chafing."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "soap",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to put soap on or over sb or sth :bôi xà phòng, xát xà phòng",
-                        "examples": [
-                            "Have you soaped yourself all over, Alice?",
-                            "Let me soap your back."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to wash your face, hands, body etc",
                 "order": 1,
                 "icon": "",
@@ -584,6 +532,58 @@
                         "examples": [
                             "Have you brushed your teeth this morning?",
                             "I cleaned my teeth, flattened down my hair, and rushed out of the door."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "powder",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to put powder on sth, especially your skin :thoa phấn, đánh phấn",
+                        "examples": [
+                            "She waspowderingherface.",
+                            "Powder the baby's bottom to stop it chafing."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "soap",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to put soap on or over sb or sth :bôi xà phòng, xát xà phòng",
+                        "examples": [
+                            "Have you soaped yourself all over, Alice?",
+                            "Let me soap your back."
                         ],
                         "isEnabled": true,
                         "children": []

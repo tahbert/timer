@@ -218,7 +218,40 @@
             },
             {
                 "id": "",
-                "name": "",
+                "name": "general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "sharpener",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a machine or tool for making things such as pencils or knives sharper : dụng cụ mài, gọt",
+                        "examples": [
+                            "a knife sharpener"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -258,39 +291,6 @@
                         "definition": "strong paper with sand or a similar rough substance stuck to one side, used for rubbing a surface in order to make it smoother : giấy ráp, giấy nhám",
                         "examples": [
                             "coarse/ fine sandpaper"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "general",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "sharpener",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a machine or tool for making things such as pencils or knives sharper : dụng cụ mài, gọt",
-                        "examples": [
-                            "a knife sharpener"
                         ],
                         "isEnabled": true,
                         "children": []

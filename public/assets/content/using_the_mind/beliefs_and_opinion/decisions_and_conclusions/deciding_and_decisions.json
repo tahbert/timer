@@ -1391,77 +1391,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "set",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbsetting,set,setFIXbố trí, sắp đặt",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "fix",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbARRANGEđịnh;ấn định; quy định;thu xếp",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "determine",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbDECIDE quyết định",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "in the balance",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "If a situation is  it has reached a stage where it will soon be decided oneway or another",
-                        "examples": [
-                            "_The gamehungin the balance until the last minute when an exciting point decided it."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a way of deciding",
                 "order": 1,
                 "icon": "",
@@ -1668,6 +1597,77 @@
                             "The chairperson always has the decidingvote.",
                             "Glennon scored the deciding goal in the final minute of the match.",
                             "Taxes could bethe deciding factorfor millions of floating voters."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "set",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbsetting,set,setFIXbố trí, sắp đặt",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "fix",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbARRANGEđịnh;ấn định; quy định;thu xếp",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "determine",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbDECIDE quyết định",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "in the balance",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "If a situation is  it has reached a stage where it will soon be decided oneway or another",
+                        "examples": [
+                            "_The gamehungin the balance until the last minute when an exciting point decided it."
                         ],
                         "isEnabled": true,
                         "children": []

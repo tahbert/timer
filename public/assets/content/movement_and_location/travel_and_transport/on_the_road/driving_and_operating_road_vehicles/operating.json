@@ -318,175 +318,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "pull out",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "phrasal verb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "1to drive onto a road from another road or from where you have stopped : lên làn đường, rẽ qua đường mới",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Don’t pull out! There’s something coming.",
-                                    "A car pulled right out in front of me."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "2to drive over to a different part of the road in order to get past a vehicle in front of you : sang làn (để vượt)",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "I pulled out to overtake a bus."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "3if a train pulls out, it leaves a stationOPP pull in: rời bến, rời trạm",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "drive",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A1",
-                        "partOfSpeech": "[I always + adv/prep]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if a car, truck etc drives somewhere, it moves there :",
-                        "examples": [
-                            "After the accident, the other car just drove off."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "pull in",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "1if a driver pulls in, they move to the side of the road or in a parking space and stop : rẽ vào, tạt vào",
-                        "examples": [
-                            "Jeff parked in front of the house and I pulled in beside him.",
-                            "I rounded the corner, looking for a place to pull in.",
-                            "She pulled in to let the ambulance pass.",
-                            "He pulled in at the side of the road."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "2if a train pulls in, it arrives at a stationOPP pull out: cập bến, tới trạm",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "pull over",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[I PV]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if a car or its driverpulls over, the driver drives to the side of the road and stops:tấp xe vào lề , đỗ xe vào lề",
-                        "examples": [
-                            "A policeman was standing by the side of the road, signalling to me to pull over."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "I pulled over and looked at the map",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The truck pulled over and a man got out.",
-                                    "Just pull over here, and I'll get out and walk the rest of the way."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to stop moving",
                 "order": 1,
                 "icon": "",
@@ -800,6 +631,175 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "pull out",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "phrasal verb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "1to drive onto a road from another road or from where you have stopped : lên làn đường, rẽ qua đường mới",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Don’t pull out! There’s something coming.",
+                                    "A car pulled right out in front of me."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "2to drive over to a different part of the road in order to get past a vehicle in front of you : sang làn (để vượt)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I pulled out to overtake a bus."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "3if a train pulls out, it leaves a stationOPP pull in: rời bến, rời trạm",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "drive",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A1",
+                        "partOfSpeech": "[I always + adv/prep]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if a car, truck etc drives somewhere, it moves there :",
+                        "examples": [
+                            "After the accident, the other car just drove off."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "pull in",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "1if a driver pulls in, they move to the side of the road or in a parking space and stop : rẽ vào, tạt vào",
+                        "examples": [
+                            "Jeff parked in front of the house and I pulled in beside him.",
+                            "I rounded the corner, looking for a place to pull in.",
+                            "She pulled in to let the ambulance pass.",
+                            "He pulled in at the side of the road."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "2if a train pulls in, it arrives at a stationOPP pull out: cập bến, tới trạm",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "pull over",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[I PV]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if a car or its driverpulls over, the driver drives to the side of the road and stops:tấp xe vào lề , đỗ xe vào lề",
+                        "examples": [
+                            "A policeman was standing by the side of the road, signalling to me to pull over."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "I pulled over and looked at the map",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The truck pulled over and a man got out.",
+                                    "Just pull over here, and I'll get out and walk the rest of the way."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

@@ -722,69 +722,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "anthology",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a set of stories, poems, songs etc by different people collected together in one book : hợp tuyển",
-                        "examples": [
-                            "an anthology of American literature",
-                            "anthologist[C]"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "backlist",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sách đã phát hành",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "picture book",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a book, especially for young children, that has a lot of pictures and not many words",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "school books",
                 "order": 1,
                 "icon": "",
@@ -949,6 +886,69 @@
                             "series on",
                             "They do a series on architecture throughout the ages."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "anthology",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a set of stories, poems, songs etc by different people collected together in one book : hợp tuyển",
+                        "examples": [
+                            "an anthology of American literature",
+                            "anthologist[C]"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "backlist",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sách đã phát hành",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "picture book",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a book, especially for young children, that has a lot of pictures and not many words",
+                        "examples": [],
                         "isEnabled": true,
                         "children": []
                     }

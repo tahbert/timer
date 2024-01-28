@@ -110,7 +110,38 @@
             },
             {
                 "id": "",
-                "name": "further",
+                "name": "for a baby",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "incubator",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a container that has controlled air and temperature conditions in which a weak or premature baby (= one which was born too early) can be kept alive : lồng nuôi trẻ em đẻ non",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -214,37 +245,6 @@
                         "usage": "",
                         "region": "",
                         "definition": "specialized a machine for recording the beating of the heart : máy đo nhịp tim",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "for a baby",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "incubator",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a container that has controlled air and temperature conditions in which a weak or premature baby (= one which was born too early) can be kept alive : lồng nuôi trẻ em đẻ non",
                         "examples": [],
                         "isEnabled": true,
                         "children": []

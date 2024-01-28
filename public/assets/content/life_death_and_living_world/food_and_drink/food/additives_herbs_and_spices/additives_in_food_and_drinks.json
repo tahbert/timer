@@ -424,37 +424,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "baking powder",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a mixture of powders used to make cakes rise and become light when they are baked bột nở",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -484,6 +453,37 @@
                             "food additivean artificial substance added to food to give it taste or colour",
                             "permittedfood additives"
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "baking powder",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a mixture of powders used to make cakes rise and become light when they are baked bột nở",
+                        "examples": [],
                         "isEnabled": true,
                         "children": []
                     }

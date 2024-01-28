@@ -15,57 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "Mexican wave",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UKthe WaveUS  a wave-like movement made by a crowd watching a sports game, when everyone stands and lifts up their arms and then sits down again one after another",
-                        "examples": [
-                            "The crowd did a Mexican wave."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "cheerleader",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(especially in US) a person, usually a woman or girl, who leads the crowd in shouting encouragement and supporting a team at a sports event : cô gái cổ vũ",
-                        "examples": [
-                            "She was a cheerleaderforthe Dallas Cowboys.",
-                            "She was a popular cheerleader at the University of Texas."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -511,6 +460,57 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "Mexican wave",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UKthe WaveUS  a wave-like movement made by a crowd watching a sports game, when everyone stands and lifts up their arms and then sits down again one after another",
+                        "examples": [
+                            "The crowd did a Mexican wave."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "cheerleader",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(especially in US) a person, usually a woman or girl, who leads the crowd in shouting encouragement and supporting a team at a sports event : cô gái cổ vũ",
+                        "examples": [
+                            "She was a cheerleaderforthe Dallas Cowboys.",
+                            "She was a popular cheerleader at the University of Texas."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

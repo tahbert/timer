@@ -730,7 +730,44 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "the activity",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "walking",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "especially British Englishthe activity or sport of going for walks, especially in the countryside or mountains →hiking,rambling: đi bộ",
+                        "examples": [
+                            "go walking",
+                            "Wewent walkingin the hills.",
+                            "We'regoingwalking in Wales for a week.",
+                            "walking boots/shoes",
+                            "walking holiday/tour etc(= a holiday on which you walk a lot, especially in the countryside )"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -776,43 +813,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "the activity",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "walking",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "especially British Englishthe activity or sport of going for walks, especially in the countryside or mountains →hiking,rambling: đi bộ",
-                        "examples": [
-                            "go walking",
-                            "Wewent walkingin the hills.",
-                            "We'regoingwalking in Wales for a week.",
-                            "walking boots/shoes",
-                            "walking holiday/tour etc(= a holiday on which you walk a lot, especially in the countryside )"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

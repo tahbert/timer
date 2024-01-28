@@ -1227,7 +1227,41 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "to succeed in contacting sb",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "make contact with",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to succeed in contacting sb, especially when this is difficult: liên lạc được với",
+                        "examples": [
+                            "The pilot finally managed to make contact with the control tower.",
+                            "I’ve managed to make contact with most of the people on the list."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1297,40 +1331,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to succeed in contacting sb",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "make contact with",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to succeed in contacting sb, especially when this is difficult: liên lạc được với",
-                        "examples": [
-                            "The pilot finally managed to make contact with the control tower.",
-                            "I’ve managed to make contact with most of the people on the list."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

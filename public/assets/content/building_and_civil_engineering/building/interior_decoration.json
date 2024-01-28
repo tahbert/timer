@@ -388,7 +388,97 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "to decorate again",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "redo",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to change the way a room is decorated:trang trí lại; tu sửa lại",
+                        "examples": [
+                            "We spent £000 redoing the kitchen."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "have sth redone",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We’re having the kitchen redone."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "redecorate",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to change the paint or paper on the walls of a house or room:trang hoàng, trang trí lại",
+                        "examples": [
+                            "When they first moved in, they completely redecorated the whole house.",
+                            "have sth redecoratedpay sb to redecorate it",
+                            "We’re thinking of having our house redecorated -- can you recommend anyone?",
+                            "redecoration[U]",
+                            "parts of the house could benefit from some redecoration"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "respray",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to change the colour of a car by putting new paint on it: phun lại, sơn lại",
+                        "examples": [
+                            "The thieves had resprayed the truck and changed the license plates.",
+                            "After the accident I took the car to a garage to have it resprayed."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -497,96 +587,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to decorate again",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "redo",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to change the way a room is decorated:trang trí lại; tu sửa lại",
-                        "examples": [
-                            "We spent £000 redoing the kitchen."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "have sth redone",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "We’re having the kitchen redone."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "redecorate",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to change the paint or paper on the walls of a house or room:trang hoàng, trang trí lại",
-                        "examples": [
-                            "When they first moved in, they completely redecorated the whole house.",
-                            "have sth redecoratedpay sb to redecorate it",
-                            "We’re thinking of having our house redecorated -- can you recommend anyone?",
-                            "redecoration[U]",
-                            "parts of the house could benefit from some redecoration"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "respray",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to change the colour of a car by putting new paint on it: phun lại, sơn lại",
-                        "examples": [
-                            "The thieves had resprayed the truck and changed the license plates.",
-                            "After the accident I took the car to a garage to have it resprayed."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

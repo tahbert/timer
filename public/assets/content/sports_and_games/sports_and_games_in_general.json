@@ -1070,7 +1070,40 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "against the rules",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "penalty",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a disadvantage in sports given to a player or team for breaking a rule : lỗi",
+                        "examples": [
+                            "Woodson received a penalty."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1200,39 +1233,6 @@
                         "definition": "in some sports, a run-up is a period or distance of running that you do in order to be going fast enough to perform a particular action : thời gian lấy đà/ khoảng cách lấy đà",
                         "examples": [
                             "The longer and faster your run-up is, the higher you can jump."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "against the rules",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "penalty",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a disadvantage in sports given to a player or team for breaking a rule : lỗi",
-                        "examples": [
-                            "Woodson received a penalty."
                         ],
                         "isEnabled": true,
                         "children": []

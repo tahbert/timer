@@ -15,54 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "bait",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to put food in a special device to attract and catch an animal : mắc mồi",
-                        "examples": [
-                            "Have you got any stale cheese that I can bait the mousetrapwith?"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "spoor",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CS]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "specialized the marks left by a wild animal as it travels : dấu vết, hơi, mùi do dã thú để lại",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "people",
                 "order": 1,
                 "icon": "",
@@ -571,6 +523,54 @@
                         "usage": "",
                         "region": "",
                         "definition": "a wire stretched low above the ground which operates an explosive device, a gun or a device for catching animals when it is touched by the foot of a person or animal : dây thép giấu dưới đất",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "bait",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to put food in a special device to attract and catch an animal : mắc mồi",
+                        "examples": [
+                            "Have you got any stale cheese that I can bait the mousetrapwith?"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "spoor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CS]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "specialized the marks left by a wild animal as it travels : dấu vết, hơi, mùi do dã thú để lại",
                         "examples": [],
                         "isEnabled": true,
                         "children": []

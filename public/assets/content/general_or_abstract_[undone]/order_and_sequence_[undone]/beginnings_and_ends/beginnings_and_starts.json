@@ -331,77 +331,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "start",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounBEGINNING",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "introduction",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounPUT INTO USE",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "flash",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounSUDDEN EXPERIENCE",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "from scratch",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "from the beginning, without using anything that already exists",
-                        "examples": [
-                            "_Ben built the shed from scratch."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the time when sth is first used or discovered",
                 "order": 1,
                 "icon": "",
@@ -682,6 +611,77 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "start",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounBEGINNING",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "introduction",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounPUT INTO USE",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "flash",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounSUDDEN EXPERIENCE",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "from scratch",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "from the beginning, without using anything that already exists",
+                        "examples": [
+                            "_Ben built the shed from scratch."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

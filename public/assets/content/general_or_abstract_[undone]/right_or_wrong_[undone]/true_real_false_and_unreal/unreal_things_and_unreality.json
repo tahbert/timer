@@ -15,41 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "idealistic",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "believing that you should live according to high standards and principles, even if they cannot really be achieved, or showing this belief : mơ mộng, duy tâm",
-                        "examples": [
-                            "When I was young and idealistic I believed it was possible to change the world.",
-                            "idealistic young doctors",
-                            "the idealistic values of the 1960s"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "sth you think you see that is not really there",
                 "order": 1,
                 "icon": "",
@@ -627,6 +592,41 @@
                         "definition": "a popular belief or piece of advice that has existed for a long time but which you think is stupid:quan niệm cổ hủ",
                         "examples": [
                             "It’s not true that if trees have a lot of fruit in the autumn it will be a cold winter - that’s just an old wives’ tale."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "idealistic",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "believing that you should live according to high standards and principles, even if they cannot really be achieved, or showing this belief : mơ mộng, duy tâm",
+                        "examples": [
+                            "When I was young and idealistic I believed it was possible to change the world.",
+                            "idealistic young doctors",
+                            "the idealistic values of the 1960s"
                         ],
                         "isEnabled": true,
                         "children": []

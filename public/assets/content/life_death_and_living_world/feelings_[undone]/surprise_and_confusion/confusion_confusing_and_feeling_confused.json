@@ -326,115 +326,6 @@
             },
             {
                 "id": "",
-                "name": "",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "puzzling",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈpʌzlɪŋ/  a puzzling situation makes you feel confused, because you have tried to understand it or explain it, but you cannot :",
-                        "examples": [
-                            "▪ The police are investigating the puzzling death of a man found on the freeway.",
-                            "▪ Alzheimer’s disease is one of medicine’s most puzzling and feared illnesses.",
-                            "▪ The fact that many people still do not understand this basic concept is both puzzling and troubling."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "confused",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a situation that is confused is difficult to understand because a lot of things are happening at the same time and you do not have enough information about it:",
-                        "examples": [
-                            "Newspaper reports give a rather confused picture of the state of the economy.",
-                            "US policy towards China has always seemed mixed and confused.",
-                            "The situation in the city centre is getting increasingly confused, and riot police have been told to stand by."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "baffling",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈbæflɪŋ/  extremely difficult or impossible to understand, and therefore making you feel extremely confused:",
-                        "examples": [
-                            "▪ To an ordinary person, the legal arguments were baffling.",
-                            "▪ New evidence has provided a clue to one of the most baffling crimes the police have had to deal with."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "confusing",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a confusing situation, story, explanation, etc is difficult to understand because there does not seem to be any clear pattern or order to it: gây bối rối, khó hiểu",
-                        "examples": [
-                            "The kidnappers issued a series of confusing demands.",
-                            "I found the book really confusing. I kept forgetting who the characters were.",
-                            "Cricket can be a pretty confusing game for non-players.",
-                            "The instructions were really confusing.",
-                            "It was a very confusing situation."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "—confusinglyadverb",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a mysterious situation",
                 "order": 1,
                 "icon": "",
@@ -714,7 +605,7 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -726,6 +617,99 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "puzzling",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈpʌzlɪŋ/  a puzzling situation makes you feel confused, because you have tried to understand it or explain it, but you cannot :",
+                        "examples": [
+                            "▪ The police are investigating the puzzling death of a man found on the freeway.",
+                            "▪ Alzheimer’s disease is one of medicine’s most puzzling and feared illnesses.",
+                            "▪ The fact that many people still do not understand this basic concept is both puzzling and troubling."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "confused",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a situation that is confused is difficult to understand because a lot of things are happening at the same time and you do not have enough information about it:",
+                        "examples": [
+                            "Newspaper reports give a rather confused picture of the state of the economy.",
+                            "US policy towards China has always seemed mixed and confused.",
+                            "The situation in the city centre is getting increasingly confused, and riot police have been told to stand by."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "baffling",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈbæflɪŋ/  extremely difficult or impossible to understand, and therefore making you feel extremely confused:",
+                        "examples": [
+                            "▪ To an ordinary person, the legal arguments were baffling.",
+                            "▪ New evidence has provided a clue to one of the most baffling crimes the police have had to deal with."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "confusing",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a confusing situation, story, explanation, etc is difficult to understand because there does not seem to be any clear pattern or order to it: gây bối rối, khó hiểu",
+                        "examples": [
+                            "The kidnappers issued a series of confusing demands.",
+                            "I found the book really confusing. I kept forgetting who the characters were.",
+                            "Cricket can be a pretty confusing game for non-players.",
+                            "The instructions were really confusing.",
+                            "It was a very confusing situation."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "—confusinglyadverb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
                     {
                         "id": "",
                         "name": "be out of your depth",

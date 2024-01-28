@@ -175,93 +175,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "balanced",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjectivecông bằng (không thành kiến; không thiên vị)",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "considering all sides or opinions equally",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_The news programme prided itself on its balanced reporting."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "unbalanced",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjectiveNOT FAIR",
-                        "examples": [
-                            "not fair or equal; false",
-                            "_unbalanced reporting",
-                            "_He gave an unbalancedviewof the situation."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "bias",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[S or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an opinion about whether a person, group, or idea is good or bad that influences how you deal with it : thành kiến, khuynh hướng thiên về",
-                        "examples": [
-                            "political/gender/racial etc bias",
-                            "political bias in the press",
-                            "Students were evaluated without bias.",
-                            "bias against/towards/in favour of",
-                            "It’s clear that the company has a bias against women and minorities."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "unable to be fair",
                 "order": 1,
                 "icon": "",
@@ -395,6 +308,93 @@
                             "—subjectivelyadverb:",
                             "His work was judged objectively as well as subjectively.",
                             "—subjectivity[ uncountable ]"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "balanced",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjectivecông bằng (không thành kiến; không thiên vị)",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "considering all sides or opinions equally",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_The news programme prided itself on its balanced reporting."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "unbalanced",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjectiveNOT FAIR",
+                        "examples": [
+                            "not fair or equal; false",
+                            "_unbalanced reporting",
+                            "_He gave an unbalancedviewof the situation."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "bias",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[S or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an opinion about whether a person, group, or idea is good or bad that influences how you deal with it : thành kiến, khuynh hướng thiên về",
+                        "examples": [
+                            "political/gender/racial etc bias",
+                            "political bias in the press",
+                            "Students were evaluated without bias.",
+                            "bias against/towards/in favour of",
+                            "It’s clear that the company has a bias against women and minorities."
                         ],
                         "isEnabled": true,
                         "children": []

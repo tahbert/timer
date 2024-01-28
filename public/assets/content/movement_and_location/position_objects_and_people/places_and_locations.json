@@ -1108,128 +1108,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "of",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "prepositionPOSITION",
-                        "examples": [
-                            "used in expressions showing position",
-                            "_the top of his head",
-                            "_the back of your dress",
-                            "_on the corner of the street",
-                            "_the front of the queue",
-                            "_I've never been north ofEdinburgh."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "setting",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounPOSITION vị trí",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "scene",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the place where an accident, crime etc happened : hiện trường",
-                        "examples": [
-                            "The police soon arrived atthe scene of the crime.",
-                            "The police arrived to find a sceneofhorrifying destruction.",
-                            "Evidence was found at the sceneof the crime."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "at the scene",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Investigators are now at the scene, searching for clues."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "on the scene",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Journalists were on the scene within minutes."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "position",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[ C or U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "C1 the place where people are sent in order to carry out a course of action:",
-                        "examples": [
-                            "The troops took up their battle positions at the front line.",
-                            "As soon as his officers wereinposition/had movedintoposition, the police commander walked up the path towards the house."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "when an object is in a particular place",
                 "order": 1,
                 "icon": "",
@@ -1721,6 +1599,128 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "of",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "prepositionPOSITION",
+                        "examples": [
+                            "used in expressions showing position",
+                            "_the top of his head",
+                            "_the back of your dress",
+                            "_on the corner of the street",
+                            "_the front of the queue",
+                            "_I've never been north ofEdinburgh."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "setting",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounPOSITION vị trí",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "scene",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the place where an accident, crime etc happened : hiện trường",
+                        "examples": [
+                            "The police soon arrived atthe scene of the crime.",
+                            "The police arrived to find a sceneofhorrifying destruction.",
+                            "Evidence was found at the sceneof the crime."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "at the scene",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Investigators are now at the scene, searching for clues."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "on the scene",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Journalists were on the scene within minutes."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "position",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[ C or U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "C1 the place where people are sent in order to carry out a course of action:",
+                        "examples": [
+                            "The troops took up their battle positions at the front line.",
+                            "As soon as his officers wereinposition/had movedintoposition, the police commander walked up the path towards the house."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

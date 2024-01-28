@@ -15,101 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "drive",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbdrove,drivenFORCE",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "bring",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbbrought,broughtCAUSE",
-                        "examples": [
-                            "_[ + two objects ]She's brought us so much happiness over the years.",
-                            "_[ + -ing verb ]The explosion brought the whole building crashingto the ground.",
-                            "_Several trees were broughtdown(= made to fall) by the storm.",
-                            "_The closure of the factory brought povertytothe town (= resulted in it becoming poor) .",
-                            "_Bring the waterUKto the boil/USto a boil(= make it start boiling) .",
-                            "_She suddenly brought the interviewto an end.",
-                            "_Her tragic story broughttears tomyeyes(= made me cry) .",
-                            "_Whatwill the futurebring for these refugees?"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to cause, result in or produce a state or condition",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "have",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbhad,hadCAUSE",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "hold",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbheld,heldMAKE HAPPEN",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to cause sb/sth to be in a particular situation or condition",
                 "order": 1,
                 "icon": "",
@@ -2102,6 +2007,101 @@
                             "▪ His series of articles on party leaders has stirred up a great deal of public controversy.",
                             "▪ He was accused of trying to stir rebellion up among the peasants."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "drive",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbdrove,drivenFORCE",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "bring",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbbrought,broughtCAUSE",
+                        "examples": [
+                            "_[ + two objects ]She's brought us so much happiness over the years.",
+                            "_[ + -ing verb ]The explosion brought the whole building crashingto the ground.",
+                            "_Several trees were broughtdown(= made to fall) by the storm.",
+                            "_The closure of the factory brought povertytothe town (= resulted in it becoming poor) .",
+                            "_Bring the waterUKto the boil/USto a boil(= make it start boiling) .",
+                            "_She suddenly brought the interviewto an end.",
+                            "_Her tragic story broughttears tomyeyes(= made me cry) .",
+                            "_Whatwill the futurebring for these refugees?"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to cause, result in or produce a state or condition",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "have",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbhad,hadCAUSE",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "hold",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbheld,heldMAKE HAPPEN",
                         "isEnabled": true,
                         "children": []
                     }

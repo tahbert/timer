@@ -366,56 +366,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "time frame",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounkhung thời gian",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a period of days, weeks, months, etc. within which an activity is intended to happen",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "U",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Have youseta time frameforcompleting the job?",
-                                    "_The government plans to introduce these changesin/withina fairly long/short time frame."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a period of time",
                 "order": 1,
                 "icon": "",
@@ -1050,6 +1000,56 @@
                                 "examples": [
                                     "▪ She served a two-year stint as an aide to Congressman Jim McNulty.",
                                     "▪ We should thank Mary for the long stint she’s done as party treasurer."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "time frame",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounkhung thời gian",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a period of days, weeks, months, etc. within which an activity is intended to happen",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Have youseta time frameforcompleting the job?",
+                                    "_The government plans to introduce these changesin/withina fairly long/short time frame."
                                 ],
                                 "isEnabled": true,
                                 "children": []

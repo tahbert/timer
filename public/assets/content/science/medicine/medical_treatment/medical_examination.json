@@ -408,37 +408,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "take sb's pulse",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "takesb'spulse to hold sb’s wrist and count how many times their heart beats in one minute : bắt mạch",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "special technique",
                 "order": 1,
                 "icon": "",
@@ -855,6 +824,37 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "take sb's pulse",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "takesb'spulse to hold sb’s wrist and count how many times their heart beats in one minute : bắt mạch",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

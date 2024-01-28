@@ -15,73 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "in aid of sb/sth",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[UK]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "in order to collect money for a group of people who need it : nhằm giúp đỡ",
-                        "examples": [
-                            "a concert in aid of famine relief"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "charitable",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[attri adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "giving money, food or help free to those who are in need because they are ill, poor or have no home : từ thiện",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a charitablefoundation/ organization/ trust",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The entire organization is funded by charitable donations.",
-                                    "The school has charitablestatus(= It is officially a charity) ."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to give sth to help people in need",
                 "order": 1,
                 "icon": "",
@@ -685,6 +618,73 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "in aid of sb/sth",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[UK]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "in order to collect money for a group of people who need it : nhằm giúp đỡ",
+                        "examples": [
+                            "a concert in aid of famine relief"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "charitable",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[attri adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "giving money, food or help free to those who are in need because they are ill, poor or have no home : từ thiện",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a charitablefoundation/ organization/ trust",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The entire organization is funded by charitable donations.",
+                                    "The school has charitablestatus(= It is officially a charity) ."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

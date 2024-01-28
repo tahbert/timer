@@ -116,57 +116,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "sawdust",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the dust and small pieces of wood which are produced when you cut wood with a saw :mùn cưa",
-                        "examples": [
-                            "Fallen trees lay everywhere, along with a substrate of splintered wood and sawdust."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "preservative",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a substance used to prevent decay in wood:chấtchống phân hủy",
-                        "examples": [
-                            "a timber/ wood preservative.",
-                            "The fence has been treated with preservative."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "activities",
                 "order": 1,
                 "icon": "",
@@ -321,6 +270,57 @@
                         "region": "",
                         "definition": "specialized the end of a piece of wood which is shaped to fit into a mortise (= an opening) in another piece of wood to form a joint :cái mộng (đầu nhô ra)",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "sawdust",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the dust and small pieces of wood which are produced when you cut wood with a saw :mùn cưa",
+                        "examples": [
+                            "Fallen trees lay everywhere, along with a substrate of splintered wood and sawdust."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "preservative",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a substance used to prevent decay in wood:chấtchống phân hủy",
+                        "examples": [
+                            "a timber/ wood preservative.",
+                            "The fence has been treated with preservative."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

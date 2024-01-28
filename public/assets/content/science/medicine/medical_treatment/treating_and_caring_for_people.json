@@ -140,170 +140,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "hospitalize",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": ", đưa vào bệnh viện;cho nhập viện",
-                        "examples": [
-                            "UK usuallyhospitaliseverb[ T often passive ]",
-                            "to take someone to hospital and keep them there for treatment",
-                            "_His wife's been hospitalized for depression.",
-                            "hospitalization,UK usuallyhospitalisationnoun[ U ] sự đưa vào bệnh viện; sựnhập viện"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "bedside manner",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ S ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun thái độphục vụ bệnh nhân",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "the way in which a doctor treats people who are ill, especially in relation to kind, friendly and understanding behaviour",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_He has a lovely bedside manner."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "in your keeping",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "inyourkeeping dưới sự trông nom của ai",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "If something is in your keeping, you are taking care of it",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I left my word processor in her keeping when I went abroad."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "referral",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun sự giới thiệu; sự chuyển đến",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "intensive care",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun sự săn sóc đặc biệt",
-                        "examples": [
-                            "(in a hospital) continuous treatment for patients who are",
-                            "seriously ill, very badly injured or have just had an operation",
-                            "_She needed intensive care for three weeks."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "in safe keeping",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "được trông nom cẩn thận;được bảo vệ chắc chắn",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "being carefully looked after",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I left my son in safe keeping with my mother."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to give somebody medical treatment",
                 "order": 1,
                 "icon": "",
@@ -703,7 +539,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -715,6 +551,154 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "hospitalize",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": ", đưa vào bệnh viện;cho nhập viện",
+                        "examples": [
+                            "UK usuallyhospitaliseverb[ T often passive ]",
+                            "to take someone to hospital and keep them there for treatment",
+                            "_His wife's been hospitalized for depression.",
+                            "hospitalization,UK usuallyhospitalisationnoun[ U ] sự đưa vào bệnh viện; sựnhập viện"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "bedside manner",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ S ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun thái độphục vụ bệnh nhân",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "the way in which a doctor treats people who are ill, especially in relation to kind, friendly and understanding behaviour",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_He has a lovely bedside manner."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "in your keeping",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "inyourkeeping dưới sự trông nom của ai",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "If something is in your keeping, you are taking care of it",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I left my word processor in her keeping when I went abroad."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "referral",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun sự giới thiệu; sự chuyển đến",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "intensive care",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun sự săn sóc đặc biệt",
+                        "examples": [
+                            "(in a hospital) continuous treatment for patients who are",
+                            "seriously ill, very badly injured or have just had an operation",
+                            "_She needed intensive care for three weeks."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "in safe keeping",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "được trông nom cẩn thận;được bảo vệ chắc chắn",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "being carefully looked after",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I left my son in safe keeping with my mother."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
                     {
                         "id": "",
                         "name": "care",

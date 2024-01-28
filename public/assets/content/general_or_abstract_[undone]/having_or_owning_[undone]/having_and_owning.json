@@ -708,7 +708,91 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "not here",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "interest",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈɪntrɪst, ˈɪntrəst/  if a person, company, or government has aninterestin a business, they own part of that business: lợi tức",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "interest in",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The bank has interests in several companies, including a 15% share of Morgan’s Brewery."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "controlling interesta large enough part of the company or business to give you the power to make decisions about it",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "U",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Although the government has made some shares in National Oil Products available, it intends to maintain its controlling interest."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "have a stake in",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP not in progressive]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to own part of a company and therefore be able to have a share in the money it makes: nắm giữ cổ phần",
+                        "examples": [
+                            "▪ Labatt beer has a 45% stake in the Blue Jays baseball team.",
+                            "▪ She has a stake in her husband’s company, which she will have to give up if they divorce."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1106,90 +1190,6 @@
                         "examples": [
                             "As well as owning Mirror Group Newspapers, the Maxwell Corporation also controlled several other businesses.",
                             "The Johnson family has effective control of the company, owning almost 60% of the shares."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not here",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "interest",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈɪntrɪst, ˈɪntrəst/  if a person, company, or government has aninterestin a business, they own part of that business: lợi tức",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "interest in",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "U",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ The bank has interests in several companies, including a 15% share of Morgan’s Brewery."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "controlling interesta large enough part of the company or business to give you the power to make decisions about it",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "U",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ Although the government has made some shares in National Oil Products available, it intends to maintain its controlling interest."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "have a stake in",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP not in progressive]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to own part of a company and therefore be able to have a share in the money it makes: nắm giữ cổ phần",
-                        "examples": [
-                            "▪ Labatt beer has a 45% stake in the Blue Jays baseball team.",
-                            "▪ She has a stake in her husband’s company, which she will have to give up if they divorce."
                         ],
                         "isEnabled": true,
                         "children": []

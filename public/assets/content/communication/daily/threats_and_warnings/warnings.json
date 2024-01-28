@@ -1253,7 +1253,41 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "spoken:",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "I told you !",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "I told you!/I told you so! spoken say this when you had warned someone about a possible danger that has now happened, especially if they ignored your warning:",
+                        "examples": [
+                            "▪ I told you he had a violent temper! Why did you argue with him?",
+                            "▪ I told you so! It was obvious she was going to disappear as soon as she got the money.",
+                            "▪ I hate to say ‘I told you so’, but maybe you should listen to me next time."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1351,40 +1385,6 @@
                             "a device for making a loud warning noise",
                             "_police sirens",
                             "_When the air raid siren went off people ran to their shelters."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "spoken:",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "I told you !",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "I told you!/I told you so! spoken say this when you had warned someone about a possible danger that has now happened, especially if they ignored your warning:",
-                        "examples": [
-                            "▪ I told you he had a violent temper! Why did you argue with him?",
-                            "▪ I told you so! It was obvious she was going to disappear as soon as she got the money.",
-                            "▪ I hate to say ‘I told you so’, but maybe you should listen to me next time."
                         ],
                         "isEnabled": true,
                         "children": []

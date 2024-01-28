@@ -126,60 +126,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "defrost",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[I or T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to (cause to) become no longer frozen : rã đông",
-                        "examples": [
-                            "Defrost the chicken thoroughly before cooking.",
-                            "Leave the chicken to defrost."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "reconstitute",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to change dried food back to its original form by adding water to it : hoàn lại, khôi phục lại",
-                        "examples": [
-                            "The powdered milk/ egg can be reconstituted by adding water.",
-                            "reconstituted milk",
-                            "reconstitution[U]",
-                            "the reconstitution of the Communist party"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -690,6 +636,60 @@
                             "driedflowers",
                             "sun-dried[attri adj] sun-dried food has been left in the sun to dry in order to give it a particular taste: phơi khô",
                             "sun-dried tomatoes"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "defrost",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[I or T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to (cause to) become no longer frozen : rã đông",
+                        "examples": [
+                            "Defrost the chicken thoroughly before cooking.",
+                            "Leave the chicken to defrost."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "reconstitute",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to change dried food back to its original form by adding water to it : hoàn lại, khôi phục lại",
+                        "examples": [
+                            "The powdered milk/ egg can be reconstituted by adding water.",
+                            "reconstituted milk",
+                            "reconstitution[U]",
+                            "the reconstitution of the Communist party"
                         ],
                         "isEnabled": true,
                         "children": []

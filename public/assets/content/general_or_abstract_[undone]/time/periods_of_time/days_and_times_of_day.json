@@ -83,7 +83,71 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "dont know",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "darkness",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[uncountable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈdɑːʳknɪs, ˈdɑːʳknəs/  aplaceortimewhere there is no light:",
+                        "examples": [
+                            "ban đêm/ bóng tối, chỗ tối",
+                            "▪ A voice came from out of the darkness, but she couldn’t see anyone.",
+                            "Một giọng nói vọng ra từ bóng tối, nhưng cô ấy không thể thấy được gì",
+                            "▪ As my eyes became used to the darkness I could make out a bed in the corner of the room.",
+                            "Khi mắt tôi trở nên tối đi, tôi có thể nhận ra cái giường ở trong góc phòng",
+                            "▪ The city was a violent place at that time, and it was not safe to walk the streets during the hours of darkness.",
+                            "Thành phố này hiện giờ là một nơi bạo động, và đi bộ vào ban đêm không an toàn tí nào",
+                            "in complete darkness",
+                            "hoàn toàn trong bóng tối",
+                            "▪ Colour films must be developed in complete darkness.",
+                            "Phim màu phải được làm ở trong bóng tối hoàn toàn",
+                            "darknessnoun[ U ]bóng tối",
+                            "_The city centre wasplunged intodarkness by the power cut.",
+                            "pitch darknessnoun[ U ] (alsopitch blackness)",
+                            "_Suddenly the lights went out, and the house was leftinpitch darkness."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "before/after dark",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "before/after the sun has gone down",
+                        "examples": [
+                            "_It isn't safe to leave the house after dark.",
+                            "_I want to be home before dark."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -162,23 +226,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "the other night",
@@ -245,23 +293,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "afternoon",
@@ -403,23 +435,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "hour",
@@ -453,23 +469,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "lights-out",
@@ -566,23 +566,7 @@
                         "definition": "nounEVENING lúc chạng vạng;",
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "day",
@@ -717,23 +701,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "bedtime",
@@ -935,23 +903,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "by day",
@@ -999,23 +951,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "sunrise",
@@ -1095,23 +1031,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "small hours",
@@ -1278,23 +1198,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "high noon",
@@ -1378,70 +1282,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "dont know",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "darkness",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[uncountable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈdɑːʳknɪs, ˈdɑːʳknəs/  aplaceortimewhere there is no light:",
-                        "examples": [
-                            "ban đêm/ bóng tối, chỗ tối",
-                            "▪ A voice came from out of the darkness, but she couldn’t see anyone.",
-                            "Một giọng nói vọng ra từ bóng tối, nhưng cô ấy không thể thấy được gì",
-                            "▪ As my eyes became used to the darkness I could make out a bed in the corner of the room.",
-                            "Khi mắt tôi trở nên tối đi, tôi có thể nhận ra cái giường ở trong góc phòng",
-                            "▪ The city was a violent place at that time, and it was not safe to walk the streets during the hours of darkness.",
-                            "Thành phố này hiện giờ là một nơi bạo động, và đi bộ vào ban đêm không an toàn tí nào",
-                            "in complete darkness",
-                            "hoàn toàn trong bóng tối",
-                            "▪ Colour films must be developed in complete darkness.",
-                            "Phim màu phải được làm ở trong bóng tối hoàn toàn",
-                            "darknessnoun[ U ]bóng tối",
-                            "_The city centre wasplunged intodarkness by the power cut.",
-                            "pitch darknessnoun[ U ] (alsopitch blackness)",
-                            "_Suddenly the lights went out, and the house was leftinpitch darkness."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "before/after dark",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "before/after the sun has gone down",
-                        "examples": [
-                            "_It isn't safe to leave the house after dark.",
-                            "_I want to be home before dark."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

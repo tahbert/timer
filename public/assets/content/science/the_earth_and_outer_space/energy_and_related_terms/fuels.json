@@ -820,198 +820,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "solar",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[attri adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "using the energy from the sun to produce electric power : sử dụng năng lượng mặt trời",
-                        "examples": [
-                            "a solar cell/panel",
-                            "solar heating"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "solar panel",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a device that changes energy from the sun into electricity: tấm pin mặt trời",
-                        "examples": [
-                            "Solar panels are used to power satellites."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "nuclear",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[usually attri adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "being or using the power produced when the nucleus of an atom is divided or joined to another nucleus",
-                        "examples": [
-                            "the nuclear industry",
-                            "nuclear energy/ power",
-                            "France’s reliance onnuclear energy",
-                            "a nuclear power station/ a nuclear power plant",
-                            "a nuclear-powered submarine"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "on",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[prep]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "used to show sth which is used fuel",
-                        "examples": [
-                            "Does this radiorunon batteries?"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "run on",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[phrasal verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sth if a machine runs on a particular type or supply of power, it uses that power to work : chạy bằn",
-                        "examples": [
-                            "Some calculators run on solar power."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "refuel",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ I or T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to fill a plane or vehicle with fuel before continuing a journey :tiếp nhiên liệu",
-                        "examples": [
-                            "The plane was refuelled in Dubai."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "feed",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to put fuel on or inside sth that burns, to keep it burning : cung cấp vật liệu cho",
-                        "examples": [
-                            "Remember to feed the fire while I'm out."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "power",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T usually passive]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to supply power to a vehicle or machine :cấp nguồn, cung cấp lực",
-                        "examples": [
-                            "It’s powered by a Ferrari V12 engine.",
-                            "Buses and trucks are usually powered by diesel engines.",
-                            "In the future electricity will be used to power road vehicles."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "fuel",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to supply a system with a substance which can be burnt to provide heat or power: cấpnhiên liệu",
-                        "examples": [
-                            "Our heating system is fuelledbygas."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "most central",
                 "order": 1,
                 "icon": "",
@@ -1299,6 +1107,182 @@
                         "definition": "wood used as fuel for a fire: củi",
                         "examples": [
                             "We can use those old shelves as firewood."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "solar",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[attri adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "using the energy from the sun to produce electric power : sử dụng năng lượng mặt trời",
+                        "examples": [
+                            "a solar cell/panel",
+                            "solar heating"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "solar panel",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a device that changes energy from the sun into electricity: tấm pin mặt trời",
+                        "examples": [
+                            "Solar panels are used to power satellites."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "nuclear",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[usually attri adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "being or using the power produced when the nucleus of an atom is divided or joined to another nucleus",
+                        "examples": [
+                            "the nuclear industry",
+                            "nuclear energy/ power",
+                            "France’s reliance onnuclear energy",
+                            "a nuclear power station/ a nuclear power plant",
+                            "a nuclear-powered submarine"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "on",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[prep]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "used to show sth which is used fuel",
+                        "examples": [
+                            "Does this radiorunon batteries?"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "run on",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[phrasal verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sth if a machine runs on a particular type or supply of power, it uses that power to work : chạy bằn",
+                        "examples": [
+                            "Some calculators run on solar power."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "refuel",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ I or T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to fill a plane or vehicle with fuel before continuing a journey :tiếp nhiên liệu",
+                        "examples": [
+                            "The plane was refuelled in Dubai."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "feed",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to put fuel on or inside sth that burns, to keep it burning : cung cấp vật liệu cho",
+                        "examples": [
+                            "Remember to feed the fire while I'm out."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "power",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T usually passive]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to supply power to a vehicle or machine :cấp nguồn, cung cấp lực",
+                        "examples": [
+                            "It’s powered by a Ferrari V12 engine.",
+                            "Buses and trucks are usually powered by diesel engines.",
+                            "In the future electricity will be used to power road vehicles."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "fuel",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to supply a system with a substance which can be burnt to provide heat or power: cấpnhiên liệu",
+                        "examples": [
+                            "Our heating system is fuelledbygas."
                         ],
                         "isEnabled": true,
                         "children": []

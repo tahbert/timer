@@ -629,92 +629,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "date",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb đề ngày tháng",
-                        "examples": [
-                            "to write the day's date on something you have written or made",
-                            "_[ + object + noun ]Thank you for your letter dated August 30th",
-                            "to date a photo",
-                            "The photo is notdated.",
-                            "The photoisdated1944",
-                            "A very interesting photo dated1975"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "down",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adverbIN WRITING",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "in writing or on paper",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I'll write it down now so I won't forget.",
-                                    "_Do you have it downin writing/on paper, or was it just a verbal agreement?",
-                                    "_I'vegot/putyou downfor(= have written that you want) three tickets each.",
-                                    "_The police officers weretakingdown the names of witnesses."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "take",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbtook,takenWRITEghi, chép, ghi lại, chép lại",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "futher",
                 "order": 1,
                 "icon": "",
@@ -836,6 +750,92 @@
                             "creative writing(= a subject studied at school or college, where you write your own stories, poems etc)",
                             "a class increative writing"
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "date",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb đề ngày tháng",
+                        "examples": [
+                            "to write the day's date on something you have written or made",
+                            "_[ + object + noun ]Thank you for your letter dated August 30th",
+                            "to date a photo",
+                            "The photo is notdated.",
+                            "The photoisdated1944",
+                            "A very interesting photo dated1975"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "down",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adverbIN WRITING",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "in writing or on paper",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I'll write it down now so I won't forget.",
+                                    "_Do you have it downin writing/on paper, or was it just a verbal agreement?",
+                                    "_I'vegot/putyou downfor(= have written that you want) three tickets each.",
+                                    "_The police officers weretakingdown the names of witnesses."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "take",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbtook,takenWRITEghi, chép, ghi lại, chép lại",
                         "isEnabled": true,
                         "children": []
                     }

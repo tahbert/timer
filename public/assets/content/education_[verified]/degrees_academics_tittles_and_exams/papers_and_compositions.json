@@ -15,45 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "paper",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a piece of writing on a particular subject written by an expert and usually published in a book or journal , or read aloud to other people : bài luận",
-                        "examples": [
-                            "a scientific paper",
-                            "The professor has published over forty scientific papers on diseases of tropical crops",
-                            "paper on",
-                            "a paper on psychology",
-                            "give a paper on",
-                            "Professor Usborne gave a paper on recent developments in his field.",
-                            "He's giving a paper on thermodynamics at a conference at ManchesterUniversity."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -413,6 +374,45 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "paper",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a piece of writing on a particular subject written by an expert and usually published in a book or journal , or read aloud to other people : bài luận",
+                        "examples": [
+                            "a scientific paper",
+                            "The professor has published over forty scientific papers on diseases of tropical crops",
+                            "paper on",
+                            "a paper on psychology",
+                            "give a paper on",
+                            "Professor Usborne gave a paper on recent developments in his field.",
+                            "He's giving a paper on thermodynamics at a conference at ManchesterUniversity."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

@@ -734,7 +734,42 @@
             },
             {
                 "id": "",
-                "name": "further",
+                "name": "a room in a hotel that is available",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "vacancy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a room in a hotel or building that is not being used and is available for sb to stay in :",
+                        "examples": [
+                            "Let me see if wehaveavacancyfor tonight.",
+                            "‘No vacancies’, the sign read.",
+                            "We wanted to book a hotel room in July but there were no vacancies."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -793,41 +828,6 @@
                         "definition": "to promise the same room, seat, ticket, etc. to different people",
                         "examples": [
                             "The room was double-booked so they had to give us a different one."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "a room in a hotel that is available",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "vacancy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a room in a hotel or building that is not being used and is available for sb to stay in :",
-                        "examples": [
-                            "Let me see if wehaveavacancyfor tonight.",
-                            "‘No vacancies’, the sign read.",
-                            "We wanted to book a hotel room in July but there were no vacancies."
                         ],
                         "isEnabled": true,
                         "children": []

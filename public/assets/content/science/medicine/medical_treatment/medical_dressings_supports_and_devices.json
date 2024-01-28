@@ -15,70 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "earplug",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a small piece of soft material such as wax, cotton or plastic which you put into your ear to keep out noise or water : nút bịt lỗ tai",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "eye-patch",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a covering worn over the eye to protect it if it is damaged or sore : miếng vải quấn quanh một mắt",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "prosthesis",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "specialized an artificial body part, such as an arm, foot or tooth, which replaces a missing part : bộ phận giả",
-                        "examples": [
-                            "prosthetic[adj] giả",
-                            "a prosthetic hand"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a support",
                 "order": 1,
                 "icon": "",
@@ -275,6 +211,70 @@
                         "definition": "UK/cottonUS a soft mass of cotton that you use especially for cleaning and protecting wounds : bông",
                         "examples": [
                             "She put some disinfectant on a piece of cotton wool and dabbed it on her cheek."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "earplug",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a small piece of soft material such as wax, cotton or plastic which you put into your ear to keep out noise or water : nút bịt lỗ tai",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "eye-patch",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a covering worn over the eye to protect it if it is damaged or sore : miếng vải quấn quanh một mắt",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "prosthesis",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "specialized an artificial body part, such as an arm, foot or tooth, which replaces a missing part : bộ phận giả",
+                        "examples": [
+                            "prosthetic[adj] giả",
+                            "a prosthetic hand"
                         ],
                         "isEnabled": true,
                         "children": []

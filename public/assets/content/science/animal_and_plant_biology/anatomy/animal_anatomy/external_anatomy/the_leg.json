@@ -56,39 +56,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "leggy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a leggy woman or girl has long legs: có chân cẳng dài",
-                        "examples": [
-                            "She was a tall leggy blonde."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "parts",
                 "order": 1,
                 "icon": "",
@@ -300,6 +267,39 @@
                         "definition": "the thick curved part at the back of the human leg between the knee and the foot : bắp chân",
                         "examples": [
                             "She's been unable to play since January because of a torn calfmuscle."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "leggy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a leggy woman or girl has long legs: có chân cẳng dài",
+                        "examples": [
+                            "She was a tall leggy blonde."
                         ],
                         "isEnabled": true,
                         "children": []

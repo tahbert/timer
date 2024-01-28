@@ -100,128 +100,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "wrapper",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈræpəʳ/  a piece of paper, or very thin plastic or metal, that covers food, chocolate etc when you buy it: giấy bọc, vỏ bọc...",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "▪ chewing-gum wrappers",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ The empty stadium was littered with burger wrappers and empty cans."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "wrapping",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[countable/uncountable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "cloth, paper, or plastic that is wrapped around something to protect it: bao, bọc",
-                        "examples": [
-                            "▪ He undid the ribbons and tore at the paper wrapping."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "▪ Christmas wrapping littered the floor",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "wind",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbwound,woundWRAP AROUND",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "packet",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "gói",
-                        "examples": [
-                            "a)British Englisha container made of paper, plastic, or cardboard that something is sold in",
-                            "packet of",
-                            "a packet of envelopes",
-                            "a packet of cigarettes",
-                            "a cereal packet",
-                            "b)American Englisha small flat paper or plastic container that a liquid or powder is sold inSYN sachetBritish English:",
-                            "packets of ketchup and mustard",
-                            "2especially British Englisha small flat package that is sent by post or delivered to someone :",
-                            "Paul tore open the packet as soon as it arrived."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to wrap sb/sth",
                 "order": 1,
                 "icon": "",
@@ -366,6 +244,128 @@
                             "unload something from something",
                             "The driver unloaded some boxes from the back of the truck.",
                             "b)[I] if a ship unloads, the goods that it carries are removed from it"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "wrapper",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈræpəʳ/  a piece of paper, or very thin plastic or metal, that covers food, chocolate etc when you buy it: giấy bọc, vỏ bọc...",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "▪ chewing-gum wrappers",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The empty stadium was littered with burger wrappers and empty cans."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "wrapping",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[countable/uncountable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "cloth, paper, or plastic that is wrapped around something to protect it: bao, bọc",
+                        "examples": [
+                            "▪ He undid the ribbons and tore at the paper wrapping."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "▪ Christmas wrapping littered the floor",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "wind",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbwound,woundWRAP AROUND",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "packet",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "gói",
+                        "examples": [
+                            "a)British Englisha container made of paper, plastic, or cardboard that something is sold in",
+                            "packet of",
+                            "a packet of envelopes",
+                            "a packet of cigarettes",
+                            "a cereal packet",
+                            "b)American Englisha small flat paper or plastic container that a liquid or powder is sold inSYN sachetBritish English:",
+                            "packets of ketchup and mustard",
+                            "2especially British Englisha small flat package that is sent by post or delivered to someone :",
+                            "Paul tore open the packet as soon as it arrived."
                         ],
                         "isEnabled": true,
                         "children": []

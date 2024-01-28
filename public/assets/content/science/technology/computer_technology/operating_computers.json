@@ -768,225 +768,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "interactive",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˌɪntərˈæktɪv◂/  interactive software allows the person using it to affect what happens on the computer screen:",
-                        "examples": [
-                            "tương tác",
-                            "▪ an interactive education package for 7-10-year-olds",
-                            "▪ When designing your site, think about whether it needs to be interactive or informational.",
-                            "interactiveadjective tương tácảnh hưởng lẫn nhau",
-                            "describes a system or computer program which is designed to involve the user in the exchange of information",
-                            "_an interactive game/video",
-                            "_This is an interactive museum where children can actively manipulate the exhibits."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "zoom in/out",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "phrasal verb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to (cause a computer to) make the image of something or someone appear much larger and nearer, or much smaller and further away",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Click on a photo of any student, and it zooms out to full-size."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "access",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbtruy cập",
-                        "examples": [
-                            "to open a computerfile(= a collection of information stored on a computer) in order to look at or change information in it"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "format",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[ C or U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun cấu trúc của một đơn vị dữ liệu; dạng thức",
-                        "examples": [
-                            "specializedthe way in which informationis arranged and stored on a computer"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "call sth up",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ M ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "callsthupphrasal verb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to find and show information on a computer screen",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_You can use the search facility to call up all the occurrences of a particular word in a document."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "unzip",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb-pp- giảinén",
-                        "examples": [
-                            "to return a computer file to its original size after it has beenzipped(= reduced in size so that it can be easily sent or stored)"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "overwrite",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verboverwrote,overwrittenREPLACE viết đè lên, viết lên",
-                        "examples": [
-                            "[ T ] If you overwrite a computer file, you replace it with a different one."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "zip",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb-pp-COMPUTING nén(một tập tin)",
-                        "examples": [
-                            "[ T ] tocompress(= reduce the size of) a computer file so that it uses less space, andcan be more easily sent or stored",
-                            "_If you're desperate for disk space you could zip the file(up)and stick it on a floppy.",
-                            "zip filenoun[ C ]tập tin nén",
-                            "a computer file that has beencompressed(= reduced in size) so that it uses up less space"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "write",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbwrote,writtenorold usewrit viết",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to write sth on a computer, typewriter etc",
                 "order": 1,
                 "icon": "",
@@ -1188,7 +969,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "extra",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1200,6 +981,434 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "edit",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb",
+                        "examples": [
+                            "to prepare a photo or video for printing or viewing by correcting mistakes and deciding what will be removed and what will be kept in, etc",
+                            "edit a photo",
+                            "We generally just use Photoshop for editing our photos and related graphics, and use them in Dreamweaver.",
+                            "This is one of myedited photos",
+                            "Certainly, if you're a digital artist, editingphotos or video, then the more accurate panel could help you unlock extra details from your graphics, but the rest of us simply get richer colors and much better contrast.",
+                            "editing[ U ]",
+                            "Filming the documentary took two months, but editing took another four.",
+                            "photoeditting",
+                            "I recommend using digital photos and doing the measurements by pixel within a photo editing program."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "attach",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to a photo",
+                        "examples": [
+                            "They canattacha photo too, if they want to be more easily identified",
+                            "Please seeattached photosand video link below"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "enlarge",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to make something appear larger on screen.",
+                        "examples": [
+                            "phóng to",
+                            "enlarge a photo",
+                            "Do you have any problems enlarging the photos to see them better?",
+                            "Pleaseseeenlargedphoto",
+                            "If you enlarge the photos by clicking on them you will see that they do appear to be round."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "store",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a photo",
+                        "examples": [
+                            "I store photos on an external hard drive.",
+                            "Do you use Dropbox to store photos or documents?",
+                            "Access stored photos , videos and documents both at home and when you are away.",
+                            "Photos.app stores yourphotos and allows some level of editing.",
+                            "See how many students currently store photos online."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "recover",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a photo",
+                        "examples": [
+                            "The Software recovers photo lost due to hardware-software malfunctioning."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "transfer",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to move files from one device to another :",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "transfer a photo",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Transfer photos between Android and computer.",
+                                    "We recommend Art's Camera as a place where you can get photos transferredto a CD, or copied."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "convert",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to change one file format to another.",
+                        "examples": [
+                            "convert sth to / into sth",
+                            "convert a photo",
+                            "Slide Show is an easy-to-use tool to convert digital photos to video"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "sync",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ I or T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "( alsosynch) / sɪŋk /",
+                        "examples": [
+                            "to connect two electronic devices so that they both have the latest information or files:"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "from sth to sth",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "How do I sync my iPhone to my computer?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "sync a photo",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I synced my photos from my iPhone to my MacBook."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "share U",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "shareto post or repost (something) on a social media website or application.",
+                        "examples": [
+                            "The app lets you share your photos on Facebook, Twitter, and Tumblr",
+                            "share a photo",
+                            "Thanks for sharing the photos from NASPA!",
+                            "The review can be read from the photo shared.",
+                            "sharing[ U ]",
+                            "photo sharing",
+                            "Instagram is a very popular photosharing app."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "interactive",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˌɪntərˈæktɪv◂/  interactive software allows the person using it to affect what happens on the computer screen:",
+                        "examples": [
+                            "tương tác",
+                            "▪ an interactive education package for 7-10-year-olds",
+                            "▪ When designing your site, think about whether it needs to be interactive or informational.",
+                            "interactiveadjective tương tácảnh hưởng lẫn nhau",
+                            "describes a system or computer program which is designed to involve the user in the exchange of information",
+                            "_an interactive game/video",
+                            "_This is an interactive museum where children can actively manipulate the exhibits."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "zoom in/out",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "phrasal verb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to (cause a computer to) make the image of something or someone appear much larger and nearer, or much smaller and further away",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Click on a photo of any student, and it zooms out to full-size."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "access",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbtruy cập",
+                        "examples": [
+                            "to open a computerfile(= a collection of information stored on a computer) in order to look at or change information in it"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "format",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[ C or U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun cấu trúc của một đơn vị dữ liệu; dạng thức",
+                        "examples": [
+                            "specializedthe way in which informationis arranged and stored on a computer"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "call sth up",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ M ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "callsthupphrasal verb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to find and show information on a computer screen",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_You can use the search facility to call up all the occurrences of a particular word in a document."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "unzip",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb-pp- giảinén",
+                        "examples": [
+                            "to return a computer file to its original size after it has beenzipped(= reduced in size so that it can be easily sent or stored)"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "overwrite",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verboverwrote,overwrittenREPLACE viết đè lên, viết lên",
+                        "examples": [
+                            "[ T ] If you overwrite a computer file, you replace it with a different one."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "zip",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb-pp-COMPUTING nén(một tập tin)",
+                        "examples": [
+                            "[ T ] tocompress(= reduce the size of) a computer file so that it uses less space, andcan be more easily sent or stored",
+                            "_If you're desperate for disk space you could zip the file(up)and stick it on a floppy.",
+                            "zip filenoun[ C ]tập tin nén",
+                            "a computer file that has beencompressed(= reduced in size) so that it uses up less space"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "write",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbwrote,writtenorold usewrit viết",
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "back up",
@@ -1463,23 +1672,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "escape",
@@ -1525,23 +1718,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "import",
@@ -1579,23 +1756,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "install",
@@ -1662,23 +1823,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "left click",
@@ -1752,23 +1897,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "drag",
@@ -1801,247 +1930,6 @@
                         "definition": "kéo và thả",
                         "examples": [
                             "If you drag and drop something on a computer screen, you move it from one area toanother using themouse(DEVICE)."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "extra",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "edit",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb",
-                        "examples": [
-                            "to prepare a photo or video for printing or viewing by correcting mistakes and deciding what will be removed and what will be kept in, etc",
-                            "edit a photo",
-                            "We generally just use Photoshop for editing our photos and related graphics, and use them in Dreamweaver.",
-                            "This is one of myedited photos",
-                            "Certainly, if you're a digital artist, editingphotos or video, then the more accurate panel could help you unlock extra details from your graphics, but the rest of us simply get richer colors and much better contrast.",
-                            "editing[ U ]",
-                            "Filming the documentary took two months, but editing took another four.",
-                            "photoeditting",
-                            "I recommend using digital photos and doing the measurements by pixel within a photo editing program."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "attach",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to a photo",
-                        "examples": [
-                            "They canattacha photo too, if they want to be more easily identified",
-                            "Please seeattached photosand video link below"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "enlarge",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to make something appear larger on screen.",
-                        "examples": [
-                            "phóng to",
-                            "enlarge a photo",
-                            "Do you have any problems enlarging the photos to see them better?",
-                            "Pleaseseeenlargedphoto",
-                            "If you enlarge the photos by clicking on them you will see that they do appear to be round."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "store",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a photo",
-                        "examples": [
-                            "I store photos on an external hard drive.",
-                            "Do you use Dropbox to store photos or documents?",
-                            "Access stored photos , videos and documents both at home and when you are away.",
-                            "Photos.app stores yourphotos and allows some level of editing.",
-                            "See how many students currently store photos online."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "recover",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a photo",
-                        "examples": [
-                            "The Software recovers photo lost due to hardware-software malfunctioning."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "transfer",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to move files from one device to another :",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "transfer a photo",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Transfer photos between Android and computer.",
-                                    "We recommend Art's Camera as a place where you can get photos transferredto a CD, or copied."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "convert",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to change one file format to another.",
-                        "examples": [
-                            "convert sth to / into sth",
-                            "convert a photo",
-                            "Slide Show is an easy-to-use tool to convert digital photos to video"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "sync",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ I or T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "( alsosynch) / sɪŋk /",
-                        "examples": [
-                            "to connect two electronic devices so that they both have the latest information or files:"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "from sth to sth",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "How do I sync my iPhone to my computer?"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "sync a photo",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "I synced my photos from my iPhone to my MacBook."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "share U",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "shareto post or repost (something) on a social media website or application.",
-                        "examples": [
-                            "The app lets you share your photos on Facebook, Twitter, and Tumblr",
-                            "share a photo",
-                            "Thanks for sharing the photos from NASPA!",
-                            "The review can be read from the photo shared.",
-                            "sharing[ U ]",
-                            "photo sharing",
-                            "Instagram is a very popular photosharing app."
                         ],
                         "isEnabled": true,
                         "children": []

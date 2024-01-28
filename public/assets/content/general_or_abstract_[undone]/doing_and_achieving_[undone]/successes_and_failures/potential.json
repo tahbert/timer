@@ -515,77 +515,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "failure",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an occasion when a machine or part of your body stops working properly :",
-                        "examples": [
-                            "The cause of the crash was engine failure.",
-                            "heart/kidney/liver etc failure",
-                            "He died from kidney failure.",
-                            "failure in",
-                            "a failure in the computer system"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "failure",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a situation in which a business has to close because of a lack of money :",
-                        "examples": [
-                            "Business failures in Scotland rose 10% last year."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "failure",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an occasion when crops do not grow or produce food, for example because of bad weather :",
-                        "examples": [
-                            "a series ofcrop failures"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "failure to do sth",
                 "order": 1,
                 "icon": "",
@@ -944,6 +873,77 @@
                         "examples": [
                             "▪ Although the show was a hit in London it bombed on Broadway.",
                             "▪ She has had few offers of work since her last movie bombed so spectacularly."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "failure",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an occasion when a machine or part of your body stops working properly :",
+                        "examples": [
+                            "The cause of the crash was engine failure.",
+                            "heart/kidney/liver etc failure",
+                            "He died from kidney failure.",
+                            "failure in",
+                            "a failure in the computer system"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "failure",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a situation in which a business has to close because of a lack of money :",
+                        "examples": [
+                            "Business failures in Scotland rose 10% last year."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "failure",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an occasion when crops do not grow or produce food, for example because of bad weather :",
+                        "examples": [
+                            "a series ofcrop failures"
                         ],
                         "isEnabled": true,
                         "children": []

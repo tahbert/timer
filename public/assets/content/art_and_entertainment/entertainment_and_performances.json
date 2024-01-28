@@ -15,99 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "entrance",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when an actor or dancer comes onto a stage : bước ra sân khấu",
-                        "examples": [
-                            "a highly theatrical entrance",
-                            "an actress must learn her entrances and exits",
-                            "make your/an entranceto come onto the stage in a play",
-                            "He makes a spectacular entrance in act two draped in a gold sheet.",
-                            "the hero makes his entrance (on stage) in Act 2"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "audition",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a short performance by an actor, singer etc that sb watches to judge if they are good enough to act in a play, sing in a concert etc : thử giọng, thử vai",
-                        "examples": [
-                            "audition for",
-                            "I’ve got an audition for the Bournemouth Symphony Orchestra on Friday.",
-                            "His audition went well and he's fairly hopeful about getting the part.",
-                            "The director isholdingauditions next weekforthe major parts.",
-                            "audition[I] to take part in an audition",
-                            "audition for",
-                            "She’s auditioning for Ophelia in ‘Hamlet’."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "interpretation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ C or U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a particular way of performing a piece of music, a part in a play, etc: cách thể hiện, trình diễn",
-                        "examples": [
-                            "Her interpretation of Juliet was one of the best performances I have ever seen."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "Laurence Olivier’s brilliant interpretation of Henry V",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the business",
                 "order": 1,
                 "icon": "",
@@ -939,6 +846,99 @@
                                 "examples": [
                                     "He was injured in a circus act that went wrong."
                                 ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "entrance",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when an actor or dancer comes onto a stage : bước ra sân khấu",
+                        "examples": [
+                            "a highly theatrical entrance",
+                            "an actress must learn her entrances and exits",
+                            "make your/an entranceto come onto the stage in a play",
+                            "He makes a spectacular entrance in act two draped in a gold sheet.",
+                            "the hero makes his entrance (on stage) in Act 2"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "audition",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a short performance by an actor, singer etc that sb watches to judge if they are good enough to act in a play, sing in a concert etc : thử giọng, thử vai",
+                        "examples": [
+                            "audition for",
+                            "I’ve got an audition for the Bournemouth Symphony Orchestra on Friday.",
+                            "His audition went well and he's fairly hopeful about getting the part.",
+                            "The director isholdingauditions next weekforthe major parts.",
+                            "audition[I] to take part in an audition",
+                            "audition for",
+                            "She’s auditioning for Ophelia in ‘Hamlet’."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "interpretation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ C or U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a particular way of performing a piece of music, a part in a play, etc: cách thể hiện, trình diễn",
+                        "examples": [
+                            "Her interpretation of Juliet was one of the best performances I have ever seen."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "Laurence Olivier’s brilliant interpretation of Henry V",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
                                 "isEnabled": true,
                                 "children": []
                             }

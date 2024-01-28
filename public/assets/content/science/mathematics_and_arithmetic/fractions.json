@@ -81,57 +81,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "half and half",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "equal amounts of two different things",
-                        "examples": [
-                            "\"Do you use milk or cream in the recipe?\" \"Half and half.\""
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "fifty-fifty",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adv/adv]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(into) equal halves",
-                        "examples": [
-                            "They divided the prize fifty-fifty.",
-                            "There's onlyafifty-fiftychancethat she'll survive the operation."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -213,6 +162,57 @@
                         "definition": "the number above the line in a fraction : tử số",
                         "examples": [
                             "In the fraction ¾, 3 is the numerator."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "half and half",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "equal amounts of two different things",
+                        "examples": [
+                            "\"Do you use milk or cream in the recipe?\" \"Half and half.\""
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "fifty-fifty",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adv/adv]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(into) equal halves",
+                        "examples": [
+                            "They divided the prize fifty-fifty.",
+                            "There's onlyafifty-fiftychancethat she'll survive the operation."
                         ],
                         "isEnabled": true,
                         "children": []

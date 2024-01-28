@@ -229,41 +229,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "up and down",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[PP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to a higher position and then a lower position, several times :",
-                        "examples": [
-                            "They were all jumping up and down and screaming excitedly.",
-                            "Shivers ran up and down my body.",
-                            "My little daughter startedjumpingup and down with rage when she heard she couldn't go."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "moving up to a higher place",
                 "order": 1,
                 "icon": "",
@@ -861,7 +826,7 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -873,6 +838,25 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "up and down",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[PP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to a higher position and then a lower position, several times :",
+                        "examples": [
+                            "They were all jumping up and down and screaming excitedly.",
+                            "Shivers ran up and down my body.",
+                            "My little daughter startedjumpingup and down with rage when she heard she couldn't go."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "upper",

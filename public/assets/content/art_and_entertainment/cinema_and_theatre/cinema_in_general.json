@@ -876,60 +876,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "be on/be playing",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "be on/ be playing if a film is on or is playing at a cinema, it is being shown there: đang được chiếu",
-                        "examples": [
-                            "‘Three Kings’ is on at the Phoenix at the moment.",
-                            "Spielberg’s new blockbuster is currently playing at over 2000 theaters nationwide.",
-                            "what’s on?",
-                            "What’s on at the cinema this weekend?"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "display",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to show words, pictures, etc. on a screen:",
-                        "examples": [
-                            "Retailers should display delivery times and costs on their websites.",
-                            "display a photo",
-                            "All photos are displayed at a high-resolution so they look perfect on the new iPad's Retina display"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the art",
                 "order": 1,
                 "icon": "",
@@ -1464,6 +1410,60 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "be on/be playing",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "be on/ be playing if a film is on or is playing at a cinema, it is being shown there: đang được chiếu",
+                        "examples": [
+                            "‘Three Kings’ is on at the Phoenix at the moment.",
+                            "Spielberg’s new blockbuster is currently playing at over 2000 theaters nationwide.",
+                            "what’s on?",
+                            "What’s on at the cinema this weekend?"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "display",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to show words, pictures, etc. on a screen:",
+                        "examples": [
+                            "Retailers should display delivery times and costs on their websites.",
+                            "display a photo",
+                            "All photos are displayed at a high-resolution so they look perfect on the new iPad's Retina display"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

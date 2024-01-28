@@ -940,57 +940,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "take the law into your own hands",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[idiom]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "take the law into yourown hands to do sth illegal and often violent in order to punish sb because you know the law will not punish that person : tự xử lấy",
-                        "examples": [
-                            "One day, after years of violent abuse from her husband, she took the law into her own hands."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "ticket",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a printed note ordering you to pay money because you have done something illegal while driving or parking your car: giấy phạt; biên lai phạt",
-                        "examples": [
-                            "a parking/ speeding ticket",
-                            "When I got back, there was a traffic warden by the car and a parking ticket on the windscreen.’"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "intended as a punishment",
                 "order": 1,
                 "icon": "",
@@ -1060,6 +1009,57 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "take the law into your own hands",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[idiom]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "take the law into yourown hands to do sth illegal and often violent in order to punish sb because you know the law will not punish that person : tự xử lấy",
+                        "examples": [
+                            "One day, after years of violent abuse from her husband, she took the law into her own hands."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "ticket",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a printed note ordering you to pay money because you have done something illegal while driving or parking your car: giấy phạt; biên lai phạt",
+                        "examples": [
+                            "a parking/ speeding ticket",
+                            "When I got back, there was a traffic warden by the car and a parking ticket on the windscreen.’"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

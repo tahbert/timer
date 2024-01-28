@@ -157,105 +157,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "joint",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the place where two parts of someone’s body or two parts of a machine are joined, so that they can bend at this place:đầu nối, khớp nối",
-                        "examples": [
-                            "I’ve had a lot of pain in my joints recently, especially in my wrists and shoulders.",
-                            "The balljoint connects the driveshaft to the gearbox."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "assemble",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[transitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/əˈsembəl/  to make something such as a machine or a piece of furniture by putting together parts that have been made somewhere else:",
-                        "examples": [
-                            "▪ It’s one of those beds that you have to assemble yourself.",
-                            "▪ Our kits are very easy to assemble.",
-                            "▪ The apprentices worked in the shed where the new locomotives were assembled and the old ones repaired."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "union",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounJOINING",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "put sth together",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ M ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "putsthtogetherphrasal verb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to put the parts of something in the correct places and join them to each other",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Model aeroplanes come in pieces which you have to put together."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to connect two things together",
                 "order": 1,
                 "icon": "",
@@ -926,6 +827,105 @@
                                 "definition": "",
                                 "examples": [
                                     "_The survival of whales is intimately bound upwiththe health of the ocean."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "joint",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the place where two parts of someone’s body or two parts of a machine are joined, so that they can bend at this place:đầu nối, khớp nối",
+                        "examples": [
+                            "I’ve had a lot of pain in my joints recently, especially in my wrists and shoulders.",
+                            "The balljoint connects the driveshaft to the gearbox."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "assemble",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[transitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/əˈsembəl/  to make something such as a machine or a piece of furniture by putting together parts that have been made somewhere else:",
+                        "examples": [
+                            "▪ It’s one of those beds that you have to assemble yourself.",
+                            "▪ Our kits are very easy to assemble.",
+                            "▪ The apprentices worked in the shed where the new locomotives were assembled and the old ones repaired."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "union",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounJOINING",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "put sth together",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ M ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "putsthtogetherphrasal verb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to put the parts of something in the correct places and join them to each other",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Model aeroplanes come in pieces which you have to put together."
                                 ],
                                 "isEnabled": true,
                                 "children": []

@@ -15,7 +15,43 @@
         "children": [
             {
                 "id": "",
-                "name": "group",
+                "name": "in general",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "dynamics",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "usage": "",
+                        "region": "",
+                        "definition": "plural noun động lực học",
+                        "examples": [
+                            "forces or processes that produce change inside a group or system",
+                            "_The fight for the leadership gave a fascinating insight into the group's dynamics.",
+                            "dynamicadjective (thuộc) động lực",
+                            "relating to forces that produce movement",
+                            "_a dynamic force"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -149,23 +185,7 @@
                         "definition": "nounFORCE sức căng",
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "drag",
@@ -228,42 +248,6 @@
                             "gravitationaladjective hút; hấp dẫn",
                             "relating to gravity or gravitation",
                             "_gravitational forces"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "in general",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "dynamics",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "usage": "",
-                        "region": "",
-                        "definition": "plural noun động lực học",
-                        "examples": [
-                            "forces or processes that produce change inside a group or system",
-                            "_The fight for the leadership gave a fascinating insight into the group's dynamics.",
-                            "dynamicadjective (thuộc) động lực",
-                            "relating to forces that produce movement",
-                            "_a dynamic force"
                         ],
                         "isEnabled": true,
                         "children": []

@@ -156,38 +156,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "foreign to",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formalSomething can be described as  a particular person if they do not know about it or it is not within their experience",
-                        "examples": [
-                            "The whole concept of democracy, she claimed, was utterly foreign to the present government."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "sb/sth that people know very little about",
                 "order": 1,
                 "icon": "",
@@ -272,6 +240,38 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "foreign to",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formalSomething can be described as  a particular person if they do not know about it or it is not within their experience",
+                        "examples": [
+                            "The whole concept of democracy, she claimed, was utterly foreign to the present government."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

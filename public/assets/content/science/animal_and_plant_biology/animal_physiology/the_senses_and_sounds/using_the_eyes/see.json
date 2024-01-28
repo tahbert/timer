@@ -517,7 +517,39 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "to see sth for information",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "see",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to  a photo",
+                        "examples": [
+                            "Read press coverage by clicking here andseemore event photos here"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -565,38 +597,6 @@
                         "usage": "",
                         "region": "",
                         "definition": "verb-nn-LOOK xem tỉ mỉ",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to see sth for information",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "see",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to  a photo",
-                        "examples": [
-                            "Read press coverage by clicking here andseemore event photos here"
-                        ],
                         "isEnabled": true,
                         "children": []
                     }

@@ -438,77 +438,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "convert",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb who has been persuaded to change their beliefs and accept a particular religion or opinion : người cải đạo",
-                        "examples": [
-                            "a Christian/Buddhist convert",
-                            "convert to",
-                            "a convert to Christianity"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "apostate",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formal a person who has given up their religion:người bỏ đạo",
-                        "examples": [
-                            "after fifty years as an apostate he returned to the faith",
-                            "apostasy[U] formal the act of giving up your religious or political beliefs and leaving a religion or a political party",
-                            "In those days apostasy was punishable by death."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "penitent",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formal A person who repents their sins and (in the Christian Church) seeks forgiveness from God: người ăn năn, sám hối",
-                        "examples": [
-                            "The penitent will then say ‘bless me Father/forgive me Father for I have sinned.’’"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "not believing in a religion",
                 "order": 1,
                 "icon": "",
@@ -571,6 +500,77 @@
                         "definition": "not having or believing in God or gods :vô thần",
                         "examples": [
                             "a godless society"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "convert",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who has been persuaded to change their beliefs and accept a particular religion or opinion : người cải đạo",
+                        "examples": [
+                            "a Christian/Buddhist convert",
+                            "convert to",
+                            "a convert to Christianity"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "apostate",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formal a person who has given up their religion:người bỏ đạo",
+                        "examples": [
+                            "after fifty years as an apostate he returned to the faith",
+                            "apostasy[U] formal the act of giving up your religious or political beliefs and leaving a religion or a political party",
+                            "In those days apostasy was punishable by death."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "penitent",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formal A person who repents their sins and (in the Christian Church) seeks forgiveness from God: người ăn năn, sám hối",
+                        "examples": [
+                            "The penitent will then say ‘bless me Father/forgive me Father for I have sinned.’’"
                         ],
                         "isEnabled": true,
                         "children": []

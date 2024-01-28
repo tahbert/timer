@@ -1319,54 +1319,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "force",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a group of people organized and trained to do a particular job, especially for military, police or a stated purpose : lực lượng",
-                        "examples": [
-                            "the security forces",
-                            "the work force",
-                            "He joined thepoliceforce straight after school."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "side",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounOPPOSING GROUP",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a group of people chosen to be surveyed",
                 "order": 1,
                 "icon": "",
@@ -1446,6 +1398,54 @@
                             "We use focus groups, surveys, and questionnaires to try to gauge our customers’ needs.",
                             "Focus groups revealed that teenagers who had higher self-confidence were more likely to use contraception."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "force",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a group of people organized and trained to do a particular job, especially for military, police or a stated purpose : lực lượng",
+                        "examples": [
+                            "the security forces",
+                            "the work force",
+                            "He joined thepoliceforce straight after school."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "side",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounOPPOSING GROUP",
                         "isEnabled": true,
                         "children": []
                     }

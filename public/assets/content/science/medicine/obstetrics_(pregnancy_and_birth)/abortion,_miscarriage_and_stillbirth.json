@@ -133,110 +133,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "anti-choice",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "against women having the right to have an abortion: phản đối luật phá thai",
-                        "examples": [
-                            "the anti-choice lobby",
-                            "anti-abortion[adj]supporting the belief that abortion (= theintentional ending of pregnancy) is morally wrong : chống phá thai",
-                            "anti-abortion activists/ groups"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "anti-life",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "disapproving supporting the idea that a pregnant woman should have the freedom to choose an abortion (= the intentional ending of pregnancy) : phản đối việc phá thai",
-                        "examples": [
-                            "the anti-life lobby"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "pro-choice",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "supporting the belief that women have a right to have an abortion",
-                        "examples": [
-                            "pro-choice activists/ demonstrators",
-                            "the pro-choice lobby"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "pro-life",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "pro lifesb who is  is opposed to abortion and uses this word to describe their opinion : phản đối việc phá thai",
-                        "examples": [
-                            "a pro-life activist"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "right-to-life",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CS]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "right to life if you talk about a baby’s right to life, you mean that a baby has the right to be born, even if there are problems:quyền được sống",
-                        "examples": [
-                            "Every unborn child has a right to life."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the baby died before being born",
                 "order": 1,
                 "icon": "",
@@ -386,6 +282,110 @@
                         "examples": [
                             "an enquiry into stillbirths and deaths in infancy",
                             "the risk of stillbirth"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "anti-choice",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "against women having the right to have an abortion: phản đối luật phá thai",
+                        "examples": [
+                            "the anti-choice lobby",
+                            "anti-abortion[adj]supporting the belief that abortion (= theintentional ending of pregnancy) is morally wrong : chống phá thai",
+                            "anti-abortion activists/ groups"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "anti-life",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "disapproving supporting the idea that a pregnant woman should have the freedom to choose an abortion (= the intentional ending of pregnancy) : phản đối việc phá thai",
+                        "examples": [
+                            "the anti-life lobby"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "pro-choice",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "supporting the belief that women have a right to have an abortion",
+                        "examples": [
+                            "pro-choice activists/ demonstrators",
+                            "the pro-choice lobby"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "pro-life",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "pro lifesb who is  is opposed to abortion and uses this word to describe their opinion : phản đối việc phá thai",
+                        "examples": [
+                            "a pro-life activist"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "right-to-life",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CS]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "right to life if you talk about a baby’s right to life, you mean that a baby has the right to be born, even if there are problems:quyền được sống",
+                        "examples": [
+                            "Every unborn child has a right to life."
                         ],
                         "isEnabled": true,
                         "children": []

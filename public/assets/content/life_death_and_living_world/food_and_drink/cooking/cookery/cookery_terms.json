@@ -703,39 +703,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "à la mode",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[popo adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "US served with ice cream : kèm với kem",
-                        "examples": [
-                            "apple pie à la mode"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "cooked",
                 "order": 1,
                 "icon": "",
@@ -929,6 +896,39 @@
                         "definition": "(of meat) cooked all the way through and not just on the outside : nấu chín kỹ",
                         "examples": [
                             "\"How would you like your steak done?\" \" Well-done (= Cooked for a long time) , please.\""
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "à la mode",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[popo adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "US served with ice cream : kèm với kem",
+                        "examples": [
+                            "apple pie à la mode"
                         ],
                         "isEnabled": true,
                         "children": []

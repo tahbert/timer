@@ -590,82 +590,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "I'm afraid",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "...tôi e là",
-                        "examples": [
-                            "used to politely introduce bad news or disagreement",
-                            "_This is your room - it's rather small, I'm afraid.",
-                            "_I don't agree at all, I'm afraid.",
-                            "_I'm afraid you've completely misunderstood the question.",
-                            "_[ + ( that ) ]I'm afraid(that)we can't come this evening after all.",
-                            "_\"Was she impressed with our work?\" \"I'm afraid not (= No) .\"",
-                            "_\"Does this mean I've got to leave?\" \"I'm afraid so (= Yes) .\""
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "forgiveness",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun sự tha thứ",
-                        "examples": [
-                            "the act of forgiving or the willingness to forgive",
-                            "_to ask for/beg forgiveness",
-                            "_ he asked forgiveness for what he had done wrong",
-                            "hắn xin được tha thứ về những lỗi lầm của mình",
-                            "_ the forgiveness of sins sự xá tội; sự ân xá",
-                            "_ she is sympathetic and full of forgiveess cô ây luôn cảm thông và đầy lòng khoan dung"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "make no apology for sth",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "make no apology for somethingto not say that you are sorry for something, because you do not regret it and you think it is the right thing to do :",
-                        "examples": [
-                            "We make no apology for defending our members’ interests – that is our job."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to stop arguing",
                 "order": 1,
                 "icon": "",
@@ -1953,6 +1877,82 @@
                         "definition": "spokenused when you have said sth that is not correct, and want to say something that is correct :",
                         "examples": [
                             "Turn right – sorry left – at the traffic lights."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "I'm afraid",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "...tôi e là",
+                        "examples": [
+                            "used to politely introduce bad news or disagreement",
+                            "_This is your room - it's rather small, I'm afraid.",
+                            "_I don't agree at all, I'm afraid.",
+                            "_I'm afraid you've completely misunderstood the question.",
+                            "_[ + ( that ) ]I'm afraid(that)we can't come this evening after all.",
+                            "_\"Was she impressed with our work?\" \"I'm afraid not (= No) .\"",
+                            "_\"Does this mean I've got to leave?\" \"I'm afraid so (= Yes) .\""
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "forgiveness",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun sự tha thứ",
+                        "examples": [
+                            "the act of forgiving or the willingness to forgive",
+                            "_to ask for/beg forgiveness",
+                            "_ he asked forgiveness for what he had done wrong",
+                            "hắn xin được tha thứ về những lỗi lầm của mình",
+                            "_ the forgiveness of sins sự xá tội; sự ân xá",
+                            "_ she is sympathetic and full of forgiveess cô ây luôn cảm thông và đầy lòng khoan dung"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "make no apology for sth",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "make no apology for somethingto not say that you are sorry for something, because you do not regret it and you think it is the right thing to do :",
+                        "examples": [
+                            "We make no apology for defending our members’ interests – that is our job."
                         ],
                         "isEnabled": true,
                         "children": []

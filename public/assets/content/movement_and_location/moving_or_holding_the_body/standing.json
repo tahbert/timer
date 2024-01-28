@@ -609,7 +609,51 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "spoken: telling sb to stand in a particular way",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "at ease",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(stand) used to tell sb, especially soldiers, to stand in a relaxed way with their feet apart :nghỉ!",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "attention",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "!used when ordering a group of people, especially soldiers, to stand up straight in neat lines",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -653,50 +697,6 @@
                         "examples": [
                             "Stand aside, please, so the doctor can get through."
                         ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "spoken: telling sb to stand in a particular way",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "at ease",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(stand) used to tell sb, especially soldiers, to stand in a relaxed way with their feet apart :nghỉ!",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "attention",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "!used when ordering a group of people, especially soldiers, to stand up straight in neat lines",
-                        "examples": [],
                         "isEnabled": true,
                         "children": []
                     }

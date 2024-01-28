@@ -480,127 +480,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "head off",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "phrasal verbto start a journey or leave a place",
-                        "examples": [
-                            "What time are you heading off?"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "come over",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "phrasal verbMOVEđến;tới;đi đến;đi tới;đi lại",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "to come to a place, move from one place to another, or move towards someone",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Come over here!",
-                                    "_Are your family coming over fromGreecefor the wedding?"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "run",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbrunning,ran,runTRAVELchạy",
-                        "examples": [
-                            "[ I or T usually + adverb or preposition ]to",
-                            "(cause to) travel, move or continue in a particular way",
-                            "_Trains are still running, despite the snow.",
-                            "_A bus runs (= goes on a particular route at particular times) three times a day into town.",
-                            "_Skis are waxed on the bottom so that they run smoothly over the snow.",
-                            "_The route/railway/road runs (= goes)acrossthe border/intoItaly/throughthe mountains.",
-                            "_A climbing rose bush runs (= grows)aroundthe front door.",
-                            "_There's a beautiful cornice runningaround/roundall the ceilings.",
-                            "_The film runs (= lasts)fortwo hours.",
-                            "_The show/course/film runs (= continues)foranother week.",
-                            "_A magazine subscription usually only runs (= can be used)forone year.",
-                            "_Buses are running an hourlate, because of an earlier accident.",
-                            "_The truck's brakes failed and it ran (= went)offthe road.",
-                            "_Trains runonrails (= move along on top of them) .",
-                            "_Electricity is runningthrough(= moving along within) this cable.",
-                            "_An angry muttering ranthrough(= went through) the crowd.",
-                            "_A shiver of fear ranthroughhis (body).",
-                            "_She ran her fingeralong/downthe page/list, looking for her name.",
-                            "_Could you run the tape/film/videoback/forwards, please?",
-                            "_Could you possibly run me (= take me in your car)home/tothe station?",
-                            "_He ran (= pushed) his fingersthroughhis hair and looked up at me."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "roll",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbMOVElăn",
-                        "examples": [
-                            "[ I or T usually + adverb or preposition]",
-                            "to move somewhere easily and without sudden movements",
-                            "_A tear rolled down his cheek.",
-                            "_A wave of cigarettesmoke rolled towards me.",
-                            "_The piano's on wheels, so we can roll it into the room."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to move backwards",
                 "order": 1,
                 "icon": "",
@@ -752,6 +631,127 @@
                         "examples": [
                             "When Helen took his arm he tried to pull away.",
                             "I tried to kiss her but she pulled away."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "head off",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "phrasal verbto start a journey or leave a place",
+                        "examples": [
+                            "What time are you heading off?"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "come over",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "phrasal verbMOVEđến;tới;đi đến;đi tới;đi lại",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "to come to a place, move from one place to another, or move towards someone",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Come over here!",
+                                    "_Are your family coming over fromGreecefor the wedding?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "run",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbrunning,ran,runTRAVELchạy",
+                        "examples": [
+                            "[ I or T usually + adverb or preposition ]to",
+                            "(cause to) travel, move or continue in a particular way",
+                            "_Trains are still running, despite the snow.",
+                            "_A bus runs (= goes on a particular route at particular times) three times a day into town.",
+                            "_Skis are waxed on the bottom so that they run smoothly over the snow.",
+                            "_The route/railway/road runs (= goes)acrossthe border/intoItaly/throughthe mountains.",
+                            "_A climbing rose bush runs (= grows)aroundthe front door.",
+                            "_There's a beautiful cornice runningaround/roundall the ceilings.",
+                            "_The film runs (= lasts)fortwo hours.",
+                            "_The show/course/film runs (= continues)foranother week.",
+                            "_A magazine subscription usually only runs (= can be used)forone year.",
+                            "_Buses are running an hourlate, because of an earlier accident.",
+                            "_The truck's brakes failed and it ran (= went)offthe road.",
+                            "_Trains runonrails (= move along on top of them) .",
+                            "_Electricity is runningthrough(= moving along within) this cable.",
+                            "_An angry muttering ranthrough(= went through) the crowd.",
+                            "_A shiver of fear ranthroughhis (body).",
+                            "_She ran her fingeralong/downthe page/list, looking for her name.",
+                            "_Could you run the tape/film/videoback/forwards, please?",
+                            "_Could you possibly run me (= take me in your car)home/tothe station?",
+                            "_He ran (= pushed) his fingersthroughhis hair and looked up at me."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "roll",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbMOVElăn",
+                        "examples": [
+                            "[ I or T usually + adverb or preposition]",
+                            "to move somewhere easily and without sudden movements",
+                            "_A tear rolled down his cheek.",
+                            "_A wave of cigarettesmoke rolled towards me.",
+                            "_The piano's on wheels, so we can roll it into the room."
                         ],
                         "isEnabled": true,
                         "children": []

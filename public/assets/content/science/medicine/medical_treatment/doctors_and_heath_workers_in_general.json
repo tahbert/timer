@@ -463,76 +463,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "call",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a short, especially official visit, usually made by sb whose job is connected with health: thăm khám",
-                        "examples": [
-                            "Doctor Seward is outon acall this morning.",
-                            "The nurse has got a few calls tomakethis afternoon.",
-                            "house call[when a doctor or other health worker comes to your home, usually to give treatment] khám bệnh tại nhà"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "pay/make a call (on somebody)(= visit sb ) slightly old-fashioned",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "I thought I'dpaya callonan old friend of mine this weekend."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "doctor's orders",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "mainly humorous used to mean that you must do something because your doctor has told you to do it : chỉ định của bác sĩ",
-                        "examples": [
-                            "I have to have a week off work - it's doctor's orders!"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "other health workers",
                 "order": 1,
                 "icon": "",
@@ -640,6 +570,76 @@
                         "examples": [
                             "The magazine’s chief function is to keep the medical profession up to date with the latest advances and drugs.",
                             "These proposals are unpopular with most of the medical profession."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "call",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a short, especially official visit, usually made by sb whose job is connected with health: thăm khám",
+                        "examples": [
+                            "Doctor Seward is outon acall this morning.",
+                            "The nurse has got a few calls tomakethis afternoon.",
+                            "house call[when a doctor or other health worker comes to your home, usually to give treatment] khám bệnh tại nhà"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "pay/make a call (on somebody)(= visit sb ) slightly old-fashioned",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "I thought I'dpaya callonan old friend of mine this weekend."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "doctor's orders",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "mainly humorous used to mean that you must do something because your doctor has told you to do it : chỉ định của bác sĩ",
+                        "examples": [
+                            "I have to have a week off work - it's doctor's orders!"
                         ],
                         "isEnabled": true,
                         "children": []

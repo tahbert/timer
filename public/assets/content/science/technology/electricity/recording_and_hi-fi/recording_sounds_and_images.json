@@ -126,71 +126,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "stereo",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a way of recording or playing sound so that it is separated into two signals and produces more natural sound",
-                        "examples": [
-                            "The concert will be broadcastinstereo."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "sound effect",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sounds produced artificially for a radio or television programme, a film etc to make it seem more exciting or real : hiệu ứng âm thanh",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "mono",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "recorded or broadcast sound that comes from a single direction đơn âm",
-                        "examples": [
-                            "The recording was availableinmono or stereo."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -269,6 +204,71 @@
                         "examples": [
                             "The band's latest album will be released next week.",
                             "A version of the game for Mac computers will be released in February."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "stereo",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a way of recording or playing sound so that it is separated into two signals and produces more natural sound",
+                        "examples": [
+                            "The concert will be broadcastinstereo."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "sound effect",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sounds produced artificially for a radio or television programme, a film etc to make it seem more exciting or real : hiệu ứng âm thanh",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "mono",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "recorded or broadcast sound that comes from a single direction đơn âm",
+                        "examples": [
+                            "The recording was availableinmono or stereo."
                         ],
                         "isEnabled": true,
                         "children": []

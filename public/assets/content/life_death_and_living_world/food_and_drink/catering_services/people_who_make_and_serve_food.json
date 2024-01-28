@@ -15,73 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "happy hour",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C usually singular ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun",
-                        "examples": [
-                            "a period of time, usually in the early evening, when drinks are sold cheaply in a bar or apub"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "name your poison",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "Name your poison. anh uống cái gìnào?chat doc cua anh la gi",
-                        "examples": [
-                            "(alsoWhat's your poison?)humorous",
-                            "used to ask what type of alcoholic drink someone would like"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "same again",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "informal cứ thế nhé!",
-                        "examples": [
-                            "said when you want another drink of the same type as you have just had",
-                            "_\"What are you having, David?\" \"Same again, please.\""
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "sb who serve drinks",
                 "order": 1,
                 "icon": "",
@@ -287,6 +220,73 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "happy hour",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C usually singular ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun",
+                        "examples": [
+                            "a period of time, usually in the early evening, when drinks are sold cheaply in a bar or apub"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "name your poison",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "Name your poison. anh uống cái gìnào?chat doc cua anh la gi",
+                        "examples": [
+                            "(alsoWhat's your poison?)humorous",
+                            "used to ask what type of alcoholic drink someone would like"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "same again",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "informal cứ thế nhé!",
+                        "examples": [
+                            "said when you want another drink of the same type as you have just had",
+                            "_\"What are you having, David?\" \"Same again, please.\""
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

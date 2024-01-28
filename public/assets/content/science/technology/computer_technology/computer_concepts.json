@@ -192,580 +192,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "menu",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTING bảng chọn",
-                        "examples": [
-                            "a list of choicesthat can be made to appear on a computer screen",
-                            "_Select the 'Edit' menu and then choose 'Copy'.",
-                            "menu barnoun[ C ]thanh menu",
-                            "a long, narrow area usually at the top of a computer screen that contains lists of instructions to the computer. These lists are kept out of view until you choose to see them",
-                            "_Click 'File' in the menu bar, then click 'Exit'."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "icon",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER SYMBOL biểu tượng",
-                        "examples": [
-                            "a small picture or symbol on a computer screen that you point to andclickon (= press) with amouse(= small control device) to give the computer an instruction"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "command",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER lệnh thao táclệnh",
-                        "examples": [
-                            "[ C] an instructionto a computer to perform a particular action"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "scan",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb-nn-LOOK ( quet )",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "simulation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[ C or U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounsự bắt chước; sự mô phỏng",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a model of a set of problems or events that can be used to teach someone how to do something,or the process of making such a model",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_The manager prepared a computer simulationoflikely sales performance for the rest of the year."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "file extension",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun đuôi mở rộng",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "adotfollowed by three letters, such as .doc or .jpg, that forms the end of the name of a computer document",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Be sure to type in the document name and file extension before you click 'save'."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "address",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER specialized địa chỉ",
-                        "examples": [
-                            "the placewhere a piece of information is stored in a computer's memory"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "folder",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER thư mục",
-                        "examples": [
-                            "a placeon a computer wherefilesorprogramscan be stored"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "document",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nountài liệu",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a textthat is written and stored on a computer",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_I'll send you the document by email."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "file",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/faɪl/  a collection of information on a computer that is stored under a particular name:",
-                        "examples": [
-                            "tài liệu",
-                            "▪ I seem to have lost the file with all my personal records on it.",
-                            "▪ Just click on the icon to open the file.",
-                            "▪ It’s a good idea to save your files to a floppy disk as a backup.",
-                            "filenounCOMPUTER tập tin",
-                            "[ C] informationstored on a computer as one unit with one name",
-                            "_What's the file name?",
-                            "_I'm going to copy/save this file."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "database",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈdeɪtəˌbeɪs/  a very large collection of information kept on a computer:",
-                        "examples": [
-                            "cơ sở dữ liệu",
-                            "▪ We can check the database to see whether the book is in stock.",
-                            "database of",
-                            "cơ sở dữ liệu của",
-                            "▪ The company has a database of over 23,000 hotels that allow pets.",
-                            "databasenoun[ C ] cơ sở dữ liệu",
-                            "a large amount of information stored in a computer system in such a way that it can be easily looked at or changed",
-                            "_We're linked to the on-line database at our head office."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "download",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun dữ liệu tải xuống",
-                        "examples": [
-                            "a computer program or informationthat has been or can be downloaded"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "backup copy/backup",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈbækʌp ˌkɒpiǁ-ˌkɑːpi, ˈbækʌp/  a copy of computer information that you save on a separate disk, so that if something goes wrong with your computer, you will still have the information:",
-                        "examples": [
-                            "bản dự phòng",
-                            "▪ Make sure to make backup copies of all your data.",
-                            "▪ Don’t store the backups near the computer, where someone could easily steal them both.",
-                            "backup,alsoback-upnoun bản sao dự phòng; bản sao lưu",
-                            "[ C ]a copy of informationthat is held on computer, which is storedseparately from the computer",
-                            "_Before we leave work each day, wemakea backupofall the records",
-                            "_we have entered into the computer that day.",
-                            "_The department's backupdisksare all stored in a different building."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "archive",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nountập tin nén",
-                        "examples": [
-                            "a computerfile used to store electronic information or documents that you no longer need to use regularly",
-                            "archiveverb[ T ] nén",
-                            "in computing,to store electronic informationthat you no longer need to use regularly",
-                            "_This software helps firms archive and retrieve emails."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "desktop",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTING màn hình nền",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "window",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER",
-                        "examples": [
-                            "[ C ]a separate areaon a computer screen which shows information and which you can move around",
-                            "_to minimize/maximize a window"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "interface",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun giao diện",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a connectionbetween two pieces of electronic equipment,or between a person and a computer",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_My computer has a network interface, which allows me to get to other computers.",
-                                    "_The new version of the program comes with a much betteruserinterface (= way of showing information to a user) than the original."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "wallpaper",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER ảnh nền; hình nền",
-                        "examples": [
-                            "[ U ]specializeda design or image that you choose to appear on thedesktop(= main) screen of your computer"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "slide show",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounhiện hình trượt; chiếu slide",
-                        "examples": [
-                            "when a computer shows several different photographs one after another on a screen"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "graphical user interface",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun",
-                        "examples": [
-                            "(abbreviationGUI) giao diện đồ hoạ",
-                            "a way of arranging information on a computer screen that is easy to understand and use because it usesicons,menusand amouserather than only text"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "process",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verbDEAL WITH xử lý (dữ liệu...)",
-                        "examples": [
-                            "[ T ] If a computer processes information, it performs a particular series of operations on the information, such as a set of calculations.",
-                            "processingnoun[ U ] xử lý",
-                            "_data processing"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "multitasking",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER tính năng đa nhiệm",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "the ability of a computer to operate several programs at one time",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_The machine allows multitasking without the need to buy extra hardware."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "parallel processing",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounspecialized đa nhiệm",
-                        "examples": [
-                            "when a computer does two or more pieces of work at the same time"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "data processing",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun sự xử lý dữ liệu",
-                        "examples": [
-                            "the use of a computer to perform calculations ondata",
-                            "_a data-processing bureau"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -948,6 +374,532 @@
                         "usage": "",
                         "region": "",
                         "definition": "nounSET hệ thống",
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "menu",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTING bảng chọn",
+                        "examples": [
+                            "a list of choicesthat can be made to appear on a computer screen",
+                            "_Select the 'Edit' menu and then choose 'Copy'.",
+                            "menu barnoun[ C ]thanh menu",
+                            "a long, narrow area usually at the top of a computer screen that contains lists of instructions to the computer. These lists are kept out of view until you choose to see them",
+                            "_Click 'File' in the menu bar, then click 'Exit'."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "icon",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER SYMBOL biểu tượng",
+                        "examples": [
+                            "a small picture or symbol on a computer screen that you point to andclickon (= press) with amouse(= small control device) to give the computer an instruction"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "command",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER lệnh thao táclệnh",
+                        "examples": [
+                            "[ C] an instructionto a computer to perform a particular action"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "scan",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb-nn-LOOK ( quet )",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "simulation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[ C or U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounsự bắt chước; sự mô phỏng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a model of a set of problems or events that can be used to teach someone how to do something,or the process of making such a model",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_The manager prepared a computer simulationoflikely sales performance for the rest of the year."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "file extension",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun đuôi mở rộng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "adotfollowed by three letters, such as .doc or .jpg, that forms the end of the name of a computer document",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Be sure to type in the document name and file extension before you click 'save'."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "address",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER specialized địa chỉ",
+                        "examples": [
+                            "the placewhere a piece of information is stored in a computer's memory"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "folder",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER thư mục",
+                        "examples": [
+                            "a placeon a computer wherefilesorprogramscan be stored"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "document",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nountài liệu",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a textthat is written and stored on a computer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_I'll send you the document by email."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "file",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/faɪl/  a collection of information on a computer that is stored under a particular name:",
+                        "examples": [
+                            "tài liệu",
+                            "▪ I seem to have lost the file with all my personal records on it.",
+                            "▪ Just click on the icon to open the file.",
+                            "▪ It’s a good idea to save your files to a floppy disk as a backup.",
+                            "filenounCOMPUTER tập tin",
+                            "[ C] informationstored on a computer as one unit with one name",
+                            "_What's the file name?",
+                            "_I'm going to copy/save this file."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "database",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈdeɪtəˌbeɪs/  a very large collection of information kept on a computer:",
+                        "examples": [
+                            "cơ sở dữ liệu",
+                            "▪ We can check the database to see whether the book is in stock.",
+                            "database of",
+                            "cơ sở dữ liệu của",
+                            "▪ The company has a database of over 23,000 hotels that allow pets.",
+                            "databasenoun[ C ] cơ sở dữ liệu",
+                            "a large amount of information stored in a computer system in such a way that it can be easily looked at or changed",
+                            "_We're linked to the on-line database at our head office."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "download",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun dữ liệu tải xuống",
+                        "examples": [
+                            "a computer program or informationthat has been or can be downloaded"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "backup copy/backup",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈbækʌp ˌkɒpiǁ-ˌkɑːpi, ˈbækʌp/  a copy of computer information that you save on a separate disk, so that if something goes wrong with your computer, you will still have the information:",
+                        "examples": [
+                            "bản dự phòng",
+                            "▪ Make sure to make backup copies of all your data.",
+                            "▪ Don’t store the backups near the computer, where someone could easily steal them both.",
+                            "backup,alsoback-upnoun bản sao dự phòng; bản sao lưu",
+                            "[ C ]a copy of informationthat is held on computer, which is storedseparately from the computer",
+                            "_Before we leave work each day, wemakea backupofall the records",
+                            "_we have entered into the computer that day.",
+                            "_The department's backupdisksare all stored in a different building."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "archive",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nountập tin nén",
+                        "examples": [
+                            "a computerfile used to store electronic information or documents that you no longer need to use regularly",
+                            "archiveverb[ T ] nén",
+                            "in computing,to store electronic informationthat you no longer need to use regularly",
+                            "_This software helps firms archive and retrieve emails."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "desktop",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTING màn hình nền",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "window",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER",
+                        "examples": [
+                            "[ C ]a separate areaon a computer screen which shows information and which you can move around",
+                            "_to minimize/maximize a window"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "interface",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun giao diện",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a connectionbetween two pieces of electronic equipment,or between a person and a computer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_My computer has a network interface, which allows me to get to other computers.",
+                                    "_The new version of the program comes with a much betteruserinterface (= way of showing information to a user) than the original."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "wallpaper",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER ảnh nền; hình nền",
+                        "examples": [
+                            "[ U ]specializeda design or image that you choose to appear on thedesktop(= main) screen of your computer"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "slide show",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounhiện hình trượt; chiếu slide",
+                        "examples": [
+                            "when a computer shows several different photographs one after another on a screen"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "graphical user interface",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun",
+                        "examples": [
+                            "(abbreviationGUI) giao diện đồ hoạ",
+                            "a way of arranging information on a computer screen that is easy to understand and use because it usesicons,menusand amouserather than only text"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "process",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verbDEAL WITH xử lý (dữ liệu...)",
+                        "examples": [
+                            "[ T ] If a computer processes information, it performs a particular series of operations on the information, such as a set of calculations.",
+                            "processingnoun[ U ] xử lý",
+                            "_data processing"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "multitasking",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER tính năng đa nhiệm",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "the ability of a computer to operate several programs at one time",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_The machine allows multitasking without the need to buy extra hardware."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "parallel processing",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounspecialized đa nhiệm",
+                        "examples": [
+                            "when a computer does two or more pieces of work at the same time"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "data processing",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun sự xử lý dữ liệu",
+                        "examples": [
+                            "the use of a computer to perform calculations ondata",
+                            "_a data-processing bureau"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

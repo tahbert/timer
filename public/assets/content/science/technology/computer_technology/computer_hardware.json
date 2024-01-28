@@ -665,57 +665,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "client",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTER máy khách",
-                        "examples": [
-                            "a computer that is connected to aserver(= large central computer) from which it gets information"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "server",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounCOMPUTING hệ phục vụ; máy phục vụ; máy chủ",
-                        "examples": [
-                            "specializeda central computer fromwhich other computers get information",
-                            "_a client/network/file server"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "in general",
                 "order": 1,
                 "icon": "",
@@ -766,7 +715,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -778,6 +727,41 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "client",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTER máy khách",
+                        "examples": [
+                            "a computer that is connected to aserver(= large central computer) from which it gets information"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "server",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounCOMPUTING hệ phục vụ; máy phục vụ; máy chủ",
+                        "examples": [
+                            "specializeda central computer fromwhich other computers get information",
+                            "_a client/network/file server"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "storage device",

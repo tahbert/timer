@@ -15,76 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "ad-lib",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[intransitive/transitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˌæd ˈlɪb/  to say or sing something as part of a public performance or speech without having planned or practised it: ứng tác",
-                        "examples": [
-                            "No one could remember the song very well, so we had to ad-lib.",
-                            "The other actors were thrown into confusion when she started ad-libbing her final speech."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "have the floor",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to be speaking or have the right to speak at an important public meeting :có quyền phát biểu",
-                        "examples": [
-                            "Silence, please, the Prime Minister has the floor.",
-                            "He stepped aside to allow other speakers to have the floor."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "take the floor",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to begin speaking at an important public meeting : bắt đầu phát biểu",
-                        "examples": [
-                            "The chairman then took the floor.",
-                            "The Chancellor of the Exchequer will take the floor for his Budget speech at 3.00 p.m."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "spoken",
                 "order": 1,
                 "icon": "",
@@ -873,6 +803,76 @@
                             "the President's address to the nation",
                             "presidential/inaugural etc address",
                             "The new Presidentdeliveredhis inauguraladdressin Creole."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "ad-lib",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[intransitive/transitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˌæd ˈlɪb/  to say or sing something as part of a public performance or speech without having planned or practised it: ứng tác",
+                        "examples": [
+                            "No one could remember the song very well, so we had to ad-lib.",
+                            "The other actors were thrown into confusion when she started ad-libbing her final speech."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "have the floor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to be speaking or have the right to speak at an important public meeting :có quyền phát biểu",
+                        "examples": [
+                            "Silence, please, the Prime Minister has the floor.",
+                            "He stepped aside to allow other speakers to have the floor."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "take the floor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to begin speaking at an important public meeting : bắt đầu phát biểu",
+                        "examples": [
+                            "The chairman then took the floor.",
+                            "The Chancellor of the Exchequer will take the floor for his Budget speech at 3.00 p.m."
                         ],
                         "isEnabled": true,
                         "children": []

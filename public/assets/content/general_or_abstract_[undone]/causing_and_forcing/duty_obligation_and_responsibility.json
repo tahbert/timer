@@ -646,7 +646,93 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "to agree to be responsible for sth",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "take on",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[M]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to agree to be responsible for sth, especially sth that will make you have a lot of work or pressure: tiếp nhận",
+                        "examples": [
+                            "I’m very busy. I’m afraid I can’t take anything else on at the moment.",
+                            "Alice always seems willing to take on extra work without complaining."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "assume responsibility for",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formal to take responsibility for sth that must be done: nhận trách nhiệm",
+                        "examples": [
+                            "The ship’s owner has assumed responsibility for cleaning up the oil spill.",
+                            "It was natural for Richard, as elder son, to assume responsibility for the family."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "shoulder",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to agree to take responsibility for sth that will be difficult to deal with: gánh vác",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "shoulder responsibility/debts/the cost/burdens",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The burden of supporting the poor is shouldered mainly by charities.",
+                                    "▪ The company is unwilling to shoulder the cost of installing a daycare center."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1394,92 +1480,6 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to agree to be responsible for sth",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "take on",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[M]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to agree to be responsible for sth, especially sth that will make you have a lot of work or pressure: tiếp nhận",
-                        "examples": [
-                            "I’m very busy. I’m afraid I can’t take anything else on at the moment.",
-                            "Alice always seems willing to take on extra work without complaining."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "assume responsibility for",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formal to take responsibility for sth that must be done: nhận trách nhiệm",
-                        "examples": [
-                            "The ship’s owner has assumed responsibility for cleaning up the oil spill.",
-                            "It was natural for Richard, as elder son, to assume responsibility for the family."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "shoulder",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to agree to take responsibility for sth that will be difficult to deal with: gánh vác",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "shoulder responsibility/debts/the cost/burdens",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ The burden of supporting the poor is shouldered mainly by charities.",
-                                    "▪ The company is unwilling to shoulder the cost of installing a daycare center."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
                     }
                 ]
             }

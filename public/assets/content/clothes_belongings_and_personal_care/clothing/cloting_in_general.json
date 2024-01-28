@@ -1130,7 +1130,41 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "parts",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "lining",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a piece of material that covers the inside of something, especially a piece of clothing: lớp vải lót trong",
+                        "examples": [
+                            "a jacket with a silk lining",
+                            "leather gloves with fur linings"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1175,40 +1209,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "parts",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "lining",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a piece of material that covers the inside of something, especially a piece of clothing: lớp vải lót trong",
-                        "examples": [
-                            "a jacket with a silk lining",
-                            "leather gloves with fur linings"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

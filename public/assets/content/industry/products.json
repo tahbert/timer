@@ -1646,7 +1646,124 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "properties",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "proprietary",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formala proprietary product is one that is sold under a trade name: có đăng ký độc quyền sản xuất",
+                        "examples": [
+                            "aproprietary brandof insecticide",
+                            "proprietary software products",
+                            "proprietary medicines"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "generic",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[usually attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a generic product does not have a special name to show that it is made by a particular company : không có nguồn gốc xuất xứ",
+                        "examples": [
+                            "generic drugs"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "amount",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "output",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the amount of goods or work produced by a person, machine, factory etc: sản lượng",
+                        "examples": [
+                            "Output is up 30% on last year.",
+                            "In manufacturing alone, smaller firms account for one in three jobs and a quarter of the total output.",
+                            "manufacturing/industrial/agricultural etc output",
+                            "Korea’s agricultural output",
+                            "Last year British manufacturing output fell by 14%.",
+                            "output of",
+                            "the world’s output of carbon dioxide",
+                            "There has been a huge increase in the output of children’s books."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "production",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the amount of goods that are made or grown - use this especially about the number of things produced in a factory or in a particular industry: sản lượng",
+                        "examples": [
+                            "As demand for the drug has grown, cocaine production has skyrocketed.",
+                            "Bulmers will be making around 40 million gallons of cider this year -- half Britain’s total production.",
+                            "production of",
+                            "Most caustic soda is used in the production of aluminium.",
+                            "increase/rise/fall etc in production",
+                            "a drop in oil and gas production",
+                            "Swedish industrial production has fallen steadily this year.",
+                            "Wheat production has risen over the years.",
+                            "production levels/targets etc"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1714,23 +1831,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "range",
@@ -1921,140 +2022,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "properties",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "proprietary",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[attri]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formala proprietary product is one that is sold under a trade name: có đăng ký độc quyền sản xuất",
-                        "examples": [
-                            "aproprietary brandof insecticide",
-                            "proprietary software products",
-                            "proprietary medicines"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     },
-                    {
-                        "id": "",
-                        "name": "generic",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[usually attri]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a generic product does not have a special name to show that it is made by a particular company : không có nguồn gốc xuất xứ",
-                        "examples": [
-                            "generic drugs"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "amount",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "output",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the amount of goods or work produced by a person, machine, factory etc: sản lượng",
-                        "examples": [
-                            "Output is up 30% on last year.",
-                            "In manufacturing alone, smaller firms account for one in three jobs and a quarter of the total output.",
-                            "manufacturing/industrial/agricultural etc output",
-                            "Korea’s agricultural output",
-                            "Last year British manufacturing output fell by 14%.",
-                            "output of",
-                            "the world’s output of carbon dioxide",
-                            "There has been a huge increase in the output of children’s books."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "production",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the amount of goods that are made or grown - use this especially about the number of things produced in a factory or in a particular industry: sản lượng",
-                        "examples": [
-                            "As demand for the drug has grown, cocaine production has skyrocketed.",
-                            "Bulmers will be making around 40 million gallons of cider this year -- half Britain’s total production.",
-                            "production of",
-                            "Most caustic soda is used in the production of aluminium.",
-                            "increase/rise/fall etc in production",
-                            "a drop in oil and gas production",
-                            "Swedish industrial production has fallen steadily this year.",
-                            "Wheat production has risen over the years.",
-                            "production levels/targets etc"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
                     {
                         "id": "",
                         "name": "bar code",
@@ -2087,23 +2055,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "work",

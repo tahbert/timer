@@ -1071,64 +1071,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "utter",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formalto make a sound with your voice, especially with difficulty : thốt ra, thốt lên",
-                        "examples": [
-                            "The wounded prisoner uttered a groan."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "say",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "show/be a sign of something",
-                        "examples": [
-                            "a)to show clearly that something is true about someone or something’s character :",
-                            "The kind of car you drive says what kind of person you are.",
-                            "The fact that she never apologizedsays a lot about(= shows very clearly )what kind of person she is.",
-                            "It said a lot forthe manager(= it showed that he is good )that the team remained confident despite losing.",
-                            "These resultsdon’t say much forthe quality of teaching(= they show that it is not very good ).",
-                            "b)to show what someone is really feeling or thinking, especially without using words :",
-                            "The look on her face said ‘I love you.’",
-                            "sth says everything/says it all",
-                            "His expression said it all."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to produce words using your voice",
                 "order": 1,
                 "icon": "",
@@ -1402,6 +1344,64 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "utter",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formalto make a sound with your voice, especially with difficulty : thốt ra, thốt lên",
+                        "examples": [
+                            "The wounded prisoner uttered a groan."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "say",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "show/be a sign of something",
+                        "examples": [
+                            "a)to show clearly that something is true about someone or something’s character :",
+                            "The kind of car you drive says what kind of person you are.",
+                            "The fact that she never apologizedsays a lot about(= shows very clearly )what kind of person she is.",
+                            "It said a lot forthe manager(= it showed that he is good )that the team remained confident despite losing.",
+                            "These resultsdon’t say much forthe quality of teaching(= they show that it is not very good ).",
+                            "b)to show what someone is really feeling or thinking, especially without using words :",
+                            "The look on her face said ‘I love you.’",
+                            "sth says everything/says it all",
+                            "His expression said it all."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

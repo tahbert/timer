@@ -251,57 +251,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "take sb out",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[T PV]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "takesbout to go somewhere and do something with someone,usually something you plan and pay for",
-                        "examples": [
-                            "Dad's taking the whole family outtothe cinema.",
-                            "Our boss took us outfora meal."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "lead",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[I or T always + adv/prep]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(especially of information, etc.) to have a particular result, or to allow or cause this",
-                        "examples": [
-                            "This information led the policetoa house near the harbour."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to force sb to go with you",
                 "order": 1,
                 "icon": "",
@@ -365,6 +314,57 @@
                         "examples": [
                             "He refused to talk to reporters and was whisked away by the authorities to an undisclosed location.",
                             "Two police officers stood outside, waiting to whisk her away as soon as she came out."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "take sb out",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[T PV]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "takesbout to go somewhere and do something with someone,usually something you plan and pay for",
+                        "examples": [
+                            "Dad's taking the whole family outtothe cinema.",
+                            "Our boss took us outfora meal."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "lead",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[I or T always + adv/prep]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(especially of information, etc.) to have a particular result, or to allow or cause this",
+                        "examples": [
+                            "This information led the policetoa house near the harbour."
                         ],
                         "isEnabled": true,
                         "children": []

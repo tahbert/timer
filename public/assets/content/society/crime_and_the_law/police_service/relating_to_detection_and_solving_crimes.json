@@ -15,103 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "speed camera",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a camera at the side of the road which takes pictures of cars that are going faster than is legally allowed : máy chụp ảnh những người chạy quá tốc độ cho phép được gắn bên đường",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "radar trap",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a system, using radar, which the police use to catch vehicles that are travelling too fast : hệ thống rađa để phát hiện xe chạy quá tốc độ qui định",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "breathalyse",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK , USbreathalyzeverb kiểm tra về lượng rượu đã uống",
-                        "examples": [
-                            "to test a driver's breath to see how much alcohol they have drunk",
-                            "breathalyser, USbreathalyzernoun[ C ] trademark dụng cụ kiểm tra lượng rượu trong hơi thở",
-                            "a device like a small bag with a tube at one end, which the police can ask a driver to blow into to see how much alcohol the driver has drunk"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "breath test",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a test in which the police ask a driver to blow into a breathalyser (= a device shaped like a bag) to show whether they have drunk too much alcohol to be allowed to drive : sự kiểm tra hơi",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "speed trap",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "khu vực khống chế tốc độ (của xe cộ trong thành phố)",
-                        "examples": [
-                            "a place on a road where the police use special hidden equipment to see whether drivers are going faster than is allowed in a particular area"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "when the police are looking for a criminal",
                 "order": 1,
                 "icon": "",
@@ -597,7 +500,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "general",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -609,6 +512,172 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "detection",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when the police discover information about crimes : phát hiện",
+                        "examples": [
+                            "a low/highcrimedetection rate"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "reward",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an amount of money given to sb who helps the police or who helps to return stolen property to its owner : tiền thưởng",
+                        "examples": [
+                            "The police offered a rewardof$10.000forany information about the robbery."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "reconstruction",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an attempt to get a complete description of an event using the information available, or an attempt to repeat what happened during the event : diễn lại, dựng lại (hành vi phạm tội)",
+                        "examples": [
+                            "A dramatized reconstruction of the robbery was shown on television to try to make people remember any vital pieces of information that would help the police."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "case",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a problem, a series of events or a person being dealt with by police, doctors, lawyers, etc. : vụ án",
+                        "examples": [
+                            "Several social workers have looked into the child's case.",
+                            "The detectiveonthe case (= responsible for solving it) has been suspended from duty."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "speed camera",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a camera at the side of the road which takes pictures of cars that are going faster than is legally allowed : máy chụp ảnh những người chạy quá tốc độ cho phép được gắn bên đường",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "radar trap",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a system, using radar, which the police use to catch vehicles that are travelling too fast : hệ thống rađa để phát hiện xe chạy quá tốc độ qui định",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "breathalyse",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK , USbreathalyzeverb kiểm tra về lượng rượu đã uống",
+                        "examples": [
+                            "to test a driver's breath to see how much alcohol they have drunk",
+                            "breathalyser, USbreathalyzernoun[ C ] trademark dụng cụ kiểm tra lượng rượu trong hơi thở",
+                            "a device like a small bag with a tube at one end, which the police can ask a driver to blow into to see how much alcohol the driver has drunk"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "breath test",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a test in which the police ask a driver to blow into a breathalyser (= a device shaped like a bag) to show whether they have drunk too much alcohol to be allowed to drive : sự kiểm tra hơi",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "speed trap",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "khu vực khống chế tốc độ (của xe cộ trong thành phố)",
+                        "examples": [
+                            "a place on a road where the police use special hidden equipment to see whether drivers are going faster than is allowed in a particular area"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "raid",
@@ -696,108 +765,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "general",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "detection",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when the police discover information about crimes : phát hiện",
-                        "examples": [
-                            "a low/highcrimedetection rate"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     },
-                    {
-                        "id": "",
-                        "name": "reward",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an amount of money given to sb who helps the police or who helps to return stolen property to its owner : tiền thưởng",
-                        "examples": [
-                            "The police offered a rewardof$10.000forany information about the robbery."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "reconstruction",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an attempt to get a complete description of an event using the information available, or an attempt to repeat what happened during the event : diễn lại, dựng lại (hành vi phạm tội)",
-                        "examples": [
-                            "A dramatized reconstruction of the robbery was shown on television to try to make people remember any vital pieces of information that would help the police."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "case",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a problem, a series of events or a person being dealt with by police, doctors, lawyers, etc. : vụ án",
-                        "examples": [
-                            "Several social workers have looked into the child's case.",
-                            "The detectiveonthe case (= responsible for solving it) has been suspended from duty."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
                     {
                         "id": "",
                         "name": "criminology",
@@ -814,23 +782,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "tracker dog",
@@ -849,23 +801,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "identity parade",

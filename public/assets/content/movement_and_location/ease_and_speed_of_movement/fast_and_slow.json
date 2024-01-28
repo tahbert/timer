@@ -331,46 +331,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "fast",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A1",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "able to go fast::nhanh",
-                        "examples": [
-                            "▪ When I was a kid, I was the fastest boy in my class.",
-                            "Khi còn là một cậu bé, tôi là đứa nhanh nhất trong lớp.",
-                            "fastadjectiveQUICKnhanh;mau",
-                            "moving or happening quickly, or able to move or happen quickly",
-                            "_fast cars",
-                            "_a fast swimmer",
-                            "_Computers are getting faster all the time.",
-                            "_The fast train (= one that stops at fewer stations and travels quickly) to London takes less than an hour."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "doing things quickly or happening quickly",
                 "order": 1,
                 "icon": "",
@@ -587,6 +547,46 @@
                             "He was gone in a flash.",
                             "In a flash Atticus was up and standing over him.",
                             "Joel slipped but was on his feet in a flash."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "fast",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A1",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "able to go fast::nhanh",
+                        "examples": [
+                            "▪ When I was a kid, I was the fastest boy in my class.",
+                            "Khi còn là một cậu bé, tôi là đứa nhanh nhất trong lớp.",
+                            "fastadjectiveQUICKnhanh;mau",
+                            "moving or happening quickly, or able to move or happen quickly",
+                            "_fast cars",
+                            "_a fast swimmer",
+                            "_Computers are getting faster all the time.",
+                            "_The fast train (= one that stops at fewer stations and travels quickly) to London takes less than an hour."
                         ],
                         "isEnabled": true,
                         "children": []

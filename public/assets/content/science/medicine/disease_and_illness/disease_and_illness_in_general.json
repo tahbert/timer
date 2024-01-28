@@ -1433,92 +1433,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "dose",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an amount or experience of an disease: trận",
-                        "examples": [
-                            "She's got a nasty doseofflu."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a bad/mild dose of fluBritish English(= making you feel very ill or only slightly ill )",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Davehad a bad dose of flu."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "industrial disease",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an illness related to the work that sb does : bệnh nghề nghiệp",
-                        "examples": [
-                            "he had an asbestos-related industrial disease",
-                            "the coroner recorded a verdict of death by industrial disease"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "complication",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an extra medical problem which makes it more difficult to treat an existing illness :biến chứng",
-                        "examples": [
-                            "If there are no complications, the doctor says that she'll be able to come home within two weeks."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "an illness that is not very serious",
                 "order": 1,
                 "icon": "",
@@ -2183,6 +2097,92 @@
                         "definition": "an illness that is curable can be curedOPP incurable:chữa được",
                         "examples": [
                             "Many illnesses which once killed are today curable."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "dose",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an amount or experience of an disease: trận",
+                        "examples": [
+                            "She's got a nasty doseofflu."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a bad/mild dose of fluBritish English(= making you feel very ill or only slightly ill )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Davehad a bad dose of flu."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "industrial disease",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an illness related to the work that sb does : bệnh nghề nghiệp",
+                        "examples": [
+                            "he had an asbestos-related industrial disease",
+                            "the coroner recorded a verdict of death by industrial disease"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "complication",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an extra medical problem which makes it more difficult to treat an existing illness :biến chứng",
+                        "examples": [
+                            "If there are no complications, the doctor says that she'll be able to come home within two weeks."
                         ],
                         "isEnabled": true,
                         "children": []

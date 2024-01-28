@@ -73,70 +73,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "wake",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when the family and friends of a dead person meet in order to look at the dead body the night before it is buried : sự thức canh người chết",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "pay your respects",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "payyourrespects/ payyourlast respectsformal to honour someone after their death, usually by going to their funeral : tiễn đưa",
-                        "examples": [
-                            "Friends and relatives came to pay their last respectstoMr Clarke."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "lie in state",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when the dead body of an important person lies in state, it is arranged so that the public can see and honour it before it is buried.",
-                        "examples": [
-                            ""
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "vehicles",
                 "order": 1,
                 "icon": "",
@@ -208,6 +144,70 @@
                         "definition": "UK /funeral parlorUS/funeral homeUS nhà tang lễ",
                         "examples": [
                             "a place where the bodies of dead people are prepared to be buried or burned"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "wake",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when the family and friends of a dead person meet in order to look at the dead body the night before it is buried : sự thức canh người chết",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "pay your respects",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "payyourrespects/ payyourlast respectsformal to honour someone after their death, usually by going to their funeral : tiễn đưa",
+                        "examples": [
+                            "Friends and relatives came to pay their last respectstoMr Clarke."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "lie in state",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when the dead body of an important person lies in state, it is arranged so that the public can see and honour it before it is buried.",
+                        "examples": [
+                            ""
                         ],
                         "isEnabled": true,
                         "children": []

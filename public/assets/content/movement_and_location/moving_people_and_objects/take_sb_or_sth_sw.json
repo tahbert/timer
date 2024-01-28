@@ -410,49 +410,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "transfer",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[I or T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "formalto move from one place to another, or to move sth from one place to another",
-                        "examples": [
-                            "transfer (from sth) to sth",
-                            "The exhibition transfers to York City Art Gallery on 23rd January.",
-                            "transfer sth (from sth) to sth",
-                            "Transfer the meat to warm plates.",
-                            "She transferred her gunfromits shoulder holstertoher handbag.",
-                            "Police are investigating how £20 million was illegally transferredfrom/out ofthe Trust's bank account.",
-                            "transfer[C or U] B2 the process by which sth is moved from one place to another",
-                            "transfer of",
-                            "the transfer of information",
-                            "transfer to",
-                            "electronic data transfer"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to take sth with you to a place",
                 "order": 1,
                 "icon": "",
@@ -1056,6 +1013,49 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "transfer",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[I or T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "formalto move from one place to another, or to move sth from one place to another",
+                        "examples": [
+                            "transfer (from sth) to sth",
+                            "The exhibition transfers to York City Art Gallery on 23rd January.",
+                            "transfer sth (from sth) to sth",
+                            "Transfer the meat to warm plates.",
+                            "She transferred her gunfromits shoulder holstertoher handbag.",
+                            "Police are investigating how £20 million was illegally transferredfrom/out ofthe Trust's bank account.",
+                            "transfer[C or U] B2 the process by which sth is moved from one place to another",
+                            "transfer of",
+                            "the transfer of information",
+                            "transfer to",
+                            "electronic data transfer"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

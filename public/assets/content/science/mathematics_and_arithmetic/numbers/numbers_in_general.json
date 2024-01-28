@@ -141,7 +141,55 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "representing amount or order",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "cardinal",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(number) a number which represents amount, such as 1, 2, 3, rather than order, such as 1st, 2nd, 3rd :số từ chỉ số lượng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "ordinal",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(number) a number like 1st, 2nd, 3rd, 4th, which shows the position of something in a list of things:số thứ tự",
+                        "examples": [
+                            "Ordinal numbers are used in these sentences: 'She was fifth in the race' and 'They celebrated the 200th anniversary of the university's foundation'."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -201,54 +249,6 @@
                         "definition": "any whole number less than ten : chữ số hàng đơn vị",
                         "examples": [
                             "Tens go in the left-hand column and units in the right."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "representing amount or order",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "cardinal",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(number) a number which represents amount, such as 1, 2, 3, rather than order, such as 1st, 2nd, 3rd :số từ chỉ số lượng",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "ordinal",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(number) a number like 1st, 2nd, 3rd, 4th, which shows the position of something in a list of things:số thứ tự",
-                        "examples": [
-                            "Ordinal numbers are used in these sentences: 'She was fifth in the race' and 'They celebrated the 200th anniversary of the university's foundation'."
                         ],
                         "isEnabled": true,
                         "children": []

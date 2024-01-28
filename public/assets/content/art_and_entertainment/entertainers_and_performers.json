@@ -173,79 +173,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "company",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a group of actors, singers, or dancers who perform together: đoàn (diễn viên, kịch, hát)",
-                        "examples": [
-                            "the Kirov Ballet Company",
-                            "a theatre company",
-                            "She's in the National Theatre Company.",
-                            "I'd like to thank the director, the choreographer and the other members of the company for being so supportive.",
-                            "In 2006, he joined the Royal Shakespeare Company.",
-                            "The play will be performed by an all-female company."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "troupe",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C , + sing/pl verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a group of performers such as singers or dancers who work and travel together: đoàn",
-                        "examples": [
-                            "She joined a dance troupe and travelled all over Europe."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "troupe of",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "A troupe of dancers from Beijing is one of the leading attractions in the festival."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -399,6 +326,79 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "company",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a group of actors, singers, or dancers who perform together: đoàn (diễn viên, kịch, hát)",
+                        "examples": [
+                            "the Kirov Ballet Company",
+                            "a theatre company",
+                            "She's in the National Theatre Company.",
+                            "I'd like to thank the director, the choreographer and the other members of the company for being so supportive.",
+                            "In 2006, he joined the Royal Shakespeare Company.",
+                            "The play will be performed by an all-female company."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "troupe",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C , + sing/pl verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a group of performers such as singers or dancers who work and travel together: đoàn",
+                        "examples": [
+                            "She joined a dance troupe and travelled all over Europe."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "troupe of",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "A troupe of dancers from Beijing is one of the leading attractions in the festival."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

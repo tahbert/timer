@@ -15,57 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "grow",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[ I ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if plants grow, they exist and develop in a natural way: mọc",
-                        "examples": [
-                            "There were roses growing up against the wall of the cottage."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a tree which will grow well in most types of soil",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "grow wild(= grow without anyone looking after them)The plants grow wild by the river."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "plants in general",
                 "order": 1,
                 "icon": "",
@@ -806,6 +755,57 @@
                                 "definition": "the practice of rotating crops",
                                 "examples": [
                                     "Crop rotation helps build up soil fertility."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "grow",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[ I ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if plants grow, they exist and develop in a natural way: mọc",
+                        "examples": [
+                            "There were roses growing up against the wall of the cottage."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a tree which will grow well in most types of soil",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "grow wild(= grow without anyone looking after them)The plants grow wild by the river."
                                 ],
                                 "isEnabled": true,
                                 "children": []

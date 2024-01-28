@@ -527,7 +527,77 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "activities",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "blow your nose",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[VP]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to force air from your lungs and through your nose to clear it:xịt mũi",
+                        "examples": [
+                            "She blew her nose on a large white handkerchief."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "cough",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[I]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to suddenly push air out of your throat with a short sound, often repeatedly : ho (do bị cảm)",
+                        "examples": [
+                            "Matthew coughed and cleared his throat.",
+                            "I think I’m getting a cold or flu – I’ve been coughing and sneezing all day."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "sneeze",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ I ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control : hắt hơi",
+                        "examples": [
+                            "Cats make him sneeze - I think he's allergic to the fur.",
+                            "She started coughing and sneezing.",
+                            "The dust wasmakinghimsneeze."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -632,76 +702,6 @@
                         "definition": "a runny nose, runny eyes etc have liquid coming out of them, usually because you have a cold:chảy nước",
                         "examples": [
                             "I've got a runnynosetoday."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "activities",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "blow your nose",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[VP]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to force air from your lungs and through your nose to clear it:xịt mũi",
-                        "examples": [
-                            "She blew her nose on a large white handkerchief."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "cough",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[I]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to suddenly push air out of your throat with a short sound, often repeatedly : ho (do bị cảm)",
-                        "examples": [
-                            "Matthew coughed and cleared his throat.",
-                            "I think I’m getting a cold or flu – I’ve been coughing and sneezing all day."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "sneeze",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ I ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control : hắt hơi",
-                        "examples": [
-                            "Cats make him sneeze - I think he's allergic to the fur.",
-                            "She started coughing and sneezing.",
-                            "The dust wasmakinghimsneeze."
                         ],
                         "isEnabled": true,
                         "children": []

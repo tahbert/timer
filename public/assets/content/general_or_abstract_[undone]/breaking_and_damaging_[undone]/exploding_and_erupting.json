@@ -729,59 +729,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "blow",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[I]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "especially US if a tyre blows, it breaks open suddenly and all the air comes out of it: nổ, bục ( nốp xe )",
-                        "examples": [
-                            "One of the tires blew and they skidded into the center divider."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "burst",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[I]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if sth that has air or liquid inside it bursts, it explodes and the air or liquid comes out: nổ, vỡ",
-                        "examples": [
-                            "The Concorde disaster was caused by a tyre bursting.",
-                            "Thousands of gallons of oil flowed into the river when an oil pipeline burst.",
-                            "One of the water pipes had burst.",
-                            "The plane caught fire after its tyre burst on landing."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "able or likely to explode",
                 "order": 1,
                 "icon": "",
@@ -879,6 +826,59 @@
                             "eruption[C or U ] sự phun trào",
                             "a volcanic eruption",
                             "There was a violent eruption of anti-government feeling."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "blow",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[I]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "especially US if a tyre blows, it breaks open suddenly and all the air comes out of it: nổ, bục ( nốp xe )",
+                        "examples": [
+                            "One of the tires blew and they skidded into the center divider."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "burst",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[I]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if sth that has air or liquid inside it bursts, it explodes and the air or liquid comes out: nổ, vỡ",
+                        "examples": [
+                            "The Concorde disaster was caused by a tyre bursting.",
+                            "Thousands of gallons of oil flowed into the river when an oil pipeline burst.",
+                            "One of the water pipes had burst.",
+                            "The plane caught fire after its tyre burst on landing."
                         ],
                         "isEnabled": true,
                         "children": []

@@ -909,82 +909,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "backpacking",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the activity of travellingindependentlyto a lot ofdifferentareas, carrying your clothes etc in a special bag on your back:du lịch bụi, đeo ba lô đi du lịch",
-                        "examples": [
-                            "Backpacking is especially popular among students and young people.",
-                            "a backpacking trip",
-                            "go backpacking",
-                            "Last year, he went backpacking in the US."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "roll",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[I]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "If an aircraft or a ship rolls, it leans to one side and then to the other because of the wind or waves : tròng trành lộn vòng",
-                        "examples": [
-                            "roll[U] The roll of a ship or aircraft is its movement from side to side in the water or air."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "travelling",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[attri]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK /travelingUS  moving from place to place in order to work, perform etc: du lịch",
-                        "examples": [
-                            "1 travelling expensesmoney that is used to pay for the cost of travelling while someone is on a trip for their company",
-                            "2 travelling companionsomeone you are on a journey with",
-                            "3 travelling musician/circus/exhibition etcsomeone or something that goes from place to place",
-                            "The traveling show includes historical films as well as 300 genuine artifacts that kids can handle.",
-                            "His father was a travelling salesman and was very rarely at home.",
-                            "4 travelling rug/clock etcBritish Englisha clock etc designed to be used when you are travelling",
-                            "5 travelling people/folkBritish Englishtravellers"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to travel a particular distance or at a particular speed",
                 "order": 1,
                 "icon": "",
@@ -1444,6 +1368,82 @@
                         "definition": "Have you ever been to(= have you ever travelled to )Japan?",
                         "examples": [
                             "Ihave been to(= have travelled to )Germany several times."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "backpacking",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the activity of travellingindependentlyto a lot ofdifferentareas, carrying your clothes etc in a special bag on your back:du lịch bụi, đeo ba lô đi du lịch",
+                        "examples": [
+                            "Backpacking is especially popular among students and young people.",
+                            "a backpacking trip",
+                            "go backpacking",
+                            "Last year, he went backpacking in the US."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "roll",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[I]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "If an aircraft or a ship rolls, it leans to one side and then to the other because of the wind or waves : tròng trành lộn vòng",
+                        "examples": [
+                            "roll[U] The roll of a ship or aircraft is its movement from side to side in the water or air."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "travelling",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK /travelingUS  moving from place to place in order to work, perform etc: du lịch",
+                        "examples": [
+                            "1 travelling expensesmoney that is used to pay for the cost of travelling while someone is on a trip for their company",
+                            "2 travelling companionsomeone you are on a journey with",
+                            "3 travelling musician/circus/exhibition etcsomeone or something that goes from place to place",
+                            "The traveling show includes historical films as well as 300 genuine artifacts that kids can handle.",
+                            "His father was a travelling salesman and was very rarely at home.",
+                            "4 travelling rug/clock etcBritish Englisha clock etc designed to be used when you are travelling",
+                            "5 travelling people/folkBritish Englishtravellers"
                         ],
                         "isEnabled": true,
                         "children": []

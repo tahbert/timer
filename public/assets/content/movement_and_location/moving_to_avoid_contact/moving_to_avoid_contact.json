@@ -175,42 +175,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "evasive",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "done to avoid sth bad happening",
-                        "examples": [
-                            "Drivers had to make sudden evasive manoeuvres.",
-                            "take evasive actionto move or do sth quickly to avoid sb being hurt :",
-                            "Both pilots took evasive action and a collision was avoided.",
-                            "By the time the pilot realised how close the plane was to the building, it was too late to take evasiveaction."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to avoid sb or a place",
                 "order": 1,
                 "icon": "",
@@ -380,6 +344,42 @@
                         "definition": "to go around a town or other busy place rather than through it : đi đường vòng",
                         "examples": [
                             "Interstate 8 bypasses the town to the north."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "evasive",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "done to avoid sth bad happening",
+                        "examples": [
+                            "Drivers had to make sudden evasive manoeuvres.",
+                            "take evasive actionto move or do sth quickly to avoid sb being hurt :",
+                            "Both pilots took evasive action and a collision was avoided.",
+                            "By the time the pilot realised how close the plane was to the building, it was too late to take evasiveaction."
                         ],
                         "isEnabled": true,
                         "children": []

@@ -316,61 +316,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "three-dimensional",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjective(abbreviation3-D)",
-                        "examples": [
-                            "có ba chiều (dài, rộng và sâu)",
-                            "having or appearing to have threedimensions(= length, width, and height) and thereforelooking real",
-                            "_The picture had a three-dimensionaleffect.",
-                            "3-D",
-                            "in a 3-D film or picture, the objects look real and solid instead of looking like a normal flat picture",
-                            "_a 3-D effect",
-                            "_These computer games rely on 3-D graphics.",
-                            "_The picture looks great because it'sin3-D"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "two-dimensional",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjectiveSHAPE hai chiều",
-                        "examples": [
-                            "flat, having width and length but not depth"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "most common flat shapes",
                 "order": 1,
                 "icon": "",
@@ -572,6 +517,61 @@
                         "examples": [
                             "hexagonal[adj]",
                             "a hexagonal building/object"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "three-dimensional",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjective(abbreviation3-D)",
+                        "examples": [
+                            "có ba chiều (dài, rộng và sâu)",
+                            "having or appearing to have threedimensions(= length, width, and height) and thereforelooking real",
+                            "_The picture had a three-dimensionaleffect.",
+                            "3-D",
+                            "in a 3-D film or picture, the objects look real and solid instead of looking like a normal flat picture",
+                            "_a 3-D effect",
+                            "_These computer games rely on 3-D graphics.",
+                            "_The picture looks great because it'sin3-D"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "two-dimensional",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjectiveSHAPE hai chiều",
+                        "examples": [
+                            "flat, having width and length but not depth"
                         ],
                         "isEnabled": true,
                         "children": []

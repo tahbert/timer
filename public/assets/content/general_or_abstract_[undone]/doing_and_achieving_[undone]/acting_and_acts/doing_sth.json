@@ -2142,7 +2142,44 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "not here",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "initiative",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an important new plan or process to achieve a particular aim or to solve a particular problem : sáng kiến",
+                        "examples": [
+                            "a government initiative to help exporters",
+                            "an education initiative",
+                            "Thepeaceinitiative was welcomed by both sides.",
+                            "initiative for",
+                            "a new initiative for peace in the Middle East"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -2305,43 +2342,6 @@
                             "never thought he'd go through with it.",
                             "_The company has decided not to go",
                             "through with the takeover of its smaller rival."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not here",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "initiative",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an important new plan or process to achieve a particular aim or to solve a particular problem : sáng kiến",
-                        "examples": [
-                            "a government initiative to help exporters",
-                            "an education initiative",
-                            "Thepeaceinitiative was welcomed by both sides.",
-                            "initiative for",
-                            "a new initiative for peace in the Middle East"
                         ],
                         "isEnabled": true,
                         "children": []

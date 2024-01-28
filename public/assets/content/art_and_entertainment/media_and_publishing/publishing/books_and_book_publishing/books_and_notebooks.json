@@ -1239,77 +1239,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "text",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a book or other piece of writing that is connected with learning or intended for study : văn bản",
-                        "examples": [
-                            "Some of the original text has survived."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "set text(= one that must be studied for an examination)",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "‘Hamlet’ is a set text this year.",
-                                    "'Ulysses' is a set text for the exam.",
-                                    "Literary texts, like all other works of art, have a historical context."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "artwork",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the pieces of art, such as drawings and photographs, that are used in books, newspapers, and magazines: phần tranh ảnh minh họa",
-                        "examples": [
-                            "We are still waiting for the artwork to come back from the printers.",
-                            "All the artwork in the book has been done by the author."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "parts of a page",
                 "order": 1,
                 "icon": "",
@@ -2012,6 +1941,77 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "text",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a book or other piece of writing that is connected with learning or intended for study : văn bản",
+                        "examples": [
+                            "Some of the original text has survived."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "set text(= one that must be studied for an examination)",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "‘Hamlet’ is a set text this year.",
+                                    "'Ulysses' is a set text for the exam.",
+                                    "Literary texts, like all other works of art, have a historical context."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "artwork",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the pieces of art, such as drawings and photographs, that are used in books, newspapers, and magazines: phần tranh ảnh minh họa",
+                        "examples": [
+                            "We are still waiting for the artwork to come back from the printers.",
+                            "All the artwork in the book has been done by the author."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

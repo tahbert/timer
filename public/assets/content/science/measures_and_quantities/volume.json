@@ -469,40 +469,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "capacity",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[CS or U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the amount of sth that a factory, company, machine etc can produce or deal with :",
-                        "examples": [
-                            "The company has the capacity to build 1,500 trucks a year.",
-                            "The factory has been workingat full capacity(= making the most amount of things that it can)."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -628,6 +594,40 @@
                         "examples": [
                             "An imperial gallon, used in Britain, is equal to 4546 cubic centimetres.",
                             "A US gallon is equal to 3785 cubic centimetres."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "capacity",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[CS or U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the amount of sth that a factory, company, machine etc can produce or deal with :",
+                        "examples": [
+                            "The company has the capacity to build 1,500 trucks a year.",
+                            "The factory has been workingat full capacity(= making the most amount of things that it can)."
                         ],
                         "isEnabled": true,
                         "children": []

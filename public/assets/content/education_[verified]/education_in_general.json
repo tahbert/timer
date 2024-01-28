@@ -108,43 +108,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "graduation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "1 the time when you complete a university degree course or your education at an American high school :",
-                        "examples": [
-                            "After graduation Neil returned to Ohio.",
-                            "On graduation(= after completing a first degree ), Nancy became an art teacher.",
-                            "2[U] a ceremony at which you receive a university degree or a diploma from an American high school :",
-                            "graduation day",
-                            "a graduation ceremony"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -1046,6 +1009,43 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "graduation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "1 the time when you complete a university degree course or your education at an American high school :",
+                        "examples": [
+                            "After graduation Neil returned to Ohio.",
+                            "On graduation(= after completing a first degree ), Nancy became an art teacher.",
+                            "2[U] a ceremony at which you receive a university degree or a diploma from an American high school :",
+                            "graduation day",
+                            "a graduation ceremony"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

@@ -641,7 +641,57 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "able to treated by an operation",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "operable",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a medical condition that is operable can be treated by an operation: có thể mổ được",
+                        "examples": [
+                            "In about half of diagnosed cases, the condition is operable."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "inoperable",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if a tumour (= a growth) or other medical condition is inoperable, doctors are unable to remove or treat it with an operation.",
+                        "examples": [
+                            "an inoperable brain tumour"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -704,56 +754,6 @@
                         "examples": [
                             "Her head wounds needed 50 stitches.",
                             "He got hit with a broken bottle and needed five stitchesinhis cheek."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "able to treated by an operation",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "operable",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a medical condition that is operable can be treated by an operation: có thể mổ được",
-                        "examples": [
-                            "In about half of diagnosed cases, the condition is operable."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "inoperable",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if a tumour (= a growth) or other medical condition is inoperable, doctors are unable to remove or treat it with an operation.",
-                        "examples": [
-                            "an inoperable brain tumour"
                         ],
                         "isEnabled": true,
                         "children": []

@@ -704,7 +704,43 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "not here",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "firmly",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adverbSTRONGLY",
+                        "examples": [
+                            "strongly and tightly",
+                            "_He shook my hand firmly and climbed into the taxi.",
+                            "firmlyadverbNOT LOOSELY",
+                            "strongly, in a way that will not become loose",
+                            "_Make sure the rope is firmly attached before attempting to climb down it."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -860,42 +896,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not here",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "firmly",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adverbSTRONGLY",
-                        "examples": [
-                            "strongly and tightly",
-                            "_He shook my hand firmly and climbed into the taxi.",
-                            "firmlyadverbNOT LOOSELY",
-                            "strongly, in a way that will not become loose",
-                            "_Make sure the rope is firmly attached before attempting to climb down it."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

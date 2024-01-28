@@ -1061,7 +1061,47 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "not here",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "handle",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounPART",
+                        "examples": [
+                            "a part of an object designed for holding, moving or carrying the object easily",
+                            "_a door handle",
+                            "_the handle on a suitcase",
+                            "_I can't pick the kettle up - the handle's too hot.",
+                            "_Sheturnedthe handle and slowly opened the door.",
+                            "handheld/ ˌhændˈheld /adjective[ before noun ] B1",
+                            "B1 describes something that has been designed so that it can be held and used easily with one or two hands:",
+                            "a handheld computer/device"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1214,46 +1254,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "not here",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "handle",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounPART",
-                        "examples": [
-                            "a part of an object designed for holding, moving or carrying the object easily",
-                            "_a door handle",
-                            "_the handle on a suitcase",
-                            "_I can't pick the kettle up - the handle's too hot.",
-                            "_Sheturnedthe handle and slowly opened the door.",
-                            "handheld/ ˌhændˈheld /adjective[ before noun ] B1",
-                            "B1 describes something that has been designed so that it can be held and used easily with one or two hands:",
-                            "a handheld computer/device"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

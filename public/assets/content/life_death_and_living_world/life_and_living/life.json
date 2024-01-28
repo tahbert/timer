@@ -507,39 +507,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "life",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun plurallives sự sống",
-                        "examples": [
-                            "[ U ] everything which is alive",
-                            "_human/marine/plant life"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "of animal or plants",
                 "order": 1,
                 "icon": "",
@@ -565,6 +532,39 @@
                         "definition": "all the different stages in development that an animal or plant has in the time that it is alive:chu kỳ cuộc sống, vòng đời",
                         "examples": [
                             "Despite decades of study, the life cycle of the tiny shellfish, krill, is still something of a mystery."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "life",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun plurallives sự sống",
+                        "examples": [
+                            "[ U ] everything which is alive",
+                            "_human/marine/plant life"
                         ],
                         "isEnabled": true,
                         "children": []

@@ -475,114 +475,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "shaky",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "weak and unsteady because of old age, illness, or shock, especially in your legs and only able to walk slowly and unsteadily :",
-                        "examples": [
-                            "a shaky voice",
-                            "Even after the long months of therapy Owen was still very shaky.",
-                            "be shaky on your feet",
-                            "Her grandfather was a little shaky on his feet after the fall.",
-                            "Grandad was a littleshaky onhisfeet",
-                            "shaky steps",
-                            "The baby’s taken her first few shaky steps.",
-                            "shakily[adverb]",
-                            "As I entered the room, he reached for his stick and got shakily to his feet."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "convulsion",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when your body shakes violently and uncontrollably because you are very ill: sự co giật, chứng co giật",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "have convulsions",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ The baby was sweating and crying. She started to have convulsions again."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "go into convulsions",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "Shewent intoconvulsions and had to be rushed to hospital.",
-                                    "Andrew died after taking the drug, which had caused him to go into convulsions."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to make a short sudden movement",
                 "order": 1,
                 "icon": "",
@@ -774,6 +666,98 @@
                                 "definition": "",
                                 "examples": [
                                     "She peeped into the box and drew back in horror."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "shaky",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "weak and unsteady because of old age, illness, or shock, especially in your legs and only able to walk slowly and unsteadily :",
+                        "examples": [
+                            "a shaky voice",
+                            "Even after the long months of therapy Owen was still very shaky.",
+                            "be shaky on your feet",
+                            "Her grandfather was a little shaky on his feet after the fall.",
+                            "Grandad was a littleshaky onhisfeet",
+                            "shaky steps",
+                            "The baby’s taken her first few shaky steps.",
+                            "shakily[adverb]",
+                            "As I entered the room, he reached for his stick and got shakily to his feet."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "convulsion",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when your body shakes violently and uncontrollably because you are very ill: sự co giật, chứng co giật",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "have convulsions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The baby was sweating and crying. She started to have convulsions again."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "go into convulsions",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "Shewent intoconvulsions and had to be rushed to hospital.",
+                                    "Andrew died after taking the drug, which had caused him to go into convulsions."
                                 ],
                                 "isEnabled": true,
                                 "children": []

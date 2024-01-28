@@ -227,71 +227,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "anti-inflammatory",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "an anti-inflammatory drug : thuốc kháng viêm",
-                        "examples": [
-                            "Aspirin is an anti-inflammatory."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "anticoagulant",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a drug which prevents or slows down the process of blood forming a clot (= a solid mass) : thuốc chống đông tụ",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "growth hormone",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "specialized a hormone (= chemical made by living cells) that helps an animal or plant to grow : kích thích tố sinh trưởng",
-                        "examples": [
-                            "Scientists have warned that the use of growth hormones to make cattle grow more quickly may result in a health risk for consumers."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "nervous system",
                 "order": 1,
                 "icon": "",
@@ -472,6 +407,71 @@
                         "region": "",
                         "definition": "a medicine which helps you to breathe more easily, especially when you have a cold (= common illness) : thuốc thông mũi",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "anti-inflammatory",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "an anti-inflammatory drug : thuốc kháng viêm",
+                        "examples": [
+                            "Aspirin is an anti-inflammatory."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "anticoagulant",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a drug which prevents or slows down the process of blood forming a clot (= a solid mass) : thuốc chống đông tụ",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "growth hormone",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "specialized a hormone (= chemical made by living cells) that helps an animal or plant to grow : kích thích tố sinh trưởng",
+                        "examples": [
+                            "Scientists have warned that the use of growth hormones to make cattle grow more quickly may result in a health risk for consumers."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

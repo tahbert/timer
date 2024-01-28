@@ -139,65 +139,6 @@
             },
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "western",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ Westernrelating to countries in the west part of the world, especially North America and countries in the west of Europe",
-                        "examples": [
-                            "western opinion/ culture",
-                            "a Western-educated engineer",
-                            "western medicine"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "tropical",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "coming from or existing in the hottest parts of the world: thuộc nhiệt đới",
-                        "examples": [
-                            "tropical fish/ fruit",
-                            "a tropical island/region/climate",
-                            "The hurricane was downgraded to a tropicalstormwhen its speed dropped to 70mph.",
-                            "thetropical rain forests",
-                            "The Amazon river basin contains the world's largest tropicalrainforest.",
-                            "tropical diseases/ medicine(= diseases that are common in hot countries or the study of these diseases )",
-                            "Leprosy is one of the few tropicaldiseaseswhich could be eradicated early in the 21st century.",
-                            "She specialises in tropicalmedicine(= the treatment of diseases from the tropical areas of the world) ."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "less central",
                 "order": 1,
                 "icon": "",
@@ -361,52 +302,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "the Old World",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ S ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "Asia, Africa and Europe",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "the New World",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ S ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "North, Central and South America: Tân thế giới (cách gọi của dân Âu châu sau khi Columbus tìm ra châu Mỹ)",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "special",
                 "order": 1,
                 "icon": "",
@@ -472,7 +367,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "general",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -484,6 +379,112 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "intercontinental",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "going from one continent to another, or happening between two continents : xuyên lục địa, liên lục địa",
+                        "examples": [
+                            "intercontinental flights/ trade"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "western",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ Westernrelating to countries in the west part of the world, especially North America and countries in the west of Europe",
+                        "examples": [
+                            "western opinion/ culture",
+                            "a Western-educated engineer",
+                            "western medicine"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "tropical",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "coming from or existing in the hottest parts of the world: thuộc nhiệt đới",
+                        "examples": [
+                            "tropical fish/ fruit",
+                            "a tropical island/region/climate",
+                            "The hurricane was downgraded to a tropicalstormwhen its speed dropped to 70mph.",
+                            "thetropical rain forests",
+                            "The Amazon river basin contains the world's largest tropicalrainforest.",
+                            "tropical diseases/ medicine(= diseases that are common in hot countries or the study of these diseases )",
+                            "Leprosy is one of the few tropicaldiseaseswhich could be eradicated early in the 21st century.",
+                            "She specialises in tropicalmedicine(= the treatment of diseases from the tropical areas of the world) ."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "the Old World",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ S ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "Asia, Africa and Europe",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "the New World",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ S ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "North, Central and South America: Tân thế giới (cách gọi của dân Âu châu sau khi Columbus tìm ra châu Mỹ)",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "equator",
@@ -533,39 +534,6 @@
                         "region": "",
                         "definition": "(written abblong) the distance of a place east or west of an imaginary linefrom the top to the bottom of the Earth, measured in degrees: kinh độ",
                         "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "general",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "intercontinental",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "going from one continent to another, or happening between two continents : xuyên lục địa, liên lục địa",
-                        "examples": [
-                            "intercontinental flights/ trade"
-                        ],
                         "isEnabled": true,
                         "children": []
                     }

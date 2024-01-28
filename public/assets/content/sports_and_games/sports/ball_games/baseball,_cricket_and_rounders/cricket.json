@@ -200,52 +200,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "over",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the period of time in the game of cricket during which six or eight balls are thrown by the same bowler in one direction: loạt ném gồm 6 trái từ 1 phía sân",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "century",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "100 run s scored by one cricket player in an innings : điểm số 100 lần chạy",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "parts of playing area",
                 "order": 1,
                 "icon": "",
@@ -476,7 +430,7 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "faults",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -488,6 +442,85 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "no-ball",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "no ball an act of bowl ing the ball in the game of cricket in a way that is not allowed by the rules : ném bóng lỗi",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "leg before wicket",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(abblbw)   in the game of cricket, when yourtime as the person trying to hit the ball is ended because the ball has hit your leg when it should not have : lỗi chân chạm bóng (cầu thủ đánh bóng)",
+                        "examples": [
+                            "Broad was leg before for 14 runs",
+                            "he dismissed Stephenson leg before wicket"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "over",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the period of time in the game of cricket during which six or eight balls are thrown by the same bowler in one direction: loạt ném gồm 6 trái từ 1 phía sân",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "century",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "100 run s scored by one cricket player in an innings : điểm số 100 lần chạy",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "hit a four",
@@ -567,55 +600,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "faults",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "no-ball",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "no ball an act of bowl ing the ball in the game of cricket in a way that is not allowed by the rules : ném bóng lỗi",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "leg before wicket",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(abblbw)   in the game of cricket, when yourtime as the person trying to hit the ball is ended because the ball has hit your leg when it should not have : lỗi chân chạm bóng (cầu thủ đánh bóng)",
-                        "examples": [
-                            "Broad was leg before for 14 runs",
-                            "he dismissed Stephenson leg before wicket"
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

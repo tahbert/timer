@@ -346,66 +346,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "numeracy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "ability to do basic mathematics: khả năng làm toán",
-                        "examples": [
-                            "the latest statistics on the literacy and numeracy of eleven to sixteen-year-olds.",
-                            "numerate[adj]specialized able to add, subtract, etc",
-                            "Geography graduates are literate and numerate and have very good IT skills.",
-                            "numerical[adj] số",
-                            "involving or expressed in numbers",
-                            "a numerical calculation",
-                            "numerical skill/ability",
-                            "Keep your files in numericalorder.",
-                            "The UN forces have a numerical superiority over the rebels (= There are more of the UN forces)",
-                            "numerically[adv]về số lượng",
-                            "to be numerically superior"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "innumeracy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "innumerateunable to understand and use numbers in calculations: không biết làm toán",
-                        "examples": [
-                            "innumeracy[ U ] tình trạng không biết làm toán"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to count sth wrongly or not remember how many has been counted",
                 "order": 1,
                 "icon": "",
@@ -468,6 +408,66 @@
                         "definition": "to forget how many things or people you have already counted, when you are counting a lot of things over a long period:",
                         "examples": [
                             "I’ve been trying to keep a record of how many tickets we’ve sold, but I’ve lost count."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "numeracy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "ability to do basic mathematics: khả năng làm toán",
+                        "examples": [
+                            "the latest statistics on the literacy and numeracy of eleven to sixteen-year-olds.",
+                            "numerate[adj]specialized able to add, subtract, etc",
+                            "Geography graduates are literate and numerate and have very good IT skills.",
+                            "numerical[adj] số",
+                            "involving or expressed in numbers",
+                            "a numerical calculation",
+                            "numerical skill/ability",
+                            "Keep your files in numericalorder.",
+                            "The UN forces have a numerical superiority over the rebels (= There are more of the UN forces)",
+                            "numerically[adv]về số lượng",
+                            "to be numerically superior"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "innumeracy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "innumerateunable to understand and use numbers in calculations: không biết làm toán",
+                        "examples": [
+                            "innumeracy[ U ] tình trạng không biết làm toán"
                         ],
                         "isEnabled": true,
                         "children": []

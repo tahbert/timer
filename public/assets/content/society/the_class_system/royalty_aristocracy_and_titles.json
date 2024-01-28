@@ -87,43 +87,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "the throne",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[CS noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the position and power of being a king or queen : ngai vàng",
-                        "examples": [
-                            "He isnext in line to the throne(= will become king when the present ruler dies ).",
-                            "In 1913, George V wason the throne(= was ruling ).",
-                            "Elizabeth IIascended/ came tothe throne (= became queen of Britain) when her father died.",
-                            "Queen Victoria wasonthe throne (= was queen) at that time.",
-                            "Charles isnext in line tothe throne (= will become king next) ."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "sb who belongs to the highest social rank class",
                 "order": 1,
                 "icon": "",
@@ -540,6 +503,43 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "the throne",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[CS noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the position and power of being a king or queen : ngai vàng",
+                        "examples": [
+                            "He isnext in line to the throne(= will become king when the present ruler dies ).",
+                            "In 1913, George V wason the throne(= was ruling ).",
+                            "Elizabeth IIascended/ came tothe throne (= became queen of Britain) when her father died.",
+                            "Queen Victoria wasonthe throne (= was queen) at that time.",
+                            "Charles isnext in line tothe throne (= will become king next) ."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

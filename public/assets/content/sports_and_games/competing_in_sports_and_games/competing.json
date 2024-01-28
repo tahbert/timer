@@ -299,111 +299,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "sportsmanship",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "behaviour that is fair, honest, and polite in a game or sports competition : tinh thần thể thao",
-                        "examples": [
-                            "His sportsmanship and style of play are refreshing.",
-                            "sportsmanlike[adj] behaving in a fair, honest, and polite way when competing in sportsOPP unsportsmanlike: hợp với tinh thần thể thao",
-                            "As a club, we try to encouragesportsmanlike behaviour."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "good/bad/poor sportsmanship(= good or bad behaviour in a sport )",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "We try to teach the kids good sportsmanship."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "weigh in",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[I phrasal verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "at if a sports person weighs in at a particular weight, that is what they weigh just before a sports event: cân nặng vào mức",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "weigh in at 250 pounds/80 kilos etc",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The champion weighed in at 225 pounds before his last fight.",
-                                    "Tyson weighed inat245 lbs for the fight."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "sideline",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T usually P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "if you are sidelined, you are unable to play in a sports game because you are injured, or unable to take part in an activity because you are not as good as sb else : cho ra ngoài sân",
-                        "examples": [
-                            "Owen was once again sidelined through injury.",
-                            "Johnson has been sidelined through injury."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "activites",
                 "order": 1,
                 "icon": "",
@@ -572,6 +467,111 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "sportsmanship",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "behaviour that is fair, honest, and polite in a game or sports competition : tinh thần thể thao",
+                        "examples": [
+                            "His sportsmanship and style of play are refreshing.",
+                            "sportsmanlike[adj] behaving in a fair, honest, and polite way when competing in sportsOPP unsportsmanlike: hợp với tinh thần thể thao",
+                            "As a club, we try to encouragesportsmanlike behaviour."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "good/bad/poor sportsmanship(= good or bad behaviour in a sport )",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "We try to teach the kids good sportsmanship."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "weigh in",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[I phrasal verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "at if a sports person weighs in at a particular weight, that is what they weigh just before a sports event: cân nặng vào mức",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "weigh in at 250 pounds/80 kilos etc",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The champion weighed in at 225 pounds before his last fight.",
+                                    "Tyson weighed inat245 lbs for the fight."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "sideline",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T usually P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "if you are sidelined, you are unable to play in a sports game because you are injured, or unable to take part in an activity because you are not as good as sb else : cho ra ngoài sân",
+                        "examples": [
+                            "Owen was once again sidelined through injury.",
+                            "Johnson has been sidelined through injury."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

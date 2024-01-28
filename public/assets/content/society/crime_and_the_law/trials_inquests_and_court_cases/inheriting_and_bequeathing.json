@@ -15,168 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "inherit",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[transitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ɪnˈherɪt, ɪnˈherət/  to be given someone’s money or property after they die:",
-                        "examples": [
-                            "thừa hưởng, thừa kế",
-                            "▪ Who will inherit the house when he dies?",
-                            "Ai sẽ thừa hưởng ngôi nhà khi ông ấy chết?",
-                            "▪ The ten richest women in the UK all inherited their wealth.",
-                            "Mười người phụ nữ giàu nhất nước Anh đều được thừa hưởng tài sản.",
-                            "inherit something from somebody",
-                            "thừa hưởng từ ai cái gì",
-                            "▪ She inherited the money from her mother.",
-                            "Cô ta thừa hưởng tiền từ mẹ."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "come into sth",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "come intosthphrasal verbMONEY",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "If someone comes into money, property or a title, they receive it as a result of thedeath of a relation",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_She came into a bit of money when her grandfather died."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "heir",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun người thừa kế; người thừa tự",
-                        "examples": [
-                            "[ C ] a person who will legally receive money, property or a title from another person,especially an older member of the same family, when that other person dies",
-                            "_The guest of honour was the Romanoff heirtothe throne of all",
-                            "_Russia. Despite having a large family, they still had noson andheir."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "inheritor",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounngười thừa kế",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a person who has been given something by someone who is dead",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_figurativeWe are the inheritorsofGreek and Roman culture."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "beneficiary",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounngười được hưởng tài sản theo di chúc; người được hưởng những lợi lộc phát sinh từ hợp đồng bảo hiểm; người thụhưởng",
-                        "examples": [
-                            "a person or group who receives money, advantages, etc. as a result of something else",
-                            "_Her husband was the chief beneficiaryofher will.",
-                            "beneficiaryAC/ ˌbenəˈfɪʃəri, ˌbenɪˈfɪʃəri $ -ˈfɪʃieri /noun(pluralbeneficiaries)[ countable ]",
-                            "someone who receives money or property from someone else who has died",
-                            "beneficiary of",
-                            "He was the chief beneficiary of his father’s will."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to arrange for sth to be given to sb after you die",
                 "order": 1,
                 "icon": "",
@@ -477,7 +315,7 @@
             },
             {
                 "id": "",
-                "name": "group",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -489,6 +327,136 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": [
+                    {
+                        "id": "",
+                        "name": "inherit",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[transitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ɪnˈherɪt, ɪnˈherət/  to be given someone’s money or property after they die:",
+                        "examples": [
+                            "thừa hưởng, thừa kế",
+                            "▪ Who will inherit the house when he dies?",
+                            "Ai sẽ thừa hưởng ngôi nhà khi ông ấy chết?",
+                            "▪ The ten richest women in the UK all inherited their wealth.",
+                            "Mười người phụ nữ giàu nhất nước Anh đều được thừa hưởng tài sản.",
+                            "inherit something from somebody",
+                            "thừa hưởng từ ai cái gì",
+                            "▪ She inherited the money from her mother.",
+                            "Cô ta thừa hưởng tiền từ mẹ."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "come into sth",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "come intosthphrasal verbMONEY",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "If someone comes into money, property or a title, they receive it as a result of thedeath of a relation",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_She came into a bit of money when her grandfather died."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "heir",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun người thừa kế; người thừa tự",
+                        "examples": [
+                            "[ C ] a person who will legally receive money, property or a title from another person,especially an older member of the same family, when that other person dies",
+                            "_The guest of honour was the Romanoff heirtothe throne of all",
+                            "_Russia. Despite having a large family, they still had noson andheir."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "inheritor",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounngười thừa kế",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a person who has been given something by someone who is dead",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_figurativeWe are the inheritorsofGreek and Roman culture."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "beneficiary",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounngười được hưởng tài sản theo di chúc; người được hưởng những lợi lộc phát sinh từ hợp đồng bảo hiểm; người thụhưởng",
+                        "examples": [
+                            "a person or group who receives money, advantages, etc. as a result of something else",
+                            "_Her husband was the chief beneficiaryofher will.",
+                            "beneficiaryAC/ ˌbenəˈfɪʃəri, ˌbenɪˈfɪʃəri $ -ˈfɪʃieri /noun(pluralbeneficiaries)[ countable ]",
+                            "someone who receives money or property from someone else who has died",
+                            "beneficiary of",
+                            "He was the chief beneficiary of his father’s will."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
                     {
                         "id": "",
                         "name": "inheritance",
@@ -555,23 +523,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "intestate",
@@ -604,23 +556,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "cut sb out of your will",
@@ -669,23 +605,7 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "executor",
@@ -718,23 +638,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
+                    },
                     {
                         "id": "",
                         "name": "transfer",

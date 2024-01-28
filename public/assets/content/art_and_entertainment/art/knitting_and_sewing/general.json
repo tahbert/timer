@@ -15,42 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "stitch",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a piece of thread sewn in cloth, or the single movement of a needle and thread into and out of the cloth which produces this: mũi khâu",
-                        "examples": [
-                            "Secure the two pieces together with a couple of stitches.",
-                            "cable stitch[ U ] a pattern of wool used in knitting , which looks like twisted cables mũi đan giống như dây thừng xoắn",
-                            "chain stitch[ U ] a decorative sewing method in which each stitch is connected to the next so that they form a chain",
-                            "cross-stitch[ U ] a decorative style of sewing which uses stitches which cross each other to form an X mũi chéo nhau, mũi chữ thập (khâu, thêu)"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "activity",
                 "order": 1,
                 "icon": "",
@@ -285,6 +249,42 @@
                         "region": "",
                         "definition": "UK a shop or part of a large store where things used for making clothes are sold : cửa hàng đồ kim chỉ",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "stitch",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a piece of thread sewn in cloth, or the single movement of a needle and thread into and out of the cloth which produces this: mũi khâu",
+                        "examples": [
+                            "Secure the two pieces together with a couple of stitches.",
+                            "cable stitch[ U ] a pattern of wool used in knitting , which looks like twisted cables mũi đan giống như dây thừng xoắn",
+                            "chain stitch[ U ] a decorative sewing method in which each stitch is connected to the next so that they form a chain",
+                            "cross-stitch[ U ] a decorative style of sewing which uses stitches which cross each other to form an X mũi chéo nhau, mũi chữ thập (khâu, thêu)"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

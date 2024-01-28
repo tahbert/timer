@@ -15,43 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "feudal",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[attri]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "relating to the social system of Western Europe in the Middle Ages or any society that is organized according to rank: phong kiến",
-                        "examples": [
-                            "the feudal system",
-                            "feudal society",
-                            "the feudal system",
-                            "a feudal lord/kingdom/society",
-                            "feudalism[U] chế độ phong kiến"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "general",
                 "order": 1,
                 "icon": "",
@@ -109,6 +72,43 @@
                         "region": "",
                         "definition": "the the period in European history from the end of the Roman Empire in AD 476 to about AD 1000 : thời kỳ tiền Trung Cổ",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "feudal",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[attri]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "relating to the social system of Western Europe in the Middle Ages or any society that is organized according to rank: phong kiến",
+                        "examples": [
+                            "the feudal system",
+                            "feudal society",
+                            "the feudal system",
+                            "a feudal lord/kingdom/society",
+                            "feudalism[U] chế độ phong kiến"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

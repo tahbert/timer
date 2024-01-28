@@ -374,78 +374,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "stalker",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈstɔːkəʳ/  a criminal or mentally ill person who continuously follows and watches someone in a threatening way, especially someone famous or someone they are attracted to:",
-                        "examples": [
-                            "kẻ rình mò",
-                            "Women’s groups are demanding that Congress toughen the law against stalkers.",
-                            "The stalker’s reappearance has led to increased security around the actress.",
-                            "stalkernoun[ C ]người đi lén theo",
-                            "a person who illegally follows and watches someone, especially a woman, over a period of time",
-                            "_Several well-known women have been troubled by stalkers recently."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "crook",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb who is involved in dishonest and usually criminal activities, especially someone who gets money by cheating people: lừa đảo",
-                        "examples": [
-                            "Collins called the governor a crook and said he should be removed from office."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "outlaw",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(especially in the past) a person who has broken the law and who lives separately from the other parts of society because they want to escape legal punishment :kẻngoài vòng pháp luật",
-                        "examples": [
-                            "Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "first or repeated",
                 "order": 1,
                 "icon": "",
@@ -561,6 +489,78 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "stalker",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈstɔːkəʳ/  a criminal or mentally ill person who continuously follows and watches someone in a threatening way, especially someone famous or someone they are attracted to:",
+                        "examples": [
+                            "kẻ rình mò",
+                            "Women’s groups are demanding that Congress toughen the law against stalkers.",
+                            "The stalker’s reappearance has led to increased security around the actress.",
+                            "stalkernoun[ C ]người đi lén theo",
+                            "a person who illegally follows and watches someone, especially a woman, over a period of time",
+                            "_Several well-known women have been troubled by stalkers recently."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "crook",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who is involved in dishonest and usually criminal activities, especially someone who gets money by cheating people: lừa đảo",
+                        "examples": [
+                            "Collins called the governor a crook and said he should be removed from office."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "outlaw",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(especially in the past) a person who has broken the law and who lives separately from the other parts of society because they want to escape legal punishment :kẻngoài vòng pháp luật",
+                        "examples": [
+                            "Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

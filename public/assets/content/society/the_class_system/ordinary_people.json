@@ -15,42 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "civil",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[attri adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "relating to the ordinary people or things in a country that are not part of military, government, or religious organizations : dân sự",
-                        "examples": [
-                            "They were married in a civil ceremony in May.",
-                            "Helicopters are mainly used for military rather than civil use.",
-                            "After ten years of military dictatorship, the country now has a civilgovernment.",
-                            "We weren't married in church, but we had a civilceremonyin a registry office."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the ordinary people in general",
                 "order": 1,
                 "icon": "",
@@ -290,6 +254,42 @@
                             "grassroots[attri adj]",
                             "a grassroots campaign",
                             "The party is in some difficulty, but still has grassroots support."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "civil",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[attri adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "relating to the ordinary people or things in a country that are not part of military, government, or religious organizations : dân sự",
+                        "examples": [
+                            "They were married in a civil ceremony in May.",
+                            "Helicopters are mainly used for military rather than civil use.",
+                            "After ten years of military dictatorship, the country now has a civilgovernment.",
+                            "We weren't married in church, but we had a civilceremonyin a registry office."
                         ],
                         "isEnabled": true,
                         "children": []

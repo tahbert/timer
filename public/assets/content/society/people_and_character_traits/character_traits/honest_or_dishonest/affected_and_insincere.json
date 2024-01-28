@@ -15,97 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "hollow",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(of situations, feelings or words) without value; not true or sincere : trống rỗng, sáo rỗng",
-                        "examples": [
-                            "They won, but it was ahollow victory.",
-                            "Even sex had become a hollow pleasure.",
-                            "Will their good intentions become realities or are they just hollow promises?",
-                            "Even as he spoke, Ivan was well aware of thehollow ringto his words.",
-                            "ring/ sound hollow",
-                            "[If something sb says rings hollow, it does not sound true or sincere]"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "smarmy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "informal sb who is smarmy behaves in a very friendly way but seems completely insincere :xun xoe, nịnh nọt",
-                        "examples": [
-                            "He’s been criticized for his smarmy behavior when interviewing celebrities."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a slick, smarmy public relations officer",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "He denies calling the Prime Minister ‘smarmy’."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "slimy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb who is slimy is too friendly and praises people too much in a way that is clearly dishonest and makes you think they are just trying to get an advantage for themselves:nịnh nọt, luồn cúi, khúm núm, gian xảo",
-                        "examples": [
-                            "What a slimy, horrible man.",
-                            "They had the usual slimy politician on TV talking about ‘the innate good sense of the voters’."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "change your way of speaking or behaving to impress people",
                 "order": 1,
                 "icon": "",
@@ -432,6 +341,97 @@
                         "usage": "",
                         "region": "",
                         "definition": "giả dối",
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "hollow",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(of situations, feelings or words) without value; not true or sincere : trống rỗng, sáo rỗng",
+                        "examples": [
+                            "They won, but it was ahollow victory.",
+                            "Even sex had become a hollow pleasure.",
+                            "Will their good intentions become realities or are they just hollow promises?",
+                            "Even as he spoke, Ivan was well aware of thehollow ringto his words.",
+                            "ring/ sound hollow",
+                            "[If something sb says rings hollow, it does not sound true or sincere]"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "smarmy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "informal sb who is smarmy behaves in a very friendly way but seems completely insincere :xun xoe, nịnh nọt",
+                        "examples": [
+                            "He’s been criticized for his smarmy behavior when interviewing celebrities."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a slick, smarmy public relations officer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "He denies calling the Prime Minister ‘smarmy’."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "slimy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who is slimy is too friendly and praises people too much in a way that is clearly dishonest and makes you think they are just trying to get an advantage for themselves:nịnh nọt, luồn cúi, khúm núm, gian xảo",
+                        "examples": [
+                            "What a slimy, horrible man.",
+                            "They had the usual slimy politician on TV talking about ‘the innate good sense of the voters’."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

@@ -153,7 +153,42 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "activities",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "dramatize",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ dramatiseUK to make a book or event into a play or film : viết thành kịch, chuyển thể thành kịch",
+                        "examples": [
+                            "a novel dramatized for television",
+                            "dramatization/ dramatisationUK[C]",
+                            "a dramatization of a novel"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -195,41 +230,6 @@
                             "The production is a modern staging of the fairy tale 'Cinderella'.",
                             "the quality of staging and design",
                             "one of the better stagings of Hamlet"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "activities",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "dramatize",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ dramatiseUK to make a book or event into a play or film : viết thành kịch, chuyển thể thành kịch",
-                        "examples": [
-                            "a novel dramatized for television",
-                            "dramatization/ dramatisationUK[C]",
-                            "a dramatization of a novel"
                         ],
                         "isEnabled": true,
                         "children": []

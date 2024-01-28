@@ -296,81 +296,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "prime time",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "in television and radio broadcasting, the time when the largest number of people are watching or listening: giờ cao điểm",
-                        "examples": [
-                            "The interview will be broadcast during prime time.",
-                            "prime-time TV",
-                            "a prime time entertainment programme",
-                            "prime time television",
-                            "prime time audiences",
-                            "a speech that was broadcast live during prime time"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "airwaves",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the radio waves used for broadcasting radio and television programmes, or, more generally, radio or television broadcasting time: tần số",
-                        "examples": [
-                            "on/over the airwaves",
-                            "a subject that’s been debated on the airwaves",
-                            "The new series of Batman will beon theairwaves at 6 pm every Tuesday."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "airtime",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the amount of time that a radio or television station gives to a particular subject, advertisement etc : thời lượng phát sóng",
-                        "examples": [
-                            "The smaller political parties are campaigning to be allowed free airtime before general elections.",
-                            "Advertisers have bought airtime on all the major TV networks."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "places",
                 "order": 1,
                 "icon": "",
@@ -729,6 +654,81 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "prime time",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "in television and radio broadcasting, the time when the largest number of people are watching or listening: giờ cao điểm",
+                        "examples": [
+                            "The interview will be broadcast during prime time.",
+                            "prime-time TV",
+                            "a prime time entertainment programme",
+                            "prime time television",
+                            "prime time audiences",
+                            "a speech that was broadcast live during prime time"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "airwaves",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the radio waves used for broadcasting radio and television programmes, or, more generally, radio or television broadcasting time: tần số",
+                        "examples": [
+                            "on/over the airwaves",
+                            "a subject that’s been debated on the airwaves",
+                            "The new series of Batman will beon theairwaves at 6 pm every Tuesday."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "airtime",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the amount of time that a radio or television station gives to a particular subject, advertisement etc : thời lượng phát sóng",
+                        "examples": [
+                            "The smaller political parties are campaigning to be allowed free airtime before general elections.",
+                            "Advertisers have bought airtime on all the major TV networks."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

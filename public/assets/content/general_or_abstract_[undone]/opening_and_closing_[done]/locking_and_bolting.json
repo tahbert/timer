@@ -176,7 +176,76 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "in locked state",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "locked",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "something that is lockedhas been shut using a key:đóng, khóa",
+                        "examples": [
+                            "▪ Jamie tried the door. ‘It’s locked,’ he said."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "▪ All office workers should keep their personal belongings in a locked drawer",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    ".▪ I need my coat out of your car -- is it locked?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "bolted",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adjective]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈbəʊltɪd, ˈbəʊltəd/  a door that isboltedhas been shut by using a metal bar that slides across and prevents the door from being opened from the other side:bịt lại",
+                        "examples": [
+                            "▪ The door’s bolted, we’ll have to break it down.",
+                            "▪ Burglars can always find a way in, in spite of bolted doors and windows."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -269,75 +338,6 @@
                         "definition": "to open something, especially a door which is locked (= fastened with a lock) using a key or an electronic device : mở khóa",
                         "examples": [
                             "I keep worrying that I've left the garage door unlocked."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "in locked state",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "locked",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "something that is lockedhas been shut using a key:đóng, khóa",
-                        "examples": [
-                            "▪ Jamie tried the door. ‘It’s locked,’ he said."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "▪ All office workers should keep their personal belongings in a locked drawer",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    ".▪ I need my coat out of your car -- is it locked?"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "bolted",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adjective]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈbəʊltɪd, ˈbəʊltəd/  a door that isboltedhas been shut by using a metal bar that slides across and prevents the door from being opened from the other side:bịt lại",
-                        "examples": [
-                            "▪ The door’s bolted, we’ll have to break it down.",
-                            "▪ Burglars can always find a way in, in spite of bolted doors and windows."
                         ],
                         "isEnabled": true,
                         "children": []

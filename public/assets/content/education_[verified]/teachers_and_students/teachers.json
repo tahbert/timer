@@ -130,146 +130,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "department",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[C + sing/pl verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(written abbdept) one of the groups of people who work together in a particular part of a university: khoa",
-                        "examples": [
-                            "the personnel department",
-                            "the English department",
-                            "department of",
-                            "the Department of the Environment"
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a university department",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "University departments are generally judged by their research quality."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "the Biology/Maths/History etc department",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "in a university or school",
-                                "examples": [
-                                    "the Chemistry department at Southampton University"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "a department head",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "These decisions are made by the department head."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "department staff",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "people working in a department",
-                                "examples": [
-                                    "All department staff will be affected by the new working hours."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            },
-                            {
-                                "id": "",
-                                "name": "a member of a department",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "a person working in a department",
-                                "examples": [
-                                    "All members of the Biology Department are actively committed to research."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "faculty",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "US all the teachers in a college or university:giảng viênkhoa",
-                        "examples": [
-                            "Norman White has been on the faculty at UCLA for over thirty years.",
-                            "Nearly half the faculty turned out to show their support."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "sb who is in charge of a school or college",
                 "order": 1,
                 "icon": "",
@@ -496,6 +356,146 @@
                         "definition": "a woman who lived with a family and taught their children in past times : nữ gia sư (trong thời cổ phương Tây)",
                         "examples": [
                             "As a governess, Charlotte Brontë received twenty pounds a year."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "department",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[C + sing/pl verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(written abbdept) one of the groups of people who work together in a particular part of a university: khoa",
+                        "examples": [
+                            "the personnel department",
+                            "the English department",
+                            "department of",
+                            "the Department of the Environment"
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a university department",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "University departments are generally judged by their research quality."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "the Biology/Maths/History etc department",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "in a university or school",
+                                "examples": [
+                                    "the Chemistry department at Southampton University"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a department head",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "These decisions are made by the department head."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "department staff",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "people working in a department",
+                                "examples": [
+                                    "All department staff will be affected by the new working hours."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            },
+                            {
+                                "id": "",
+                                "name": "a member of a department",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "a person working in a department",
+                                "examples": [
+                                    "All members of the Biology Department are actively committed to research."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "faculty",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "US all the teachers in a college or university:giảng viênkhoa",
+                        "examples": [
+                            "Norman White has been on the faculty at UCLA for over thirty years.",
+                            "Nearly half the faculty turned out to show their support."
                         ],
                         "isEnabled": true,
                         "children": []

@@ -635,40 +635,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "-work",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "suffixused to name things made of a particular material: phần làm bằng",
-                        "examples": [
-                            "stonework/ ironwork",
-                            "-worksuffixused to refer to a skill or activity using a particular type of material : nghề, công việc",
-                            "Girls and boys study woodwork and metalwork at this school."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "activities",
                 "order": 1,
                 "icon": "",
@@ -742,6 +708,40 @@
                         "region": "",
                         "definition": "a piece of land on which a house or other building is being built :khu đất đang xây dựng",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "-work",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "suffixused to name things made of a particular material: phần làm bằng",
+                        "examples": [
+                            "stonework/ ironwork",
+                            "-worksuffixused to refer to a skill or activity using a particular type of material : nghề, công việc",
+                            "Girls and boys study woodwork and metalwork at this school."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

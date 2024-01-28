@@ -15,43 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "access",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "how easy or difficult it is for people to enter a public building, to reach a place, or talk to sb : khả nang tiếp cận, đến được (qua một lối đi hay phương tiện)",
-                        "examples": [
-                            "access for",
-                            "We’re trying to improve access for disabled visitors.",
-                            "access to",
-                            "a villa witheasy accessto the sea",
-                            "The only accesstothe village is by boat."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "where you enter",
                 "order": 1,
                 "icon": "",
@@ -1172,6 +1135,43 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "access",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "how easy or difficult it is for people to enter a public building, to reach a place, or talk to sb : khả nang tiếp cận, đến được (qua một lối đi hay phương tiện)",
+                        "examples": [
+                            "access for",
+                            "We’re trying to improve access for disabled visitors.",
+                            "access to",
+                            "a villa witheasy accessto the sea",
+                            "The only accesstothe village is by boat."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

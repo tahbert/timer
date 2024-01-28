@@ -15,91 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "civil servant",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a person who works in the Civil Service : nhân viêncông chức",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "minister",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a member of the government inBritainand many other countries who is in charge of a particular department or has an important position in it :bộ trưởng",
-                        "examples": [
-                            "foreign/ defence/ finance etc minister",
-                            "a meeting of EU foreign ministers",
-                            "a seniorCabinet minister",
-                            "the foreign/ health minister",
-                            "minister of",
-                            "the Minister of Agriculture/ Education",
-                            "minister for",
-                            "the Minister for Foreign Affairs/ Education"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "private secretary",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb whose job is to help a government minister :thư ký riêng",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "press secretary",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "sb who works for a political leader or organization and makes statements to the press or answers questions for them :thư ký toà soạn",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "most powerful people in a government",
                 "order": 1,
                 "icon": "",
@@ -338,6 +253,91 @@
                         "examples": [
                             "The party spin doctors would like us to believe that the government is committed to improving the environment."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "civil servant",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a person who works in the Civil Service : nhân viêncông chức",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "minister",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a member of the government inBritainand many other countries who is in charge of a particular department or has an important position in it :bộ trưởng",
+                        "examples": [
+                            "foreign/ defence/ finance etc minister",
+                            "a meeting of EU foreign ministers",
+                            "a seniorCabinet minister",
+                            "the foreign/ health minister",
+                            "minister of",
+                            "the Minister of Agriculture/ Education",
+                            "minister for",
+                            "the Minister for Foreign Affairs/ Education"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "private secretary",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb whose job is to help a government minister :thư ký riêng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "press secretary",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "sb who works for a political leader or organization and makes statements to the press or answers questions for them :thư ký toà soạn",
+                        "examples": [],
                         "isEnabled": true,
                         "children": []
                     }

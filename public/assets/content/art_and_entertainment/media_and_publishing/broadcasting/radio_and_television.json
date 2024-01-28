@@ -15,61 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "aerial",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/antennaUS  a structure made of metal rods or wires that receives or sends out radio or television signals :",
-                        "examples": [
-                            "television antennas"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "cable",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a system of broadcasting television by using cables, paid for by the person watching it : hệ thông cáp",
-                        "examples": [
-                            "The office has gone over to cable.",
-                            "cable TV",
-                            "on cable",
-                            "I’ll wait for the movie to come out on cable.",
-                            "This channel is only availableoncable.",
-                            "cable network/channel/programme"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the business",
                 "order": 1,
                 "icon": "",
@@ -1006,6 +951,61 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "aerial",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/antennaUS  a structure made of metal rods or wires that receives or sends out radio or television signals :",
+                        "examples": [
+                            "television antennas"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "cable",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a system of broadcasting television by using cables, paid for by the person watching it : hệ thông cáp",
+                        "examples": [
+                            "The office has gone over to cable.",
+                            "cable TV",
+                            "on cable",
+                            "I’ll wait for the movie to come out on cable.",
+                            "This channel is only availableoncable.",
+                            "cable network/channel/programme"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

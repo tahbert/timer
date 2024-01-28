@@ -152,39 +152,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "sovereignty",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the power of a country to control its own government : chủ quyền",
-                        "examples": [
-                            "Talks are being held about who shouldhavesovereigntyoverthe island."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "have an official position of power",
                 "order": 1,
                 "icon": "",
@@ -502,6 +469,39 @@
                             "repression[U noun]",
                             "Most of the refugees are fleeing from repression in their homeland.",
                             "The political repression in this country is enforced by terror."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "sovereignty",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the power of a country to control its own government : chủ quyền",
+                        "examples": [
+                            "Talks are being held about who shouldhavesovereigntyoverthe island."
                         ],
                         "isEnabled": true,
                         "children": []

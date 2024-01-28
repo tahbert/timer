@@ -641,7 +641,95 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "to make sth complicated",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "build",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[transitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/bɪld/  to make something complicated, especially a building, machine, or vehicle, by putting parts together:",
+                        "examples": [
+                            "▪ One of Jim’s hobbies is building model airplanes.",
+                            "▪ John and his father built the cabin themselves."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "build sth by handbuild something without using machines",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ Every single car is built by hand at the company’s headquarters near Turin."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "construct",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[transitive verb]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/kənˈstrʌkt/  to make something, especially something large, solid, and strong, by putting parts together:",
+                        "examples": [
+                            "▪ It is easy to construct a wooden framework for plants to grow against.",
+                            "▪ Developers want to construct a replica of the 19th century steam yacht."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "construct something from something",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ The roof frames were constructed from thick, heavy timbers."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -865,94 +953,6 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to make sth complicated",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "build",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[transitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/bɪld/  to make something complicated, especially a building, machine, or vehicle, by putting parts together:",
-                        "examples": [
-                            "▪ One of Jim’s hobbies is building model airplanes.",
-                            "▪ John and his father built the cabin themselves."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "build sth by handbuild something without using machines",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ Every single car is built by hand at the company’s headquarters near Turin."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "construct",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[transitive verb]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/kənˈstrʌkt/  to make something, especially something large, solid, and strong, by putting parts together:",
-                        "examples": [
-                            "▪ It is easy to construct a wooden framework for plants to grow against.",
-                            "▪ Developers want to construct a replica of the 19th century steam yacht."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "construct something from something",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ The roof frames were constructed from thick, heavy timbers."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
                     }
                 ]
             }

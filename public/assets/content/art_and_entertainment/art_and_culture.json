@@ -837,41 +837,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "folk",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[ before noun ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjectivedân gian",
-                        "examples": [
-                            "describes artthat expresses something about the lives and feelings of ordinarypeople in a particular group or country, especially those living in the countryside",
-                            "_folk art",
-                            "_folk dancing"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "people",
                 "order": 1,
                 "icon": "",
@@ -948,6 +913,41 @@
                         "region": "",
                         "definition": "a person who represents an actor, artist or writer : trợ lý",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "folk",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[ before noun ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjectivedân gian",
+                        "examples": [
+                            "describes artthat expresses something about the lives and feelings of ordinarypeople in a particular group or country, especially those living in the countryside",
+                            "_folk art",
+                            "_folk dancing"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

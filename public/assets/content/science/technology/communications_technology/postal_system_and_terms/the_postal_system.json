@@ -495,104 +495,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "enclose",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "bỏ kèm theo; gửi kèm theo (trong phong bì, bưu kiện...)",
-                        "examples": [
-                            "to send something in the same envelope or parcel as something else",
-                            "enclose sth",
-                            "Please enclose a curriculum vitae with your letter of application.",
-                            "I'veencloseda few photos I though you might enjoy",
-                            "an enclosed sth",
-                            "Please find theenclosed photos of two products.",
-                            "sth enclosed",
-                            "Judging from the astonishing photos enclosed, this is no surprise."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "address",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ T ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to write a name or address on an envelope or parcel : ghi địa chỉ",
-                        "examples": [
-                            "The parcel was wrongly addressed.",
-                            "readdress[ T ] to write a different address on an envelope because the person it is intended for has moved to another place : thay địa chỉ",
-                            "We readdressed all his letterstoAustralia for years after he had emigrated.",
-                            "misaddress[ T ] to put the wrong address on a letter or parcel : viết sai địa chỉ",
-                            "We have now corrected the error in our computer records which resulted in our letters to you being misaddressed."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "address sth to sb",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "C2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "That letter was addressed to me.",
-                                    "Send astamped, self-addressed envelope(= with your address on it so it can be sent back to you ).",
-                                    "So why did you open a letter that was addressedtome?"
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "zip code",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "in the US, a series of numbers that forms part of an address, and which is used to help organizepost so that it can be delivered more quickly",
-                        "examples": [
-                            "postcode[ C ] UK in Britain, a short series of letters and numbers that is part of an address, and shows exactly where a place is"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "places",
                 "order": 1,
                 "icon": "",
@@ -1320,6 +1222,104 @@
                         "region": "",
                         "definition": "a man who delivers goods to people's houses or places of work :ngườigiao hàng",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "enclose",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "bỏ kèm theo; gửi kèm theo (trong phong bì, bưu kiện...)",
+                        "examples": [
+                            "to send something in the same envelope or parcel as something else",
+                            "enclose sth",
+                            "Please enclose a curriculum vitae with your letter of application.",
+                            "I'veencloseda few photos I though you might enjoy",
+                            "an enclosed sth",
+                            "Please find theenclosed photos of two products.",
+                            "sth enclosed",
+                            "Judging from the astonishing photos enclosed, this is no surprise."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "address",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ T ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to write a name or address on an envelope or parcel : ghi địa chỉ",
+                        "examples": [
+                            "The parcel was wrongly addressed.",
+                            "readdress[ T ] to write a different address on an envelope because the person it is intended for has moved to another place : thay địa chỉ",
+                            "We readdressed all his letterstoAustralia for years after he had emigrated.",
+                            "misaddress[ T ] to put the wrong address on a letter or parcel : viết sai địa chỉ",
+                            "We have now corrected the error in our computer records which resulted in our letters to you being misaddressed."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "address sth to sb",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "C2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "That letter was addressed to me.",
+                                    "Send astamped, self-addressed envelope(= with your address on it so it can be sent back to you ).",
+                                    "So why did you open a letter that was addressedtome?"
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "zip code",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "in the US, a series of numbers that forms part of an address, and which is used to help organizepost so that it can be delivered more quickly",
+                        "examples": [
+                            "postcode[ C ] UK in Britain, a short series of letters and numbers that is part of an address, and shows exactly where a place is"
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

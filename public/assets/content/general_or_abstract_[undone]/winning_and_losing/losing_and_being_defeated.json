@@ -1138,7 +1138,110 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "when sb is beaten",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "defeat",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[countable/uncountable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/dɪˈfiːt/  a situation in which a person, army, political party etc is defeated:",
+                        "examples": [
+                            "▪ After his third successive election defeat he decided to retire from politics."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "suffer a defeat",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B1",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪ In the last game of the season they suffered a humiliating defeat, losing 7-0 to Real Madrid."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "rout",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/raʊt/  a situation in which a person, army, political party etc is easily defeated:thất bại (dễ dàng như dạo chơi, ăn tiệc)",
+                        "examples": [
+                            "▪The game was a rout, with the home team winning by 10 goals to nil."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "drubbing",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[countable noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˈdrʌbɪŋ/  a situation in which a person, team, political party etc is defeated badly:thảm bại",
+                        "examples": [
+                            "▪Gramm’s drubbing by Davis in the California primary has badly hurt his campaign."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "take a drubbing",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "▪The Lions took a drubbing from the Eagles last night, losing 58-37."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -1272,109 +1375,6 @@
                         "definition": "verbfell,fallenBE DEFEATED thất bại, thất thủ",
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "when sb is beaten",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "defeat",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[countable/uncountable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/dɪˈfiːt/  a situation in which a person, army, political party etc is defeated:",
-                        "examples": [
-                            "▪ After his third successive election defeat he decided to retire from politics."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "suffer a defeat",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B1",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪ In the last game of the season they suffered a humiliating defeat, losing 7-0 to Real Madrid."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "rout",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/raʊt/  a situation in which a person, army, political party etc is easily defeated:thất bại (dễ dàng như dạo chơi, ăn tiệc)",
-                        "examples": [
-                            "▪The game was a rout, with the home team winning by 10 goals to nil."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "drubbing",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[countable noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˈdrʌbɪŋ/  a situation in which a person, team, political party etc is defeated badly:thảm bại",
-                        "examples": [
-                            "▪Gramm’s drubbing by Davis in the California primary has badly hurt his campaign."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "take a drubbing",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "▪The Lions took a drubbing from the Eagles last night, losing 58-37."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
                     }
                 ]
             }

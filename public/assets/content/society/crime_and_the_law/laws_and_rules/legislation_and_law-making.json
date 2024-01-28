@@ -487,7 +487,70 @@
             },
             {
                 "id": "",
-                "name": "further",
+                "name": "the legal control or possession of sth",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "copyright",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C or U noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the legal right to control the production and selling of a book, play, film, photograph, or piece of music:",
+                        "examples": [
+                            "Who owns/holds the copyright on this article?",
+                            "His work is no longer protected by copyright.",
+                            "The symbol © shows that something is protected by copyright.",
+                            "copyright[ T ]",
+                            "copyright a photo",
+                            "LDN does not copyright their photos , so they are free for the taking for anyone who wants to copy them.",
+                            "Trademarks, videos, photos are copyrighted to their respectful owners.",
+                            "We usually cannot publishcopyrightedphotos without the explicit permission of the copyright holder."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "rights",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CP noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the legal control or possession of sth such as a product, a book, an idea etc: bản quyền (sở hữu)",
+                        "examples": [
+                            "Elliott liked the book and bought the rights, planning to make it into a miniseries",
+                            "rights to",
+                            "This is the publishing company which brought the rights to Somerset Maugham’s short stories.",
+                            "ABC has exclusive rights to television coverage of the Olympics.",
+                            "The studio bought the rights to his new book.",
+                            "The company paid £2 million forfilm rightsto the book.",
+                            "thetelevision rightsto the Olympic Games."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -548,69 +611,6 @@
                         "examples": [
                             "In theory, the civil service is the non-political arm of the executive.",
                             "Power is shared between three main branches of government: the executive, the legislative, and the judiciary."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "the legal control or possession of sth",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "copyright",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C or U noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the legal right to control the production and selling of a book, play, film, photograph, or piece of music:",
-                        "examples": [
-                            "Who owns/holds the copyright on this article?",
-                            "His work is no longer protected by copyright.",
-                            "The symbol © shows that something is protected by copyright.",
-                            "copyright[ T ]",
-                            "copyright a photo",
-                            "LDN does not copyright their photos , so they are free for the taking for anyone who wants to copy them.",
-                            "Trademarks, videos, photos are copyrighted to their respectful owners.",
-                            "We usually cannot publishcopyrightedphotos without the explicit permission of the copyright holder."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "rights",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CP noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the legal control or possession of sth such as a product, a book, an idea etc: bản quyền (sở hữu)",
-                        "examples": [
-                            "Elliott liked the book and bought the rights, planning to make it into a miniseries",
-                            "rights to",
-                            "This is the publishing company which brought the rights to Somerset Maugham’s short stories.",
-                            "ABC has exclusive rights to television coverage of the Olympics.",
-                            "The studio bought the rights to his new book.",
-                            "The company paid £2 million forfilm rightsto the book.",
-                            "thetelevision rightsto the Olympic Games."
                         ],
                         "isEnabled": true,
                         "children": []

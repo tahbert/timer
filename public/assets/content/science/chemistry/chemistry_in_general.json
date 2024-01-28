@@ -92,136 +92,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "atomic",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adjective nguyên tử",
-                        "examples": [
-                            "using the energy that is created when an atom is divided",
-                            "_atomicenergy/power",
-                            "_atomic scientists"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "PH",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[C usually S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a number which shows how strongly acid or alkaline a substance is, in a range from 0 to 14: độ ph",
-                        "examples": [
-                            "Below pH 6.5 is acid, above pH 7.5 is alkaline.",
-                            "The soil in our garden has alow/highpH."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "group",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "fractional distillation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the chemical process of separating different substances that have different boiling points by heating a liquid mixture until it turns into gas and then cooling and collecting each substance separately : sự chưng cất phân đoạn",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "balanced equation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a chemical equation that has an equal amount of each element on the left and right sides: phương trình cân bằng",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "chemical equation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "(chemical) equation a statement containing chemical symbols, used to show the changes that happen during a particular chemical reaction : phương trình hóa học",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "chemical formula",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the representation of a substance using the symbols of its elements: công thức hóa học",
-                        "examples": [
-                            "H2O is the chemical formula for water."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "cheminal",
                 "order": 1,
                 "icon": "",
@@ -533,6 +403,120 @@
                         "region": "",
                         "definition": "something that makes a chemical reaction happen more quickly without itself being changed: chất xúc tác",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "atomic",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adjective nguyên tử",
+                        "examples": [
+                            "using the energy that is created when an atom is divided",
+                            "_atomicenergy/power",
+                            "_atomic scientists"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "PH",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[C usually S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a number which shows how strongly acid or alkaline a substance is, in a range from 0 to 14: độ ph",
+                        "examples": [
+                            "Below pH 6.5 is acid, above pH 7.5 is alkaline.",
+                            "The soil in our garden has alow/highpH."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "fractional distillation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the chemical process of separating different substances that have different boiling points by heating a liquid mixture until it turns into gas and then cooling and collecting each substance separately : sự chưng cất phân đoạn",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "balanced equation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a chemical equation that has an equal amount of each element on the left and right sides: phương trình cân bằng",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "chemical equation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "(chemical) equation a statement containing chemical symbols, used to show the changes that happen during a particular chemical reaction : phương trình hóa học",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "chemical formula",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the representation of a substance using the symbols of its elements: công thức hóa học",
+                        "examples": [
+                            "H2O is the chemical formula for water."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

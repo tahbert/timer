@@ -1773,78 +1773,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "exercise",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a set of questions in a book that test a student’s knowledge or skill : bài tập",
-                        "examples": [
-                            "Do Exercises 3 and 4 on page 51 for homework.",
-                            "The exercises in Chapter 3 are helpful for students learning the future tense."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "a book of guitar exercises to improve finger flexibility",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "A2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "The book has exercises at the end of every chapter."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "paper",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "A2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UK a set of printed questions used as an examination in a particular subject, or the answers people write : đề thi/ bài làm",
-                        "examples": [
-                            "The geography paper is not till next week.",
-                            "The history paper was really difficult.",
-                            "The papers are marked by the other teachers.",
-                            "Candidates must answer two questions from each paper."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "a system of using exams and tests",
                 "order": 1,
                 "icon": "",
@@ -2040,6 +1968,78 @@
                         "definition": "to judge that someone has been unsuccessful in a test or examination : đánh trượt",
                         "examples": [
                             "The examiners failed him because he hadn't answered enough questions."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "exercise",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a set of questions in a book that test a student’s knowledge or skill : bài tập",
+                        "examples": [
+                            "Do Exercises 3 and 4 on page 51 for homework.",
+                            "The exercises in Chapter 3 are helpful for students learning the future tense."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "a book of guitar exercises to improve finger flexibility",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "A2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "The book has exercises at the end of every chapter."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "paper",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "A2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UK a set of printed questions used as an examination in a particular subject, or the answers people write : đề thi/ bài làm",
+                        "examples": [
+                            "The geography paper is not till next week.",
+                            "The history paper was really difficult.",
+                            "The papers are marked by the other teachers.",
+                            "Candidates must answer two questions from each paper."
                         ],
                         "isEnabled": true,
                         "children": []

@@ -546,7 +546,40 @@
             },
             {
                 "id": "",
-                "name": "further",
+                "name": "parts",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "the seabed",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CS]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the solid surface of the Earth which lies under the sea: đáy biển",
+                        "examples": [
+                            "The ship has been lying on the seabed for more than 50 years."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -588,39 +621,6 @@
                         "definition": "used in the name of each of the world's five main areas of sea",
                         "examples": [
                             "the Atlantic/Pacific/Indian/Arctic/Antarctic Ocean"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "parts",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "the seabed",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CS]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the solid surface of the Earth which lies under the sea: đáy biển",
-                        "examples": [
-                            "The ship has been lying on the seabed for more than 50 years."
                         ],
                         "isEnabled": true,
                         "children": []

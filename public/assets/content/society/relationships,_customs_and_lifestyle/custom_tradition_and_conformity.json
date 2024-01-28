@@ -689,58 +689,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "go with the flow",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[idiom informal ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to do what other people are doing or to agree with other people because it is the easiest thing to do",
-                        "examples": [
-                            "Just relax and go with the flow!"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "multicultural/multiracial",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[adjective usually before noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ˌmʌltiˈkʌltʃərəl◂, ˌmʌlti ˈreɪʃəl◂/  including or concerning people of different races or religions, especially those who live together in the same society, go to the same schools etc:đa văn hóa, đa chủng tộc",
-                        "examples": [
-                            "▪ Most of today’s teachers are committed to multicultural education.",
-                            "▪ He grew up in a multiracial area in London’s East End.",
-                            "▪ Government policies should reflect the multiracial nature of our society."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "traditional",
                 "order": 1,
                 "icon": "",
@@ -836,6 +784,58 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "go with the flow",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[idiom informal ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to do what other people are doing or to agree with other people because it is the easiest thing to do",
+                        "examples": [
+                            "Just relax and go with the flow!"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "multicultural/multiracial",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[adjective usually before noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ˌmʌltiˈkʌltʃərəl◂, ˌmʌlti ˈreɪʃəl◂/  including or concerning people of different races or religions, especially those who live together in the same society, go to the same schools etc:đa văn hóa, đa chủng tộc",
+                        "examples": [
+                            "▪ Most of today’s teachers are committed to multicultural education.",
+                            "▪ He grew up in a multiracial area in London’s East End.",
+                            "▪ Government policies should reflect the multiracial nature of our society."
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }

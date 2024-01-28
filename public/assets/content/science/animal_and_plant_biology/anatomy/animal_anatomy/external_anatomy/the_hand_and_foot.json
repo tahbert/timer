@@ -1095,78 +1095,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "fist",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "a hand with the fingers and thumb held tightly in. People close their hand in a fist when they are angry or are going to hit someone : nắm tay; quả đấm",
-                        "examples": [
-                            "She held the money tightly in her fist.",
-                            "Sheclenchedher fists.",
-                            "Protestors wereshakingtheir fists at the soldiers.",
-                            "Malcolmclenchedhisfist(= held his fist very tightly closed )angrily.",
-                            "Dooley stood up andshookhisfistin her face.",
-                            "Varney slammed his fist down onto the table so hard the dishes jumped."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "manual",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "done with the hands : làm bằng tay, thủ công",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "the manual sorting of letters",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "She tried to cure the pain in my knee by putting manual pressure on the joint.",
-                                    "It would take too long to do a manual search of all the data."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "of the hand and toe",
                 "order": 1,
                 "icon": "",
@@ -1586,6 +1514,78 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "fist",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "a hand with the fingers and thumb held tightly in. People close their hand in a fist when they are angry or are going to hit someone : nắm tay; quả đấm",
+                        "examples": [
+                            "She held the money tightly in her fist.",
+                            "Sheclenchedher fists.",
+                            "Protestors wereshakingtheir fists at the soldiers.",
+                            "Malcolmclenchedhisfist(= held his fist very tightly closed )angrily.",
+                            "Dooley stood up andshookhisfistin her face.",
+                            "Varney slammed his fist down onto the table so hard the dishes jumped."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "manual",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "done with the hands : làm bằng tay, thủ công",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "the manual sorting of letters",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "She tried to cure the pain in my knee by putting manual pressure on the joint.",
+                                    "It would take too long to do a manual search of all the data."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

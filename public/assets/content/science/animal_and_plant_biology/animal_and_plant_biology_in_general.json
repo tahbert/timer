@@ -211,7 +211,113 @@
             },
             {
                 "id": "",
-                "name": "further more",
+                "name": "from living things or not",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "organic",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "being or coming from living plants and animals:hữu cơ",
+                        "examples": [
+                            "A quarter of the contents of an average family's dustbin is organicmatter."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "inorganic",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "not consisting of anything that is living :",
+                        "examples": [
+                            "inorganic matter"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "of zoology",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "entomology",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the scientific study of insects : côn trùng học",
+                        "examples": [
+                            "entomologist[ C ]"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "anatomy",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the scientific study of the body and how its parts are arranged : giải phẫu học",
+                        "examples": [
+                            "He later became professor of anatomy at Kiel.",
+                            "human/ animal anatomy",
+                            "An understanding of human anatomy is important to a dancer.",
+                            "Knowledge of human anatomy is essential to figure drawing.",
+                            "to examine the anatomy of a secret government operation.",
+                            "anatomical[adj]",
+                            "anatomical drawings"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -275,73 +381,7 @@
                         ],
                         "isEnabled": true,
                         "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "from living things or not",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "organic",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "being or coming from living plants and animals:hữu cơ",
-                        "examples": [
-                            "A quarter of the contents of an average family's dustbin is organicmatter."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     },
-                    {
-                        "id": "",
-                        "name": "inorganic",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "not consisting of anything that is living :",
-                        "examples": [
-                            "inorganic matter"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
                     {
                         "id": "",
                         "name": "the natural sciences",
@@ -371,62 +411,6 @@
                         "region": "",
                         "definition": "one of the sections of science dealing with the structure and behaviour of living things, such as botany , zoology , biochemistry and anthropology : khoa học đời sống",
                         "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "of zoology",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "entomology",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the scientific study of insects : côn trùng học",
-                        "examples": [
-                            "entomologist[ C ]"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "anatomy",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the scientific study of the body and how its parts are arranged : giải phẫu học",
-                        "examples": [
-                            "He later became professor of anatomy at Kiel.",
-                            "human/ animal anatomy",
-                            "An understanding of human anatomy is important to a dancer.",
-                            "Knowledge of human anatomy is essential to figure drawing.",
-                            "to examine the anatomy of a secret government operation.",
-                            "anatomical[adj]",
-                            "anatomical drawings"
-                        ],
                         "isEnabled": true,
                         "children": []
                     }

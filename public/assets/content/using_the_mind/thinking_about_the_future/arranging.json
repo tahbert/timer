@@ -368,7 +368,51 @@
             },
             {
                 "id": "",
-                "name": "not yet",
+                "name": "to make sure that an arrangment is certain",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "confirm",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[T]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "to check that an arrangement you have made has happened or is still going to happen: xác nhận, xác thực",
+                        "examples": [
+                            "Could you confirm the dates we discussed?",
+                            "Smith was confirmed as the club’s new manager yesterday.",
+                            "confirm a booking/reservation/appointment",
+                            "I am writing to confirm a booking for a single room for the night of 6 June.",
+                            "Have you called to confirm your flight yet?",
+                            "confirm that",
+                            "Let me just confirm that the money has arrived in your account.",
+                            "confirmation[C or U] B2 a statement, often written, that an arrangement or meeting is certain : xác nhận",
+                            "a letter of confirmation",
+                            "We will send youwrittenconfirmationofour offer shortly.",
+                            "Most hotels require confirmation from a prospective guest in writing.",
+                            "We've only had five confirmations for the conference so far."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
                 "order": 1,
                 "icon": "",
                 "header": "group",
@@ -581,50 +625,6 @@
                                 "children": []
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "id": "",
-                "name": "to make sure that an arrangment is certain",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "confirm",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[T]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "to check that an arrangement you have made has happened or is still going to happen: xác nhận, xác thực",
-                        "examples": [
-                            "Could you confirm the dates we discussed?",
-                            "Smith was confirmed as the club’s new manager yesterday.",
-                            "confirm a booking/reservation/appointment",
-                            "I am writing to confirm a booking for a single room for the night of 6 June.",
-                            "Have you called to confirm your flight yet?",
-                            "confirm that",
-                            "Let me just confirm that the money has arrived in your account.",
-                            "confirmation[C or U] B2 a statement, often written, that an arrangement or meeting is certain : xác nhận",
-                            "a letter of confirmation",
-                            "We will send youwrittenconfirmationofour offer shortly.",
-                            "Most hotels require confirmation from a prospective guest in writing.",
-                            "We've only had five confirmations for the conference so far."
-                        ],
-                        "isEnabled": true,
-                        "children": []
                     }
                 ]
             }

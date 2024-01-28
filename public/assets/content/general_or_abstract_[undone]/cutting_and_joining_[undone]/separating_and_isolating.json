@@ -212,137 +212,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "isolation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C2",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when one group, person, or thing is separate from others : cách ly",
-                        "examples": [
-                            "Because of its geographical isolation, the area developed its own unique culture.",
-                            "isolation of",
-                            "the isolation of rural areas",
-                            "international/diplomatic/political isolation",
-                            "the country’s continuing political isolation",
-                            "in isolation",
-                            "The political prisoner had been held incomplete isolation.",
-                            "The mansion sits insplendid isolationon top of the hill(= it is far from everything and looks impressive ).",
-                            "isolation hospital/wardBritish English:",
-                            "Scarlet fever victims had to go to the isolation hospital.",
-                            "a patient’s isolation period"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "segregation",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "when people of different races, sexes, or religions are kept apart so that they live, work, or study separatelyOPP integration:",
-                        "examples": [
-                            "Civil rights protestors called for an end to all segregation.",
-                            "racial segregation",
-                            "Racial segregation in schools still exists in some southern states.",
-                            "segregation of",
-                            "the segregation of men and women"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "apartheid",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ uncountable noun ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the former South African political and social system in which black and white races had to go to separate schools, live in separate areas etc as a way of keeping white people in their position of power :",
-                        "examples": [
-                            "▪Mandela was in prison for over 25 years for opposing apartheid in South Africa."
-                        ],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "▪an anti-apartheid organization",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "D",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "id": "",
-                        "name": "separately",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "usage": "",
-                        "region": "",
-                        "definition": "adverb",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": [
-                            {
-                                "id": "",
-                                "name": "not together",
-                                "order": 1,
-                                "icon": "",
-                                "header": "collocation",
-                                "frequency": "B2",
-                                "partOfSpeech": "",
-                                "usage": "",
-                                "region": "",
-                                "definition": "",
-                                "examples": [
-                                    "_Detectives interviewed the men separately over several days.",
-                                    "_I tend to wear the jacket and skirt separately rather than as a suit.",
-                                    "_I think we'd better deal with these two points separately."
-                                ],
-                                "isEnabled": true,
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "to separate things or people so that they are no longer close or touching",
                 "order": 1,
                 "icon": "",
@@ -532,6 +401,137 @@
                         ],
                         "isEnabled": true,
                         "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "isolation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C2",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when one group, person, or thing is separate from others : cách ly",
+                        "examples": [
+                            "Because of its geographical isolation, the area developed its own unique culture.",
+                            "isolation of",
+                            "the isolation of rural areas",
+                            "international/diplomatic/political isolation",
+                            "the country’s continuing political isolation",
+                            "in isolation",
+                            "The political prisoner had been held incomplete isolation.",
+                            "The mansion sits insplendid isolationon top of the hill(= it is far from everything and looks impressive ).",
+                            "isolation hospital/wardBritish English:",
+                            "Scarlet fever victims had to go to the isolation hospital.",
+                            "a patient’s isolation period"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "segregation",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "when people of different races, sexes, or religions are kept apart so that they live, work, or study separatelyOPP integration:",
+                        "examples": [
+                            "Civil rights protestors called for an end to all segregation.",
+                            "racial segregation",
+                            "Racial segregation in schools still exists in some southern states.",
+                            "segregation of",
+                            "the segregation of men and women"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "apartheid",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ uncountable noun ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the former South African political and social system in which black and white races had to go to separate schools, live in separate areas etc as a way of keeping white people in their position of power :",
+                        "examples": [
+                            "▪Mandela was in prison for over 25 years for opposing apartheid in South Africa."
+                        ],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "▪an anti-apartheid organization",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "D",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "",
+                        "name": "separately",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "usage": "",
+                        "region": "",
+                        "definition": "adverb",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": [
+                            {
+                                "id": "",
+                                "name": "not together",
+                                "order": 1,
+                                "icon": "",
+                                "header": "collocation",
+                                "frequency": "B2",
+                                "partOfSpeech": "",
+                                "usage": "",
+                                "region": "",
+                                "definition": "",
+                                "examples": [
+                                    "_Detectives interviewed the men separately over several days.",
+                                    "_I tend to wear the jacket and skirt separately rather than as a suit.",
+                                    "_I think we'd better deal with these two points separately."
+                                ],
+                                "isEnabled": true,
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

@@ -262,86 +262,6 @@
             },
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "the atmosphere",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B2",
-                        "partOfSpeech": "[CS]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the mixture of gases around the Earth: bầu khí quyển",
-                        "examples": [
-                            "These factories are releasing toxic gases into the atmosphere."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "the big bang",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[CS]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the large explosion that many scientists believe created the universe",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "gravity",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ U ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "the force which attracts objects towards one another, especially the force that makes things fall to the ground: lực hút của trái đất",
-                        "examples": [
-                            "the laws of gravity"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "landslide",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/landslip a mass of rock and earth moving suddenly and quickly down a steep slope: sụt lở đất",
-                        "examples": [],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "the air as opposed to the land",
                 "order": 1,
                 "icon": "",
@@ -938,6 +858,86 @@
                 "examples": [],
                 "isEnabled": true,
                 "children": []
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "the atmosphere",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B2",
+                        "partOfSpeech": "[CS]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the mixture of gases around the Earth: bầu khí quyển",
+                        "examples": [
+                            "These factories are releasing toxic gases into the atmosphere."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "the big bang",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[CS]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the large explosion that many scientists believe created the universe",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "gravity",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ U ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "the force which attracts objects towards one another, especially the force that makes things fall to the ground: lực hút của trái đất",
+                        "examples": [
+                            "the laws of gravity"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "landslide",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/landslip a mass of rock and earth moving suddenly and quickly down a steep slope: sụt lở đất",
+                        "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
             }
         ]
     }

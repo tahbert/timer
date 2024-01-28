@@ -15,53 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "cliquey",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[adj]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "/ cliquish a group of people who are cliquey or cliquish are friendly to the other people within that group but not to the people outside it:có tính chất phường bọn, bè lũ,",
-                        "examples": [
-                            "Everyone at the school was so cliquey, it was hard for me to make new friends.",
-                            "It was a cliquish group, with the older members staying aloof from the younger ones."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "skip",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "usage": "",
-                        "region": "",
-                        "definition": "verb-pp-LEAVE",
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "not including sb/sth",
                 "order": 1,
                 "icon": "",
@@ -820,6 +773,53 @@
                             "▪ English excepted, Peter has made good progress in all his subjects this term.",
                             "▪ Gardening excepted, she does very little in the way of good regular exercise."
                         ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "cliquey",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[adj]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "/ cliquish a group of people who are cliquey or cliquish are friendly to the other people within that group but not to the people outside it:có tính chất phường bọn, bè lũ,",
+                        "examples": [
+                            "Everyone at the school was so cliquey, it was hard for me to make new friends.",
+                            "It was a cliquish group, with the older members staying aloof from the younger ones."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "skip",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "usage": "",
+                        "region": "",
+                        "definition": "verb-pp-LEAVE",
                         "isEnabled": true,
                         "children": []
                     }

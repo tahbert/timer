@@ -15,40 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "further more",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "special effect",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[P]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "effects/ slighting, sounds and objectswhich are specially produced for the stage or a film and are intended to make something which does not exist seem real : kỹ xảo, hiệu ứng đặc biệt",
-                        "examples": [
-                            "This is a movie worth seeing for its effects alone.",
-                            "The film's special effects are amazing."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "actitivites",
                 "order": 1,
                 "icon": "",
@@ -220,6 +186,40 @@
                         "examples": [
                             "television/film/theatre producer",
                             "Hollywood producers and movie stars"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "special effect",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[P]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "effects/ slighting, sounds and objectswhich are specially produced for the stage or a film and are intended to make something which does not exist seem real : kỹ xảo, hiệu ứng đặc biệt",
+                        "examples": [
+                            "This is a movie worth seeing for its effects alone.",
+                            "The film's special effects are amazing."
                         ],
                         "isEnabled": true,
                         "children": []

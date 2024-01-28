@@ -645,57 +645,6 @@
             },
             {
                 "id": "",
-                "name": "further",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "skeleton service",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "C1",
-                        "partOfSpeech": "[S]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "only enough workers or services to keep an operation or organization running : giới hạn",
-                        "examples": [
-                            "The local bus company only runs a skeleton service on Sundays.",
-                            "The bus company is operating a skeleton service on Christmas Day."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "schedule",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "B1",
-                        "partOfSpeech": "[C]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "UStimetableUK B1 a list of the times at which buses, trains, planes etc arrive and leave : lịch trình",
-                        "examples": [
-                            "a railway/train/bus timetable"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "types of seats",
                 "order": 1,
                 "icon": "",
@@ -925,6 +874,57 @@
                         "definition": "a company that moves goods or passengers from one place to another : hãng vận chuyển, vận tải",
                         "examples": [
                             "an international carrier"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "skeleton service",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "C1",
+                        "partOfSpeech": "[S]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "only enough workers or services to keep an operation or organization running : giới hạn",
+                        "examples": [
+                            "The local bus company only runs a skeleton service on Sundays.",
+                            "The bus company is operating a skeleton service on Christmas Day."
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "schedule",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "B1",
+                        "partOfSpeech": "[C]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "UStimetableUK B1 a list of the times at which buses, trains, planes etc arrive and leave : lịch trình",
+                        "examples": [
+                            "a railway/train/bus timetable"
                         ],
                         "isEnabled": true,
                         "children": []

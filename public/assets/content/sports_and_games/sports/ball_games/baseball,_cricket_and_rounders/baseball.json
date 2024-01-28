@@ -15,75 +15,6 @@
         "children": [
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "stuff",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "usage": "",
-                        "region": "",
-                        "definition": "nounQUALITY",
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "home run",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[ C ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "noun (informalhomer)USbànthắnglớn",
-                        "examples": [
-                            "a point scored in baseball by hitting the ball so far that you have time to run all the way round the four corners of the playing field before it is returned",
-                            "homernoun[ C ]USinformal bànthắnglớn",
-                            "a home run"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    },
-                    {
-                        "id": "",
-                        "name": "strike out",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "U",
-                        "partOfSpeech": "[ M ]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "strike(sb)outphrasal verb 3 lần đánh hỏng/ làm ai đánh hỏng 3 lần",
-                        "examples": [
-                            "to fail three times to hit the ball successfully in baseball and therefore to lose one of your team'schances to score, or to cause someone to do this",
-                            "_The pitcher struck out both batters in the ninth inning and saved the game.",
-                            "strikeoutnoun[ C ] ba lần đánh bóng hỏng",
-                            "(in baseball) the act of failing three times to hit the ball, or of making abatter(= persontrying to hit the ball) do this",
-                            "_He averaged 14 strikeouts per game last season."
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "players",
                 "order": 1,
                 "icon": "",
@@ -776,6 +707,75 @@
                         "region": "",
                         "definition": "/pitcher’s mound the small hill that the pitcher stands on in the game of baseball : mô đất cầu thủ ném đứng",
                         "examples": [],
+                        "isEnabled": true,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "stuff",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "usage": "",
+                        "region": "",
+                        "definition": "nounQUALITY",
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "home run",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[ C ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "noun (informalhomer)USbànthắnglớn",
+                        "examples": [
+                            "a point scored in baseball by hitting the ball so far that you have time to run all the way round the four corners of the playing field before it is returned",
+                            "homernoun[ C ]USinformal bànthắnglớn",
+                            "a home run"
+                        ],
+                        "isEnabled": true,
+                        "children": []
+                    },
+                    {
+                        "id": "",
+                        "name": "strike out",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "U",
+                        "partOfSpeech": "[ M ]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "strike(sb)outphrasal verb 3 lần đánh hỏng/ làm ai đánh hỏng 3 lần",
+                        "examples": [
+                            "to fail three times to hit the ball successfully in baseball and therefore to lose one of your team'schances to score, or to cause someone to do this",
+                            "_The pitcher struck out both batters in the ninth inning and saved the game.",
+                            "strikeoutnoun[ C ] ba lần đánh bóng hỏng",
+                            "(in baseball) the act of failing three times to hit the ball, or of making abatter(= persontrying to hit the ball) do this",
+                            "_He averaged 14 strikeouts per game last season."
+                        ],
                         "isEnabled": true,
                         "children": []
                     }

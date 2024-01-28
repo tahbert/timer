@@ -538,39 +538,6 @@
             },
             {
                 "id": "",
-                "name": "not yet",
-                "order": 1,
-                "icon": "",
-                "header": "group",
-                "frequency": "",
-                "partOfSpeech": "",
-                "usage": "",
-                "region": "",
-                "definition": "",
-                "examples": [],
-                "isEnabled": true,
-                "children": [
-                    {
-                        "id": "",
-                        "name": "inhumanity",
-                        "order": 1,
-                        "icon": "",
-                        "header": "branch",
-                        "frequency": "D",
-                        "partOfSpeech": "[U noun]",
-                        "usage": "",
-                        "region": "",
-                        "definition": "very cruel behaviour or actions :",
-                        "examples": [
-                            "the inhumanity of some political systems"
-                        ],
-                        "isEnabled": true,
-                        "children": []
-                    }
-                ]
-            },
-            {
-                "id": "",
                 "name": "deliberately cruel in order to upset sb",
                 "order": 1,
                 "icon": "",
@@ -729,6 +696,39 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "id": "",
+                "name": "uncategorized",
+                "order": 1,
+                "icon": "",
+                "header": "group",
+                "frequency": "",
+                "partOfSpeech": "",
+                "usage": "",
+                "region": "",
+                "definition": "",
+                "examples": [],
+                "isEnabled": true,
+                "children": [
+                    {
+                        "id": "",
+                        "name": "inhumanity",
+                        "order": 1,
+                        "icon": "",
+                        "header": "branch",
+                        "frequency": "D",
+                        "partOfSpeech": "[U noun]",
+                        "usage": "",
+                        "region": "",
+                        "definition": "very cruel behaviour or actions :",
+                        "examples": [
+                            "the inhumanity of some political systems"
+                        ],
+                        "isEnabled": true,
+                        "children": []
                     }
                 ]
             }
