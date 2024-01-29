@@ -14,11 +14,7 @@
     -   root [done]
     -   group [done]
     -   branch
-        -   order <!-- based on popularity rate -->
-        -   content
-            -   word
-            -   phrase of words
-            -   sentence
+        -   order [done] <!-- based on frequency -->
         -   popularity rate <!-- by cambridge -->
             -   A1 - Beginner - very common
             -   A2 - Elementary - very common
@@ -28,9 +24,7 @@
             -   C2 - Proficiency - rare
             -   D - very rare
             -   U = Unknown
-        -   pronunciation
-            -   US <!-- default -->
-            -   UK
+        -   pronunciation [later] <!-- US as default -->
         -   details
             -   part of speech
             -   definition

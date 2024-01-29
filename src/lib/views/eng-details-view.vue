@@ -50,7 +50,10 @@
                 </template>
 
                 <template v-slot:header-branch="item">
-                    <div class="eng-details-view__branch row items-center q-gutter-x-xs">
+                    <div
+                        class="eng-details-view__branch row items-center q-gutter-x-xs"
+                        style="width: 100%"
+                    >
                         <div class="text-weight-bold text-blue-9">
                             {{ item.node.name }}
                         </div>
@@ -69,9 +72,15 @@
                             flat
                             @click.stop
                         />
-                        <div class="text-grey-8">{{ item.node.partOfSpeech }}</div>
-                        <div class="text-dark">{{ item.node.definition }}</div>
-                        <eng-example :item="item.node" />
+                        <div class="text-grey-8">
+                            {{ item.node.partOfSpeech }}
+                        </div>
+                        <div class="row items-start no-wrap">
+                            <div class="text-dark">
+                                {{ item.node.definition }}
+                            </div>
+                            <eng-example :item="item.node" />
+                        </div>
                     </div>
                 </template>
 

@@ -144,6 +144,7 @@
             show-if-above
             v-model="data.isDrawerOpen"
             side="left"
+            :breakpoint="0"
             :width="data.dragIndicator[0]"
         >
             <q-tree
