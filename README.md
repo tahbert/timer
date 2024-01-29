@@ -8,24 +8,18 @@
 
 # Frontend
 
--   sidebar
-    -   number of words
-    -   verified
--   mindmap
-    -   view
-        -   mindmap
-        -   simple
-    -   center
-    -   collection
-        -   truncated
+-   topics
+    -   number of entries
+-   content tree
+    -   root [done]
+    -   group [done]
     -   branch
-        -   order [stage-1]
-            -   based on popularity rate <!-- very common to very rare -->
-        -   content [stage-1]
+        -   order <!-- based on popularity rate -->
+        -   content
             -   word
             -   phrase of words
             -   sentence
-        -   popularity rate [stage-1] <!-- by cambridge -->
+        -   popularity rate <!-- by cambridge -->
             -   A1 - Beginner - very common
             -   A2 - Elementary - very common
             -   B1 - Pre-Intermediate - common
@@ -33,40 +27,24 @@
             -   C1 - Advanced - rare
             -   C2 - Proficiency - rare
             -   D - very rare
-        -   pronunciation [stage-1]
+            -   U = Unknown
+        -   pronunciation
             -   US <!-- default -->
             -   UK
         -   details
-            -   linked to cambridge or longman [stage-1]
-            -   integrated [stage-2]
-                -   part of speech
-                -   definition
-                -   colocations
-                -   examples
-                    -   text
-            -   integrated and developed [stage-3]
-                -   part of speech
-                -   definition
-                -   colocations
-                -   examples
-                    -   text
-                    -   picture
-                    -   video
+            -   part of speech
+            -   definition
+            -   colocations
+            -   examples
+                -   text
+                -   picture [later]
+                -   video [later]
                 -   common errors
--   tree of topics
-    -   number of words <!-- based on popularity rate -->
--   breadcrumbs
 -   funtionarities
     -   search
-        -   suggestion
-        -   result
-    -   bookmark
-    -   view
-        -   zoom
-        -   grab
     -   settings
-        -   pronunciation
         -   popularity rate
+        -   bookmark
 -   admin
     -   create, edit, delete, move folder, file
     -   create, edit, delete, move root, group, branch, collocation
@@ -78,6 +56,9 @@
 
 # English
 
+-   Entries
+    -   folders: 453 <!-- 83,352 bytes -->
+    -   files: 2158
 -   Part of speech
     -   Noun
         -   [C noun]

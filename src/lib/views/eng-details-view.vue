@@ -212,7 +212,7 @@ const initTree = () => {
 }
 
 const buildContent = (items: Array<EngContentModel>): Array<EngContentModel> => {
-    return items.map((item) => {
+    const results = items.map((item) => {
         const newItem = {
             ...item,
             id: uuidv4(),
@@ -224,6 +224,17 @@ const buildContent = (items: Array<EngContentModel>): Array<EngContentModel> => 
 
         return EngContentModel.fromJson(newItem)
     })
+
+    results.sort((a, b) => {
+        const frequencyComparison = a.frequency.localeCompare(b.frequency)
+        // if (frequencyComparison === 0) {
+        //     return a.name.length - b.name.length
+        // }
+
+        return frequencyComparison
+    })
+
+    return results
 }
 
 watch(
