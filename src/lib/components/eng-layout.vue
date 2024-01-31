@@ -139,8 +139,14 @@
                     flat
                     padding="sm"
                     color="primary"
-                    @click.stop
-                />
+                    @click.stop="onNoti"
+                    ><q-badge
+                        color="primary"
+                        floating
+                        rounded
+                        >4</q-badge
+                    ></q-btn
+                >
             </q-toolbar>
         </q-header>
 
@@ -229,6 +235,11 @@
                 v-touch-pan.prevent.mouse="dragDrawer"
             />
         </div>
+
+        <eng-modal
+            :state="data.modalState"
+            @update="onUpdate"
+        />
     </q-layout>
 </template>
 
@@ -237,6 +248,8 @@ import { reactive, onMounted, onBeforeUnmount, computed, ref } from "vue"
 import { useRouter } from "vue-router"
 import { v4 as uuidv4 } from "uuid"
 import type { QTree } from "quasar"
+
+import { engModal } from "@/lib"
 
 import {
     EngTopicModel,
@@ -258,6 +271,8 @@ const data = reactive({
     isDrawerDraging: false,
     dragIndicator: [500, 0],
 
+    modalState: false,
+
     filterText: "",
     filterState: false,
     filterMax: 1000,
@@ -273,6 +288,15 @@ const services = reactive({
     topic: EngTopicService.getInstance(),
     content: EngContentService.getInstance(),
 })
+// notification
+// -----------------------------------------------------------------------------
+const onNoti = () => {
+    data.modalState = true
+}
+
+const onUpdate = () => {
+    data.modalState = false
+}
 
 // filter
 // -----------------------------------------------------------------------------
