@@ -26,6 +26,10 @@
                 <div
                     class="eng-layout__search"
                     ref="search"
+                    :style="{
+                        paddingLeft:
+                            data.dragIndicator[0] > 300 ? `${data.dragIndicator[0]}px` : `300px`,
+                    }"
                     @click="onSearchOutsideClick"
                 >
                     <q-input
@@ -104,7 +108,7 @@
                     </q-card>
                 </div>
 
-                <div class="q-mr-sm row q-gutter-x-xs">
+                <!-- <div class="q-mr-sm row q-gutter-x-xs">
                     <q-btn
                         label="ALL"
                         color="grey-5"
@@ -127,13 +131,14 @@
                         style="padding: 4px 8px"
                         @click="onFrequencyUpdate(item)"
                     />
-                </div>
+                </div> -->
 
                 <q-btn
-                    icon="fal fa-cog"
+                    icon="fal fa-bell-exclamation"
                     size="sm"
                     flat
                     padding="sm"
+                    color="primary"
                     @click.stop
                 />
             </q-toolbar>
@@ -524,7 +529,8 @@ onBeforeUnmount(() => {
     top: 5px // later
     left: 50%
     transform: translateX(-50%)
-    width: 50%
+    width: 100%
+    padding-right: 60px
 
     .q-field__control
         background: rgba(0, 0, 0, 0.08)

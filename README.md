@@ -64,19 +64,19 @@
         -   [C noun + S or P verb] <!--  Danh từ đếm được + động từ số ít/nhiều -->
         -   [Noun phrase] <!-- Cụm danh từ -->
     -   Adj
-        -   [Adj]
-        -   [Adj only before noun] [Tính từ chỉ đứng trước danh từ]
-        -   [Adj only after noun] [Tính từ chỉ đứng sau danh từ]
-        -   [Adj only after verb] [Tính từ chỉ đứng sau động từ]
-        -   [Adj usually before noun] [Tính từ thường đứng trước danh từ]
-        -   [Adj usually after noun] [Tính từ thường đứng sau danh từ]
-        -   [Adj usually afer verb] [Tính từ thường đứng sau động từ]
-        -   [Adj not before noun] [Tính từ không đứng trước danh từ]
-        -   [Adj not after noun] [Tính từ không đứng sau danh từ]
-        -   [Adj not after verb] [Tính từ không đứng sau động từ]
-        -   [Adj not usually before noun] [Tính từ thường không đứng trước danh từ]
-        -   [Adj not usually after noun] [Tính từ thường không đứng sau danh từ]
-        -   [Adj not usually after verb] [Tính từ thường không đứng sau động từ]
+        -   [adj]
+        -   [adj only before noun] [Tính từ chỉ đứng trước danh từ]
+        -   [adj only after noun] [Tính từ chỉ đứng sau danh từ]
+        -   [adj only after verb] [Tính từ chỉ đứng sau động từ]
+        -   [adj usually before noun] [Tính từ thường đứng trước danh từ]
+        -   [adj usually after noun] [Tính từ thường đứng sau danh từ]
+        -   [adj usually afer verb] [Tính từ thường đứng sau động từ]
+        -   [adj not before noun] [Tính từ không đứng trước danh từ]
+        -   [adj not after noun] [Tính từ không đứng sau danh từ]
+        -   [adj not after verb] [Tính từ không đứng sau động từ]
+        -   [adj not usually before noun] [Tính từ thường không đứng trước danh từ]
+        -   [adj not usually after noun] [Tính từ thường không đứng sau danh từ]
+        -   [adj not usually after verb] [Tính từ thường không đứng sau động từ]
     -   Verb
         -   [T]
         -   [I]
@@ -107,25 +107,29 @@
         -   [Suffix] [Hậu tố]
         -   [Phrase]
         -   [Sentence]
--   Usage
-    -   [Formal]
-    -   [Informal]
-    -   [Spoken]
-    -   [Written]
-    -   [Polite] or [Not Polite] [Lịch sự] hay [Không lịch sự] ( chọn 1 trọng 2 )
-    -   [Approving] or [Disapproving] [tán thành] hay [không tán thành] (chọn 1 trọng 2 )
-    -   [Slang] or [Saying] [Từ lóng] hay [Tục ngữ] (chọn 1 trong 2 )
-    -   [Specialized] [Từ chuyên ngành]
-    -   [Legal] [Từ pháp lý]
-    -   [Literary] [Văn vẻ]
-    -   [Figurative] [Từ có nghĩa bóng]
-    -   [Humorous] [Hài hước]
-    -   [Child's word] [Được dùng bởi con nít]
-    -   [Old-fashioned] [Từ lạc hậu]
-    -   [Old-use] [Từ cổ]
-    -   [Not-standard] [Không chuẩn]
+-   Usage <!-- may include especially -->
+    -   [formal]
+    -   [informal]
+    -   [spoken]
+    -   [written]
+    -   [polite] [impolite]
+    -   [approving] [disapproving]
+    -   [slang] <!-- done -->
+    -   [saying]
+    -   [specialized] <!-- done -->
+    -   [legal]
+    -   [scientific]
+    -   [literary] <!-- done -->
+    -   [figurative] <!-- done -->
+    -   [humorous]
+    -   [child's word] <!-- done -->
+    -   [old-fashioned] <!-- done -->
+    -   [old-use] <!-- done -->
+    -   [non-standard] <!-- done -->
 -   Region
     -   [UK]
     -   [US]
-    -   [mainly UK]
-    -   [mainly US]
+    -   [mainly UK] <!-- done -->
+    -   [mainly US] <!-- done -->
+    -   [especially UK]
+    -   [especially US]
