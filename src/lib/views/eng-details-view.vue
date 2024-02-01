@@ -196,27 +196,31 @@ const initTree = () => {
     const levels = contentPath.split("\\")
     data.expandedKeys = [] // reset
 
-    const root = services.content.list.find((el) => el.isRoot)
-    if (root) {
-        data.expandedKeys.push(root.id)
+    if (contentPath) {
+        const root = services.content.list.find((el) => el.isRoot)
+        if (root) {
+            data.expandedKeys.push(root.id)
 
-        const group = root.children.find((group) => group.name === levels[1])
-        if (group) {
-            data.expandedKeys.push(group.id)
+            const group = root.children.find((group) => group.name === levels[1])
+            if (group) {
+                data.expandedKeys.push(group.id)
 
-            const branch = group.children.find((branch) => branch.name === levels[2])
-            if (branch) {
-                data.expandedKeys.push(branch.id)
-                data.selectedKey = branch.id
+                const branch = group.children.find((branch) => branch.name === levels[2])
+                if (branch) {
+                    data.expandedKeys.push(branch.id)
+                    data.selectedKey = branch.id
 
-                const col = branch.children.find((col) => col.name === levels[3])
+                    const col = branch.children.find((col) => col.name === levels[3])
 
-                if (col) {
-                    data.expandedKeys.push(col.id)
-                    data.selectedKey = col.id
+                    if (col) {
+                        data.expandedKeys.push(col.id)
+                        data.selectedKey = col.id
+                    }
                 }
             }
         }
+    } else {
+        data.isAllExpanded = true
     }
 }
 

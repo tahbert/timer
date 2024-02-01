@@ -30,8 +30,8 @@
                             switch-indicator
                         >
                             <q-tab
-                                name="mails"
-                                label="Mails"
+                                name="about"
+                                label="About Us"
                             />
                             <q-tab
                                 name="alarms"
@@ -53,14 +53,15 @@
                             transition-prev="jump-up"
                             transition-next="jump-up"
                         >
-                            <q-tab-panel name="mails">
-                                <div class="text-h4 q-mb-md">Mails</div>
+                            <q-tab-panel name="about">
+                                <div class="text-h5 q-mb-md">About Us</div>
                                 <p>
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis
                                     praesentium cumque magnam odio iure quidem, quod illum numquam
                                     possimus obcaecati commodi minima assumenda consectetur culpa
                                     fuga nulla ullam. In, libero.
                                 </p>
+                                <br />
                                 <p>
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis
                                     praesentium cumque magnam odio iure quidem, quod illum numquam
@@ -73,7 +74,7 @@
                             </q-tab-panel>
 
                             <q-tab-panel name="alarms">
-                                <div class="text-h4 q-mb-md">Alarms</div>
+                                <div class="text-h5 q-mb-md">Alarms</div>
                                 <p>
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis
                                     praesentium cumque magnam odio iure quidem, quod illum numquam
@@ -89,7 +90,7 @@
                             </q-tab-panel>
 
                             <q-tab-panel name="movies">
-                                <div class="text-h4 q-mb-md">Movies</div>
+                                <div class="text-h5 q-mb-md">Movies</div>
                                 <p>
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis
                                     praesentium cumque magnam odio iure quidem, quod illum numquam
@@ -144,7 +145,7 @@ const emit = defineEmits<{
 
 const data = reactive({
     splitterModel: 25,
-    tab: "mails",
+    tab: "about",
 })
 
 const onUpdate = () => {
