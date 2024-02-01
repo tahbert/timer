@@ -378,12 +378,13 @@ const filters = computed(() => {
     }
 
     results.sort((a, b) => {
-        const frequencyComparison = a.frequency.localeCompare(b.frequency)
-        if (frequencyComparison === 0) {
-            return a.name.length - b.name.length
+        const nameLengthComparison = a.name.length - b.name.length
+
+        if (nameLengthComparison === 0) {
+            return a.frequency.localeCompare(b.frequency)
         }
 
-        return frequencyComparison
+        return nameLengthComparison
     })
 
     return results
