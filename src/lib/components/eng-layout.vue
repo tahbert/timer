@@ -57,8 +57,9 @@
                             <q-chip
                                 :label="filters.length"
                                 color="orange-4"
-                                size="sm"
-                                square
+                                size="md"
+                                dense
+                                rounded
                             />
                         </template>
                     </q-input>

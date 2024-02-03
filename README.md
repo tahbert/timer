@@ -15,15 +15,7 @@
     -   group [done]
     -   branch
         -   order [done] <!-- based on frequency -->
-        -   popularity rate <!-- by cambridge -->
-            -   A1 - Beginner - very common
-            -   A2 - Elementary - very common
-            -   B1 - Pre-Intermediate - common
-            -   B2 - Intermediate - common
-            -   C1 - Advanced - rare
-            -   C2 - Proficiency - rare
-            -   D - very rare
-            -   U = Unknown
+        -   popularity rate [done]
         -   pronunciation [later] <!-- US as default -->
         -   details
             -   part of speech
@@ -35,10 +27,15 @@
                 -   video [later]
                 -   common errors
 -   funtionarities
-    -   search
+    -   search [done]
     -   settings
-        -   popularity rate
-        -   bookmark
+        -   popularity rate [later]
+        -   bookmark [later]
+    -   sorting
+        -   topics [later]
+        -   content
+            -   group [later]
+            -   branch [done] <!-- based on frequency -->
 -   admin
     -   create, edit, delete, move folder, file
     -   create, edit, delete, move root, group, branch, collocation
@@ -50,33 +47,42 @@
 
 # English
 
--   Entries
-    -   folders: 453 <!-- 83,352 bytes -->
-    -   files: 2158
+-   Branch
+    -   name: multiple entries
+    -   definition: multiple definitions
+-   Frequency
+    -   A1 - Beginner - very common
+    -   A2 - Elementary - very common
+    -   B1 - Pre-Intermediate - common
+    -   B2 - Intermediate - common
+    -   C1 - Advanced - rare
+    -   C2 - Proficiency - rare
+    -   D - very rare
+    -   U = Unknown
 -   Part of speech
     -   Noun
         -   [C noun]
         -   [U noun]
         -   [S noun]
         -   [P noun]
-        -   [C noun usually S] <!-- Danh từ thường ở dạng số ít -->
-        -   [C noun usually P] <!-- Danh từ thường ở dạng số nhiều -->
-        -   [C noun + S or P verb] <!--  Danh từ đếm được + động từ số ít/nhiều -->
-        -   [Noun phrase] <!-- Cụm danh từ -->
+        -   [C noun usually S]
+        -   [C noun usually P]
+        -   [C noun + S or P verb]
+        -   [Noun phrase]
     -   Adj
         -   [adj]
-        -   [adj only before noun] [Tính từ chỉ đứng trước danh từ]
-        -   [adj only after noun] [Tính từ chỉ đứng sau danh từ]
-        -   [adj only after verb] [Tính từ chỉ đứng sau động từ]
-        -   [adj usually before noun] [Tính từ thường đứng trước danh từ]
-        -   [adj usually after noun] [Tính từ thường đứng sau danh từ]
-        -   [adj usually afer verb] [Tính từ thường đứng sau động từ]
-        -   [adj not before noun] [Tính từ không đứng trước danh từ]
-        -   [adj not after noun] [Tính từ không đứng sau danh từ]
-        -   [adj not after verb] [Tính từ không đứng sau động từ]
-        -   [adj not usually before noun] [Tính từ thường không đứng trước danh từ]
-        -   [adj not usually after noun] [Tính từ thường không đứng sau danh từ]
-        -   [adj not usually after verb] [Tính từ thường không đứng sau động từ]
+        -   [adj only before noun]
+        -   [adj only after noun]
+        -   [adj only after verb]
+        -   [adj usually before noun]
+        -   [adj usually after noun]
+        -   [adj usually afer verb]
+        -   [adj not before noun]
+        -   [adj not after noun]
+        -   [adj not after verb]
+        -   [adj not usually before noun]
+        -   [adj not usually after noun]
+        -   [adj not usually after verb]
     -   Verb
         -   [T]
         -   [I]
@@ -126,10 +132,33 @@
     -   [old-fashioned] <!-- done -->
     -   [old-use] <!-- done -->
     -   [non-standard] <!-- done -->
--   Region
-    -   [UK]
-    -   [US]
-    -   [mainly UK] <!-- done -->
-    -   [mainly US] <!-- done -->
-    -   [especially UK]
-    -   [especially US]
+-   Region [processing]
+    -   [UK] <!-- UK, British -->
+    -   [US] <!-- US, American -->
+    -   [mainly UK] <!-- mainly UK done | especially UK -->
+    -   [mainly US] <!-- mainly US done | especially US -->
+
+<!--------------------------------------------------------------------------------->
+
+-   startWith()
+    -   British English [done]
+    -   American English [done]
+    -   British [done]
+    -   American [done]
+    -   mainly British [done]
+    -   mainly American [done]
+    -   especially British [done]
+    -   especially American [done]
+    -   British [done]
+    -   American [done]
+-   includes()
+    -   both British English and American English [done]
+    -   both British and American [done]
+    -   British English [done]
+    -   American English [done]
+    -   mainly British [done]
+    -   mainly American [done]
+    -   especially British [done]
+    -   especially American [done]
+    -   British [done]
+    -   American [done]

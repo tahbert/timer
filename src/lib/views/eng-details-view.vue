@@ -51,7 +51,7 @@
 
                 <template v-slot:header-branch="item">
                     <div
-                        class="eng-details-view__branch row items-center q-gutter-x-xs"
+                        class="eng-details-view__branch row items-center"
                         style="width: 100%"
                     >
                         <div class="text-weight-bold text-blue-9">
@@ -72,11 +72,29 @@
                             flat
                             @click.stop
                         />
-                        <div class="text-grey-8">
+                        <div
+                            class="text-grey-8"
+                            v-if="item.node.partOfSpeech"
+                        >
                             {{ item.node.partOfSpeech }}
                         </div>
+                        <div
+                            class="text-grey-8"
+                            v-if="item.node.usage"
+                        >
+                            {{ item.node.usage }}
+                        </div>
+                        <div
+                            class="text-grey-8"
+                            v-if="item.node.region"
+                        >
+                            {{ item.node.region }}
+                        </div>
                         <div class="row items-start no-wrap">
-                            <div class="text-dark">
+                            <div
+                                class="text-dark"
+                                v-if="item.node.definition"
+                            >
                                 {{ item.node.definition }}
                             </div>
                             <eng-example :item="item.node" />
@@ -85,7 +103,7 @@
                 </template>
 
                 <template v-slot:header-collocation="item">
-                    <div class="row items-center q-gutter-x-xs">
+                    <div class="eng-details-view__collocation row items-center">
                         <div class="text-weight-bold text-blue-7">{{ item.node.name }}</div>
                         <q-chip
                             v-if="item.node.frequency"
@@ -287,7 +305,15 @@ onMounted(() => {
     .q-tree__node-header
         padding: 0 4px
 
+    .q-chip
+        margin: 0
+
 .eng-details-view__branch
+    gap: 4px
+
     .q-btn .q-icon
         font-size: 16px
+
+.eng-details-view__collocation
+    gap: 4px
 </style>
