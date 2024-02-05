@@ -8,34 +8,16 @@
 
 # Frontend
 
--   topics
-    -   number of entries
--   content tree
-    -   root [done]
-    -   group [done]
-    -   branch
-        -   order [done] <!-- based on frequency -->
-        -   popularity rate [done]
-        -   pronunciation [later] <!-- US as default -->
-        -   details
-            -   part of speech
-            -   definition
-            -   colocations
-            -   examples
-                -   text
-                -   picture [later]
-                -   video [later]
-                -   common errors
 -   funtionarities
-    -   search [done]
+    -   search <!-- done -->
     -   settings
-        -   popularity rate [later]
-        -   bookmark [later]
+        -   popularity rate <!-- later -->
+        -   bookmark <!-- later -->
     -   sorting
-        -   topics [later]
+        -   topics <!-- later -->
         -   content
-            -   group [later]
-            -   branch [done] <!-- based on frequency -->
+            -   group <!-- later -->
+            -   branch <!-- done --> <!-- based on frequency -->
 -   admin
     -   create, edit, delete, move folder, file
     -   create, edit, delete, move root, group, branch, collocation
@@ -47,9 +29,17 @@
 
 # English
 
--   Branch
-    -   name: multiple entries
-    -   definition: multiple definitions
+-   topics <!-- done -->
+-   content tree
+    -   root <!-- done -->
+    -   group <!-- done -->
+    -   branch
+        -   order <!-- done -->
+        -   name: multiple entries <!-- later -->
+        -   definition: multiple definitions <!-- later -->
+        -   pronunciation <!-- later US as default->
+    -   colocations
+        -   grouped <!-- later -->
 -   Frequency
     -   A1 - Beginner - very common
     -   A2 - Elementary - very common
@@ -94,9 +84,9 @@
         -   [Auxiliary verb] <!-- Trợ động từ -->
         -   [Modal verb] <!-- Động từ khuyết thiếu -->
     -   Grammar
-        -   [ussually passive] [thường ở dạng bị động]
-        -   [not in passive] [không ở dạng bị động]
-        -   [not in progressive] [không ở dạng tiếp diễn]
+        -   [ussually passive]
+        -   [not in passive]
+        -   [not in progressive]
     -   Adv
         -   [Adv] [Trạng từ]
         -   [Sentence adv] [Trạng từ bổ nghĩa cả câu]
@@ -141,24 +131,24 @@
 <!--------------------------------------------------------------------------------->
 
 -   startWith()
-    -   British English [done]
-    -   American English [done]
-    -   British [done]
-    -   American [done]
-    -   mainly British [done]
-    -   mainly American [done]
-    -   especially British [done]
-    -   especially American [done]
-    -   British [done]
-    -   American [done]
+    -   British English <!-- done -->
+    -   American English <!-- done -->
+    -   British <!-- done -->
+    -   American <!-- done -->
+    -   mainly British <!-- done -->
+    -   mainly American <!-- done -->
+    -   especially British <!-- done -->
+    -   especially American <!-- done -->
+    -   British <!-- done -->
+    -   American <!-- done -->
 -   includes()
-    -   both British English and American English [done]
-    -   both British and American [done]
-    -   British English [done]
-    -   American English [done]
-    -   mainly British [done]
-    -   mainly American [done]
-    -   especially British [done]
-    -   especially American [done]
-    -   British [done]
-    -   American [done]
+    -   both British English and American English <!-- done -->
+    -   both British and American <!-- done -->
+    -   British English <!-- done -->
+    -   American English <!-- done -->
+    -   mainly British <!-- done -->
+    -   mainly American <!-- done -->
+    -   especially British <!-- done -->
+    -   especially American <!-- done -->
+    -   British <!-- done -->
+    -   American <!-- done -->

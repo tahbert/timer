@@ -70,7 +70,7 @@
                             color="grey-8"
                             size="xs"
                             flat
-                            @click.stop
+                            @click.stop="speak(item.node.name)"
                         />
                         <div
                             class="text-grey-8"
@@ -128,6 +128,25 @@
                         <eng-example :item="item.node" />
                     </div>
                 </template>
+
+                <template v-slot:body-verb+="item">
+                    <div class="text-cyan-9 text-weight-medium">
+                        verb + {{ getBranchName(item.node) }}
+                    </div>
+                    <q-separator />
+                </template>
+                <template v-slot:body-+verb="item">
+                    <div class="text-cyan-9 text-weight-medium">
+                        {{ getBranchName(item.node) }} + verb
+                    </div>
+                    <q-separator />
+                </template>
+                <template v-slot:body-adj+="item">
+                    <div class="text-cyan-9 text-weight-medium">
+                        adjective + {{ getBranchName(item.node) }}
+                    </div>
+                    <q-separator />
+                </template>
             </q-tree>
         </div>
         <q-inner-loading
@@ -162,6 +181,25 @@ const services = reactive({
     content: EngContentService.getInstance(),
 })
 
+const getBranchName = (node: EngContentModel): string | undefined => {
+    if (node.header === "branch") {
+        return node.name
+    }
+
+    const rootNode = services.content.list.find((el) => el.isRoot)
+    if (rootNode) {
+        for (const group of rootNode.children) {
+            for (const branch of group.children) {
+                if (branch.id === node.parentId) {
+                    return branch.name
+                }
+            }
+        }
+    }
+
+    return "-"
+}
+
 // events
 // -----------------------------------------------------------------------------
 const toggleExpandAll = () => {
@@ -189,6 +227,15 @@ const onSelectedUpdate = (value: string) => {
         data.expandedKeys = data.expandedKeys.filter((el) => el !== data.selectedKey)
     } else {
         treeRef.value?.setExpanded(data.selectedKey, true)
+    }
+}
+
+const speak = (name: string) => {
+    if ("speechSynthesis" in window) {
+        const utterance = new SpeechSynthesisUtterance(name)
+        speechSynthesis.speak(utterance)
+    } else {
+        console.error("Web Speech API not supported in this browser")
     }
 }
 
@@ -242,15 +289,19 @@ const initTree = () => {
     }
 }
 
-const buildContent = (items: Array<EngContentModel>): Array<EngContentModel> => {
+const buildContent = (
+    items: Array<EngContentModel>,
+    parentId: string | null = null
+): Array<EngContentModel> => {
     const results = items.map((item) => {
         const newItem = {
             ...item,
             id: uuidv4(),
+            parentId: parentId,
         }
 
         if (newItem.children && newItem.children.length > 0) {
-            newItem.children = buildContent(newItem.children)
+            newItem.children = buildContent(newItem.children, newItem.id)
         }
 
         return EngContentModel.fromJson(newItem)
@@ -258,10 +309,6 @@ const buildContent = (items: Array<EngContentModel>): Array<EngContentModel> => 
 
     results.sort((a, b) => {
         const frequencyComparison = a.frequency.localeCompare(b.frequency)
-        // if (frequencyComparison === 0) {
-        //     return a.name.length - b.name.length
-        // }
-
         return frequencyComparison
     })
 
@@ -307,6 +354,9 @@ onMounted(() => {
 
     .q-chip
         margin: 0
+
+    .q-tree__node--parent > .q-tree__node-collapsible > .q-tree__node-body
+        padding: 5px 0 8px 52px
 
 .eng-details-view__branch
     gap: 4px

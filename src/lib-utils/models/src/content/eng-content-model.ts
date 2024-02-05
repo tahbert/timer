@@ -3,10 +3,12 @@ import frequency from "@/assets/json/frequency.json"
 
 interface Params {
     id: string
+    parentId: string
     name: string
     order: number
     icon: string
     header: string
+    body: string
     frequency: string
     partOfSpeech: string
     usage: string
@@ -19,10 +21,12 @@ interface Params {
 
 export class EngContentModel {
     id: string
+    parentId: string
     name: string
     order: number
     icon: string
     header: string
+    body: string
     frequency: string
     partOfSpeech: string
     usage: string
@@ -34,10 +38,12 @@ export class EngContentModel {
 
     protected constructor(params: Params) {
         this.id = params.id
+        this.parentId = params.parentId
         this.name = params.name
         this.order = params.order
         this.icon = params.icon
         this.header = params.header
+        this.body = params.body
         this.frequency = params.frequency
         this.partOfSpeech = params.partOfSpeech
         this.usage = params.usage
@@ -51,10 +57,12 @@ export class EngContentModel {
     public static fromJson(json?: Record<string, any>): EngContentModel {
         return new EngContentModel({
             id: json?.id || "",
+            parentId: json?.parentId || "",
             name: json?.name || "",
             order: json?.order || 1,
             icon: json?.icon || "",
             header: json?.header || "",
+            body: json?.body || "",
             frequency: json?.frequency || "",
             partOfSpeech: json?.partOfSpeech || "",
             usage: json?.usage || "",
