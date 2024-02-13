@@ -1,5 +1,2 @@
-// view
-import engHomeView from "./views/eng-home-view.vue"
-
-// components
-export { engHomeView }
+import timerHomeView from "./views/timer-home-view.vue"
+export { timerHomeView }

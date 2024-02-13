@@ -4,6 +4,9 @@ export { RouteGuardResultModel } from "./src/routes/route-guard-result-model"
 export { RouteGuardResultRouteModel } from "./src/routes/route-guard-result-route-model"
 export { RouteDefinitionModel } from "./src/routes/route-definition-model"
 
+// task
+export { TimerTaskModel } from "./src/task/timer-task-model"
+
 // tree
 export { TreeTableModel } from "./src/tree/tree-table-model"
 export { TreeDataBuilderModel } from "./src/tree/tree-data-builder-model"

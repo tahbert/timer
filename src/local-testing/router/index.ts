@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router"
 
-import { engHomeView } from "@/lib"
+import { timerHomeView } from "@/lib"
 import { appRouteDefinitions } from "@/lib-utils"
 
 const router = createRouter({
@@ -17,7 +17,7 @@ const router = createRouter({
                     path: appRouteDefinitions.home.path,
                     name: appRouteDefinitions.home.name,
                     components: {
-                        default: engHomeView,
+                        default: timerHomeView,
                     },
                     meta: {
                         title: appRouteDefinitions.home.title,
